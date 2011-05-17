@@ -1,0 +1,49 @@
+
+fi:
+  menu: face_care body_care hair_care parfumes aroma_sprays gemstone_cosmetics
+  face_care: 
+    menu_text: Face Care
+    sub_menu: daily_refresh in_balance intense_moisture age_miracle pure_sensitive be_beautiful travel_set
+    daily_refresh: Daily Refresh
+    in_balance: In balance
+    intense_moisture: Intense moisture
+    age_miracle: Age miracle
+    pure_sensitive: Pure Sensitive
+    be_beautiful: Be beautiful
+    travel_set: Travel Set
+  body_care: 
+    menu_text: Body Care
+    sub_menu: fresh_lime ambra frangipani
+    fresh_lime: Fresh Lime
+    ambra: Ambra
+    frangipani: Frangipani
+  parfumes: 
+    menu_text: Parfumes
+    sub_menu: womans_perfumes body_sprays
+    womans_perfumes: Womans perfumes
+    body_sprays: Body sprays
+  hair_care: 
+    menu_text: Hair care
+    sub_menu: shampoos styling
+    shampoos: Shampoos
+    styling: Car and Styling
+  aroma_sprays: 
+    menu_text: Armona sprays
+  gemstone_cosmetics: 
+    menu_text: Gemstome Cosmetics
+    sub_menu: tourmaline amberstone
+    tourmaline: Tourmaline
+    amberstone: Amberstone
+
+  menu_bar: about quality farfalla tukku 
+
+  about: 
+    menu_text: About us
+  quality: 
+    menu_text: Quality
+  farfalla: 
+    menu_text: Farfallasta
+  tukku: 
+    menu_text: Tukku
+  
+  slogan: slogan

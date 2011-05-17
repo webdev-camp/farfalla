@@ -1,14 +1,82 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Farfalla</title>
-  <%= stylesheet_link_tag :all %>
-  <%= javascript_include_tag :defaults %>
-  <%= csrf_meta_tag %>
+  <link href="/stylesheets/stylesheet.css" media="screen" rel="stylesheet" type="text/css" /> 
+
+  <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /> 
+  
+  <meta name="keywords" content="Farfalla" />
+  <meta name="description" content="Farfalla : <%=t('slogan') + ' ' + t(@page + ".short") %>" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Language" content="fi"/>  
+  <title>Farfalla : <%= t(@page + ".short") %></title>
+  
 </head>
+
 <body>
 
-<%= yield %>
+<div id="main">
 
+  <div id="header">
+      <div id="slogan"><%=t("slogan")%></div>
+      <ul id="menu_bar">
+        <%= t("menu_bar").split.each do |menu| %>
+        <li><a href="#" title="<%= t(menu+'.menu_text')%>"><%= t(menu+'.menu_text')%></a></li>
+        <%end%>
+      </ul>
+  </div>
+
+  <div id="lcol">
+    <div id="menu">
+      <ul>
+        <% t("menu").split(" ").each do |p| %>
+          <li class="menu"<%=raw('class="active"') if params[:page] == p %>>
+            <%= link_to  t(p+'.menu_text') , "/#{p}.html" %>
+          </li>
+          <% if (t(p+'.sub_menu').index("missing") == nil) and (p == @page or
+                t(p+'.sub_menu').index(@page) != nil)
+             t(p+'.sub_menu').split.each do |sub| %>
+             <li class="sub_menu <%=raw('class="active') if params[:page] == sub %>">
+               <%= link_to  t(sub) , "/#{sub}.html" %>
+             </li>
+             <% end %>
+            <% end %>
+        <%end%>
+      </ul>
+    </div>
+    <div id="menu_end"></div>
+    <div class="divider"></div>
+
+  </div>
+
+  <div id="rcol">
+    <div id="rcontent">
+
+      <%= yield %>
+
+  </div>
+  <div class="divider"></div>
+
+</div>
+
+<div id="footer">
+  <div class="kolmas">
+    <b>Farfalla</b>
+    <br>
+
+  </div>
+  <div class="kolmas">
+
+  </div>
+  <div class="kolmas">
+    <a href="/index.html">
+
+    </a>
+  </div>
+</div>
+<div class="divider"></div>
+<br/>
+<br/>
+<br/>
 </body>
 </html>
