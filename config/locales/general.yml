@@ -24,9 +24,9 @@ fi:
     body_sprays: Body sprays
   hair_care: 
     menu_text: Hair care
-    sub_menu: shampoos styling
+    sub_menu: shampoos conditioner
     shampoos: Shampoos
-    styling: Car and Styling
+    conditioner: Conditioner
   aroma_sprays: 
     menu_text: Armona sprays
   gemstone_cosmetics: 
