@@ -90,11 +90,15 @@ margin-right: 30px;
 font-style: italic;
 }
 
-div.right {
-position: relative;
-float:left;
-width: 230px;
+div.logo_right {
+float: right;
 padding-left: 15px;
+padding-right: 50px;
+}
+
+div.eighty {
+float: left;
+	width:  80%;
 }
 
 div.left {
@@ -407,6 +411,8 @@ float: left;
 
 img {
 border-style: none;
+	float: none;
+	position: relative;
 }
 
 

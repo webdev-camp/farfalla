@@ -1,7 +1,13 @@
 fi:
   in_balance:
     products: ib_fluid ib_fluid ib_serum
-    header: Innovative active ingredients
+    header: in balance
+    sub_header: for skin impurities at any age
+    list: 1. Noticeably cleanses and refreshes the skin. <br>
+          2. Natural sebaceous secretion regulation. <br>
+          3. Refines skin and gives your complexion a  visibly matte finish. 
+        
+    heading: Innovative active ingredients
     main: Linseed extract <br>
           A fantastic plant substance that controls oily and/or blemished skin, leaving a 
           refreshingly clean and clear appearance. Test results showed a positive reduction 
@@ -21,14 +27,14 @@ fi:
           balanced sebum production supported.<br>
           
     ib_fluid:
-        header: Balancing fluid  with matting effect
+        heading: Balancing fluid  with matting effect
         main:  Clarifies, smoothes and calms your skin and gives your complexion a balanced, matte finish. 
                 Linseed extracts control the overproduction of sebum. 
                 Rosemary, rock rose and manuka counteract impurities. Following cleansing/tonic 
                 in the morning and evening, apply  Balancing serum, if desired. <br/>
                 100% from natural origin – 74% of the certifiable natural substances are organic
     ib_serum:
-        header: Balancing serum
+        heading: Balancing serum
         main:   <p>Clarifies, smoothes and calms skin 
               intensively. Extracts of linseed clearly reduce <br>
               sebum production. Rosemary, rock 
@@ -40,7 +46,7 @@ fi:
               <p>100% from natural origin – 95% of the 
               certifiable natural substances are organic </p>  
     ib_maske:
-        header: Clarifying cleansing mask
+        heading: Clarifying cleansing mask
         main:   <p> Cleanses, refines and refreshes thanks 
             to its grapefruit, citron and rosemary 
             ingredients. Gently removes dry flakes <br>
