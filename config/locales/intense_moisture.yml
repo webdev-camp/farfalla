@@ -3,72 +3,72 @@ fi:
     products: im_cream im_fluid im_maske
     header: intense moisture
     sub_header: for enhancing skin’s moisture balance
-    list: 1. Is dermatologically proven to increase the skin‘s moisture by 25%. <br>
-          2. Stimulates the production of the skin‘s own collagen. <br>
-          3. Supports the protective function of the skin. <br>
-          4. Visibly regenerates and relaxes the skin. <br>
+    list: 1. Is dermatologically proven to increase the skin‘s moisture by 25%. <br/>
+          2. Stimulates the production of the skin‘s own collagen. <br/>
+          3. Supports the protective function of the skin. <br/>
+          4. Visibly regenerates and relaxes the skin. <br/>
             
     heading: Innovative active ingredients
-    main: <p>Resurrection plant <br>
+    main: <p>Resurrection plant <br/>
       This plant grows in desert conditions and, even when dried out, has the unique
       ability to expand into a lush flowering plant after absorbing only a small amount
       of moisture. The resurrection plant has the same effect on the skin! It contains an 
       exceptional substance which can restructure denatured enzymes and optimise 
       the skin’s self-protection. In just one week, the skin’s texture is already improved 
-      and the complexion looks visibly refined. </p>
-      <p>Hyaluronic acid <br>
+      and the complexion looks visibly refined. <br/>
+      <p>Hyaluronic acid <br/>
       This powerful active agent is isolated from wheat. Hyaluronic acid is, in fact,
       produced by the skin itself. However, by the age of 35, its production gradually decreases.
       Hyaluronic acid is capable of binding water to skin cells, thus increasing
-      the elasticity of the skin. </p>
-      <p>Aloe vera <br>
+      the elasticity of the skin. <br/>
+      <p>Aloe vera <br/>
       The organic fresh plant extract, isolated from the Aloe vera leaf, supports cell
       regeneration, thanks to its rich abundance of minerals, enzymes, trace elements 
       and vitamins. Aloe vera refills the skin’s moisture depots and, as a result, the skin 
-      is firmed and wrinkles softened. </p>
-      <p>Macadamia <br>
+      is firmed and wrinkles softened. <br/>
+      <p>Macadamia <br/>
       This organic nut oil, with its exceptional fatty acid spectrum, is highly effective at
       smoothing and regenerating skin. It gives the complexion a velvety-soft touch and
-      intensively nourishes the skin. </p>
+      intensively nourishes the skin. <br/>
     
     im_cream:
         heading: Nourishing &amp; moisturising cream
         main:    <p>Nourishes and relaxes skin. The addition of 
-            macadamia oil and shea butter gives complexion <br>
-            silky-smooth touch. Resurrection <br>
+            macadamia oil and shea butter gives complexion <br/>
+            silky-smooth touch. Resurrection <br/>
             plant extracts improve skin’s protective
             role and lend intense moisture. Hyaluronic 
-            acid refills skin’s moisture depots. Centella <br>
+            acid refills skin’s moisture depots. Centella <br/>
             asiatica stimulates its own collagen 
             production. After cleansing/toning, apply 
             morning and evening. If desired, use Light 
-            moisturising fluid beforehand. </p>
+            moisturising fluid beforehand. <br/>
             <p>100% from natural origin – 97% of the 
-            certifiable natural substances are organic </p>
+            certifiable natural substances are organic 
     im_fluid:
         heading: Light moisturising fluid
         main:   
           <p>This light day care boosts moisture. 
             Resurrection plant extracts improve
-            skin’s protective role and lend intense <br>
-            moisture. Hyaluronic acid refills <br>
+            skin’s protective role and lend intense <br/>
+            moisture. Hyaluronic acid refills <br/>
             moisture depots. Centella asiatica stimulates 
             skin’s own collagen production.                        
-            Apply after cleansing/toning. If desired, <br>
+            Apply after cleansing/toning. If desired, <br/>
             apply before a skin-specific nourishing 
-            cream. </p>
+            cream. <br/>
             <p>100% from natural origin – 97% of the
-            certifiable natural substances are organic </p>
+            certifiable natural substances are organic 
     im_maske:
       heading: Nourishing &amp; moisturising mask
       main:   <p>Rich in active moisturising ingredients. 
           Almond oil, jojoba oil and macadamia
-          nut oil lend intense moisture. Can be <br>
+          nut oil lend intense moisture. Can be <br/>
           removed easily with warm water. Apply 
           once or twice a week on cleansed skin 
           and leave for 15 minutes. Thoroughly 
-          rinse off with plenty of water and enjoy <br>
-          your silky-smooth complexion. </p>
+          rinse off with plenty of water and enjoy <br/>
+          your silky-smooth complexion. <br/>
           <p>100% from natural origin – 99% of the 
-          certifiable natural substances are organic</p>
+          certifiable natural substances are organic
       
