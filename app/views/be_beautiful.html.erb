@@ -1,53 +1,15 @@
-<h1>be beautiful
-                  </h1>
-                  <div align="right">
-                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                      <tbody><tr>
-                        <td valign="top" width="83%"><p><em>for care with a beautiful special “feel good” factor</em></p>
-                          <p>1. Gives a radiant “newly in love“ appeal. <br/>
-                            2. Vitalises skin in stress situations.  <br/>
-                            3. Protects skin from damaging environmental influences. <br/>
-                            4. Added shimmer particles conceal blemishes. 
-                          </p>
-                        </td>
-                        <td valign="top" width="17%"><p><img src="images_web/feelbeautiful/www-6logo-bb.jpg" alt="logo bebeautiful" height="108" width="100"></p></td>
-                      </tr>
-                    </tbody></table>
-                    <div align="left"></div>
-                  </div>
-<p><strong>The innovation in natural cosmetics </strong></p>
-                  <p>Orinoco nut and Brazilian pepper tree 
-                    With its high-quality Omega-3 fatty acids, the Orinoco nut has a positive influence 
-                    on the release of the happiness hormone, dopamine. The Brazilian pepper tree
-                    also promotes the secretion of this hormone. Among other positive traits, dopamine 
-                    improves blood circulation, giving you a more radiant appearance and that 
-                    special “newly in love” appeal. In order to give your skin the necessary positive impulses, 
-                    use it when you want to pamper yourself or in stressful situations during
-                    a strenuous work day or when travelling. Feeling at ease with yourself and good 
-                    about your appearance will enhance your radiance even further. </p>
-                  <p>Mineral shimmer particles 
-                  The subtle shimmer effect conceals small blemishes and wrinkles. </p>
-                  <p>Natural scents 
-                    According to aromatherapeutic principles, the mixture of essential oils, isolated 
-                    from vanilla, cocoa and bergamot, contributes towards the «bliss effect» of this 
-                    line of products. </p>   
-                  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                    <tbody><tr>
-                      <td valign="top" width="62%"><p><strong>Bliss cream </strong></p>
-                        <p>Designed for when you want to give 
-                          yourself a special treat.This exceptional
-                          cream caresses your skin and gives you
-                          a marvellous sense of well-being. With 
-                          extracts isolated from Orinoco nut and 
-                          the Brazilian pepper tree and an addition
-                          of mineral shimmer particles. Enjoy
-                          a radiant appearance with that “There’s 
-                          something special about you…” appeal. 
-                          Use it before a rendezvous, a meeting, 
-                          while travelling or whenever you want 
-                        to pamper yourself. </p>
-                        <p>100% from natural origin– 95% of the 
-                      certifiable natural substances are organic </p></td>
-                      <td valign="top" width="38%"><img src="images_web/feelbeautiful/www-einf_bebeautiful.jpg" alt="be beautiful cream" height="283" width="250"></td>
-                    </tr>
-                  </tbody></table>
+<%= render :partial => "group_header" , :locals => {:group => "be_beautiful" }%>
+<%= render :partial => "one_header" , :locals => {:group => "be_beautiful" }%>
+
+<div class="one">
+  <div class="sixty">
+    <h3><%== t('.bb_cream.heading')%></h3>
+     <%== t('.bb_cream.main')%> <br/>
+  </div>
+  <div class="logo_right">
+       <p>
+        <img src="/images/be_beautiful/bb_cream.jpg" alt="be beautiful cream" width="250" height="283">
+      </p>
+  </div>
+</div>
+

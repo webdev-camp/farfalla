@@ -1,6 +1,6 @@
 fi:
   pure_sensitive:
-    products: am_creme am_serum am_rollon am_night 
+    products: ps_creme 
     header: pure sensitive
     sub_header: for daily skin cleansing care
     list: 1. Nurtures and calms the skin. <br/>
