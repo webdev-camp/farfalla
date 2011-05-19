@@ -1,0 +1,13 @@
+<div class="one">
+  <p><strong><%= t("#{group}.header")%> </strong></p>
+  <%== t("#{group}.main")%>
+</div>
+<% t("#{group}.products").split.each_with_index do | product , i | %>
+  <%== "<div class='one'>" if (i % 3) == 0 %>
+  <div class="three">
+    <img src='<%="/images/#{group}/#{product}"%>.jpg' alt="in balance fluid" height="377" width="190">
+    <p><strong><%== i.to_s + t("#{group}.#{product}.header")%> </strong></p>
+    <p><%== t("#{group}.#{product}.main")%> </p>
+  </div>
+  <%== "</div>" if ((i+1) % 3) == 0 %>
+<%end%>

@@ -20,8 +20,8 @@
   <div id="header">
       <div id="slogan"><%=t("slogan")%></div>
       <ul id="menu_bar">
-        <%= t("menu_bar").split.each do |menu| %>
-        <li><a href="#" title="<%= t(menu+'.menu_text')%>"><%= t(menu+'.menu_text')%></a></li>
+        <% t("menu_bar").split.each do |menu| %>
+        <li><a href="<%=menu%>.html"><%= t(menu+'.menu_text')%></a></li>
         <%end%>
       </ul>
   </div>
@@ -37,7 +37,7 @@
                 t(p+'.sub_menu').index(@page) != nil)
              t(p+'.sub_menu').split.each do |sub| %>
              <li class="sub_menu <%=raw('class="active') if params[:page] == sub %>">
-               <%= link_to  t(sub) , "/#{sub}.html" %>
+               <%= link_to  t(p +'.' + sub) , "/#{sub}.html" %>
              </li>
              <% end %>
             <% end %>
