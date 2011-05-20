@@ -1,2 +1,10 @@
 fi:
-  
+  face_care:
+    header: Organic Face Care 
+    sub_header: feel beautiful
+    list:   <strong> Organic Cosmetics with Active Ingredients </strong><br/>
+              visibly effective. noticeably gentle. naturally innovative.<br/><br/>
+              <em>"For an individual, holistic skin care 
+              regimen, I combine the productsto suit my personal needs." </em>
+               
+    

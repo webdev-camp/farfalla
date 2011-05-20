@@ -235,6 +235,17 @@ position: relative;
 height:  22px;
 }
 
+.left {
+	float:  left;
+}
+
+.six {
+float: left;
+width:  15%;
+	padding-left: 7px;
+	padding-right: 7px;
+	text-decoration: center;
+}
 .two {
 width:  50%;
 float: left;	
