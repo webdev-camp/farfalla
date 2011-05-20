@@ -216,7 +216,6 @@ float: none;
 position: relative;
 }
 
-
 #footer
 {
 clear: both;
@@ -254,14 +253,17 @@ float: left;
 .one {
 width:  100%;
 float: left;
+	margin-bottom: 10px;
 }
 
 .three {
-width: 31%;
+width: 30%;
 float: left;
-padding-right: 15px;
+padding-right: 10px;
 }
-
+.bottom {
+	vertical-align: bottom;
+}
 .eighty {
 float: left;
 width:  75%;
