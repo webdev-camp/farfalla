@@ -24,7 +24,7 @@ fi:
     body_sprays: Body sprays
   hair_care: 
     menu_text: Hair care
-    sub_menu: shampoos conditioner
+    sub_menu: shampoos conditioner styling
     shampoos: Shampoos
     conditioner: Conditioner
   aroma_sprays: 
