@@ -3,6 +3,7 @@
   <div class="one">
     <% line.each do |product| %>
       <div class="three">
+        <p><strong><%== t("#{group}.#{product}.heading")%> </strong></p>
         <div class="bottom">
           <img src='<%="images/#{group}/#{product}"%>.jpg' alt="<%=group.humanize%> <%=product.humanize%>" />
         </div>
@@ -12,7 +13,6 @@
   <div class="one">
     <% line.each do |product| %>
       <div class="three">
-        <p><strong><%== t("#{group}.#{product}.heading")%> </strong></p>
         <p><%== t("#{group}.#{product}.main")%> </p>
       </div>
       <% all.delete(product) %>
