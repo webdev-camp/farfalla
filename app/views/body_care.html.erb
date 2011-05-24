@@ -1,3 +1,5 @@
+<%= render :partial => "group_header" , :locals => {:group => "body_care" }%>
+
 <div class="one">
   <% ["fresh_lime" , "ambra" , "frangipani"].each do |line| %>
     <% pic = t(line+".products").split.first %>

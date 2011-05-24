@@ -1,10 +1,13 @@
 fi:
   conditioner: 
-    header: Natural Hair Care 
+    header: Care & Conditioner
     products: co_conditioner co_mousse co_mask
-    sub_header: "" 
-    list: ""
-    heading: Care & Conditioner
+    sub_header: Care after cleaning
+    list: After cleaning the hair needs the appropriate care. 
+          Here you will find effective care products from natural raw ingredients confirming to the guidelines
+          of controlled natural cosmetics. 
+          Without any synthetic substances without petroleum resources, PEGs and silicones.
+    heading:  ""
     co_conditioner:
         heading: Conditioner
         for:  Detangling &amp; smoothing effect, care &amp; shine

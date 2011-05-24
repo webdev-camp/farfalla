@@ -1,9 +1,12 @@
 fi:
   styling:
-    header: Natural Hair Care 
+    header: Styling products
     products: st_mousse st_spray st_gel
-    sub_header: ""
-    list: ""
+    sub_header: Hair with style!
+    list: After the care it continues - perhaps with a special styling? 
+          Here you can find natural styling products made from natural raw ingredients 
+          conforming to the guidelines of the controlled natural cosmetics. 
+          Without any synthetic substances without petroleum resources, PEGs and silicones.
     heading: Shampoos
     st_mousse:
         heading: Styling Mousse 
