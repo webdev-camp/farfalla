@@ -18,9 +18,9 @@ fi:
     ambra: Ambra
     frangipani: Frangipani
   parfumes: 
-    menu_text: Luomu parfyymit
+    menu_text: Parfumes
     sub_menu: womans_parfumes body_sprays
-    womans_parfumes: Luomu parfyymi naisille
+    womans_parfumes: Womans Parfumes
     body_sprays: Body sprays
   hair_care: 
     menu_text: Hair care

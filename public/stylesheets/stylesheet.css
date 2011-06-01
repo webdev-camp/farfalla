@@ -42,7 +42,7 @@ a
 }
 
 #menu_bar a {
-  background: transparent url("images/seperator.gif") no-repeat right;
+#  background: transparent url("/images/seperator.gif") no-repeat right;
   color: #636363;
   display: block;
   float: left;
@@ -114,7 +114,7 @@ font-weight: bold;
 width: 165px;
 height: 26px;
 background: inherit;
-background-image: url('/images/bbg0.gif');
+#background-image: url('/images/bbg0.gif');
 display: block;
 position: relative;
 margin-bottom: 1px;
@@ -162,7 +162,7 @@ background: inherit;
 color: #50514D;
 font-size: 15px;
 height: 34px;
-background: url('/images/a3.gif') repeat-x 0px 17px;
+#background: url('/images/a3.gif') repeat-x 0px 17px;
 }
 
 
@@ -183,8 +183,8 @@ float: left;
 position: relative;
 margin-left: 170px;
 width: 885px;
-background-image: url('/images/a2.gif');
-background-repeat: repeat-x;
+#background-image: url('/images/a2.gif');
+#background-repeat: repeat-x;
 }
 
 #rcontent
@@ -219,7 +219,7 @@ position: relative;
 #footer
 {
 clear: both;
-background: url('/images/a3.gif') repeat-x;
+#background: url('/images/a3.gif') repeat-x;
 width: 1080px;
 margin: 0px auto;
 margin-bottom: 25px;
@@ -257,7 +257,12 @@ float: left;
 }
 
 .three {
-width: 30%;
+width: 32%;
+float: left;
+padding-right: 10px;
+}
+.four {
+width: 23%;
 float: left;
 padding-right: 10px;
 }
