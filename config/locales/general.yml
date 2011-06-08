@@ -28,7 +28,7 @@ fi:
     shampoos: Shampoos
     conditioner: Conditioner
   aroma_sprays: 
-    menu_text: Armona sprays
+    menu_text: Aroma sprays
   gemstone_cosmetics: 
     menu_text: Gemstome Cosmetics
     sub_menu: tourmaline amberstone
@@ -38,11 +38,11 @@ fi:
   menu_bar: about quality farfalla tukku 
 
   about: 
-    menu_text: About us
+    menu_text: Farfalla
   quality: 
-    menu_text: Quality
+    menu_text: Laatu
   farfalla: 
-    menu_text: Farfallasta
+    menu_text: Luomukosmetiikka
   tukku: 
     menu_text: Tukku
   

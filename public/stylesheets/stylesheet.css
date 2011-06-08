@@ -1,6 +1,5 @@
-/* @override http://localhost:3000/stylesheets/stylesheet.css */
+/* @override http://tukku2.local:3000/stylesheets/stylesheet.css */
 
-*
 {
 margin: 0px;
 padding: 0px;
@@ -31,7 +30,7 @@ a
   width: 100%;
   position: relative;
   top: 82px;
-  left: 165px;
+  left: 200px;
 }
 
 #menu_bar li {
@@ -71,22 +70,23 @@ color: #50514D;
 
 #header
 {
-width: 1080px;
+width: 1000px;
 height: 120px;
 background-color: #ffffff;
 color: #ffffff;
-background:  url('/images/site/top_duefte.jpg') no-repeat;;
+background:  url('/images/site/top_perfumes.jpg') no-repeat;;
 }
 
 
 #slogan
 {
+width: 200px;
+float: right;
 position: relative;
 bottom: 7px;
 font-size: 13px;
 color: rgb(0, 132, 149);
 text-align: right;
-margin-right: 30px;
 font-style: italic;
 }
 
@@ -100,7 +100,7 @@ padding-right: 50px;
 {
 padding-top: 20px;
 position: relative;
-width: 1080px;
+width: 1000px;
 margin: 0px auto;
 padding-bottom: 10px;
 }
@@ -108,18 +108,14 @@ padding-bottom: 10px;
 
 .menu
 {
-background: none;
 padding: 0px;
 font-weight: bold;
 width: 165px;
 height: 26px;
-background: inherit;
-#background-image: url('/images/bbg0.gif');
 display: block;
 position: relative;
 margin-bottom: 1px;
 text-decoration: none;
-padding-left: 25px;
 padding-top: 11px;
 color: #636363;
 font-size: 14px;
@@ -142,11 +138,6 @@ margin: 0px;
 color: black;
 }
 
-#menu_end
-{
-height: 30px;
-#background-image: url('/images/a2.gif');
-}
 
 h1
 {
@@ -174,15 +165,15 @@ margin-top: 0px;
 #lcol
 {
 position: relative;
-width: 162px;
+width: 170px;
 float: left;
 }
 
 #rcol
 {
 position: relative;
-margin-left: 170px;
-width: 885px;
+margin-left: 200px;
+width: 800px;
 #background-image: url('/images/a2.gif');
 #background-repeat: repeat-x;
 }
@@ -196,7 +187,7 @@ padding: 25px 25px 0px 20px;
 p
 {
 margin-bottom: 15px;
-text-align: justify;
+text-align: left;
 line-height: 20px;
 }
 
@@ -213,13 +204,12 @@ margin: 10px 0px 10px 0px;
 img {
 border-style: none;
 float: none;
-position: relative;
+vertical-align: baseline
 }
 
 #footer
 {
 clear: both;
-#background: url('/images/a3.gif') repeat-x;
 width: 1080px;
 margin: 0px auto;
 margin-bottom: 25px;
@@ -229,9 +219,11 @@ line-height: 18px;
 }
 
 .sub_menu {
-left: 35px;
+left: 25px;
 position: relative;
-height:  22px;
+line-height: 14px;
+margin-bottom: 9px;
+
 }
 
 .left {
@@ -257,17 +249,17 @@ float: left;
 }
 
 .three {
-width: 32%;
+width: 30%;
 float: left;
-padding-right: 10px;
+padding-right: 25px;
 }
 .four {
-width: 23%;
+width: 22%;
 float: left;
-padding-right: 10px;
+padding-right: 18px;
 }
 .bottom {
-	vertical-align: bottom;
+vertical-align: bottom;
 }
 .eighty {
 float: left;
