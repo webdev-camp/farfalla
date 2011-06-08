@@ -1,0 +1,49 @@
+fi:
+  amberstone:
+    products: amberstone_oil amberstone_cream amberstone_fraiche
+    header: Amberstone Cosmetics – for silky-soft and radiant skin
+    sub_header: "The new premium line in the Crystal Balance® range "
+    list: "This innovative product line draws its wide-ranging efficacy from the light-bringing qualities of amber.
+          The stone’s energy, as with the other oils in the Crystal Balance® range, 
+          is harnessed for skincare by a special maceration, and supported by a finely tuned blend 
+          of organic essential oils. Amber gemstone oil and moisturising cream lend the complexion 
+          a new radiance and are especially effective for skin with bad blood circulation, and for 
+          tired and sallow skin. Fruity, fresh aromas of mandarin and bergamot, combined with warming 
+          essences of benzoin, ginger and vanilla, warm the heart and impart a feeling of security.<br/>
+          
+          Certified organic cosmetic with 95% organic ingredients – 3 stars NaTrue. 
+          Without artificial scents, preservatives or paraffines. 
+          We do not use polyethylene glycol or paraffines. Farfalla is against animal testing."
+
+    amberstone_oil:
+        heading: Amberstone Oil 
+        main: "A warming oil that awakens sunny thoughts and inner energy. 
+              Essential oils of benzoe and mandarin make the skin silky-soft and radiant. 
+              It can be used as a facial, skin, massage or bath oil. Massage gently into face or body.
+               80 ml <br/>
+               INCI: Simondsia Chinensis*, Parfum (Natural Essential Oils), Benzyl Benzoate**, 
+               Citral**, Geraniol**, Linalol**, Limonene**." 
+    amberstone_cream:
+        heading: Amberstone Cream
+        main: "A warming oil that awakens sunny thoughts and inner energy. 
+                Essential oils of benzoe and mandarin make the skin silky-soft and radiant. 
+                It can be used as a facial, skin, massage or bath oil. Massage gently into face or body.  80 ml.<br/>
+                INCI: Aqua, Helianthus Annuus Seed Oil*, Simmondsia Chinensis Seed Oil*, 
+                Aloe Barbadensis Leaf Juice*, Citrus Aurantium Amara Flower Water*, Alcohol*, 
+                Lauryl Laurate, Glycerin*, Parfum (natural essential oils), Cetearyl Alcohol, 
+                Cetearyl Glucoside, Glyceryl Stearate, Sodium Stearoyl Glutamate, Xanthan Gum, 
+                Calendula Officinalis Extract*, Centella Asiatica Extract*, Gellan Gum, Glycine Soja Oil, 
+                Tocopherol, Citric Acid, Ascorbic Acid, Benzyl Benzoate**, Citral**, Coumarine**, Farnesol**, 
+                Geraniol**, Linalool**, Limonene**. "
+    amberstone_fraiche:
+      heading: Amberstone Eau Fraîche
+      main: "Amber and bergamot combine their light-attracting energy, 
+              while benzoe and mandarin offer a gentle background. 
+              Use: Use as a natural perfume, energy spray and room harmoniser.50 ml. <br/> 
+              INCI: Alcohol*, Citrus Aurantium Amara Flower Water*, Parfum (Natural Essential Oils), Benzyl Benzoate**, 
+              Benzyl Cinnamate**, Citral**, Coumarine**, Farnesol**, Geraniol**, Linalool**, Limonene**."
+    amberstone_set:
+      heading: Amberstone Set 
+      main: "Contains 20 ml Amberstone oil, 20 ml Amberstone cream and 20 ml Amberstone Eau Fraîche. <br/>
+            To test and try out or as a pretty feel-good present set." 
+    
