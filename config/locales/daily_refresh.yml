@@ -2,6 +2,95 @@ fi:
   daily_refresh:
     products: dr_fluid dr_schaum dr_tonicF dr_tonicK dr_peeling
     header: daily refresh
+    sub_header: Valitse Daily Refresh –sarjasta sopivat puhdistusaineet ihosi
+          jokapäiväiseen hoitoon.
+    list: Lempeä, perusteellinen puhdistus on iholle tärkeää. Se valmistelee
+        kasvojen herkän ihon hoitotuotteiden käyttöä varten. Käytä aamuin
+        illoin puhdistusemulsiota tai –vaahtoa ja sopivaa kasvovettä. Kerran
+        tai kahdesti viikossa tehty hellävarainen kuorinta tehostaa muiden
+        hoitotuotteiden vaikutusta. Elvyttää, virkistää ja säilyttää
+        kosteutta.<br/>
+        -Puhdistaa ihon perusteellisesti mutta hellävaraisesti<br/>
+        -Tekee ihosta raikkaan ja pehmeän<br/>
+        -Lempeän syväpuhdistuksen jälkeen iho pystyy parhaiten hyötymään
+          hoitavista tuotteista.
+        
+    heading:       Vaikuttavat aineosat
+    main: 
+        Kvillaja<br/>
+        Arvokas luomulaatuinen kvillajan saponiini on peräisin
+        eteläamerikkalaisen suopapuun, Quillaja saponarian, kuoresta. Tämän
+        luonnonmateriaalin vaikuttavat aineosat sopivat erityisen hyvin
+        kasvojen puhdistukseen. Kansanlääketiede on hyödyntänyt saponiinia
+        sisältävää kvillajaa jo vuosien ajan.<br/>
+
+        Aloe vera<br/>
+        Luomulaatuinen kasviuute, joka on peräisin Aloe vera –kasvin lehdistä.
+        Koska Aloe vera -uute sisältää runsaasti mineraaleja, entsyymejä,
+        hivenaineita ja vitamiineja, se  tukee ihon uusiutumista. Aloe vera
+        kosteuttaa ihoa. Tästä seuraa, että ihosta tulee tasaisempi ja sen
+        uurteet pehmenevät.<br/>
+
+        Luonnolliset, syvävaikutteiset eteeriset öljyt<br/>
+        Luomulaatuiset, aromaterapian periaatteiden mukaisesti valitut
+        eteeriset öljyt, esim. greippi, sitruunaruoho, rosmariini, sitruuna ja
+        minttu elävöittävät ihoa ja tukevat kasviuutteiden syvävaikutusta.
+          
+    dr_fluid:
+        heading: puhdistusemulsio
+        main:    
+            Syväpuhdistaa herkän ja kuivan ihon hellävaraisesti. Aloe vera suojaa
+            ihoa kuivumiselta, eteeriset öljyt greippi, sitruuna ja douglaskuusi
+            virkistävät ja elvyttävät ihoa. Levitä kostealle iholle, hiero
+            kevyesti ja huuhtele vedellä. Soveltuu myös meikin poistoon.<br/>
+
+            Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+    dr_schaum:
+        heading: puhdistusvaahto
+        main: 
+            Syväpuhdistaa ja kirkastaa normaalin ja lievästi epäpuhtaan ihon
+            kuivattamatta sitä. Quillaja –puusta saatava luomulaatuinen  saponiini
+            antaa iholle miellyttävän puhtauden tunnun. Eteeriset öljyt greippi,
+            sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. Levitä
+            puhdistusvaahtoa kostealle iholle ja hiero kevyesti.<br/>
+
+            Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+    dr_tonicF:
+        heading: kirkastava kasvovesi
+        main:   
+            Kirkastaa ja raikastaa ihon ja poistaa puhdistuksen jäänteet.
+            Sisältämiensä hamamelisuutteen sekä rosmariinin, kultapäivännoudon ja
+            ruusumyrtin eteeristen öljyjen ansiosta kasvovesi on hellävaraisesti
+            desinfioiva. Valmistaa ihoa ottamaan vastaan hoitavia tuotteita.
+            Puhdistuksen jälkeen pyyhi koko kasvojen iho hellästi kasvoveteen
+            kostutetulla pumpulilla<br/>
+
+            Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+    dr_tonicK:
+        heading: kosteuttava kasvovesi
+        main:     
+            Raikastaa ja rauhoittaa kasvojen herkkää ihoa ja poistaa puhdistuksen
+            jäänteet. Säilyttää ihon luonnollisen kosteuden sisältämiensä centella
+            asiatican ja aloe veran ansiosta. Valmistaa ihoa ottamaan vastaan
+            hoitavia tuotteita. Puhdistuksen jälkeen pyyhi koko kasvojen iho
+            hellästi kasvoveteen kostutetulla pumpulilla.<br/>
+
+            Sertifioitua luomukosmetiikkaa – 70% sertifioitavissa olevista
+            aineosista luomua (NaTrue), vegaaninen
+    dr_peeling:
+        heading: hellävarainen kuorintavoide
+        main:       
+            Tekee ihosta tasaisen, heleän ja silkinpehmeän. Hellävaraisesti
+            kuorivat riisi- ja bambuhiukkaset poistavat vanhoja ihosoluja ja
+            elvyttävät ihoa. Valmistaa ihoa ottamaan vastaan hoitavia tuotteita.
+            Hiero hellästi kostealle iholle 1-2 kertaa viikossa välttäen silmien
+            aluetta, huuhtele vedellä.<br/>
+
+            Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+en:
+  daily_refresh:
+    products: dr_fluid dr_schaum dr_tonicF dr_tonicK dr_peeling
+    header: daily refresh
     sub_header: for daily skin cleansing care
     list: 1. Intensively yet gently cleanses skin. <br/>
           2. Visibly refreshes and smoothes skin. <br/>
@@ -24,7 +113,8 @@ fi:
           
     dr_fluid:
         heading: Cleansing fluid
-        main:    Cleanses sensitive and dry skin intensively yet gently. Aloe vera protects
+        main:    
+            Cleanses sensitive and dry skin intensively yet gently. Aloe vera protects
             skin against moisture loss. Grapefruit, 
             Douglas-fir and lemon essential oils 
             invigoratethe complexion. Apply
@@ -51,7 +141,8 @@ fi:
               Also recommended for skin cleansing 
     dr_tonicF:
         heading: Clarifying tonic
-        main:   Clarifies and refreshes the skin and
+        main:   
+          Clarifies and refreshes the skin and
           removes remaining traces of makeup. 
           Slightly disinfecting thanks to 
           hamamelis water and the essential oils
@@ -65,7 +156,8 @@ fi:
           certifiable natural substances are organic 
     dr_tonicK:
         heading: Moisturising tonic
-        main:     Refreshes and calms sensitive skin, 
+        main:     
+              Refreshes and calms sensitive skin, 
               removes remaining traces of makeup. 
               Retains skin moisture thanks to 
               Centella asiatica and Aloe vera. Ideal 
@@ -78,7 +170,8 @@ fi:
               certifiable natural substances are organic 
     dr_peeling:
         heading: Gentle exfoliating cream
-        main:       For a silky-smooth complexion. Exfoliating
+        main:       
+              For a silky-smooth complexion. Exfoliating
               particles made of rice and bamboo 
               gently remove dead skin scales, vitalise 
               skin and are ideal preparation for skin
