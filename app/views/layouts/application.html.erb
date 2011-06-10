@@ -36,7 +36,7 @@
           <% if (t(p+'.sub_menu').index("missing") == nil) and (p == @page or
                 t(p+'.sub_menu').index(@page) != nil)
              t(p+'.sub_menu').split.each do |sub| %>
-             <li class="sub_menu <%=raw('class="active') if params[:page] == sub %>">
+             <li class="sub_menu <%='active' if params[:page] == sub %>">
                <%= link_to  t(p +'.' + sub) , "/#{sub}.html" %>
              </li>
              <% end %>

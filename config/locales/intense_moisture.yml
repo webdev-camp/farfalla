@@ -2,6 +2,82 @@ fi:
   intense_moisture:
     products: im_cream im_fluid im_maske
     header: intense moisture
+    sub_header: tehokasta kosteutta
+    list: 
+          Vahvistaa ihon kosteustasapainoa<br/>
+          1. Lisää ihon kosteutta 25%:lla (dermatologisesti testattu)<br/>
+          2. Tehostaa ihon luonnollista kollageenintuotantoa.<br/>
+          3. Tukee ihon omia suojamekanismeja<br/>
+          4. Silminnähden uudistaa ja rentouttaa ihoa.<br/>
+
+    heading: Vaikuttavat aineosat
+    main: 
+          "Jerikonruusu/Siempre Viva (Selaginella lepidophylla) <br/>
+          Tämä kasvi elää aavikko-oloissa. Sillä on ainutlaatuinen ominaisuus:
+          vaikka se välillä kuivuisi täysin, se pystyy laajenemaan uudelleen
+          reheväksi, kukkivaksi kasviksi, jos se saa vain pienenkin määrän
+          vettä. Jerikonruusulla/Siempre Vivalla on sama vaikutus ihoon! Se
+          sisältää aineosan joka pystyy  uudelleenjärjestelemään denaturoituja
+          entsyymejä ja optimoimaan ihon itsesuojelukyvyn. Jo viikon käytön
+          jälkeen iho näyttää selvästi paremmalta. <br/>
+          Hyaluronihappo <br/>
+          Tämä tehokas kosteudensitoja-aine on erotettu vehnästä. Iho tuottaa
+          hyaluronihappoa luonnostaan, mutta 35 ikävuoden jälkeen sen tuotanto
+          alkaa asteittain vähentyä. Hyaluronihappo pystyy sitomaan vettä
+          ihosoluihin. Siksi se parantaa ihon kimmoisuutta., kosteuttaa ihoa ja
+          parantaa sen kykyä säilyttää kosteutta. <br/>
+          Aloe vera <br/>
+          Luomulaatuinen kasviuute, joka on peräisin aloe veran lehdistä. Koska
+          aloe vera sisältää runsaasti mineraaleja, entsyymejä, tehoaineita ja
+          vitamiineja, se tukee solujen uusiutumista. Aloe vera täydentää ihon
+          kosteusvarastoja, joten   ihosta tulee tasaisempi ja juonteet
+          pehmenevät. <br/>
+          Macadamia <br/>
+          Luomulaatuinen macadamia –pähkinäöljy, joka sisältää harvinaisen
+          laajan valikoiman rasvahappoja, on tehokas ihon  tasoittaja ja
+          uudistaja. Se tekee iholle sametinpehmeän tunnun/ tekee ihosta
+          sametinpehmeän ja ravitsee ihoa tehokkaasti."
+    
+    im_cream:
+        heading: Ravitseva ja kosteuttava voide
+        main:    
+            
+            Ravitsee ja rentouttaa ihoa. Luomulaatuiset macadamiaöljy ja sheavoi
+            antavat iholle silkinpehmeän tunnun. Jerikonruusu/Siempre viva
+            kosteuttaa ihoa ja parantaa sen omaa suojaa. Hyaluronihappo täydentää
+            ihon kosteusvarastoja. Centella asiatica aktivoi ihon omaa
+            kollageenintuotantoa.<br/>
+            Käytä puhdistuksen/kasvoveden jälkeen aamuin illoin. Halutessasi voit
+            ensin levittää iholle intense moisture Kevyttä kosteusemulsiota.<br/>
+            Sertifioitu luonnonkosmetiikka (NaTrue), vegaaninen
+    im_fluid:
+        heading: Kevyt kosteuttava emulsio / kosteusemulsio
+        main:   
+            
+            Tämä kevyt päivävoide / päivävoide-emulsio /hoitava päiväemulsio antaa
+            iholle hyvän annoksen/kunnon annoksen (boost?) kosteutta.
+            Jerikonruusu/Siempre viva kosteuttaa ihoa ja parantaa sen luonnollista
+            suojaa. Hyaluronihappo täydentää ihon kosteusvarastoja. Centella
+            asiatica aktivoi ihon omaa kollageenintuotantoa.<br/>
+            Käytä puhdistuksen/kasvoveden jälkeen aamuin illoin. Halutessasi voit
+            käyttää tätä emulsiota ennen omalle ihotyypillesi tarkoitettua
+            ravitsevaa voidetta.<br/>
+            Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+    im_maske:
+      heading: ravitseva, kosteuttava naamio
+      main:   
+            Sisältää runsaasti aktiivisesti kosteuttavia aineosia. Manteli-,
+            macadamia- ja jojobaöljyt antavat iholle tehoannoksen kosteutta.
+            Naamio on helppo poistaa lämpimällä vedellä. Levitä 1-2 kertaa
+            viikossa puhdistetulle iholle ja anna vaikuttaa 15 minuuttia. Huuhtele
+            huolellisesti runsaalla vedellä ja nauti sileästä, silkinpehmeästä
+            ihostasi. /Ihostasi tulee sileä ja silkinpehmeä. /Ihosi on sileä ja
+            silkinpehmeä.<br/>
+            Sertifioitu luonnonkosmetiikka (NaTrue), vegaaninen
+en:
+  intense_moisture:
+    products: im_cream im_fluid im_maske
+    header: intense moisture
     sub_header: for enhancing skin’s moisture balance
     list: 1. Is dermatologically proven to increase the skin‘s moisture by 25%. <br/>
           2. Stimulates the production of the skin‘s own collagen. <br/>
