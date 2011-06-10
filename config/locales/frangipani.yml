@@ -2,6 +2,74 @@ fi:
   frangipani:
     products: fp_shower fp_bodylotion fp_body_butter fp_eau_fraiche fp_shower_small fp_lotion_small
     header: Frangipani
+    sub_header: <b>vartalonhoitosarja</b>
+    list:  Runoilijoiden ylistämät frangipaninkukkaset ja niiden hienostunut, hiukkasen makea, 
+          mutta kuitenkin raikas tuoksu on innostava perusta tälle elvyttävälle ja kiehtovalle 
+          vartalonhoitosarjalle.  
+    heading: " "
+    main: " "      
+    fp_shower:
+      
+      heading: Frangipani suihkuvoide
+      main:  "Aivan erityisen ihastuttava kokemus: frangipanin kukkien eksoottinen tuoksu yhdistyneenä 
+            pehmeään kermaiseen vaahtoon, joka pesee ja hoitaa ihoa samanaikaisesti. Purista sormenpäihin 
+            helmenkokoinen annos ja hiero kostealle iholle. 200 ml"
+      Ainesosat: vesi, (kasviperäisten raaka-aineiden pinta-aktiivisia aineita), auringonkukkaöljy, alkoholi, 
+                kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo, 
+                natural essential oils mixture
+      INCI: Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, 
+            fragrance (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, 
+            Ctronellol *, Geraniol *, limonene *, linalool *. * certified organic * part of natural essential oils
+    fp_body_butter:
+      heading: Frangipani vartalovoide
+      main:   Kun iho tarvitsee syväkostutusta, on tämä kasviöljypohjainen vartalovoide oiva valinta. 
+            Se imeytyy helposti iholle ja tekee ihon ihanan sileäksi ja frangipanin herkkien kukkien 
+            tuoksuiseksi.  150 ml
+      Ainesosat: shea butter, vesi kasviglyseriini, triglycerides, appelsiininkukkavesi, aloe vera, alkoholi, 
+            greippiuute, mehiläisvaha, auringonkukkaöljy, kookosöljy, hamamelisvesi, wheat Glykosid, 
+            Cetearyl alcohol, glyceryl stearate, porkkanauute, glyceryl stearate, luonnoll. vit. E, 
+            merileväuute, xantaanikumi, sitruunahappo, glyceryl stearate,
+      INCI: Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, alcohol *, 
+            citrus aurantium flower water *, Aloe barbadensis extract *, Cera Alba, Heliantus Annuus seed oil *, 
+            Cocos Nucifera oil *, Hammamelis Virginiana flower water *, glyceryl stearate, 
+            Cetearyl alcohol, Cetearyl wheat bran Glycosides, perfume (natural essential oils), 
+            Citrus paradisi fruit extract *, Squalane, tocopherol, xanthan gum, Daucus carota extract *, 
+            Asparagopsis Armata extract, Citronello *, Geraniol *, limonene *, linalool *, Citral *., 
+            Benzyl salicylates *, benzyl benzoates certified organic. * from natural essential oils 
+    fp_bodylotion:
+        heading: Frangipani kosteusvoide
+        main:   Tämä emulsio imeytyy ihoon antamalla puhtaan, silkin pehmeän olon sekä trooppisten 
+              frangipanin kukkien ihanan kevyen tuoksun. 50 ml
+        Ainesosat: Aqueous alcoholic extract of CENTELLA asiatica (CENTELLA asiatica= gotu kola), 
+                (vesipitoinen alkoholi….), kasviglyseriini, shea butter, ruusuvesi, kookosöljy, vehnä glykosidi, 
+                fatty alcohol, mix natural essential oils, Phytosqualan, auringonkukkaöljy, mehiläisvaha,   
+                triglycerides, glyceryl stearate, luonnoll. vit. E, xantaanikumi, greipinsiemenöljy, 
+                merisuolauute. sitruunahappo * from kontr. Organic
+        INCI: Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, 
+              Rosa Damascena flower water *, Cocos Nucifera oil *, Cetearyl alcohol, 
+              Cetearyl wheat bran Glucosides, perfume (natural essential oils), 
+              Squalane, Heliantus Annuus seed oil *, Cera Alba, glyceryl stearate, tocopherol, 
+              xanthan gum, Vitis vinifera seed oil, CENTELLA asiatica extract *, 
+              Asparagopsis Armata extract, Citronellol *, Geraniol *, limonene *, linalool *, 
+              Citral *, benzyl salicylates *, benzyl benzoates *, * certified organic * from natural essential oils
+    fp_eau_fraiche:
+        heading: Frangipani Eau Fraîche
+        main:   Raikkaat latvatuoksut ja frangipanikukkien kaunis, lempeä tuoksu muodostavat pehmeän, 
+                naisellisen eau de toiletten jokapäiväiseen elämän menoon. 50 ml
+        Ainesosat:  alkoholi, natural essential oils mixture, ruusuvesi
+        INCI: Alcohol *, perfume (natural essential oils), Rosa Damascena flower water *, limonene *, 
+              linalool *, Citral *, benzyl benzoates *, benzyl alcohol *, benzyl Cinnamate *, Farnesol *, 
+              Geraniol *, benzyl salicylates *, Citronellol *. * certified organic. * from natural essential oils 
+    fp_shower_small:
+        heading: Frangipani Shower cream
+        main:   Small version for travelling and to try out
+    fp_lotion_small:
+        heading: Frangipani Bodylotion
+        main:   Small version for travelling and to try out
+en:
+  frangipani:
+    products: fp_shower fp_bodylotion fp_body_butter fp_eau_fraiche fp_shower_small fp_lotion_small
+    header: Frangipani
     sub_header: <b>Body care as delicate as a blossom</b>
     list:   Writers and poets wax lyrical about the loveliness of the frangipani blossom. 
             And about its scent, delicately flowery, slightly sweet and yet fresh, 
