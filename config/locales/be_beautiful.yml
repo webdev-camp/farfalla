@@ -2,43 +2,84 @@ fi:
   be_beautiful:
     products: bb_creme 
     header: be beautiful
+    sub_header: tunne itsesi kauniiksi!
+    list: 
+        1. antaa kasvojen iholle “vastarakastuneen” hehkun <br/>
+        2. elvyttää ihoa stressaavissa tilanteissa <br/>
+        3. suojaa ympäristön vaikutuksilta <br/>
+        4. hohtavat mineraalihiukkaset peittävät pieniä epäpuhtauksia ja juonteita
+    heading:     Vaikuttavat aineosat
+    main: 
+        "Orinoco -pähkinä ja brasilialainen pippuripuu <br/>    
+        Orinoco –pähkinässä on runsaasti hyvälaatuisia Omega-3 –rasvahappoja.
+        Sillä ja brasilialaisella pippuripuulla on onnellisuushormoni
+        dopamiinin erittymistä edistävä vaikutus. Muiden hyvien vaikutustensa
+        lisäksi dopamiini parantaa verenkiertoa –näytät hehkeältä ja
+        vastarakastuneelta! Loistava apu silloin kun ihosi tarvitsee erityistä
+        huolenpitoa: esiintymistilanteisiin, stressaaviin hetkiin kiireisen
+        työrupeaman keskellä, matkoille. <br/>
+        Hohtavat mineraalihiukkaset <br/>
+        Luonnonmineraaleista saadut hohtohiukkaset peittävät pieniä
+        epäpuhtauksia ja juonteita. <br/>
+        Eteeriset öljyt <br/>
+        Vaniljan, kookoksen ja bergamotin eteeriset öljyt tehostavat
+        'onnellisuusvaikutusta' muiden aineosien hyväätekeviä
+        vaikutuksia/muiden aineosien hyviä vaikutuksia/voiteen vaikutuksia."
+    bb_cream:
+        heading: onnellisuusvoide
+        main:   
+            Ainutlaatuinen, hieno voide vaativiin tilanteisiin, joissa tahdot olla
+            eduksesi/parhaimmillasi/tuntea itsesi kauniiksi. Sisältää Orinoco
+            –pähkinää ja brasilialaista pippuripuuta, joilla on
+            “onnellisuushormoni” dopamiinin erittymistä edistävä vaikutus. Kun
+            sinun on hyvä olla, säteilet sitä myös ulospäin. / Kun sinun on hyvä
+            olla, säteilet sitä myös ulospäin, ja olet kaunis.
+            Luonnonmineraaleista saadut hohtohiukkaset peittävät pieniä
+            epäpuhtauksia ja juonteita.<br/>
+            Ihanteellinen voide käytettäväksi illalla ennen ulos lähtöä, mutta
+            myös kiireiseen elämänrytmiin, haastaviin tilanteisiin, mukaan
+            matkalle jne, aina kun on tärkeää että sisäinen ja ulkoinen kauneutesi
+            näkyy! /aina kun sisäinen ja ulkoinen kauneus ja hyvinvointi on
+            erityisen tärkeää! / aina kun tahdot olla parhaimmillasi/ aina kun
+            tahdot hehkua sisäistä ja ulkoista kauneutta / aina kun tahdot voida
+            hyvin ja säteillä kauneutta! /aina kun tahdot säteillä iloa ja
+            kauneutta! /aina kun tahdot säteillä hyvää oloa ja kauneutta!<br/>
+            Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+en:
+  be_beautiful:
+    products: bb_creme 
+    header: be beautiful
     sub_header: for care with a beautiful special “feel good” factor
     list: 1. Gives a radiant “newly in love“ appeal. <br/>
         2. Vitalises skin in stress situations.  <br/>
         3. Protects skin from damaging environmental influences. <br/>
         4. Added shimmer particles conceal blemishes. <br/>
     heading: The innovation in natural cosmetics
-    main: Orinoco nut and Brazilian pepper tree <br/>
-      With its high-quality Omega-3 fatty acids, the Orinoco nut has a positive influence 
-      on the release of the happiness hormone, dopamine. The Brazilian pepper tree
-      also promotes the secretion of this hormone. Among other positive traits, dopamine 
-      improves blood circulation, giving you a more radiant appearance and that 
-      special “newly in love” appeal. In order to give your skin the necessary positive impulses, 
-      use it when you want to pamper yourself or in stressful situations during
-      a strenuous work day or when travelling. Feeling at ease with yourself and good 
-      about your appearance will enhance your radiance even further. <br/>
-      Mineral shimmer particles <br/>
-      The subtle shimmer effect conceals small blemishes and wrinkles. <br/>
-      Natural scents <br/>
-      According to aromatherapeutic principles, the mixture of essential oils, isolated 
-      from vanilla, cocoa and bergamot, contributes towards the «bliss effect» of this 
-      line of products. <br/>   
-      
-      
+    main: 
+        Orinoco nut and Brazilian pepper tree <br/>
+        With its high-quality Omega-3 fatty acids, the Orinoco nut has a positive influence 
+        on the release of the happiness hormone, dopamine. The Brazilian pepper tree
+        also promotes the secretion of this hormone. Among other positive traits, dopamine 
+        improves blood circulation, giving you a more radiant appearance and that 
+        special “newly in love” appeal. In order to give your skin the necessary positive impulses, 
+        use it when you want to pamper yourself or in stressful situations during
+        a strenuous work day or when travelling. Feeling at ease with yourself and good 
+        about your appearance will enhance your radiance even further. <br/>
+        Mineral shimmer particles <br/>
+        The subtle shimmer effect conceals small blemishes and wrinkles. <br/>
+        Natural scents <br/>
+        According to aromatherapeutic principles, the mixture of essential oils, isolated 
+        from vanilla, cocoa and bergamot, contributes towards the «bliss effect» of this 
+        line of products. <br/>   
+
     bb_cream:
         heading: Bliss cream
-        main:   Designed for when you want to give 
-            yourself a special treat.This exceptional
-            cream caresses your skin and gives you
-            a marvellous sense of well-being. With 
-            extracts isolated from Orinoco nut and 
-            the Brazilian pepper tree and an addition
-            of mineral shimmer particles. Enjoy
-            a radiant appearance with that “There’s 
-            something special about you…” appeal. 
-            Use it before a rendezvous, a meeting, 
-            while travelling or whenever you want 
-            to pamper yourself. <br/>
-            100% from natural origin– 95% of the 
-            certifiable natural substances are organic <br/>
+        main:   
+            Designed for when you want to give yourself a special treat.This exceptional
+            cream caresses your skin and gives you a marvellous sense of well-being. With 
+            extracts isolated from Orinoco nut and  the Brazilian pepper tree and an addition
+            of mineral shimmer particles. Enjoy a radiant appearance with that “There’s 
+            something special about you…” appeal. Use it before a rendezvous, a meeting, 
+            while travelling or whenever you want to pamper yourself. <br/>
+            100% from natural origin– 95% of the certifiable natural substances are organic <br/>
         
