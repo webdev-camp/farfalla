@@ -2,95 +2,169 @@ fi:
   age_miracle:
     products: am_creme am_serum am_rollon am_night 
     header: age miracle
+    sub_header: toimiva anti age / toimiva anti-ageing –uutuus
+    list: 
+          "1. Uutuus: Hidastaa ihon ikääntymisprosessia! <br/>
+          2. Heleyttää ihon sävyä tehokkaasti/Tehokas heleyttävä/ihon sävyä heleyttävä vaikutus<br/>
+          3. Nostaa/Parantaa huomattavasti ihon kosteuspitoisuutta<br/>
+          4. Vähentää juonteita – dermatologisesti testattu/ Juonteita vähentävä vaikutus on dermatologisesti testattu"
+        
+    heading: Vaikuttavat aineosat
+    main: 
+          Kesälumipisara (Leucojum aestivum)<br/>
+          Kesälumipisaran mukulasta saatava uute (Leucojum aestivum) on
+          todellinen innovaatio anti-ageing –tutkimuksen alalla! Sen sijaan että
+          se monien muiden anti age –tuotteiden tapaan kiihdyttäisi ihon solujen
+          jakautumista, siitä erotetut dormiinit hidastavat solujen
+          jakautumista. Leucojum aestivum -uutteella on paljon tavoiteltu ihon
+          ikääntymisprosessia hidastava vaikutus. Ihosta tulee kimmoisampi ja
+          juonteiden syvyys vähenee huomattavasti.<br/>
+          Spilanthes acmella (parakrassi)<br/>
+          Monet testit ovat osoittaneet, että spilanthesuute rentouttaa kasvojen
+          lihaksia, jolloin juonteet näkyvästi vähenevät ja iho näyttää
+          nuoremmalta..75% testin osallistujista huomasi vaikutuksen jo yhden
+          päivän käytön jälkeen. 83% testaajista kertoi silmänympärysjuonteiden
+          vähenneen huomattavasti. Rentoutuneilla kasvoilla juonteiden syvyys
+          vähenee ja iho näyttää nuoremmalta.<br/>
+          Centella asiatica –uute<br/>
+          Luomulaatuinen Centella asiatica –uute tehostaa ihon omaa
+          kollageenituotantoa. Se lisää ihon kimmoisuutta, sävyttää/heleyttää
+          ihoa ja kiinteyttää/selkeyttää kasvonpiirteitä.<br/>
+          Hyaluronihappo<br/>
+          Tämä tehokas kosteudensitoja-aine on erotettu vehnästä. Iho tuottaa
+          hyaluronihappoa luonnostaan, mutta 35 ikävuoden jälkeen sen tuotanto
+          alkaa asteittain vähentyä. Hyaluronihappo pystyy sitomaan vettä
+          ihosoluihin. Siksi se parantaa ihon kimmoisuutta, kosteuttaa ihoa ja
+          parantaa sen kykyä säilyttää kosteutta.<br/>
+          Eteeriset öljyt<br/>
+          Aromaterapeuttinen eteeristen öljyjen seos, erotettu iiris – ja ruusu
+          otto (/ otto-ruusu? Otto -ruusu?) –öljyistä, tehostaa tuotesarjan
+          uusiutumista edistävää vaikutusta.
+          
+    am_creme:
+        heading: uudistava ja kiinteyttävä/kohottava voide
+        main:    
+            Tehokkaan kosteuttavan vaikutuksensa vuoksi tämä voide silminnähden
+            pehmentää ja kohottaa kasvojen ihoa. Kesälumipisaran uute (Leucojum
+            aestivum) hidastaa ihon ikääntymisprosessia ja vähentää tehokkaasti
+            juonteita. Spilanthes acmellasta ja hyaluronihaposta saatujen
+            aineosien hienostunut yhdistelmä sävyttää/heleyttää ihonväriä
+            (kauniiksi) ja selkeyttää kasvojen piirteitä. Juonteita vähentävä
+            vaikutus on dermatologisesti testattu. Käytä päivittäin puhdistuksen
+            jälkeen.<br/>
+            Seretifioitu luomukosmetiikka (NaTrue), vegaaninen            
+    am_serum:
+        heading: Kohottava/kiinteyttävä seerumi
+        main:    
+            Tehokkaat aineosat tiivistetyssä muodossa! Seerumin hieno/huolella
+            suunniteltu vaikuttavien aineosien yhdistelmä heleyttää ihonväriä,
+            tekee ihosta kimmoisamman ja selkeyttää kasvonpiirteitä. Käytä
+            aamuisin 2-3 kertaa viikossa tai päivittäisenä tehohoitona 3-4 viikon
+            ajan. Tukee sarjan muiden anti ageing –tuotteiden
+            vaikutusta/vaikutuksia. Voidaan käyttää myös yhdessä muiden linjojemme
+            tuotteiden kanssa tuomassa yksilölliseen ihonhoito-ohjelmaasi anti
+            ageing –tehoa/tehohoitoa/hoitoa/vaikutusta.<br/>
+            Sertifioitu luomukosmetiikka (NaTrue), vegaaninen
+    am_rollon:
+        heading: Kiinteyttävä/kohottava seerumi silmänympäryksien iholle
+        main:   
+            Hieno/huolella suunniteltu vaikuttavien aineosien yhdistelmä täydentää
+            ihon kosteusvarastoja ja pehmentää silminnähden/huomattavasti
+            linjoja/juonteita/uurteita silmien ympärillä. Pihlajanversouute
+            (Sorbus domestica) vähentää selvästi silmänympärysihon
+            tummuutta/tummia silmänalusia/tummia silmänympäryksiä ja turvotusta.
+            Hellävaraista herkän (silmänympärys)ihon hoitoa, joka saa silmät
+            loistamaan. Taputtele hellästi iholle aamuin illoin puhdistuksen
+            jälkeen.<br/>
+            Sertifioitu luomukosmetiikka (NaTrue), vegaaninen
+    am_night:
+        heading: emulsio yöksi/hyvänyön emulsio
+        main:    
+            Kevyt yöhoito jossa on runsaasti/suuri määrä/korkea pitoisuus
+            vaikuttavia aineosia. Antaa/sallii ihon hengittää/syvähengittää yöllä
+            ja valmistelee sitä raikkaaksi ja kiinteäksi aamua varten / tekee
+            siitä / tuo iholle raikkautta ja kiinteyttä aamua kohti/varten.
+            Kesälumipisarauute (Leucojum aestivum), todellinen innovaatio anti
+            ageing -tutkimuksen alalla,  hidastaa ihon ikääntymisprosessia ja
+            tasoittaa/pehmentää juonteita. Käytä iltaisin puhdistuksen/kasvoveden
+            jälkeen. Jos haluat, levitä iholle sen jälkeen vielä ravitseva voide.<br/>
+            Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+en:
+  age_miracle:
+    products: am_creme am_serum am_rollon am_night 
+    header: age miracle
     sub_header: for anti-ageing care
-    list: 1. Innovation, Slows down ageing process of skin! <br/>
+    list: 
+          1. Innovation, Slows down ageing process of skin! <br/>
           2. Effectively tones skin. <br/>
           3. Significantly improves moisture level of skin. <br/>
           4. Is dermatologically proven to diminish wrinkles. 
         
     heading: Innovative active ingredients
-    main: Leucojum Aestivum bulb extract <br/>
-      An absolute innovation in anti-ageing research! Rather than speeding up the skin’s 
-      cell division, as is the case with other products, the so-called ‘dormins’ extracted 
-      from the Summer snowflake, reduce the speed of cell division. This extract offers 
-      the sought-after effects of slowing down the skin’s ageing process, improving its 
-      elasticity and noticeably reducing the depth of wrinkles. <br/>
-      Paracress extract <br/>
-      Extensive tests have shown that this extract relaxes the facial muscles, which 
-      has a distinct wrinkle-improving effect. This was confirmed by 75% of the test 
-      participants after only a day’s use. 83% of the testers also confirmed a significant 
-      reduction in “crow’s feet”. Relaxed facial features correspond to fewer wrinkles 
-      and a younger-looking skin.<br/> 
-      Centella asiatica extract <br/>
-      This organic extract stimulates the production of the skin’s own collagen and has 
-      a significant influence on the skin’s elasticity and toning of the facial outline. <br/>
-      Hyaluronic acid <br/>
-      This powerful active agent is isolated from wheat. Hyaluronic acid is, in fact,
-      produced by the skin itself. However, by the age of 35, its production gradually decreases.
-      Hyaluronic acid is capable of binding water to skin cells, thus increasing 
-      the elasticity of the skin. <br/>
-      Natural scents <br/>
-      According to aromatherapeutic principles, a mixture of essential oils, isolated 
-      from iris and attar of roses, supports the regenerating effect.<br/>
+    main: 
+        Leucojum Aestivum bulb extract <br/>
+        An absolute innovation in anti-ageing research! Rather than speeding up the skin’s 
+        cell division, as is the case with other products, the so-called ‘dormins’ extracted 
+        from the Summer snowflake, reduce the speed of cell division. This extract offers 
+        the sought-after effects of slowing down the skin’s ageing process, improving its 
+        elasticity and noticeably reducing the depth of wrinkles. <br/>
+        Paracress extract <br/>
+        Extensive tests have shown that this extract relaxes the facial muscles, which 
+        has a distinct wrinkle-improving effect. This was confirmed by 75% of the test 
+        participants after only a day’s use. 83% of the testers also confirmed a significant 
+        reduction in “crow’s feet”. Relaxed facial features correspond to fewer wrinkles 
+        and a younger-looking skin.<br/> 
+        Centella asiatica extract <br/>
+        This organic extract stimulates the production of the skin’s own collagen and has 
+        a significant influence on the skin’s elasticity and toning of the facial outline. <br/>
+        Hyaluronic acid <br/>
+        This powerful active agent is isolated from wheat. Hyaluronic acid is, in fact,
+        produced by the skin itself. However, by the age of 35, its production gradually decreases.
+        Hyaluronic acid is capable of binding water to skin cells, thus increasing 
+        the elasticity of the skin. <br/>
+        Natural scents <br/>
+        According to aromatherapeutic principles, a mixture of essential oils, isolated 
+        from iris and attar of roses, supports the regenerating effect.<br/>
+        
     am_creme:
         heading: Lifting &amp; regenerating cream
-        main:    Noticeably smoothes and lifts thanks 
-            to its intensive moisturizing effect. 
-            Leucojum aestivum bulb extract, the 
-            anti-ageing innovation, slows down the 
-            ageing process of the skin and effectively 
-            reduces wrinkles. The sophisticated 
-            complex of active substances contained 
-            in paracress and hyaluronic acid tones 
-            the skin and leaves the facial outline 
-            more firm. The anti-wrinkle effectiveness 
+        main:    
+            Noticeably smoothes and lifts thanks  to its intensive moisturizing effect. 
+            Leucojum aestivum bulb extract, the  anti-ageing innovation, slows down the 
+            ageing process of the skin and effectively reduces wrinkles. The sophisticated 
+            complex of active substances contained  in paracress and hyaluronic acid tones 
+            the skin and leaves the facial outline  more firm. The anti-wrinkle effectiveness 
             is dermatologically proven. <br/>
-            100% from natural origin – 95% of the 
-            certifiable natural substances are organic 
+            100% from natural origin – 95% of the certifiable natural substances are organic 
     am_serum:
         heading: Lifting serum
-        main:    The active-agent concentrate with an 
-            intensive effect! The sophisticated complex 
-            of active substances tones the skin 
-            and leaves the facial outline firmer. Apply
-            in the morning 2-3 times a week or as a 
-            daily course of treatment for 3-4 weeks.
-            Supports the effects of the age miracle
-            line. Also recommended as an anti-ageing 
-            course of treatment in combination with 
-            our other product lines. The anti-wrinkle 
+        main:    
+            The active-agent concentrate with an  intensive effect! The sophisticated complex 
+            of active substances tones the skin  and leaves the facial outline firmer. Apply
+            in the morning 2-3 times a week or as a daily course of treatment for 3-4 weeks.
+            Supports the effects of the age miracle line. Also recommended as an anti-ageing 
+            course of treatment in combination with our other product lines. The anti-wrinkle 
             effectiveness is dermatologically proven. <br/>
-            100% from natural origin – 95% of the 
-            certifiable natural substances are organic 
+            100% from natural origin – 95% of the certifiable natural substances are organic 
     am_rollon:
         heading: Lifting eye serum
-        main:    A sophisticated complex of active ingredients 
-            refills the skin’s moisture depots 
-            and smoothes eye wrinkles successfully. 
-            Sorbus domestica bud extract visibly 
-            enhance the appearance of dark circles 
-            and unsightly puffiness around the 
-            eyes. Ultra gentle eyecare for delicate 
-            skin and eyes that shine. Every morning 
-            and evening, apply after cleansing/ 
-            toning by gently patting onto skin. <br/>
-            100% from natural origin – 95% of the 
-            certifiable natural substances are organic 
+        main:    
+            A sophisticated complex of active ingredients  refills the skin’s moisture depots 
+            and smoothes eye wrinkles successfully.  Sorbus domestica bud extract visibly 
+            enhance the appearance of dark circles  and unsightly puffiness around the 
+            eyes. Ultra gentle eyecare for delicate  skin and eyes that shine. Every morning 
+            and evening, apply after cleansing/  toning by gently patting onto skin. <br/>
+            100% from natural origin – 95% of the certifiable natural substances are organic 
     
     am_night:
         heading: Night miracle fluid
-        main:    Light night care with a superior degree 
-            complex of active ingredients. Allows 
-            skin to breathe deeply during the night 
-            and stimulates complexion towards 
-            new tension and freshness in the morning. 
-            Leucojum aestivum bulb extract, 
-            the anti-ageing innovation, slows down
-            ageing process of skin and smoothes 
-            wrinkles. Use in the evenings, following 
-            cleansing/toning. If desired, add nourishing 
+        main:    
+            Light night care with a superior degree  complex of active ingredients. Allows 
+            skin to breathe deeply during the night  and stimulates complexion towards 
+            new tension and freshness in the morning.  Leucojum aestivum bulb extract, 
+            the anti-ageing innovation, slows down ageing process of skin and smoothes 
+            wrinkles. Use in the evenings, following  cleansing/toning. If desired, add nourishing 
             cream afterwards. <br/>
-            100% from natural origin – 95% of the 
-            certifiable natural substances are organic <br/></td>
+            100% from natural origin – 95% of the  certifiable natural substances are organic <br/>
         
         
