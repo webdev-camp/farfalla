@@ -93,7 +93,7 @@ font-style: italic;
 .logo_right {
 float: right;
 padding-left: 15px;
-padding-right: 50px;
+padding-right: 40px;
 }
 
 #main
@@ -232,7 +232,7 @@ margin-bottom: 9px;
 
 .six {
 float: left;
-width:  15%;
+width:  14%;
 	padding-left: 7px;
 	padding-right: 7px;
 	text-decoration: center;
