@@ -5,22 +5,22 @@
   These organic cosmetics with active ingredients have been specifically designed 
   to suit a modular system. From the various product lines, you can choose the
   cleansing and care products that best suit your skin. Depending on the amount 
-  of oil, moisture and special care your skin needs, you may choose from:<br/>
+  of oil, moisture and special care your skin needs, you may choose from:<br/><br/>
 </div>
 
 
 <div class ="one">
 <% ["daily_refresh","in_balance","intense_moisture","age_miracle","pure_sensitive","be_beautiful"].each do |line|%>
-  <div class="six">
+  <div class="three">
       <a href="<%=line%>.html">
         <img src="images/<%=line%>/logo.jpg" alt="logo <%=line.humanize%>" /> <br/><%= t(line+'.sub_header')%>
-      </a>
+      </a><br/><br/>
   </div>
 <%end%>
 </div>
 
 
-<div class="one">
+<div class="one"><br/>
   <div class="six">
     <img src="images_web/NATRUE.gif" alt="natrue" height="50" width="50">
   </div>
