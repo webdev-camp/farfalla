@@ -2,14 +2,14 @@ fi:
   pure_sensitive:
     products: ps_creme 
     header: pure sensitive
-    sub_header: -herkän ihon hoitoon
+    sub_header: herkän ihon hoitoon
     list: 
           1. Ravitsee ja rauhoittaa ihoa<br/>
-          2. Nostaa huomattavasti ihon kosteuspitoisuutta<br/>
-          3. Suojelee antioksidanteillaan ihoa vapailta radikaaleilta<br/>
-          4.Tukee ihoa ja auttaa sitä sopeutumaan muutoksiin<br/>
+          2. Parantaa huomattavasti ihon kosteustasapainoa<br/>
+          3. Suojelee ihoa vapailta radikaaleilta antioksidanteilla<br/>
+          4. Auttaa ihoa ja auttaa sitä sopeutumaan muutoksiin<br/>
         
-    heading:  Vaikuttavat aineosat
+    heading:  Tehokkaat, vaikuttavat aineosat 
     main: 
           Syyssyreeniuute (Buddleja davidii)<br/>
           Ihanteellinen oksidanttisuoja päivittäisiä ympäristön vaikutuksia,
