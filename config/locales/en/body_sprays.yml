@@ -1,0 +1,32 @@
+fi:
+  body_sprays:
+    products: freshen_up on_he_move three_roses wellbeing
+    header: Body Sprays 
+    sub_header: ""
+    list:   Wonderful scent companions in a small format. These handy spray bottles have room 
+            in every handbag and accompany you through your day. Five scent creations for different 
+            situations. Spray a freshness kick on the cleavage, face or the neck and the wrists. 
+            Body sprays are made of hydrosols, organic alcohol and a mixture of essential oils. <br/>
+            Comes in 20 ml Bottles
+    header: " "
+    main: " " 
+    freshen_up:
+        header: Freshen Up
+        main:  "A fruity-cool, freshening spray for warm days and overheated brains. 
+              Use: spray once or twice directly on skin. Avoid contact with eyes.<br/>
+              Contents: Orange, lemon, orangeflower water"
+    on_he_move:
+        header: On the Move
+        main: "A refreshing spray for concentration while driving or travelling. 
+              Use: Spray in the air or on the skin. Avoid contact with eyes.<br/>
+              Contents: lemon, mint, peppermint water"
+    three_roses:
+        header: Three Roses
+        main: "A delicate, pampering flower scent. 
+              Use whenever the fancy takes you. Avoid contact with eyes.<br/>
+              Contents: with rose oils and rose water"
+    wellbeing:
+        header: Wellbeing
+        main: "A relaxing scent to pamper and cheer. 
+              Use: spray once on skin whenever required. Avoid contact with eyes. <br/>
+              Contents: lavendel, orange, neroli"

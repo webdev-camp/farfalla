@@ -1,18 +1,19 @@
-fi:
+en:
   amberstone:
     products: amberstone_oil amberstone_cream amberstone_fraiche
-    header: Meripihka Kosmetiikka – silkinpehmeälle ja säteilevälle iholle 
-    sub_header: "Uusi korkealuokkainen sarja Jalokiviöljyjen valikoimassa."
-    list: "Tämä innovatiivinen sarja ammentaa laaja-alaiset vaikutuksensa meripihkan valoa tuovasta 
-          laadusta. Kiven energia saadaan palvelemaan ihonhoitoa erityisen liuotuksen kautta. 
-          Hienovaraisesti valikoidut eteeriset luomuöljyt tukevat meripihkan vaikutusta. 
-          Meripihka jalokiviöljy ja kosteusvoide antavat kasvojesi iholle uutta säteilyä. 
-          Ne ovat erityisen tehokkaita väsyneelle ja kalpealle iholle sekä iholle, joka kärsii 
-          huonosta verenkierrosta. Hedelmäiset ja raikkaat mandariinin ja bergamotin tuoksut 
-          yhdistettynä benzoen (?), inkiväärin ja vaniljan lämmittäviin ydintuoksuihin, lämmittävät  
-          sydäntä ja luovat turvallisuuden tunnetta.<br/>
+    header: Amberstone Cosmetics – for silky-soft and radiant skin
+    sub_header: "The new premium line in the Crystal Balance® range "
+    list: "This innovative product line draws its wide-ranging efficacy from the light-bringing qualities of amber.
+          The stone’s energy, as with the other oils in the Crystal Balance® range, 
+          is harnessed for skincare by a special maceration, and supported by a finely tuned blend 
+          of organic essential oils. Amber gemstone oil and moisturising cream lend the complexion 
+          a new radiance and are especially effective for skin with bad blood circulation, and for 
+          tired and sallow skin. Fruity, fresh aromas of mandarin and bergamot, combined with warming 
+          essences of benzoin, ginger and vanilla, warm the heart and impart a feeling of security.<br/>
           
-          Sertifioitua luomukosmetiikkaa, jossa 95% valmistusaineista on luomu-laatua, – Tason 3 NaTrue. "
+          Certified organic cosmetic with 95% organic ingredients – 3 stars NaTrue. 
+          Without artificial scents, preservatives or paraffines. 
+          We do not use polyethylene glycol or paraffines. Farfalla is against animal testing."
 
     amberstone_oil:
         header: Amberstone Oil 
@@ -35,15 +36,14 @@ fi:
                 Tocopherol, Citric Acid, Ascorbic Acid, Benzyl Benzoate**, Citral**, Coumarine**, Farnesol**, 
                 Geraniol**, Linalool**, Limonene**. "
     amberstone_fraiche:
-      header: Meripihka Eau Fraîche
-      main: "Tämä hedelmäinen ja pehmeä luomuparfyymi on todellinen valon tuoja. Meripihka ja bergamotti
-            yhdistävät valoa puoleensavetävät energiansa benzoen ja mandariinin tarjotessa lempeän taustan. 
-            Käyttö: parfyymina, energisoivana ja – esimerkiksi huoneessa –harmonisoivana spraynä <br/> 
+      header: Amberstone Eau Fraîche
+      main: "Amber and bergamot combine their light-attracting energy, 
+              while benzoe and mandarin offer a gentle background. 
+              Use: Use as a natural perfume, energy spray and room harmoniser.50 ml. <br/> 
               inci: Alcohol*, Citrus Aurantium Amara Flower Water*, Parfum (Natural Essential Oils), Benzyl Benzoate**, 
               Benzyl Cinnamate**, Citral**, Coumarine**, Farnesol**, Geraniol**, Linalool**, Limonene**."
     amberstone_set:
-      header: Meripihka setti
-      main: "Tämä ihana setti sisältää Meripihka jalokiviöljyn, ihovoiteen ja Eau fraichen.
-        Tutustu Meripihka-sarjaan, anna lahjaksi tai ota mukaan matkalle.
-        3 x 20 ml." 
+      header: Amberstone Set 
+      main: "Contains 20 ml Amberstone oil, 20 ml Amberstone cream and 20 ml Amberstone Eau Fraîche. <br/>
+            To test and try out or as a pretty feel-good present set." 
     

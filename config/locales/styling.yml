@@ -11,9 +11,9 @@ fi:
         main:  Pitoa, volyymia ja kiiltoa! Luonnollinen muotoiluvaahto auttaa kampauksen muotoilussa, 
                 tukee kampauksen kestävyyttä ja tekee kauniin kiiltävät hiukset. Levitä pyyhekuiviin 
                 hiuksiin pesun jälkeen.
-        Ainesosat: vesi, oliivinlehtiuute, sugar alcohol, alkoholi, vegetable foam basis, granaattiomenan siemenuute,
+        ingredients: vesi, oliivinlehtiuute, sugar alcohol, alkoholi, vegetable foam basis, granaattiomenan siemenuute,
                   aloe vera, sokerijuurikasuute, natriumsuola, mix natural essential oils, vehnäproteiini, maitohappo
-        INCI: Aqua, Olea europaea leaf extract *, sorbitol, alcohol, Coco-glucoside, beer, sodium Cocoyl glutamate, 
+        inci: Aqua, Olea europaea leaf extract *, sorbitol, alcohol, Coco-glucoside, beer, sodium Cocoyl glutamate, 
               Punica Granatum extract *, Aloe barbadensis leaf extract *, betaine, disodium Cocoyl glutamate, 
               sodium PCA, perfume, Hydrolyzed wheat protein, lactic acid, Citral *, Citronellol *, Geraniol *, 
               linalool *, limonene *. * certified organic * part of natural essential oils
@@ -23,43 +23,13 @@ fi:
         main:  Luonnollinen ja joustava tuki kaikille hiuksille ja jokaiselle kampaukselle koko päiväksi! 
               Hiuskiinne on hienojakoinen (ei tahmaa?/ ei jää jäämiä??) ja sen voi harjata helposti pois hiuksista.
                (Ilman ponneaineita!)
-        Ainesosat: alkoholi, sellakka, vesi, oliiviuute*sorbitoli, olut, jojobaöljy, appelsiininkukkavesi, 
+        ingredients: alkoholi, sellakka, vesi, oliiviuute*sorbitoli, olut, jojobaöljy, appelsiininkukkavesi, 
                 aloe vera, sodium PCA, kasviglyseriini, mixture of natural essential oils, vehnäproteiini
-        INCI: Alcohol, shellac, Aqua, Olea europaea leaf extract *, sorbitol, beer, Simmondsia chinensis seed oil *, 
+        inci: Alcohol, shellac, Aqua, Olea europaea leaf extract *, sorbitol, beer, Simmondsia chinensis seed oil *, 
               citrus aurantium Amara flower water *, Aloe barbadensis leaf extract *, sodium PCA, glycerin, 
               Parfum, Hydrolyzed wheat protein, Citral *, Citronellol *, Geraniol *, 
               linalool *, limonene *. * certified organic * part of natural essential oils
         
-    st_gel:
-        header: Styling Gel 
-        sub_header:  Long-lasting hold
-        main:  The styling gel. Our styling gel for expert modelling and creative styling. 
-              Non-sticky, residue-free combing out. No synthetic aroma, colour or preservatives. 
-              No PEGs or silicone.
-en:
-  styling:
-    header: Styling products
-    products: st_mousse st_spray st_gel
-    sub_header: Hair with style!
-    list: After the care it continues - perhaps with a special styling? 
-          Here you can find natural styling products made from natural raw ingredients 
-          conforming to the guidelines of the controlled natural cosmetics. 
-          Without any synthetic substances without petroleum resources, PEGs and silicones.
-    header: Shampoos
-    st_mousse:
-        header: Styling Mousse 
-        sub_header:  Hold, volume & shine
-        main:  The volume foam. Our styling mousse helps you form your hairdo and aids its durability, 
-              while giving a beautiful shine. Use, massage into towel-dried hair after washing. No
-              synthetic aroma, colour or preservatives.
-              No PEGs or silicone.
-    st_spray:
-        header: Hair Spray 
-        sub_header:  Hold, volume & shine
-        main:  Natural, long-lasting hold for your hairstyle. Our spray is non-tacky, 
-              leaves no residue and can be easily brushed out. 
-              Thanks to its holding power, it fixes your hair all day long. 
-              No synthetic aroma, colour or preservatives. Contains no propellant.
     st_gel:
         header: Styling Gel 
         sub_header:  Long-lasting hold
