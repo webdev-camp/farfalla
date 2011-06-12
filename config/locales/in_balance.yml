@@ -2,7 +2,7 @@ fi:
   in_balance:
     products: ib_fluid ib_fluid ib_serum
     header: in balance
-    sub_header: -tasapainottaa epäpuhtauksille altista ihoa.
+    sub_header: Tasapainoinen iho – Epäpuhtauksien hoitoon
     list: In balance –sarja sisältää kolme tuotetta, jotka saavat sinut
       tuntemaan itsesi kauniiksi. Luonnollista ja tehokasta apua rasvaiselle
         ja sekaiholle. <br/>
