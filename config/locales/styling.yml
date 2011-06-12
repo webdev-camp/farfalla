@@ -6,7 +6,7 @@ fi:
     list: Hiusten pesun ja hoidon jälkeen hiusten muotoilu käy erinomaisesti luomulaatuisilla tuotteilla, 
           jotka auttavat kampauksen muotoilussa, pidossa sekä hoitavat ja suojaavat hiusta.
     st_mousse:
-        heading: Muotoiluvaahto
+        header: Muotoiluvaahto
         sub_header:  Hold, volume & shine
         main:  Pitoa, volyymia ja kiiltoa! Luonnollinen muotoiluvaahto auttaa kampauksen muotoilussa, 
                 tukee kampauksen kestävyyttä ja tekee kauniin kiiltävät hiukset. Levitä pyyhekuiviin 
@@ -18,7 +18,7 @@ fi:
               sodium PCA, perfume, Hydrolyzed wheat protein, lactic acid, Citral *, Citronellol *, Geraniol *, 
               linalool *, limonene *. * certified organic * part of natural essential oils
     st_spray:
-        heading: Hiuskiinne
+        header: Hiuskiinne
         sub_header:  Hold, volume & shine
         main:  Luonnollinen ja joustava tuki kaikille hiuksille ja jokaiselle kampaukselle koko päiväksi! 
               Hiuskiinne on hienojakoinen (ei tahmaa?/ ei jää jäämiä??) ja sen voi harjata helposti pois hiuksista.
@@ -31,7 +31,7 @@ fi:
               linalool *, limonene *. * certified organic * part of natural essential oils
         
     st_gel:
-        heading: Styling Gel 
+        header: Styling Gel 
         sub_header:  Long-lasting hold
         main:  The styling gel. Our styling gel for expert modelling and creative styling. 
               Non-sticky, residue-free combing out. No synthetic aroma, colour or preservatives. 
@@ -45,23 +45,23 @@ en:
           Here you can find natural styling products made from natural raw ingredients 
           conforming to the guidelines of the controlled natural cosmetics. 
           Without any synthetic substances without petroleum resources, PEGs and silicones.
-    heading: Shampoos
+    header: Shampoos
     st_mousse:
-        heading: Styling Mousse 
+        header: Styling Mousse 
         sub_header:  Hold, volume & shine
         main:  The volume foam. Our styling mousse helps you form your hairdo and aids its durability, 
               while giving a beautiful shine. Use, massage into towel-dried hair after washing. No
               synthetic aroma, colour or preservatives.
               No PEGs or silicone.
     st_spray:
-        heading: Hair Spray 
+        header: Hair Spray 
         sub_header:  Hold, volume & shine
         main:  Natural, long-lasting hold for your hairstyle. Our spray is non-tacky, 
               leaves no residue and can be easily brushed out. 
               Thanks to its holding power, it fixes your hair all day long. 
               No synthetic aroma, colour or preservatives. Contains no propellant.
     st_gel:
-        heading: Styling Gel 
+        header: Styling Gel 
         sub_header:  Long-lasting hold
         main:  The styling gel. Our styling gel for expert modelling and creative styling. 
               Non-sticky, residue-free combing out. No synthetic aroma, colour or preservatives. 

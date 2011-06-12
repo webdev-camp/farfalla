@@ -6,10 +6,10 @@ fi:
     list: <em> Mikä tuoksu! </em> Kuin kävelisi sitruslehdossa ja tuntisi etelän auringon lämmön ihollaan! 
           Tämä fantastinen sitruskukkien ja –hedelmien tuoksu vitalisoi kaikkia ihosoluja ja ravitsee 
           samalla sielua.
-    heading: " "
+    header: " "
     main: " "
     fl_shower:
-      heading: Fresh Lime suihkuvoide
+      header: Fresh Lime suihkuvoide
       main:  Sitruksen raikkautta suihkuun! Voidemainen hellävaraisesti pesevä vaahto ja kypsien
             limettien virkistävä tuoksu takaavat suihkuelämyksen! <br/>
             Purista sormenpäihin helmenkokoinen annos ja hiero kostealle iholle. 200 ml 
@@ -20,7 +20,7 @@ fi:
             glycerin, fragrance (natural essential oils), Asparagopsis Armata extract, xanthan gum, Geraniol, 
             Citrix acid *, limonene *, linalool *, Citral *. * certified organic * part of natural essential
     fl_bodylotion:
-      heading: Fresh Lime vartalovoide
+      header: Fresh Lime vartalovoide
       main:   Kosteuttava, hyvin ihoon imeytyvä shea butter-pohjainen voide uudistaa ihoa ja antaa ihanan 
               virkistyneen olon! 150 ml 
       Ainesosat: shea butter, vesi kasviglyseriini, triglycerides, appelsiininkukkavesi, aloe vera, alkoholi, 
@@ -36,7 +36,7 @@ fi:
             Squalane, tocopherol, Asparagopsis Armata extract, xanthan gum, Citrix acid, 
             fragrance (natural essential oils), limonene *, Linalol *, Citral *. * certified organic * from 
     fl_body_butter:
-      heading: Fresh Lime kosteusvoide
+      header: Fresh Lime kosteusvoide
       main: Kun iho vaatii uudistumista ja kaipaa virkistystä, takaa kasvipohjainen 
             sitruksenraikas voide sille jokapäiväisen vitamiiniannoksen. 50 ml        
       Ainesosat: Aqueous alcoholic extract of CENTELLA asiatica (CENTELLA asiatica= gotu kola), 
@@ -52,17 +52,17 @@ fi:
             Asparagopsis Armata extract, benzyl benzoates *, Coumarine Geraniol *, limonene *, 
             linalool *, Citral *. * certified organic * from natural essential oils 
     fl_eau_fraiche:
-        heading: Fresh Lime Eau Fraîche
+        header: Fresh Lime Eau Fraîche
         main:   Ihastuttavan raikkaat sitrukset, hienovarainen iiris ja pehmeä vanilja tekevät tuoksun, 
                 joka sopii niin arkeen, työhön kuin juhlaankin.  50 ml
         Ainesosat:  alkoholi, natural essential oils mixture, appelsiininkukkavesi
         INCI: Alcohol *, perfume (natural essential oils), citrus aurantium flower water *, limonene *, 
               linalool *, Citral *, Geraniol *, Citronellol *. * certified organic. * from natural essential oils 
     fl_shower_small:
-        heading: Lime and Lemon Shower cream
+        header: Lime and Lemon Shower cream
         main:   Small version for travelling and to try out
     fl_lotion_small:
-        heading: Lime and Lemon Bodylotion
+        header: Lime and Lemon Bodylotion
         main:   Small version for travelling and to try out
 en:
   fresh_lime:
@@ -74,36 +74,36 @@ en:
           scent impression of the blossoms and fruit of the lime tree revitalises 
           body and soul. We have captured this scent for our body care line and 
           have combined it with the best nurturing ingredients. For whenever your skin needs refreshing.        
-    heading: " "
+    header: " "
     main: " "
       
     fl_shower:
-        heading: Fresh Lime Shower cream
+        header: Fresh Lime Shower cream
         main:  Velvety soft shower cream with the <br/>
             refreshing scent of ripe lime. <br/>
             Application, apply a pearl-sized portion to wet skin and work to a foam. 
             With a cleansing sponge you can achieve more foam. 200 ml </p>
         
     fl_bodylotion:
-        heading: Fresh Lime Bodylotion
+        header: Fresh Lime Bodylotion
         main:   Deliciously caring and refreshing. <br/>
                 This body lotion with its fruity and light scent gives your skin a 
                 delicate feeling. With plant oils and hydrosols in organic quality. 
                 For your daily body care. 150 ml   
     fl_body_butter:
-        heading: Fresh Bodybutter
+        header: Fresh Bodybutter
         main:   Intensive moisture for the skin. <br/>
                 It is easily absorbed by the skin and provides a 
                 pleasant feeling of freshness. 50 ml        
     fl_eau_fraiche:
-        heading: Fresh Lime Eau Fraîche
+        header: Fresh Lime Eau Fraîche
         main:   An Eau Fraîche is a light and discreet natural perfume. 
                 It has a fresh, fruity and cheerful scent. 
                 Fruity and joyous tips are underlined with soft notes of iris root and vanilla. 50 ml
     fl_shower_small:
-        heading: Lime and Lemon Shower cream
+        header: Lime and Lemon Shower cream
         main:   Small version for travelling and to try out
     fl_lotion_small:
-        heading: Lime and Lemon Bodylotion
+        header: Lime and Lemon Bodylotion
         main:   Small version for travelling and to try out
         

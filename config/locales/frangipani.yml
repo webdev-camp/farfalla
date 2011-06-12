@@ -6,11 +6,11 @@ fi:
     list:  Runoilijoiden ylistämät frangipaninkukkaset ja niiden hienostunut, hiukkasen makea, 
           mutta kuitenkin raikas tuoksu on innostava perusta tälle elvyttävälle ja kiehtovalle 
           vartalonhoitosarjalle.  
-    heading: " "
+    header: " "
     main: " "      
     fp_shower:
       
-      heading: Frangipani suihkuvoide
+      header: Frangipani suihkuvoide
       main:  "Aivan erityisen ihastuttava kokemus: frangipanin kukkien eksoottinen tuoksu yhdistyneenä 
             pehmeään kermaiseen vaahtoon, joka pesee ja hoitaa ihoa samanaikaisesti. Purista sormenpäihin 
             helmenkokoinen annos ja hiero kostealle iholle. 200 ml"
@@ -21,7 +21,7 @@ fi:
             fragrance (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, 
             Ctronellol *, Geraniol *, limonene *, linalool *. * certified organic * part of natural essential oils
     fp_body_butter:
-      heading: Frangipani vartalovoide
+      header: Frangipani vartalovoide
       main:   Kun iho tarvitsee syväkostutusta, on tämä kasviöljypohjainen vartalovoide oiva valinta. 
             Se imeytyy helposti iholle ja tekee ihon ihanan sileäksi ja frangipanin herkkien kukkien 
             tuoksuiseksi.  150 ml
@@ -37,7 +37,7 @@ fi:
             Asparagopsis Armata extract, Citronello *, Geraniol *, limonene *, linalool *, Citral *., 
             Benzyl salicylates *, benzyl benzoates certified organic. * from natural essential oils 
     fp_bodylotion:
-        heading: Frangipani kosteusvoide
+        header: Frangipani kosteusvoide
         main:   Tämä emulsio imeytyy ihoon antamalla puhtaan, silkin pehmeän olon sekä trooppisten 
               frangipanin kukkien ihanan kevyen tuoksun. 50 ml
         Ainesosat: Aqueous alcoholic extract of CENTELLA asiatica (CENTELLA asiatica= gotu kola), 
@@ -53,7 +53,7 @@ fi:
               Asparagopsis Armata extract, Citronellol *, Geraniol *, limonene *, linalool *, 
               Citral *, benzyl salicylates *, benzyl benzoates *, * certified organic * from natural essential oils
     fp_eau_fraiche:
-        heading: Frangipani Eau Fraîche
+        header: Frangipani Eau Fraîche
         main:   Raikkaat latvatuoksut ja frangipanikukkien kaunis, lempeä tuoksu muodostavat pehmeän, 
                 naisellisen eau de toiletten jokapäiväiseen elämän menoon. 50 ml
         Ainesosat:  alkoholi, natural essential oils mixture, ruusuvesi
@@ -61,10 +61,10 @@ fi:
               linalool *, Citral *, benzyl benzoates *, benzyl alcohol *, benzyl Cinnamate *, Farnesol *, 
               Geraniol *, benzyl salicylates *, Citronellol *. * certified organic. * from natural essential oils 
     fp_shower_small:
-        heading: Frangipani Shower cream
+        header: Frangipani Shower cream
         main:   Small version for travelling and to try out
     fp_lotion_small:
-        heading: Frangipani Bodylotion
+        header: Frangipani Bodylotion
         main:   Small version for travelling and to try out
 en:
   frangipani:
@@ -76,31 +76,31 @@ en:
             simply enthralling. This scent creation adorns our new, very nurturing bodyline. 
             It goes without saying that we do this beauty justice with the best ingredients in organic quality. 
             Come marvel with us!  
-    heading: " "
+    header: " "
     main: " "      
     fp_shower:
-        heading: Frangipani Shower cream
+        header: Frangipani Shower cream
         main:  Silky soft shower cream with a delicate note of tropical flowers. 
               For your daily body cleansing. Application, apply a pearl-sized portion to wet skin and work
               to a foam. With a cleansing sponge you can achieve more foam. 200 ml
     fp_bodylotion:
-        heading: Frangipani Bodylotion
+        header: Frangipani Bodylotion
         main:   This body lotion, with its light and delicate scent of tropical frangipani blossoms, 
                 gives your skin a pleasant silky feeling. With plant oils and floral waters in organic 
                 quality. For your daily body care. 150 ml
     fp_body_butter:
-        heading: Fresh Bodybutter
+        header: Fresh Bodybutter
         main:   When the skin needs intensive moisture, this body butter is just right. 
                 It is easily absorbed and provides the skin with a silky feeling. 
                 Accompanied by the delicate scent of frangipani. 50 ml
     fp_eau_fraiche:
-        heading: Frangipani Eau Fraîche
+        header: Frangipani Eau Fraîche
         main:   An Eau Fraîche is a discreet natural perfume, which accompanies you throughout your day. 
                 With fruity head notes, soft delicate notes in the middle and the scent of tropical 
                 frangipani blossoms. 50 ml
     fp_shower_small:
-        heading: Frangipani Shower cream
+        header: Frangipani Shower cream
         main:   Small version for travelling and to try out
     fp_lotion_small:
-        heading: Frangipani Bodylotion
+        header: Frangipani Bodylotion
         main:   Small version for travelling and to try out

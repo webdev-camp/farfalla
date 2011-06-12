@@ -4,7 +4,7 @@ fi:
     header: Travel Set
     sub_header: Give it a try!
     list: " "
-    heading:   Let us spend a weekend together!
+    header:   Let us spend a weekend together!
     main:       In this carefully selected set, you will 
         find conveniently-sized samples of the
         most essential cosmetic products. They 
@@ -16,7 +16,7 @@ fi:
       
       
     travel_set:
-        heading: The set contains
+        header: The set contains
         main:       <p><strong>daily refresh </strong><br/>
               Cleansing fluid, 10 ml</p>
             <p> <strong>intense moisture </strong><br/>

@@ -9,7 +9,7 @@ fi:
           3. Parantaa huomattavasti ihon kosteustasapainoa<br/>
           4. Juonteita vähentävä vaikutus on dermatologisesti testattu"
         
-    heading: Tehokkaat, vaikuttavat aineosat 
+    header: Tehokkaat, vaikuttavat aineosat 
     main: 
           Kesälumipisara (Leucojum aestivum)<br/>
           Kesälumipisaran mukulasta saatava uute (Leucojum aestivum) on
@@ -42,7 +42,7 @@ fi:
           uusiutumista edistävää vaikutusta.
           
     am_creme:
-        heading: uudistava ja kiinteyttävä/kohottava voide
+        header: uudistava ja kiinteyttävä/kohottava voide
         main:    
             Tehokkaan kosteuttavan vaikutuksensa vuoksi tämä voide silminnähden
             pehmentää ja kohottaa kasvojen ihoa. Kesälumipisaran uute (Leucojum
@@ -54,7 +54,7 @@ fi:
             jälkeen.<br/>
             Seretifioitu luomukosmetiikka (NaTrue), vegaaninen            
     am_serum:
-        heading: Kohottava/kiinteyttävä seerumi
+        header: Kohottava/kiinteyttävä seerumi
         main:    
             Tehokkaat aineosat tiivistetyssä muodossa! Seerumin hieno/huolella
             suunniteltu vaikuttavien aineosien yhdistelmä heleyttää ihonväriä,
@@ -66,7 +66,7 @@ fi:
             ageing –tehoa/tehohoitoa/hoitoa/vaikutusta.<br/>
             Sertifioitu luomukosmetiikka (NaTrue), vegaaninen
     am_rollon:
-        heading: Kiinteyttävä/kohottava seerumi silmänympäryksien iholle
+        header: Kiinteyttävä/kohottava seerumi silmänympäryksien iholle
         main:   
             Hieno/huolella suunniteltu vaikuttavien aineosien yhdistelmä täydentää
             ihon kosteusvarastoja ja pehmentää silminnähden/huomattavasti
@@ -78,7 +78,7 @@ fi:
             jälkeen.<br/>
             Sertifioitu luomukosmetiikka (NaTrue), vegaaninen
     am_night:
-        heading: emulsio yöksi/hyvänyön emulsio
+        header: emulsio yöksi/hyvänyön emulsio
         main:    
             Kevyt yöhoito jossa on runsaasti/suuri määrä/korkea pitoisuus
             vaikuttavia aineosia. Antaa/sallii ihon hengittää/syvähengittää yöllä
@@ -100,7 +100,7 @@ en:
           3. Significantly improves moisture level of skin. <br/>
           4. Is dermatologically proven to diminish wrinkles. 
         
-    heading: Innovative active ingredients
+    header: Innovative active ingredients
     main: 
         Leucojum Aestivum bulb extract <br/>
         An absolute innovation in anti-ageing research! Rather than speeding up the skin’s 
@@ -127,7 +127,7 @@ en:
         from iris and attar of roses, supports the regenerating effect.<br/>
         
     am_creme:
-        heading: Lifting &amp; regenerating cream
+        header: Lifting &amp; regenerating cream
         main:    
             Noticeably smoothes and lifts thanks  to its intensive moisturizing effect. 
             Leucojum aestivum bulb extract, the  anti-ageing innovation, slows down the 
@@ -137,7 +137,7 @@ en:
             is dermatologically proven. <br/>
             100% from natural origin – 95% of the certifiable natural substances are organic 
     am_serum:
-        heading: Lifting serum
+        header: Lifting serum
         main:    
             The active-agent concentrate with an  intensive effect! The sophisticated complex 
             of active substances tones the skin  and leaves the facial outline firmer. Apply
@@ -147,7 +147,7 @@ en:
             effectiveness is dermatologically proven. <br/>
             100% from natural origin – 95% of the certifiable natural substances are organic 
     am_rollon:
-        heading: Lifting eye serum
+        header: Lifting eye serum
         main:    
             A sophisticated complex of active ingredients  refills the skin’s moisture depots 
             and smoothes eye wrinkles successfully.  Sorbus domestica bud extract visibly 
@@ -157,7 +157,7 @@ en:
             100% from natural origin – 95% of the certifiable natural substances are organic 
     
     am_night:
-        heading: Night miracle fluid
+        header: Night miracle fluid
         main:    
             Light night care with a superior degree  complex of active ingredients. Allows 
             skin to breathe deeply during the night  and stimulates complexion towards 

@@ -8,7 +8,7 @@ fi:
         2. elvyttää ihoa stressaavissa tilanteissa <br/>
         3. suojaa ympäristön vaikutuksilta <br/>
         4. hohtavat mineraalihiukkaset peittävät pieniä epäpuhtauksia ja juonteita
-    heading:     Tehokkaat, vaikuttavat aineosat 
+    header:     Tehokkaat, vaikuttavat aineosat 
     main: 
         "Orinoco -pähkinä ja brasilialainen pippuripuu <br/>    
         Orinoco –pähkinässä on runsaasti hyvälaatuisia Omega-3 –rasvahappoja.
@@ -26,7 +26,7 @@ fi:
         'onnellisuusvaikutusta' muiden aineosien hyväätekeviä
         vaikutuksia/muiden aineosien hyviä vaikutuksia/voiteen vaikutuksia."
     bb_cream:
-        heading: Bliss Cream
+        header: Bliss Cream
         main:   
             Ainutlaatuinen, hieno voide vaativiin tilanteisiin, joissa tahdot olla
             eduksesi/parhaimmillasi/tuntea itsesi kauniiksi. Sisältää Orinoco
@@ -54,7 +54,7 @@ en:
         2. Vitalises skin in stress situations.  <br/>
         3. Protects skin from damaging environmental influences. <br/>
         4. Added shimmer particles conceal blemishes. <br/>
-    heading: The innovation in natural cosmetics
+    header: The innovation in natural cosmetics
     main: 
         Orinoco nut and Brazilian pepper tree <br/>
         With its high-quality Omega-3 fatty acids, the Orinoco nut has a positive influence 
@@ -73,7 +73,7 @@ en:
         line of products. <br/>   
 
     bb_cream:
-        heading: Bliss cream
+        header: Bliss cream
         main:   
             Designed for when you want to give yourself a special treat.This exceptional
             cream caresses your skin and gives you a marvellous sense of well-being. With 

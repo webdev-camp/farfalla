@@ -11,10 +11,10 @@ fi:
           luomutuotannosta. Parfyymien pohjana Farfalla käyttää luomu alkoholia ja luomu kukkaisvesiä. 
           Tuotteita ei ole testattu eläimillä."
     
-    heading: " "
+    header: " "
     main: " " 
     anima:
-        heading: Anima
+        header: Anima
         main:  
             Tuoksu, joka tuo esille olemuksesi kätketyn hymyn! Samalla kertaa syvällinen ja 
             dynaaminen sekä hedelmäisen raikas  greipin, mandariini ja appelsiinin tuoksuilla.
@@ -22,7 +22,7 @@ fi:
             Tuoksu on pyöristetty metsäisillä tuoksuilla ja benzoanilla.
             
     nuvola:
-        heading: Nuvola 
+        header: Nuvola 
         main:  
             Nauti tunteesta että kävelet kuin ilmassa käyttäessäsi tätä tuoksua! Nuvola tarkoittaa pilveä 
             italiaksi .Käyttäessäsi tätä tuoksua saat miesten päät kääntymään .  Sydäntuoksu
@@ -44,16 +44,16 @@ en:
             As a base Farfalla uses alcohol and flower water specially produced in organic quality.
              No animal testing. 
     
-    heading: " "
+    header: " "
     main: " " 
     anima:
-        heading: Anima
+        header: Anima
         main:  A fragrance that can bring out yoursoul’s hiddensmile! Profound, dynamic and, 
                 at the same time, fruity with refreshing notes of grapefruit, mandarinandorange. 
                 The heart contains sunnynotes ofmimosa and orange blossoms, 
                 rounded off by precious woods and benzoin.
     nuvola:
-        heading: Nuvola 
+        header: Nuvola 
         main:  Enjoy the feeling of walking on air when wearing this scent! Nuvola, meaning “cloud” in Italian, 
                 is said to make men’s heads not only turn but spin. Fresh and multi-faceted at first, 
                 the heart note then becomes very feminine and powdery. 

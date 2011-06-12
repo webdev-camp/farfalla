@@ -11,16 +11,16 @@ fi:
                 Jokaisen hiuslaadun (ihotyypin) yksilölliset erityisominaisuudet on otettu huomioon, 
                 jotta hiustenhoidon (ihonhoidon) optimaalinen vaikuttavuus on taattu. <br/>
                 Farfallan tuotteet eivät sisällä synteettisiä hajusteita, väri- tai säilöntäaineita.         
-    heading: Luonnolliset shampoot
+    header: Luonnolliset shampoot
     sh_frangipani_silk:
-        heading: Kiiltoa ja volyymia Frangipani-silkki shampoosta
+        header: Kiiltoa ja volyymia Frangipani-silkki shampoosta
         sub_header: For more shine and volume 
         main:  Silkkiproteiini antaa hiuksille ihanan hohteen, fosfolipidit enemmän kestävää volyymia.  
               ja  frangipanin kukat ihastuttavan herkän tuoksun
         Ainesosat: Vesi, kasvipohjainen saippua, alkoholi, kasviglyseriini, eteeriset öljyt, xantaanikumi, 
                     maitohappo, silkkiproteiinit, kasviproteiinit
     sh_wild_rose:
-        heading: Hellävarainen Villiruusu shampoo
+        header: Hellävarainen Villiruusu shampoo
         sub_header: For fine hair, sensitive scalp, children
         main:  Erittäin mieto ja luonnollinen shampoo sopii erityisesti ohuille hiuksille, herkälle 
               päänahalle ja lapsille. Kallisarvoinen ruusu-uute rauhoittaa ja tasapainoittaa herkkää päänahkaa.  
@@ -29,7 +29,7 @@ fi:
                   maitohappo, kasviproteiinit
         
     sh_pomegranate:
-        heading: Granaattiomenashampoo päivittäiseen käyttöön
+        header: Granaattiomenashampoo päivittäiseen käyttöön
         sub_header: For normal hair, frequent washing
         main:  Ihanteellinen shampoo nomaaleille hiuksille sekä usein toistuvaan pesuun. Kallisarvoisen 
               granaattiomenan tehoaineet suojaavat hiuksia kuivumiselta ja kosteuttavat hiuksia luonnollisesti. 
@@ -42,14 +42,14 @@ fi:
               ** part of natural essential oils
               
     sh_neem_rhassoul:
-        heading: Balance, Neem-rhassoul Shampoo 
+        header: Balance, Neem-rhassoul Shampoo 
         sub_header: Against dandruff
         main:  Natural shampoo to combat dandruff. This special shampoo based on extract of neem, 
                 as well as Moroccan clay, lastingly combats dandruff. With the essential oils of juniper 
                 wood, thyme and rosemary as selected active ingredients. For dandruff-free hair and a 
                 well-groomed appearance.
     sh_jojoba_aloe:
-        heading: Korjaava Jojoba-aloe shampoo
+        header: Korjaava Jojoba-aloe shampoo
         sub_header: For dry, brittle and dyed hair
         main:  Vahvistava shampoo kuiville, katkeileville ja värikäsitellyille hiuksille. 
               Jojobauute ja aloe vera kosteuttavat ja ravitsevat hiusta. Sitrushedelmien eteeriset 
@@ -63,7 +63,7 @@ fi:
               Hydrolyzed Wheat Protein, Geraniol **, Citronellol **, linalool **, Limonene **. 
               * Certified organic, ** part of natural essential oils
     sh_melissa_seaweed: 
-        heading: Clear, Melissa-seaweed Shampoo 
+        header: Clear, Melissa-seaweed Shampoo 
         sub_header: For greasy hair
         main:  Natural shampoo for greasy hair.
               Fucus vesiculosus is the name of the seaweed from Brittany in this shampoo, which stops the
@@ -79,44 +79,44 @@ en:
                 controlled natural cosmetics guidelines. 
                 For each hair type, we have selected the most suitable vegetable extracts and a 
                 well-coordinated blend of natural essential oils as the active fragrant ingredients.            
-    heading: Shampoos
+    header: Shampoos
     sh_frangipani_silk:
-        heading: Shine &amp; Volume, Frangipani-silk Shampoo
+        header: Shine &amp; Volume, Frangipani-silk Shampoo
         sub_header: For more shine and volume 
         main:  Natural shampoo for more shine and volume. Silkily lustrous hair and more volume? 
                 Feel the difference – silk proteins give a wonderful shine and more lasting volume. 
                 With the delicate scent of the frangipani blossom. Back up the new fullness with farfalla 
                 volume hairspray.
     sh_wild_rose:
-        heading: Sensitive, Wild Rose Shampoo
+        header: Sensitive, Wild Rose Shampoo
         sub_header: For fine hair, sensitive scalp, children
         main:  Extra-mild natural shampoo. Especially for fine hair, children and sensitive scalps. 
               Extract of rose soothes and harmonises the sensitive scalp. For healthy, beautiful hair, 
               from the roots to the tips. For natural shine. No synthetic aroma, colour or preservatives. 
               No PEGs, silicone or SLS. 
     sh_pomegranate:
-        heading: Everyday, Pomegranate Shampoo
+        header: Everyday, Pomegranate Shampoo
         sub_header: For normal hair, frequent washing
         main:  Natural shampoo for frequent washing. Precious active ingredients from the 
                 pomegranate protect your hair from drying out, even with daily washing. 
                hair feels more elastic, manageable and well-groomed.
                 For ideal moisturising and a natural shine.
     sh_neem_rhassoul:
-        heading: Balance, Neem-rhassoul Shampoo 
+        header: Balance, Neem-rhassoul Shampoo 
         sub_header: Against dandruff
         main:  Natural shampoo to combat dandruff. This special shampoo based on extract of neem, 
                 as well as Moroccan clay, lastingly combats dandruff. With the essential oils of juniper 
                 wood, thyme and rosemary as selected active ingredients. For dandruff-free hair and a 
                 well-groomed appearance.
     sh_jojoba_aloe:
-        heading: Repair, Jojoba-aloe Shampoo
+        header: Repair, Jojoba-aloe Shampoo
         sub_header: For dry, brittle and dyed hair
         main:  Natural shampoo for dry and dyed hair. Extracts of jojoba and aloe vera provide 
                 moisture and important building materials for the hair. For manageable, smooth hair, 
                 that gleams with a natural shine. Essential oils of citrus fruits revitalise the scalp
                 and make for a lively, healthy head of hair.
     sh_melissa_seaweed: 
-        heading: Clear, Melissa-seaweed Shampoo 
+        header: Clear, Melissa-seaweed Shampoo 
         sub_header: For greasy hair
         main:  Natural shampoo for greasy hair.
               Fucus vesiculosus is the name of the seaweed from Brittany in this shampoo, which stops the

@@ -9,7 +9,7 @@ fi:
           3. Suojelee ihoa vapailta radikaaleilta antioksidanteilla<br/>
           4. Hoitaa ja elvyttää ihoa muuttuvissa olosuhteissa (ikä, stressi jne.) <br/>
         
-    heading:  Tehokkaat, vaikuttavat aineosat 
+    header:  Tehokkaat, vaikuttavat aineosat 
     main: 
           Syyssyreeniuute (Buddleja davidii)<br/>
           Ihanteellinen oksidanttisuoja päivittäisiä ympäristön vaikutuksia,
@@ -30,7 +30,7 @@ fi:
           juuri herkälle iholle.
       
     ps_cream:
-        heading: Rauhoittava ja kosteuttava voide
+        header: Rauhoittava ja kosteuttava voide
         main: 
               Luomuviljelty Buddleja davidii -uute rauhoittaa herkkää ihoa ja antaa
               parhaan mahdollisen suojan vapaita radikaaleja vastaan.
@@ -49,7 +49,7 @@ en:
       3. Protects against free radicals with help of anti-oxidants. <br/>
       4. Supports the skin, allowing it to adapt to any type of change. <br/>
         
-    heading: Innovative active ingredients
+    header: Innovative active ingredients
     main: <p>Buddleja davidii extract <br/>
       Ideal oxidative protection against daily environmental influences, in particular 
       against free radicals. Tests showed that the moisture content in the skin was 
@@ -64,7 +64,7 @@ en:
       skin.  <br/>  
       
     ps_cream:
-        heading: Soothing&amp; moisturising cream
+        header: Soothing&amp; moisturising cream
         main: Organic Buddleja davidii extract soothes 
             very sensitive skin and provides optimum 
             protection against free radicals. 

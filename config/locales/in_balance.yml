@@ -11,13 +11,13 @@ fi:
         - Tekee ihosta tasaisen ja mattamaisen silkinpehmeän<br/>
         - Rauhoittaa ihon epäpuhtauksia<br/>
         
-    heading:     "Tehokkaat, vaikuttavat aineosat :"
+    header:     "Tehokkaat, vaikuttavat aineosat :"
     main: Luomulaatuinen pellavansiemenuute tasapainottaa epäpuhtauksia ja tekee
           kasvojen ihosta näkyvästi raikkaamman ja kirkkaamman. Luomulaatuinen
           hamamelisuute ja eteeriset öljyt kirkastavat ja virkistävät ihoa. Aloe
           Vera kosteuttaa ja edistää solujen uusiutumista.          
     ib_serum:
-        heading: In balance -tasapainottava seerumi 
+        header: In balance -tasapainottava seerumi 
         main:  Kirkastaa, tasoittaa ja rauhoittaa ihoa tehokkaasti.
               Pellavansiemenuute hillitsee selvästi ihon talintuotantoa. Rosmariini,
               kultapäivännouto ja ruusumyrtti ehkäisevät finnien ja mustapäiden
@@ -26,7 +26,7 @@ fi:
               levitä iholle In balance –tasapainottava, tasoittava emulsio. <br/>
               Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
     ib_fluid:
-        heading: tasapainottava, tasoittava emulsio
+        header: tasapainottava, tasoittava emulsio
         main:   Kirkastaa, pehmentää ja rauhoittaa ihoa ja antaa sille tasaisen,
               silkinpehmeän mattapinnan. Pellavansiemenuute hillitsee liiallista
               talineritystä. Rosmariini, kallioruusu ja manuka ehkäisevät
@@ -34,7 +34,7 @@ fi:
               balance -tasapainottavan seerumin) jälkeen aamuin illoin. <br/>
               Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
     ib_maske:
-        heading: kirkastava, puhdistava naamio
+        header: kirkastava, puhdistava naamio
         main:   Puhdistaa, selkeyttää ja raikastaa ihoa sisältämiensä greipin,
               rosmariinin ja sitruunan ansiosta. Poistaa hellävaraisesti vanhaa
               ihosolukkoa ja auttaa ihoa ottamaan vastaan hoitavien tuotteiden
@@ -52,7 +52,7 @@ en:
           2. Natural sebaceous secretion regulation. <br/>
           3. Refines skin and gives your complexion a  visibly matte finish. 
         
-    heading: Innovative active ingredients
+    header: Innovative active ingredients
     main: Linseed extract <br/>
           A fantastic plant substance that controls oily and/or blemished skin, leaving a 
           refreshingly clean and clear appearance. Test results showed a positive reduction 
@@ -72,14 +72,14 @@ en:
           balanced sebum production supported.<br/>
           
     ib_fluid:
-        heading: Balancing fluid  with matting effect
+        header: Balancing fluid  with matting effect
         main:  Clarifies, smoothes and calms your skin and gives your complexion a balanced, matte finish. 
                 Linseed extracts control the overproduction of sebum. 
                 Rosemary, rock rose and manuka counteract impurities. Following cleansing/tonic 
                 in the morning and evening, apply  Balancing serum, if desired. <br/>
                 100% from natural origin – 74% of the certifiable natural substances are organic
     ib_serum:
-        heading: Balancing serum
+        header: Balancing serum
         main:   <p>Clarifies, smoothes and calms skin 
               intensively. Extracts of linseed clearly reduce 
               sebum production. Rosemary, rock 
@@ -91,7 +91,7 @@ en:
               <p>100% from natural origin – 95% of the 
               certifiable natural substances are organic   
     ib_maske:
-        heading: Clarifying cleansing mask
+        header: Clarifying cleansing mask
         main:   <p> Cleanses, refines and refreshes thanks 
             to its grapefruit, citron and rosemary 
             ingredients. Gently removes dry flakes <br/>

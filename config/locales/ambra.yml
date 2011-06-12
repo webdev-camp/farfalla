@@ -4,11 +4,11 @@ fi:
     header: Ambra
     sub_header: <b>aistillinen vartalonhoitosarja</b>
     list: Ylellinen, hemmotteleva vartalonhoitosarja, jonka mysteerinen lämmin itämainen tuoksu on vastustamaton.       
-    heading: " "
+    header: " "
     main: " "
       
     am_shower:
-      heading: Ambra suihkuvoide
+      header: Ambra suihkuvoide
       main:  Kannattaa kokeilla! Lämmin- ja aistikastuoksuinen suihkugeeli puhdistaa ihon hellästi ja perusteellisesti. 
             Purista sormenpäihisi helmenkokoinen annos ja hiero kostealle iholle. 200 ml
       Ainesosat: vesi, (kasviperäisten raaka-aineiden pinta-aktiivisia aineita), auringonkukkaöljy, alkoholi, 
@@ -17,7 +17,7 @@ fi:
             fragrance (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, limonene *, 
             linalool *, benzyl benzoates *. * certified organic * from natural essential oils
     am_bodylotion:
-        heading: Ambra kosteusvoide
+        header: Ambra kosteusvoide
         main:   Tämä sensuellituoksuinen kosteusvoide imeytyy helposti iholla ja tekee ihon sametin 
                 pehmeäksi kasviöljy pohjaisten luomuraaka-aineiden avulla. 150 ml 
         ainesosat: Aqueous alcoholic extract of CENTELLA asiatica (CENTELLA asiatica= gotu kola), 
@@ -33,7 +33,7 @@ fi:
               * certified organic * part of natural essential oils
                 
     am_body_butter:
-      heading: Vartalovoide Ambra
+      header: Vartalovoide Ambra
       main:   Hienostunut kosteuttava vartalovoide, joka kirjaimellisesti sulaa iholle ja 
               tekee sen sametin pehmeäksi tuoksuen aistikkaalle ambralle. 50 ml
       Ainesosat: shea butter, vesi, kasviglyseriini, triglyseridit, appelsiininkukkavesi, aloe vera, 
@@ -48,7 +48,7 @@ fi:
             Squalane, tocopherol, xanthan gum, Daucus carota extract *, 
             Asparagopsis Armata extract, limonene *. * certified organic * from natural essential oils
     am_eau_fraiche:
-      heading: Ambra Eau Fraîche
+      header: Ambra Eau Fraîche
       main:   Ihastuttava taianomainen tuoksuyhdistelmä, jossa yhdistyvät santeli, 
             Attar-ruusu ja vanilja yhdessä rockrosen kanssa.
             50 ml <br/>
@@ -57,10 +57,10 @@ fi:
                   benzyl benzoates*, Citral*, benzyl alcohol*, Geraniol*, benzyl salicylates*, Citronellol*, 
                   Coumarine*.* certified organic. * from natural essential oils
     am_shower_small:
-      heading: Ambra Shower cream
+      header: Ambra Shower cream
       main:   Small version for travelling and to try out
     am_lotion_small:
-      heading: Ambra Bodylotion
+      header: Ambra Bodylotion
       main:   Small version for travelling and to try out
 en:
   ambra:
@@ -71,31 +71,31 @@ en:
           the mysterious scents of the Orient drifting through the open window. 
           The delicate scents of this line are also warm, sensuous and enveloping. 
           With, of course, most of the ingredients in organic quality. Jump in and spoil yourself!        
-    heading: " "
+    header: " "
     main: " "
       
     am_shower:
-        heading: Ambra Shower cream
+        header: Ambra Shower cream
         main:  Velvety soft shower cream with a warm sensuous scent note for your daily, 
                 gentle body cleansing. Application, apply a pearl-sized portion to wet 
                 skin and work to a foam. With a cleansing sponge you can achieve more foam. 200 ml
     am_bodylotion:
-        heading: Ambra Bodylotion
+        header: Ambra Bodylotion
         main:   This body lotion with its warm, sensuous scent gives your skin a velvety soft feeling. 
                 With plant oils and floral waters in organic quality. For your daily body care. 150 ml
     am_body_butter:
-        heading: Fresh Bodybutter
+        header: Fresh Bodybutter
         main:   A delicate bodybutter for intensive skin moisturising. 
                 It melts on the skin to give a velvety textue. With the scent of ambra - 
                 a sensuous pleasure. 50 ml        
     am_eau_fraiche:
-        heading: Ambra Eau Fraîche
+        header: Ambra Eau Fraîche
         main:   A sumptuous scent composition with a deep, warm vibrancy. 
                 A sophisticated blend of cistus with sandalwood, rose attar and vanilla. 
                 This Eau Fraîche gives the wearer a touch of magic. 50 ml
     am_shower_small:
-        heading: Ambra Shower cream
+        header: Ambra Shower cream
         main:   Small version for travelling and to try out
     am_lotion_small:
-        heading: Ambra Bodylotion
+        header: Ambra Bodylotion
         main:   Small version for travelling and to try out

@@ -15,7 +15,7 @@ fi:
           Sertifioitua luomukosmetiikkaa, jossa 95% valmistusaineista on luomu-laatua, – Tason 3 NaTrue. "
 
     amberstone_oil:
-        heading: Amberstone Oil 
+        header: Amberstone Oil 
         main: "A warming oil that awakens sunny thoughts and inner energy. 
               Essential oils of benzoe and mandarin make the skin silky-soft and radiant. 
               It can be used as a facial, skin, massage or bath oil. Massage gently into face or body.
@@ -23,7 +23,7 @@ fi:
                INCI: Simondsia Chinensis*, Parfum (Natural Essential Oils), Benzyl Benzoate**, 
                Citral**, Geraniol**, Linalol**, Limonene**." 
     amberstone_cream:
-        heading: Amberstone Cream
+        header: Amberstone Cream
         main: "A warming oil that awakens sunny thoughts and inner energy. 
                 Essential oils of benzoe and mandarin make the skin silky-soft and radiant. 
                 It can be used as a facial, skin, massage or bath oil. Massage gently into face or body.  80 ml.<br/>
@@ -35,14 +35,14 @@ fi:
                 Tocopherol, Citric Acid, Ascorbic Acid, Benzyl Benzoate**, Citral**, Coumarine**, Farnesol**, 
                 Geraniol**, Linalool**, Limonene**. "
     amberstone_fraiche:
-      heading: Meripihka Eau Fraîche
+      header: Meripihka Eau Fraîche
       main: "Tämä hedelmäinen ja pehmeä luomuparfyymi on todellinen valon tuoja. Meripihka ja bergamotti
             yhdistävät valoa puoleensavetävät energiansa benzoen ja mandariinin tarjotessa lempeän taustan. 
             Käyttö: parfyymina, energisoivana ja – esimerkiksi huoneessa –harmonisoivana spraynä <br/> 
               INCI: Alcohol*, Citrus Aurantium Amara Flower Water*, Parfum (Natural Essential Oils), Benzyl Benzoate**, 
               Benzyl Cinnamate**, Citral**, Coumarine**, Farnesol**, Geraniol**, Linalool**, Limonene**."
     amberstone_set:
-      heading: Meripihka setti
+      header: Meripihka setti
       main: "Tämä ihana setti sisältää Meripihka jalokiviöljyn, ihovoiteen ja Eau fraichen.
         Tutustu Meripihka-sarjaan, anna lahjaksi tai ota mukaan matkalle.
         3 x 20 ml." 
@@ -64,7 +64,7 @@ en:
           We do not use polyethylene glycol or paraffines. Farfalla is against animal testing."
 
     amberstone_oil:
-        heading: Amberstone Oil 
+        header: Amberstone Oil 
         main: "A warming oil that awakens sunny thoughts and inner energy. 
               Essential oils of benzoe and mandarin make the skin silky-soft and radiant. 
               It can be used as a facial, skin, massage or bath oil. Massage gently into face or body.
@@ -72,7 +72,7 @@ en:
                INCI: Simondsia Chinensis*, Parfum (Natural Essential Oils), Benzyl Benzoate**, 
                Citral**, Geraniol**, Linalol**, Limonene**." 
     amberstone_cream:
-        heading: Amberstone Cream
+        header: Amberstone Cream
         main: "A warming oil that awakens sunny thoughts and inner energy. 
                 Essential oils of benzoe and mandarin make the skin silky-soft and radiant. 
                 It can be used as a facial, skin, massage or bath oil. Massage gently into face or body.  80 ml.<br/>
@@ -84,14 +84,14 @@ en:
                 Tocopherol, Citric Acid, Ascorbic Acid, Benzyl Benzoate**, Citral**, Coumarine**, Farnesol**, 
                 Geraniol**, Linalool**, Limonene**. "
     amberstone_fraiche:
-      heading: Amberstone Eau Fraîche
+      header: Amberstone Eau Fraîche
       main: "Amber and bergamot combine their light-attracting energy, 
               while benzoe and mandarin offer a gentle background. 
               Use: Use as a natural perfume, energy spray and room harmoniser.50 ml. <br/> 
               INCI: Alcohol*, Citrus Aurantium Amara Flower Water*, Parfum (Natural Essential Oils), Benzyl Benzoate**, 
               Benzyl Cinnamate**, Citral**, Coumarine**, Farnesol**, Geraniol**, Linalool**, Limonene**."
     amberstone_set:
-      heading: Amberstone Set 
+      header: Amberstone Set 
       main: "Contains 20 ml Amberstone oil, 20 ml Amberstone cream and 20 ml Amberstone Eau Fraîche. <br/>
             To test and try out or as a pretty feel-good present set." 
     
