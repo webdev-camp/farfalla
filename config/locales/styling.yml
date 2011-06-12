@@ -7,7 +7,7 @@ fi:
           jotka auttavat kampauksen muotoilussa, pidossa sekä hoitavat ja suojaavat hiusta.
     st_mousse:
         heading: Muotoiluvaahto
-        for:  Hold, volume & shine
+        sub_header:  Hold, volume & shine
         main:  Pitoa, volyymia ja kiiltoa! Luonnollinen muotoiluvaahto auttaa kampauksen muotoilussa, 
                 tukee kampauksen kestävyyttä ja tekee kauniin kiiltävät hiukset. Levitä pyyhekuiviin 
                 hiuksiin pesun jälkeen.
@@ -19,7 +19,7 @@ fi:
               linalool *, limonene *. * certified organic * part of natural essential oils
     st_spray:
         heading: Hiuskiinne
-        for:  Hold, volume & shine
+        sub_header:  Hold, volume & shine
         main:  Luonnollinen ja joustava tuki kaikille hiuksille ja jokaiselle kampaukselle koko päiväksi! 
               Hiuskiinne on hienojakoinen (ei tahmaa?/ ei jää jäämiä??) ja sen voi harjata helposti pois hiuksista.
                (Ilman ponneaineita!)
@@ -32,7 +32,7 @@ fi:
         
     st_gel:
         heading: Styling Gel 
-        for:  Long-lasting hold
+        sub_header:  Long-lasting hold
         main:  The styling gel. Our styling gel for expert modelling and creative styling. 
               Non-sticky, residue-free combing out. No synthetic aroma, colour or preservatives. 
               No PEGs or silicone.
@@ -48,21 +48,21 @@ en:
     heading: Shampoos
     st_mousse:
         heading: Styling Mousse 
-        for:  Hold, volume & shine
+        sub_header:  Hold, volume & shine
         main:  The volume foam. Our styling mousse helps you form your hairdo and aids its durability, 
               while giving a beautiful shine. Use, massage into towel-dried hair after washing. No
               synthetic aroma, colour or preservatives.
               No PEGs or silicone.
     st_spray:
         heading: Hair Spray 
-        for:  Hold, volume & shine
+        sub_header:  Hold, volume & shine
         main:  Natural, long-lasting hold for your hairstyle. Our spray is non-tacky, 
               leaves no residue and can be easily brushed out. 
               Thanks to its holding power, it fixes your hair all day long. 
               No synthetic aroma, colour or preservatives. Contains no propellant.
     st_gel:
         heading: Styling Gel 
-        for:  Long-lasting hold
+        sub_header:  Long-lasting hold
         main:  The styling gel. Our styling gel for expert modelling and creative styling. 
               Non-sticky, residue-free combing out. No synthetic aroma, colour or preservatives. 
               No PEGs or silicone.

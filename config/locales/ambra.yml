@@ -2,7 +2,7 @@ fi:
   ambra:
     products: am_shower am_bodylotion am_body_butter am_eau_fraiche am_shower_small am_lotion_small
     header: Ambra
-    sub_header: <b>vartalonhoitosarja</b>
+    sub_header: <b>aistillinen vartalonhoitosarja</b>
     list: Ylellinen, hemmotteleva vartalonhoitosarja, jonka mysteerinen lämmin itämainen tuoksu on vastustamaton.       
     heading: " "
     main: " "
