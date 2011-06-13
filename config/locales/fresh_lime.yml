@@ -1,67 +1,34 @@
-fi:
-  fresh_lime:
-    products: fl_shower fl_bodylotion fl_eau_fraiche fl_body_butter fl_shower_small fl_lotion_small
-    header: Fresh Lime 
-    sub_header: <b>raikas vartalonhoitosarja</b>
-    list: <em> Mikä tuoksu! </em> Kuin kävelisi sitruslehdossa ja tuntisi etelän auringon lämmön ihollaan! 
-          Tämä fantastinen sitruskukkien ja –hedelmien tuoksu vitalisoi kaikkia ihosoluja ja ravitsee 
-          samalla sielua.
+--- 
+fi: 
+  fresh_lime: 
+    fl_body_butter: 
+      header: "Fresh Lime kosteusvoide"
+      inci: "Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, Rosa Damascena flower water *, Cocos Nucifera oil *, Cetearyl alcohol, Cetearyl wheat bran Glucosides, perfume (natural essential oils), Squalane, Heliantus Annuus seed oil *, Cera Alba, glyceryl stearate, tocopherol, xanthan gum, Vitis vinifera seed oil, CENTELLA asiatica extract *, Asparagopsis Armata extract, benzyl benzoates *, Coumarine Geraniol *, limonene *, linalool *, Citral *. * certified organic * from natural essential oils"
+      ingredients: "Aqueous alcoholic extract of CENTELLA asiatica (CENTELLA asiatica= gotu kola), (vesipitoinen alkoholi….), kasviglyseriini, shea butter, ruusuvesi, kookosöljy, vehnä glykosidi, fatty alcohol, mix natural essential oils, Phytosqualan, auringonkukkaöljy, mehiläisvaha,   triglycerides, glyceryl stearate, luonnoll. vit. E, xantaanikumi, greipinsiemenöljy, merisuolauute. * from kontr. Organic"
+      main: "Kun iho vaatii uudistumista ja kaipaa virkistystä, takaa kasvipohjainen sitruksenraikas voide sille jokapäiväisen vitamiiniannoksen. 50 ml"
+    fl_bodylotion: 
+      header: "Fresh Lime vartalovoide"
+      inci: "Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, citrus aurantium flower water *, Aloe barbadensis gel *, alcohol *, citrus of grandis seed extract *, Cera Alba, Heliantus Annuus seed oil *, Cocos Nucifera oil *, Hammamelis Virginiana water *, Cetearyl alcohol, glyceryl stearate, Cetearyl wheat bran Glycosides, Daucus carota Extrcat *, Squalane, tocopherol, Asparagopsis Armata extract, xanthan gum, Citrix acid, fragrance (natural essential oils), limonene *, Linalol *, Citral *. * certified organic * from"
+      ingredients: "shea butter, vesi kasviglyseriini, triglycerides, appelsiininkukkavesi, aloe vera, alkoholi, greippiuute, mehiläisvaha, auringonkukkaöljy, kookosöljy, hamamelisvesi, wheat Glykosid, Cetearyl alcohol, glyceryl stearate, porkkanauute, glyceryl stearate, luonnoll. vit. E, merileväuute, xantaanikumi, sitruunahappo,  glyceryl stearate, natural essential oils mixture. * from kontr. Organic"
+      main: "Kosteuttava, hyvin ihoon imeytyvä shea butter-pohjainen voide uudistaa ihoa ja antaa ihanan virkistyneen olon! 150 ml"
+    fl_eau_fraiche: 
+      header: "Fresh Lime Eau Fraîche"
+      inci: "Alcohol *, perfume (natural essential oils), citrus aurantium flower water *, limonene *, linalool *, Citral *, Geraniol *, Citronellol *. * certified organic. * from natural essential oils"
+      ingredients: "alkoholi, natural essential oils mixture, appelsiininkukkavesi"
+      main: "Ihastuttavan raikkaat sitrukset, hienovarainen iiris ja pehmeä vanilja tekevät tuoksun, joka sopii niin arkeen, työhön kuin juhlaankin.  50 ml"
+    fl_lotion_small: 
+      header: "Lime and Lemon Bodylotion"
+      main: "Small version for travelling and to try out"
+    fl_shower: 
+      header: "Fresh Lime suihkuvoide"
+      inci: "Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance (natural essential oils), Asparagopsis Armata extract, xanthan gum, Geraniol, Citrix acid *, limonene *, linalool *, Citral *. * certified organic * part of natural essential"
+      ingredients: "vesi, (kasviperäisten raaka-aineiden pinta-aktiivisia aineita), auringonkukkaöljy, alkoholi, kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo, natural essential oils mixture\L"
+      main: "Sitruksen raikkautta suihkuun! Voidemainen hellävaraisesti pesevä vaahto ja kypsien limettien virkistävä tuoksu takaavat suihkuelämyksen! <br/> Purista sormenpäihin helmenkokoinen annos ja hiero kostealle iholle. 200 ml"
+    fl_shower_small: 
+      header: "Lime and Lemon Shower cream"
+      main: "Small version for travelling and to try out"
     header: " "
+    list: "<em> Mikä tuoksu! </em> Kuin kävelisi sitruslehdossa ja tuntisi etelän auringon lämmön ihollaan! Tämä fantastinen sitruskukkien ja –hedelmien tuoksu vitalisoi kaikkia ihosoluja ja ravitsee samalla sielua."
     main: " "
-    fl_shower:
-      header: Fresh Lime suihkuvoide
-      main:  Sitruksen raikkautta suihkuun! Voidemainen hellävaraisesti pesevä vaahto ja kypsien
-            limettien virkistävä tuoksu takaavat suihkuelämyksen! <br/>
-            Purista sormenpäihin helmenkokoinen annos ja hiero kostealle iholle. 200 ml 
-      ingredients: vesi, (kasviperäisten raaka-aineiden pinta-aktiivisia aineita), auringonkukkaöljy, alkoholi, 
-                kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo, 
-                natural essential oils mixture 
-      inci: Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, 
-            glycerin, fragrance (natural essential oils), Asparagopsis Armata extract, xanthan gum, Geraniol, 
-            Citrix acid *, limonene *, linalool *, Citral *. * certified organic * part of natural essential
-    fl_bodylotion:
-      header: Fresh Lime vartalovoide
-      main:   Kosteuttava, hyvin ihoon imeytyvä shea butter-pohjainen voide uudistaa ihoa ja antaa ihanan 
-              virkistyneen olon! 150 ml 
-      ingredients: shea butter, vesi kasviglyseriini, triglycerides, appelsiininkukkavesi, aloe vera, alkoholi, 
-                greippiuute, mehiläisvaha, auringonkukkaöljy, kookosöljy, hamamelisvesi, wheat Glykosid, 
-                Cetearyl alcohol, glyceryl stearate, porkkanauute, glyceryl stearate, luonnoll. vit. E, 
-                merileväuute, xantaanikumi, sitruunahappo,  glyceryl stearate, natural essential oils mixture. 
-                * from kontr. Organic
-      inci: Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, 
-            citrus aurantium flower water *, Aloe barbadensis gel *, alcohol *, 
-            citrus of grandis seed extract *, Cera Alba, Heliantus Annuus seed oil *, 
-            Cocos Nucifera oil *, Hammamelis Virginiana water *, Cetearyl alcohol, 
-            glyceryl stearate, Cetearyl wheat bran Glycosides, Daucus carota Extrcat *, 
-            Squalane, tocopherol, Asparagopsis Armata extract, xanthan gum, Citrix acid, 
-            fragrance (natural essential oils), limonene *, Linalol *, Citral *. * certified organic * from 
-    fl_body_butter:
-      header: Fresh Lime kosteusvoide
-      main: Kun iho vaatii uudistumista ja kaipaa virkistystä, takaa kasvipohjainen 
-            sitruksenraikas voide sille jokapäiväisen vitamiiniannoksen. 50 ml        
-      ingredients: Aqueous alcoholic extract of CENTELLA asiatica (CENTELLA asiatica= gotu kola), 
-            (vesipitoinen alkoholi….), kasviglyseriini, shea butter, ruusuvesi, kookosöljy, vehnä glykosidi, 
-            fatty alcohol, mix natural essential oils, Phytosqualan, auringonkukkaöljy, mehiläisvaha,   
-            triglycerides, glyceryl stearate, luonnoll. vit. E, xantaanikumi, greipinsiemenöljy, 
-            merisuolauute. * from kontr. Organic
-      inci: Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, 
-            Rosa Damascena flower water *, Cocos Nucifera oil *, Cetearyl alcohol, 
-            Cetearyl wheat bran Glucosides, perfume (natural essential oils), 
-            Squalane, Heliantus Annuus seed oil *, Cera Alba, glyceryl stearate, 
-            tocopherol, xanthan gum, Vitis vinifera seed oil, CENTELLA asiatica extract *, 
-            Asparagopsis Armata extract, benzyl benzoates *, Coumarine Geraniol *, limonene *, 
-            linalool *, Citral *. * certified organic * from natural essential oils 
-    fl_eau_fraiche:
-        header: Fresh Lime Eau Fraîche
-        main:   Ihastuttavan raikkaat sitrukset, hienovarainen iiris ja pehmeä vanilja tekevät tuoksun, 
-                joka sopii niin arkeen, työhön kuin juhlaankin.  50 ml
-        ingredients:  alkoholi, natural essential oils mixture, appelsiininkukkavesi
-        inci: Alcohol *, perfume (natural essential oils), citrus aurantium flower water *, limonene *, 
-              linalool *, Citral *, Geraniol *, Citronellol *. * certified organic. * from natural essential oils 
-    fl_shower_small:
-        header: Lime and Lemon Shower cream
-        main:   Small version for travelling and to try out
-    fl_lotion_small:
-        header: Lime and Lemon Bodylotion
-        main:   Small version for travelling and to try out
-        
+    products: "fl_shower fl_bodylotion fl_eau_fraiche fl_body_butter fl_shower_small fl_lotion_small"
+    sub_header: "<b>raikas vartalonhoitosarja</b>"

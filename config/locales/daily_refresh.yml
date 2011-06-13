@@ -1,88 +1,36 @@
-fi:
-  daily_refresh:
-    products: dr_fluid dr_schaum dr_tonicF dr_tonicK dr_peeling
-    header: daily refresh
-    sub_header: ihon päivittäiseen hoitoon
-    list: Lempeä, perusteellinen puhdistus on iholle tärkeää. Se valmistelee
-        kasvojen herkän ihon hoitotuotteiden käyttöä varten. Käytä aamuin
-        illoin puhdistusemulsiota tai –vaahtoa ja sopivaa kasvovettä. Kerran
-        tai kahdesti viikossa tehty hellävarainen kuorinta tehostaa muiden
-        hoitotuotteiden vaikutusta. Elvyttää, virkistää ja säilyttää
-        kosteutta.<br/>
-        -Puhdistaa ihon perusteellisesti mutta hellävaraisesti<br/>
-        -Tekee ihosta raikkaan ja pehmeän<br/>
-        -Lempeän syväpuhdistuksen jälkeen iho pystyy parhaiten hyötymään
-          hoitavista tuotteista.
-        
-    header:       Tehokkaat, vaikuttavat aineosat 
-    main: 
-        Kvillaja<br/>
-        Arvokas luomulaatuinen kvillajan saponiini on peräisin
-        eteläamerikkalaisen suopapuun, Quillaja saponarian, kuoresta. Tämän
-        luonnonmateriaalin vaikuttavat aineosat sopivat erityisen hyvin
-        kasvojen puhdistukseen. Kansanlääketiede on hyödyntänyt saponiinia
-        sisältävää kvillajaa jo vuosien ajan.<br/>
-
-        Aloe vera<br/>
-        Luomulaatuinen kasviuute, joka on peräisin Aloe vera –kasvin lehdistä.
-        Koska Aloe vera -uute sisältää runsaasti mineraaleja, entsyymejä,
-        hivenaineita ja vitamiineja, se  tukee ihon uusiutumista. Aloe vera
-        kosteuttaa ihoa. Tästä seuraa, että ihosta tulee tasaisempi ja sen
-        uurteet pehmenevät.<br/>
-
-        Luonnolliset, syvävaikutteiset eteeriset öljyt<br/>
-        Luomulaatuiset, aromaterapian periaatteiden mukaisesti valitut
-        eteeriset öljyt, esim. greippi, sitruunaruoho, rosmariini, sitruuna ja
-        minttu elävöittävät ihoa ja tukevat kasviuutteiden syvävaikutusta.
-          
-    dr_fluid:
-        header: puhdistusemulsio
-        main:    
-            Syväpuhdistaa herkän ja kuivan ihon hellävaraisesti. Aloe vera suojaa
-            ihoa kuivumiselta, eteeriset öljyt greippi, sitruuna ja douglaskuusi
-            virkistävät ja elvyttävät ihoa. Levitä kostealle iholle, hiero
-            kevyesti ja huuhtele vedellä. Soveltuu myös meikin poistoon.<br/>
-
-            Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
-    dr_schaum:
-        header: puhdistusvaahto
-        main: 
-            Syväpuhdistaa ja kirkastaa normaalin ja lievästi epäpuhtaan ihon
-            kuivattamatta sitä. Quillaja –puusta saatava luomulaatuinen  saponiini
-            antaa iholle miellyttävän puhtauden tunnun. Eteeriset öljyt greippi,
-            sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. Levitä
-            puhdistusvaahtoa kostealle iholle ja hiero kevyesti.<br/>
-
-            Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
-    dr_tonicF:
-        header: kirkastava kasvovesi
-        main:   
-            Kirkastaa ja raikastaa ihon ja poistaa puhdistuksen jäänteet.
-            Sisältämiensä hamamelisuutteen sekä rosmariinin, kultapäivännoudon ja
-            ruusumyrtin eteeristen öljyjen ansiosta kasvovesi on hellävaraisesti
-            desinfioiva. Valmistaa ihoa ottamaan vastaan hoitavia tuotteita.
-            Puhdistuksen jälkeen pyyhi koko kasvojen iho hellästi kasvoveteen
-            kostutetulla pumpulilla<br/>
-
-            Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
-    dr_tonicK:
-        header: kosteuttava kasvovesi
-        main:     
-            Raikastaa ja rauhoittaa kasvojen herkkää ihoa ja poistaa puhdistuksen
-            jäänteet. Säilyttää ihon luonnollisen kosteuden sisältämiensä centella
-            asiatican ja aloe veran ansiosta. Valmistaa ihoa ottamaan vastaan
-            hoitavia tuotteita. Puhdistuksen jälkeen pyyhi koko kasvojen iho
-            hellästi kasvoveteen kostutetulla pumpulilla.<br/>
-
-            Sertifioitua luomukosmetiikkaa – 70% sertifioitavissa olevista
-            aineosista luomua (NaTrue), vegaaninen
-    dr_peeling:
-        header: hellävarainen kuorintavoide
-        main:       
-            Tekee ihosta tasaisen, heleän ja silkinpehmeän. Hellävaraisesti
-            kuorivat riisi- ja bambuhiukkaset poistavat vanhoja ihosoluja ja
-            elvyttävät ihoa. Valmistaa ihoa ottamaan vastaan hoitavia tuotteita.
-            Hiero hellästi kostealle iholle 1-2 kertaa viikossa välttäen silmien
-            aluetta, huuhtele vedellä.<br/>
-
-            Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+--- 
+fi: 
+  daily_refresh: 
+    dr_fluid: 
+      header: puhdistusemulsio
+      main: |-
+          Syväpuhdistaa herkän ja kuivan ihon hellävaraisesti. Aloe vera suojaa ihoa kuivumiselta, eteeriset öljyt greippi, sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. Levitä kostealle iholle, hiero kevyesti ja huuhtele vedellä. Soveltuu myös meikin poistoon.<br/>
+          Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+    dr_peeling: 
+      header: "hellävarainen kuorintavoide"
+      main: |-
+          Tekee ihosta tasaisen, heleän ja silkinpehmeän. Hellävaraisesti kuorivat riisi- ja bambuhiukkaset poistavat vanhoja ihosoluja ja elvyttävät ihoa. Valmistaa ihoa ottamaan vastaan hoitavia tuotteita. Hiero hellästi kostealle iholle 1-2 kertaa viikossa välttäen silmien aluetta, huuhtele vedellä.<br/>
+          Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+    dr_schaum: 
+      header: puhdistusvaahto
+      main: |-
+          Syväpuhdistaa ja kirkastaa normaalin ja lievästi epäpuhtaan ihon kuivattamatta sitä. Quillaja –puusta saatava luomulaatuinen  saponiini antaa iholle miellyttävän puhtauden tunnun. Eteeriset öljyt greippi, sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. Levitä puhdistusvaahtoa kostealle iholle ja hiero kevyesti.<br/>
+          Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+    dr_tonicF: 
+      header: "kirkastava kasvovesi"
+      main: |-
+          Kirkastaa ja raikastaa ihon ja poistaa puhdistuksen jäänteet. Sisältämiensä hamamelisuutteen sekä rosmariinin, kultapäivännoudon ja ruusumyrtin eteeristen öljyjen ansiosta kasvovesi on hellävaraisesti desinfioiva. Valmistaa ihoa ottamaan vastaan hoitavia tuotteita. Puhdistuksen jälkeen pyyhi koko kasvojen iho hellästi kasvoveteen kostutetulla pumpulilla<br/>
+          Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+    dr_tonicK: 
+      header: "kosteuttava kasvovesi"
+      main: |-
+          Raikastaa ja rauhoittaa kasvojen herkkää ihoa ja poistaa puhdistuksen jäänteet. Säilyttää ihon luonnollisen kosteuden sisältämiensä centella asiatican ja aloe veran ansiosta. Valmistaa ihoa ottamaan vastaan hoitavia tuotteita. Puhdistuksen jälkeen pyyhi koko kasvojen iho hellästi kasvoveteen kostutetulla pumpulilla.<br/>
+          Sertifioitua luomukosmetiikkaa – 70% sertifioitavissa olevista aineosista luomua (NaTrue), vegaaninen
+    header: "Tehokkaat, vaikuttavat aineosat"
+    list: "Lempeä, perusteellinen puhdistus on iholle tärkeää. Se valmistelee kasvojen herkän ihon hoitotuotteiden käyttöä varten. Käytä aamuin illoin puhdistusemulsiota tai –vaahtoa ja sopivaa kasvovettä. Kerran tai kahdesti viikossa tehty hellävarainen kuorinta tehostaa muiden hoitotuotteiden vaikutusta. Elvyttää, virkistää ja säilyttää kosteutta.<br/> -Puhdistaa ihon perusteellisesti mutta hellävaraisesti<br/> -Tekee ihosta raikkaan ja pehmeän<br/> -Lempeän syväpuhdistuksen jälkeen iho pystyy parhaiten hyötymään hoitavista tuotteista."
+    main: |-
+        Kvillaja<br/> Arvokas luomulaatuinen kvillajan saponiini on peräisin eteläamerikkalaisen suopapuun, Quillaja saponarian, kuoresta. Tämän luonnonmateriaalin vaikuttavat aineosat sopivat erityisen hyvin kasvojen puhdistukseen. Kansanlääketiede on hyödyntänyt saponiinia sisältävää kvillajaa jo vuosien ajan.<br/>
+        Aloe vera<br/> Luomulaatuinen kasviuute, joka on peräisin Aloe vera –kasvin lehdistä. Koska Aloe vera -uute sisältää runsaasti mineraaleja, entsyymejä, hivenaineita ja vitamiineja, se  tukee ihon uusiutumista. Aloe vera kosteuttaa ihoa. Tästä seuraa, että ihosta tulee tasaisempi ja sen uurteet pehmenevät.<br/>
+        Luonnolliset, syvävaikutteiset eteeriset öljyt<br/> Luomulaatuiset, aromaterapian periaatteiden mukaisesti valitut eteeriset öljyt, esim. greippi, sitruunaruoho, rosmariini, sitruuna ja minttu elävöittävät ihoa ja tukevat kasviuutteiden syvävaikutusta.
+    products: "dr_fluid dr_schaum dr_tonicF dr_tonicK dr_peeling"
+    sub_header: "ihon päivittäiseen hoitoon"

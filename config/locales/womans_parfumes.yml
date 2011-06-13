@@ -1,32 +1,14 @@
-fi:
-  womans_parfumes:
-    products: anima nuvola
-    header: Luomu parfyymit 
-    sub_header: Luomu parfyymi naisille/ women's natural parfumes
-    list: "Luonnollinen hajuvesi on kuin näkymätön huntu. Tuoksun huomaa ainoastaan henkilön välittömässä läheisyydessä. 
-          Luonnolliset tuoksut haihtuvat nopeammin kuin synteettiset . Ne eivät peitä kehon luonnollista hajua , 
-          vaan luovat ainutlaatuisen luonnollisen harmonian. Farfallan luomu parfyymit ovat aitoja ja luonnollisia ja 
-          ne ovat saaneet BDIH sertifikaatin. 
-          Nämä tuotteet menevät vieläkin korkealaatuisemmaksi kuin luomu sertifikaatti vaatii: 98% aineesta on
-          luomutuotannosta. Parfyymien pohjana Farfalla käyttää luomu alkoholia ja luomu kukkaisvesiä. 
-          Tuotteita ei ole testattu eläimillä."
-    
+--- 
+fi: 
+  womans_parfumes: 
+    anima: 
+      header: Anima
+      main: "Tuoksu, joka tuo esille olemuksesi kätketyn hymyn! Samalla kertaa syvällinen ja dynaaminen sekä hedelmäisen raikas  greipin, mandariini ja appelsiinin tuoksuilla. Sydäntuoksu sisältää mimosan ja appelsiinin kukkien aurinkoista hehkua . Tuoksu on pyöristetty metsäisillä tuoksuilla ja benzoanilla."
     header: " "
-    main: " " 
-    anima:
-        header: Anima
-        main:  
-            Tuoksu, joka tuo esille olemuksesi kätketyn hymyn! Samalla kertaa syvällinen ja 
-            dynaaminen sekä hedelmäisen raikas  greipin, mandariini ja appelsiinin tuoksuilla.
-            Sydäntuoksu sisältää mimosan ja appelsiinin kukkien aurinkoista hehkua . 
-            Tuoksu on pyöristetty metsäisillä tuoksuilla ja benzoanilla.
-            
-    nuvola:
-        header: Nuvola 
-        main:  
-            Nauti tunteesta että kävelet kuin ilmassa käyttäessäsi tätä tuoksua! Nuvola tarkoittaa pilveä 
-            italiaksi .Käyttäessäsi tätä tuoksua saat miesten päät kääntymään .  Sydäntuoksu
-            on aluksi raikas ja moni-ilmeinen , sitten puuterimainen ja erittäin naisellinen . 
-            Tässä luomu parfyymissä, neroli, bergamot, ylang, ylang, vanilja ja santelipuu korostavat  
-            kantajan vetovoimaa ja charmia .
-            
+    list: "Luonnollinen hajuvesi on kuin näkymätön huntu. Tuoksun huomaa ainoastaan henkilön välittömässä läheisyydessä.  Luonnolliset tuoksut haihtuvat nopeammin kuin synteettiset . Ne eivät peitä kehon luonnollista hajua ,  vaan luovat ainutlaatuisen luonnollisen harmonian. Farfallan luomu parfyymit ovat aitoja ja luonnollisia ja  ne ovat saaneet BDIH sertifikaatin.  Nämä tuotteet menevät vieläkin korkealaatuisemmaksi kuin luomu sertifikaatti vaatii: 98% aineesta on luomutuotannosta. Parfyymien pohjana Farfalla käyttää luomu alkoholia ja luomu kukkaisvesiä.  Tuotteita ei ole testattu eläimillä."
+    main: " "
+    nuvola: 
+      header: Nuvola
+      main: "Nauti tunteesta että kävelet kuin ilmassa käyttäessäsi tätä tuoksua! Nuvola tarkoittaa pilveä italiaksi .Käyttäessäsi tätä tuoksua saat miesten päät kääntymään .  Sydäntuoksu on aluksi raikas ja moni-ilmeinen , sitten puuterimainen ja erittäin naisellinen . Tässä luomu parfyymissä, neroli, bergamot, ylang, ylang, vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia ."
+    products: "anima nuvola"
+    sub_header: "Luomu parfyymi naisille/ women's natural parfumes"

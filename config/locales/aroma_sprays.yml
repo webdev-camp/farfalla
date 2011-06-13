@@ -1,34 +1,22 @@
-fi:
-  aroma_sprays:
-    products: ambiance atmosphere fresh tuscany vanilla_mandarine
-    header: Aroma Sprays
-    sub_header: ""
-    list: "Ideal to refresh the air in a room, neutralise odours or simply to create a scented environment. 
-          For a breath of fresh air, our Aroma Sprays with their natural perfumes are highly effective. 
-          For use in: homes, offices, toilets and bathrooms, cars, therapy rooms, waiting rooms, hositals."
-    ambiance:
+--- 
+fi: 
+  aroma_sprays: 
+    ambiance: 
       header: Ambiance
-      main: "Composition: a flowery, fresh, stimulating scent to set the mood for a calming environment.
-          Uses: living areas, offices, reception areas, waiting rooms.
-          Contents: bergamot, orange*, lemon*, rose geranium, peppermint."
-    atmosphere :
-      header: Atmosphere  
-      main: "Composition: a fresh, tangy scent, strongly purifying and an aid to concentration.
-          Uses: to neutralise odours and to use as air freshener in rooms and vehicles.
-          Contents: eucalyptus*, clove, neroli, lemon*, frankincense, lemongrass*."
-    fresh:
-      header: Fresh 
-      main: "Composition: fresh, fruity, lemon touch. For refreshing the home and when travelling, 
-              in the car and hotel room. Boosts concentration when driving and keeps one awake.
-              Contents: blood orange*, bergamot*, peppermint"
-    tuscany:
-      header: Tuscany 
-      main: "Composition: a fruity, woody scent, which refreshes and stimulates the senses.
-              Uses: It can be used as an air freshener, to stimulate and cleanse rooms, conference halls and offices.
-              Contents: bergamot, chamomile, lavender*, rose geranium, lemon*, cypress*."
-    vanilla_mandarine:
-      header: Vanilla-Mandarine 
-      main: "Composition: soft and fruity, mellow. This refreshing spray is a comforter for the 
-              soul and can be used everywhere as pleased. 
-              For the home, when travelling, in the childrens room etc."
-    
+      main: "Composition: a flowery, fresh, stimulating scent to set the mood for a calming environment. Uses: living areas, offices, reception areas, waiting rooms. Contents: bergamot, orange*, lemon*, rose geranium, peppermint."
+    atmosphere: 
+      header: Atmosphere
+      main: "Composition: a fresh, tangy scent, strongly purifying and an aid to concentration. Uses: to neutralise odours and to use as air freshener in rooms and vehicles. Contents: eucalyptus*, clove, neroli, lemon*, frankincense, lemongrass*."
+    fresh: 
+      header: Fresh
+      main: "Composition: fresh, fruity, lemon touch. For refreshing the home and when travelling,  in the car and hotel room. Boosts concentration when driving and keeps one awake. Contents: blood orange*, bergamot*, peppermint"
+    header: "Aroma Sprays"
+    list: "Ideal to refresh the air in a room, neutralise odours or simply to create a scented environment.  For a breath of fresh air, our Aroma Sprays with their natural perfumes are highly effective.  For use in: homes, offices, toilets and bathrooms, cars, therapy rooms, waiting rooms, hositals."
+    products: "ambiance atmosphere fresh tuscany vanilla_mandarine"
+    sub_header: ""
+    tuscany: 
+      header: Tuscany
+      main: "Composition: a fruity, woody scent, which refreshes and stimulates the senses. Uses: It can be used as an air freshener, to stimulate and cleanse rooms, conference halls and offices. Contents: bergamot, chamomile, lavender*, rose geranium, lemon*, cypress*."
+    vanilla_mandarine: 
+      header: Vanilla-Mandarine
+      main: "Composition: soft and fruity, mellow. This refreshing spray is a comforter for the  soul and can be used everywhere as pleased.  For the home, when travelling, in the childrens room etc."

@@ -1,48 +1,11 @@
-fi:
-  be_beautiful:
-    products: bb_creme 
-    header: be beautiful
-    sub_header: Olet kaunis – Hyvän olon tuotteet
-    list: 
-        1. antaa kasvojen iholle “vastarakastuneen” hehkun <br/>
-        2. elvyttää ihoa stressaavissa tilanteissa <br/>
-        3. suojaa ympäristön vaikutuksilta <br/>
-        4. hohtavat mineraalihiukkaset peittävät pieniä epäpuhtauksia ja juonteita
-    header:     Tehokkaat, vaikuttavat aineosat 
-    main: 
-        "Orinoco -pähkinä ja brasilialainen pippuripuu <br/>    
-        Orinoco –pähkinässä on runsaasti hyvälaatuisia Omega-3 –rasvahappoja.
-        Sillä ja brasilialaisella pippuripuulla on onnellisuushormoni
-        dopamiinin erittymistä edistävä vaikutus. Muiden hyvien vaikutustensa
-        lisäksi dopamiini parantaa verenkiertoa –näytät hehkeältä ja
-        vastarakastuneelta! Loistava apu silloin kun ihosi tarvitsee erityistä
-        huolenpitoa: esiintymistilanteisiin, stressaaviin hetkiin kiireisen
-        työrupeaman keskellä, matkoille. <br/>
-        Hohtavat mineraalihiukkaset <br/>
-        Luonnonmineraaleista saadut hohtohiukkaset peittävät pieniä
-        epäpuhtauksia ja juonteita. <br/>
-        Eteeriset öljyt <br/>
-        Vaniljan, kookoksen ja bergamotin eteeriset öljyt tehostavat
-        'onnellisuusvaikutusta' muiden aineosien hyväätekeviä
-        vaikutuksia/muiden aineosien hyviä vaikutuksia/voiteen vaikutuksia."
-    bb_cream:
-        header: Bliss Cream
-        main:   
-            Ainutlaatuinen, hieno voide vaativiin tilanteisiin, joissa tahdot olla
-            eduksesi/parhaimmillasi/tuntea itsesi kauniiksi. Sisältää Orinoco
-            –pähkinää ja brasilialaista pippuripuuta, joilla on
-            “onnellisuushormoni” dopamiinin erittymistä edistävä vaikutus. Kun
-            sinun on hyvä olla, säteilet sitä myös ulospäin. / Kun sinun on hyvä
-            olla, säteilet sitä myös ulospäin, ja olet kaunis.
-            Luonnonmineraaleista saadut hohtohiukkaset peittävät pieniä
-            epäpuhtauksia ja juonteita.<br/>
-            Ihanteellinen voide käytettäväksi illalla ennen ulos lähtöä, mutta
-            myös kiireiseen elämänrytmiin, haastaviin tilanteisiin, mukaan
-            matkalle jne, aina kun on tärkeää että sisäinen ja ulkoinen kauneutesi
-            näkyy! /aina kun sisäinen ja ulkoinen kauneus ja hyvinvointi on
-            erityisen tärkeää! / aina kun tahdot olla parhaimmillasi/ aina kun
-            tahdot hehkua sisäistä ja ulkoista kauneutta / aina kun tahdot voida
-            hyvin ja säteillä kauneutta! /aina kun tahdot säteillä iloa ja
-            kauneutta! /aina kun tahdot säteillä hyvää oloa ja kauneutta!<br/>
-            Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
-        
+--- 
+fi: 
+  be_beautiful: 
+    bb_cream: 
+      header: "Bliss Cream"
+      main: "Ainutlaatuinen, hieno voide vaativiin tilanteisiin, joissa tahdot olla eduksesi/parhaimmillasi/tuntea itsesi kauniiksi. Sisältää Orinoco –pähkinää ja brasilialaista pippuripuuta, joilla on “onnellisuushormoni” dopamiinin erittymistä edistävä vaikutus. Kun sinun on hyvä olla, säteilet sitä myös ulospäin. / Kun sinun on hyvä olla, säteilet sitä myös ulospäin, ja olet kaunis. Luonnonmineraaleista saadut hohtohiukkaset peittävät pieniä epäpuhtauksia ja juonteita.<br/> Ihanteellinen voide käytettäväksi illalla ennen ulos lähtöä, mutta myös kiireiseen elämänrytmiin, haastaviin tilanteisiin, mukaan matkalle jne, aina kun on tärkeää että sisäinen ja ulkoinen kauneutesi näkyy! /aina kun sisäinen ja ulkoinen kauneus ja hyvinvointi on erityisen tärkeää! / aina kun tahdot olla parhaimmillasi/ aina kun tahdot hehkua sisäistä ja ulkoista kauneutta / aina kun tahdot voida hyvin ja säteillä kauneutta! /aina kun tahdot säteillä iloa ja kauneutta! /aina kun tahdot säteillä hyvää oloa ja kauneutta!<br/> Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen"
+    header: "Tehokkaat, vaikuttavat aineosat"
+    list: "1. antaa kasvojen iholle “vastarakastuneen” hehkun <br/> 2. elvyttää ihoa stressaavissa tilanteissa <br/> 3. suojaa ympäristön vaikutuksilta <br/> 4. hohtavat mineraalihiukkaset peittävät pieniä epäpuhtauksia ja juonteita"
+    main: "Orinoco -pähkinä ja brasilialainen pippuripuu <br/>     Orinoco –pähkinässä on runsaasti hyvälaatuisia Omega-3 –rasvahappoja. Sillä ja brasilialaisella pippuripuulla on onnellisuushormoni dopamiinin erittymistä edistävä vaikutus. Muiden hyvien vaikutustensa lisäksi dopamiini parantaa verenkiertoa –näytät hehkeältä ja vastarakastuneelta! Loistava apu silloin kun ihosi tarvitsee erityistä huolenpitoa: esiintymistilanteisiin, stressaaviin hetkiin kiireisen työrupeaman keskellä, matkoille. <br/> Hohtavat mineraalihiukkaset <br/> Luonnonmineraaleista saadut hohtohiukkaset peittävät pieniä epäpuhtauksia ja juonteita. <br/> Eteeriset öljyt <br/> Vaniljan, kookoksen ja bergamotin eteeriset öljyt tehostavat 'onnellisuusvaikutusta' muiden aineosien hyväätekeviä vaikutuksia/muiden aineosien hyviä vaikutuksia/voiteen vaikutuksia."
+    products: bb_creme
+    sub_header: "Olet kaunis – Hyvän olon tuotteet"

@@ -1,7 +1,6 @@
-fi:
-  body_care:
-    header: Refreshing body care 
+--- 
+fi: 
+  body_care: 
+    header: "Refreshing body care"
+    list: "We have several lines according to your taste."
     sub_header: ""
-    list:   We have several lines according to your taste. 
-       
-    

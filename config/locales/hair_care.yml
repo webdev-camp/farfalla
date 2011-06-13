@@ -1,7 +1,6 @@
-fi:
-  hair_care:
-    header: Take care of your hair 
+--- 
+fi: 
+  hair_care: 
+    header: "Take care of your hair"
+    list: "To take care of your hair we have products for cleanig, conditioning and styling."
     sub_header: ""
-    list:   To take care of your hair we have products for cleanig, conditioning and styling. 
-       
-    

@@ -1,49 +1,46 @@
-
-fi:
-  menu: face_care body_care hair_care parfumes aroma_sprays gemstone_cosmetics
-  face_care: 
-    menu_text: Face Care
-    sub_menu: daily_refresh in_balance intense_moisture age_miracle pure_sensitive be_beautiful travel_set
-    daily_refresh: Daily refresh
-    in_balance: in balance
-    intense_moisture: intense moisture
-    age_miracle: age miracle
-    pure_sensitive: pure sensitive
-    be_beautiful: be beautiful
-    travel_set: travel set
+--- 
+fi: 
+  aroma_sprays: 
+    menu_text: "Aroma sprays"
   body_care: 
-    menu_text: Body Care
-    sub_menu: fresh_lime ambra frangipani
-    fresh_lime: Fresh Lime
     ambra: Ambra
     frangipani: Frangipani
-  parfumes: 
-    menu_text: Parfumes
-    sub_menu: womans_parfumes body_sprays
-    womans_parfumes: Womans Parfumes
-    body_sprays: Body sprays
-  hair_care: 
-    menu_text: Hair care
-    sub_menu: shampoos conditioner styling
-    shampoos: Shampoos
-    conditioner: Conditioner
-  aroma_sprays: 
-    menu_text: Aroma sprays
+    fresh_lime: "Fresh Lime"
+    menu_text: "Body Care"
+    sub_menu: "fresh_lime ambra frangipani"
+  face_care: 
+    age_miracle: "age miracle"
+    be_beautiful: "be beautiful"
+    daily_refresh: "Daily refresh"
+    in_balance: "in balance"
+    intense_moisture: "intense moisture"
+    menu_text: "Face Care"
+    pure_sensitive: "pure sensitive"
+    sub_menu: "daily_refresh in_balance intense_moisture age_miracle pure_sensitive be_beautiful travel_set"
+    travel_set: "travel set"
+  farfalla: 
+    menu_text: Farfalla
   gemstone_cosmetics: 
-    menu_text: Gemstome Cosmetics
-    sub_menu: tourmaline amberstone
-    tourmaline: Tourmaline
     amberstone: Amberstone
-
-  menu_bar: farfalla quality standards  tukku 
-
+    menu_text: "Gemstome Cosmetics"
+    sub_menu: "tourmaline amberstone"
+    tourmaline: Tourmaline
+  hair_care: 
+    conditioner: Conditioner
+    menu_text: "Hair care"
+    shampoos: Shampoos
+    sub_menu: "shampoos conditioner styling"
+  menu: "face_care body_care hair_care parfumes aroma_sprays gemstone_cosmetics"
+  menu_bar: "farfalla quality standards  tukku"
+  parfumes: 
+    body_sprays: "Body sprays"
+    menu_text: Parfumes
+    sub_menu: "womans_parfumes body_sprays"
+    womans_parfumes: "Womans Parfumes"
   quality: 
     menu_text: Laatu
+  slogan: "laadukasta luomukosmetiikkaa"
   standards: 
-      menu_text: Luomukosmetiikka
-  farfalla: 
-    menu_text: Farfalla 
+    menu_text: Luomukosmetiikka
   tukku: 
     menu_text: Tukku
-  
-  slogan: laadukasta luomukosmetiikkaa
