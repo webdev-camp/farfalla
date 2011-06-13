@@ -1,0 +1,33 @@
+en:
+  conditioner: 
+    header: Care & Conditioner
+    products: co_conditioner co_mousse co_mask
+    sub_header: Care after cleaning
+    list: After cleaning the hair needs the appropriate care. 
+          Here you will find effective care products from natural raw ingredients confirming to the guidelines
+          of controlled natural cosmetics. 
+          Without any synthetic substances without petroleum resources, PEGs and silicones.
+    header:  ""
+    co_conditioner:
+        header: Conditioner
+        sub_header:  Detangling &amp; smoothing effect, care &amp; shine
+        main:  The bestseller. Our conditioner makes your hair soft and fine, 
+            makes combing easier and gives the hair a wonderful silky shine. 
+            Use, after washing, massage nut-sized portion throughout wet hair, 
+            leave for 1-3 minutes, rinse thoroughly. No synthetic aroma, colour or preservatives. 
+            No PEGs or silicone.
+    co_mousse: 
+        header: Conditioning mousse 
+        sub_header:  Volume, care & shine
+        main:  Hair care in a hurry – without rinsing. Our conditioning mousse gives your hair volume
+                and a superb shine, without weighing it down. Use, massage into towel-dried hair after washing. 
+                Do not rinse! No synthetic aroma, colour or preservatives. No PEGs or silicone.
+    co_mask:
+        header: Deep recovery hair mask  
+        sub_header:  Repair, care & shine
+        main:  The form protector. Our hair mask lends elasticity and protects even damaged 
+              hair from drying out. Use, massage nut-sized portion into towel-dried hair once or 
+              twice a week after washing, leave for 5-10 minutes, rinse thoroughly. 
+              For split ends, massage directly into hair tips, do not rinse. 
+              No synthetic aroma, colour or preservatives. 
+    

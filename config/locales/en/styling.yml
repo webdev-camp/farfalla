@@ -1,0 +1,31 @@
+en:
+  styling:
+    header: Styling products
+    products: st_mousse st_spray st_gel
+    sub_header: Hair with style!
+    list: After the care it continues - perhaps with a special styling? 
+          Here you can find natural styling products made from natural raw ingredients 
+          conforming to the guidelines of the controlled natural cosmetics. 
+          Without any synthetic substances without petroleum resources, PEGs and silicones.
+    header: Shampoos
+    st_mousse:
+        header: Styling Mousse 
+        sub_header:  Hold, volume & shine
+        main:  The volume foam. Our styling mousse helps you form your hairdo and aids its durability, 
+              while giving a beautiful shine. Use, massage into towel-dried hair after washing. No
+              synthetic aroma, colour or preservatives.
+              No PEGs or silicone.
+    st_spray:
+        header: Hair Spray 
+        sub_header:  Hold, volume & shine
+        main:  Natural, long-lasting hold for your hairstyle. Our spray is non-tacky, 
+              leaves no residue and can be easily brushed out. 
+              Thanks to its holding power, it fixes your hair all day long. 
+              No synthetic aroma, colour or preservatives. Contains no propellant.
+    st_gel:
+        header: Styling Gel 
+        sub_header:  Long-lasting hold
+        main:  The styling gel. Our styling gel for expert modelling and creative styling. 
+              Non-sticky, residue-free combing out. No synthetic aroma, colour or preservatives. 
+              No PEGs or silicone.
+    

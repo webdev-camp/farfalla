@@ -68,7 +68,7 @@ color: #50514D;
 
 #header
 {
-width: 1000px;
+width: 1080px;
 height: 120px;
 background-color: #ffffff;
 color: #ffffff;
@@ -96,10 +96,10 @@ padding-right: 0px;
 
 #main
 {
+padding-left: 100px;
 padding-top: 20px;
 position: relative;
-width: 1000px;
-margin: 0px auto;
+width: 1080px;
 padding-bottom: 10px;
 }
 
@@ -209,7 +209,7 @@ vertical-align: baseline
 {
 clear: both;
 width: 1080px;
-margin: 0px auto;
+padding-left: 10px;
 margin-bottom: 25px;
 padding-top: 18px;
 text-align: center;

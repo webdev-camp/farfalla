@@ -1,0 +1,30 @@
+en:
+  tourmaline:
+    products: gemstone_tourmaline tourmaline_cream tourmaline_fraiche
+    header: Tourmaline
+    sub_header: ""
+    list: "The premium line in the Crystal Balance® assortment with the complete range of efficacy of the tourmaline. 
+          Essential oils used: rose, iris, bergamot, neroli etc."
+        
+     
+    gemstone_tourmaline:
+        header: Gemstone Tourmaline
+        main: "Enlivens the senses and strengthens the life force. Brings you in harmony with yourself. 
+              Application: as massage oil or as face care and body oil. <br/>
+              Ingredients: Mazeration of tourmaline in organic jojoba oil*, 
+              blend of natural essential oils from controlled organic cultivation."
+    tourmaline_cream:
+      header: Tourmaline Skincare Cream
+      main:  "This special moisturising cream for day and night is suitable for every skin type. 
+                Lends new energy and nurtures on many levels.<br/>
+                Ingredients: Fluid alcoholic mazeration of Centella Asiatica, yarrow* and camomile*; 
+                rosewater*, triglyzerides, shea butter*, grapeseed oil, wheat glycoside, ettalcohol, 
+                vegetable glycerine, Jojobaöl*, almond oil*, wild rose oil*, glyceryle stearate, 
+                phytosqualan from olives, bees wax, vitamin E, blend of natural essential oils, 
+                extract of sea algae, Xanthan."
+    tourmaline_fraiche:
+      header: Tourmaline Eau Fraîche
+      main: "An energy spray that awakens the spirits, lends fresh energy and strengthens the centre. 
+            Uses: as perfume, energy spray and as room harmoniser. <br/>
+            Ingredients: Alcohol*, rosewater*, blend of natural essential oils from controlled organic cultivation."
+            

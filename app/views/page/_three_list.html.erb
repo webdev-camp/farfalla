@@ -3,7 +3,8 @@
   <div class="one">
     <% line.each do |product| %>
       <div class="three">
-        <p><strong><%== t("#{group}.#{product}.heading")%> </strong></p>
+        <p><strong><%== t("#{group}.#{product}.header")%> </strong></p>
+        <p><em><%== t("#{group}.#{product}.sub_header")%> </em></p>
         <div class="bottom">
           <img src='<%="images/#{group}/#{product}"%>.jpg' alt="<%=group.humanize%> <%=product.humanize%>" />
         </div>

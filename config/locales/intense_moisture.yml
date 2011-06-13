@@ -2,7 +2,7 @@ fi:
   intense_moisture:
     products: im_cream im_fluid im_maske
     header: intense moisture
-    sub_header: Syvä kosteus – Ihon kosteustasapainon palauttamiseen
+    sub_header: tehokasta kosteutta
     list: 
           Vahvistaa ihon kosteustasapainoa<br/>
           1. Lisää ihon kosteutta 25%:lla (dermatologisesti testattu)<br/>
@@ -10,7 +10,7 @@ fi:
           3. Tukee ihon omia suojamekanismeja<br/>
           4. Silminnähden uudistaa ja rentouttaa ihoa.<br/>
 
-    heading: Tehokkaat, vaikuttavat aineosat 
+    header: Tehokkaat, vaikuttavat aineosat 
     main: 
           "Jerikonruusu/Siempre Viva (Selaginella lepidophylla) <br/>
           Tämä kasvi elää aavikko-oloissa. Sillä on ainutlaatuinen ominaisuus:
@@ -39,7 +39,7 @@ fi:
           sametinpehmeän ja ravitsee ihoa tehokkaasti."
     
     im_cream:
-        heading: Ravitseva ja kosteuttava voide
+        header: Ravitseva ja kosteuttava voide
         main:    
             
             Ravitsee ja rentouttaa ihoa. Luomulaatuiset macadamiaöljy ja sheavoi
@@ -51,7 +51,7 @@ fi:
             ensin levittää iholle intense moisture Kevyttä kosteusemulsiota.<br/>
             Sertifioitu luonnonkosmetiikka (NaTrue), vegaaninen
     im_fluid:
-        heading: Kevyt kosteuttava emulsio / kosteusemulsio
+        header: Kevyt kosteuttava emulsio / kosteusemulsio
         main:   
             
             Tämä kevyt päivävoide / päivävoide-emulsio /hoitava päiväemulsio antaa
@@ -64,7 +64,7 @@ fi:
             ravitsevaa voidetta.<br/>
             Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
     im_maske:
-      heading: ravitseva, kosteuttava naamio
+      header: ravitseva, kosteuttava naamio
       main:   
             Sisältää runsaasti aktiivisesti kosteuttavia aineosia. Manteli-,
             macadamia- ja jojobaöljyt antavat iholle tehoannoksen kosteutta.
@@ -74,77 +74,4 @@ fi:
             ihostasi. /Ihostasi tulee sileä ja silkinpehmeä. /Ihosi on sileä ja
             silkinpehmeä.<br/>
             Sertifioitu luonnonkosmetiikka (NaTrue), vegaaninen
-en:
-  intense_moisture:
-    products: im_cream im_fluid im_maske
-    header: intense moisture
-    sub_header: for enhancing skin’s moisture balance
-    list: 1. Is dermatologically proven to increase the skin‘s moisture by 25%. <br/>
-          2. Stimulates the production of the skin‘s own collagen. <br/>
-          3. Supports the protective function of the skin. <br/>
-          4. Visibly regenerates and relaxes the skin. <br/>
-            
-    heading: Innovative active ingredients
-    main: <p>Resurrection plant <br/>
-      This plant grows in desert conditions and, even when dried out, has the unique
-      ability to expand into a lush flowering plant after absorbing only a small amount
-      of moisture. The resurrection plant has the same effect on the skin! It contains an 
-      exceptional substance which can restructure denatured enzymes and optimise 
-      the skin’s self-protection. In just one week, the skin’s texture is already improved 
-      and the complexion looks visibly refined. <br/>
-      <p>Hyaluronic acid <br/>
-      This powerful active agent is isolated from wheat. Hyaluronic acid is, in fact,
-      produced by the skin itself. However, by the age of 35, its production gradually decreases.
-      Hyaluronic acid is capable of binding water to skin cells, thus increasing
-      the elasticity of the skin. <br/>
-      <p>Aloe vera <br/>
-      The organic fresh plant extract, isolated from the Aloe vera leaf, supports cell
-      regeneration, thanks to its rich abundance of minerals, enzymes, trace elements 
-      and vitamins. Aloe vera refills the skin’s moisture depots and, as a result, the skin 
-      is firmed and wrinkles softened. <br/>
-      <p>Macadamia <br/>
-      This organic nut oil, with its exceptional fatty acid spectrum, is highly effective at
-      smoothing and regenerating skin. It gives the complexion a velvety-soft touch and
-      intensively nourishes the skin. <br/>
-    
-    im_cream:
-        heading: Nourishing &amp; moisturising cream
-        main:    <p>Nourishes and relaxes skin. The addition of 
-            macadamia oil and shea butter gives complexion <br/>
-            silky-smooth touch. Resurrection <br/>
-            plant extracts improve skin’s protective
-            role and lend intense moisture. Hyaluronic 
-            acid refills skin’s moisture depots. Centella <br/>
-            asiatica stimulates its own collagen 
-            production. After cleansing/toning, apply 
-            morning and evening. If desired, use Light 
-            moisturising fluid beforehand. <br/>
-            <p>100% from natural origin – 97% of the 
-            certifiable natural substances are organic 
-    im_fluid:
-        heading: Light moisturising fluid
-        main:   
-          <p>This light day care boosts moisture. 
-            Resurrection plant extracts improve
-            skin’s protective role and lend intense <br/>
-            moisture. Hyaluronic acid refills <br/>
-            moisture depots. Centella asiatica stimulates 
-            skin’s own collagen production.                        
-            Apply after cleansing/toning. If desired, <br/>
-            apply before a skin-specific nourishing 
-            cream. <br/>
-            <p>100% from natural origin – 97% of the
-            certifiable natural substances are organic 
-    im_maske:
-      heading: Nourishing &amp; moisturising mask
-      main:   <p>Rich in active moisturising ingredients. 
-          Almond oil, jojoba oil and macadamia
-          nut oil lend intense moisture. Can be <br/>
-          removed easily with warm water. Apply 
-          once or twice a week on cleansed skin 
-          and leave for 15 minutes. Thoroughly 
-          rinse off with plenty of water and enjoy <br/>
-          your silky-smooth complexion. <br/>
-          <p>100% from natural origin – 99% of the 
-          certifiable natural substances are organic
       

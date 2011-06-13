@@ -1,0 +1,37 @@
+en:
+  ambra:
+    products: am_shower am_bodylotion am_body_butter am_eau_fraiche am_shower_small am_lotion_small
+    header: Ambra
+    sub_header: <b>Sensuous body care</b>
+    list: Imagine that you’re letting yourself be thoroughly spoilt in a superb wellness hotel in Southern India, 
+          the mysterious scents of the Orient drifting through the open window. 
+          The delicate scents of this line are also warm, sensuous and enveloping. 
+          With, of course, most of the ingredients in organic quality. Jump in and spoil yourself!        
+    header: " "
+    main: " "
+      
+    am_shower:
+        header: Ambra Shower cream
+        main:  Velvety soft shower cream with a warm sensuous scent note for your daily, 
+                gentle body cleansing. Application, apply a pearl-sized portion to wet 
+                skin and work to a foam. With a cleansing sponge you can achieve more foam. 200 ml
+    am_bodylotion:
+        header: Ambra Bodylotion
+        main:   This body lotion with its warm, sensuous scent gives your skin a velvety soft feeling. 
+                With plant oils and floral waters in organic quality. For your daily body care. 150 ml
+    am_body_butter:
+        header: Fresh Bodybutter
+        main:   A delicate bodybutter for intensive skin moisturising. 
+                It melts on the skin to give a velvety textue. With the scent of ambra - 
+                a sensuous pleasure. 50 ml        
+    am_eau_fraiche:
+        header: Ambra Eau Fraîche
+        main:   A sumptuous scent composition with a deep, warm vibrancy. 
+                A sophisticated blend of cistus with sandalwood, rose attar and vanilla. 
+                This Eau Fraîche gives the wearer a touch of magic. 50 ml
+    am_shower_small:
+        header: Ambra Shower cream
+        main:   Small version for travelling and to try out
+    am_lotion_small:
+        header: Ambra Bodylotion
+        main:   Small version for travelling and to try out

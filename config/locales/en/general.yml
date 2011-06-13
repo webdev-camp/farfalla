@@ -1,5 +1,4 @@
-
-fi:
+en:
   menu: face_care body_care hair_care parfumes aroma_sprays gemstone_cosmetics
   face_care: 
     menu_text: Face Care
@@ -10,7 +9,7 @@ fi:
     age_miracle: age miracle
     pure_sensitive: pure sensitive
     be_beautiful: be beautiful
-    travel_set: travel set
+    travel_set: travel Set
   body_care: 
     menu_text: Body Care
     sub_menu: fresh_lime ambra frangipani
@@ -37,13 +36,13 @@ fi:
 
   menu_bar: farfalla quality standards  tukku 
 
-  quality: 
-    menu_text: Laatu
-  standards: 
-      menu_text: Luomukosmetiikka
   farfalla: 
-    menu_text: Farfalla 
+    menu_text: Farfalla
+  quality: 
+    menu_text: Quality
+  standards: 
+    menu_text: Standards 
   tukku: 
-    menu_text: Tukku
+    menu_text: Sales
   
   slogan: laadukasta luomukosmetiikkaa
