@@ -9,12 +9,17 @@ class TranslationsController < ApplicationController
   def create
     key = params["key"] 
     value = params["value"] 
-    file = get_file
-    unless key && value && file
+    unless key && value
+      #puts "NO #{key} or value #{value}"
       redirect_to "/index.html"
-      puts "NO #{key} #{@@keys.keys.join(' ')}"
       return
     end
+    unless file = get_file
+      redirect_to "/index.html"
+      #puts "NO key found for #{key}"
+      return
+    end
+    #puts "File #{file}"
     hash = YAML.load_file file
     replace_key hash["fi"] , key , value
     io = File.open( file , "w" )
@@ -34,18 +39,30 @@ class TranslationsController < ApplicationController
     last = keys.pop
     rep = hash
     keys.each do |k|
+      #puts "REP #{rep != nil}"
+      #puts "K #{k}"
       rep = rep[ k ]
     end
     rep[last] = value
   end
   
-  def get_file
+  def get_file 
+    key = params[:key]
     if @@keys.empty?
       Dir["#{Rails.root}/config/locales/*.yml"].each do |f|
-        flatten_keys(YAML.load_file(f)["fi"] , "fi").each {|key| @@keys[key] = f } 
+        flatten_keys(YAML.load_file(f)["fi"] , "fi").each {|k| @@keys[k] = f } 
       end
     end
-    @@keys["fi.#{params[:key]}"]
+    k = @@keys["fi.#{key}"]
+    return k if k
+    ks = key.split(".")
+    ks.pop
+    key = "fi." + ks.join(".")
+    @@keys.each do | k , v |
+      #puts "HIT #{k}  to #{key}" if k.start_with? key
+      return v if k.start_with? key
+    end
+    return nil
   end
   
   def flatten_keys(hash , prefix )
@@ -53,7 +70,7 @@ class TranslationsController < ApplicationController
     hash.each do |key, value|
       if value.class == String
         ret << "#{prefix}.#{key}"
-        puts "#{prefix}.#{key}"
+        ##puts "#{prefix}.#{key}"
       else
         ret += flatten_keys( value , "#{prefix}.#{key}" ) if value
       end

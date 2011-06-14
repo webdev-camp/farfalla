@@ -1,4 +1,4 @@
-<% all = t("#{group}.products").split %>
+<% all = I18n.t("#{group}.products").split %>
 <% until (line = all[0,3]).empty? do %>
   <div class="one">
     <% line.each do |product| %>

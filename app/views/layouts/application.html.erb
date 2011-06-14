@@ -37,7 +37,7 @@
                 I18n.t(p+'.sub_menu').index(@page) != nil)
              I18n.t(p+'.sub_menu').split.each do |sub| %>
              <li class="sub_menu <%='active' if params[:page] == sub %>">
-               <%= link_to  I18n.t(p +'.' + sub) , "/#{sub}.html" %>
+               <%= link_to  I18n.t("#{sub}.header") , "/#{sub}.html" %>
              </li>
              <% end %>
             <% end %>

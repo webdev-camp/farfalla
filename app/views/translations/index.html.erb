@@ -1,4 +1,4 @@
-<h2>Translations   </h2> 
+<h2>Käännökset   </h2> 
 
 <%= form_tag translations_path do %>
 <input type="hidden" name="return" value="<%=params[:return]%>" /> 
@@ -6,7 +6,7 @@
     <h3> <%= params[ :key ].gsub('.',' ').humanize %> </h3>  
   <p>
     Teksti: <br />
-   <textarea rows="2" cols="35" name="value" id="value" ><%= I18n.t(params[ :key ])%></textarea>  
+   <textarea rows="20" cols="120" name="value" id="value" ><%= I18n.t(params[ :key ])%></textarea>  
   </p>
   <p><%= submit_tag "Submit" %></p>
 <% end %>
