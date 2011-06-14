@@ -1,11 +1,20 @@
 --- 
 fi: 
   travel_set: 
-    header: "Let us spend a weekend together!"
-    list: " "
-    main: "In this carefully selected set, you will find conveniently-sized samples of the most essential cosmetic products. They will give your skin ideal care during a short trip. You can also try out the samples at home in order to acquaint yourself with our organic products with active ingredients. </p>"
+    header: "travel set"
+    list: ""
+    main: |-
+        In this carefully selected set, you will find conveniently-sized samples of the most essential cosmetic
+        products. They will give your skin ideal care during a short trip. You can also try out the samples at home
+        in order to acquaint yourself with our organic products with active ingredients. 
+    main_header: "Let us spend a weekend together!"
     products: bb_creme
     sub_header: "Give it a try!"
     travel_set: 
       header: "The set contains"
-      main: "<p><strong>daily refresh </strong><br/> Cleansing fluid, 10 ml</p> <p> <strong>intense moisture </strong><br/> Light moisturising fluid, 10 ml </p> <p><strong>age miracle </strong><br/> Night miracle fluid, 7 ml </p> <p><strong>be beautiful </strong><br/> Bliss cream, 7 ml </p>"
+      main: |-
+          <p><strong>daily refresh </strong><br/> 
+          Cleansing fluid, 10 ml</p> <p> <strong>intense moisture </strong><br/> 
+          Light moisturising fluid, 10 ml </p> <p><strong>age miracle </strong><br/> 
+          Night miracle fluid, 7 ml </p> <p><strong>be beautiful </strong><br/> 
+          Bliss cream, 7 ml </p> 

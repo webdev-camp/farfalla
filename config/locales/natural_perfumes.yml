@@ -5,7 +5,14 @@ fi:
       header: "Cleansing fluid"
       main: "Cleanses sensitive and dry skin intensively yet gently. Aloe vera protects"
     header: ~
-    list: "A natural perfume is like an invisible veil.  One is aware of the scent of a person when they are in close proximity.  Natural fragrances are much more volatile than synthetic ones and do not linger for any length of time. Also they do not disguise the body’s natural odour but blend together to create a unique harmony full of natural charm. Farfallas natural perfumes are genuine and natural and carry the BDIH label. <br/> However we go even further: 98 % of the substance stem from controlled organic crop.  As a base Farfalla uses alcohol and flower water specially produced in organic quality.  No animal testing."
+    list: |-
+        A natural perfume is like an invisible veil. One is aware of the scent of a person when they are in close
+        proximity. Natural fragrances are much more volatile than synthetic ones and do not linger for any length of
+        time. Also they do not disguise the body’s natural odour but blend together to create a unique harmony full
+        of natural charm. Farfallas natural perfumes are genuine and natural and carry the BDIH label. <br/> 
+        However we go even further: 98 % of the substance stem from controlled organic crop. 
+        As a base Farfalla uses alcohol
+        and flower water specially produced in organic quality. No animal testing.
     main: ""
     products: ~
     sub_header: ""

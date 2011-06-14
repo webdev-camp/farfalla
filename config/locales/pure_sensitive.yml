@@ -1,11 +1,31 @@
 --- 
 fi: 
   pure_sensitive: 
-    header: "Tehokkaat, vaikuttavat aineosat"
-    list: "1. Ravitsee ja rauhoittaa ihoa<br/> 2. Parantaa huomattavasti ihon kosteustasapainoa<br/> 3. Suojelee ihoa vapailta radikaaleilta antioksidanteilla<br/> 4. Hoitaa ja elvyttää ihoa muuttuvissa olosuhteissa (ikä, stressi jne.) <br/>"
-    main: "Syyssyreeniuute (Buddleja davidii)<br/> Ihanteellinen oksidanttisuoja päivittäisiä ympäristön vaikutuksia, etenkin vapaita radikaaleja vastaan. Testeissä kävi ilmi, että ihon kosteuspitoisuus nousi 33%:lla kahden tunnin ja 28%:lla kuuden tunnin sisällä voiteen käyttämisestä.<br/> Kruunuohdake (Onopordum acanthium)<br/> Uudistavien ominaisuuksiensa vuoksi tämä kasviuute suojelee ihoa luonnollisella tavalla/luonnollisesti.   Se antaa iholle tukea muutoksissa/siirtymävaiheissa (hormonaaliset muutokset, ilmastointi, stressi). Kruunuohdakkeella on suotuisa vaikutus ihon vesi-rasvatasapainoon ja se saa ihon tuntumaan rentoutuneelta. /Kruunuohdake tasapainottaa ihon luonnollista hydrolipidikerrosta ja saa ihon tuntumaan rentoutuneelta.<br/> Eteeriset öljyt<br/> Lempeimmät luomulaatuiset öljyt hyvin pieninä määrinä tuovat voiteeseen miedon ja miellyttävän tuoksun. Ne sopivat erityisen hyvin juuri herkälle iholle."
+    header: "pure sensitive"
+    list: |-
+        1. Ravitsee ja rauhoittaa ihoa<br/> 
+        2. Parantaa huomattavasti ihon kosteustasapainoa<br/> 
+        3. Suojelee ihoa vapailta radikaaleilta antioksidanteilla<br/> 
+        4. Hoitaa ja elvyttää ihoa muuttuvissa olosuhteissa (ikä, stressi jne.) <br/>
+    main: |-
+        Syyssyreeniuute (Buddleja davidii)<br/> 
+        Ihanteellinen oksidanttisuoja päivittäisiä ympäristön vaikutuksia, etenkin vapaita radikaaleja vastaan.
+        Testeissä kävi ilmi, että ihon kosteuspitoisuus nousi 33%:lla kahden tunnin ja 28%:lla kuuden tunnin sisällä
+        voiteen käyttämisestä.<br/> Kruunuohdake (Onopordum acanthium)<br/>
+        Uudistavien ominaisuuksiensa vuoksi tämä kasviuute suojelee ihoa luonnollisella tavalla/luonnollisesti. Se
+        antaa iholle tukea muutoksissa/siirtymävaiheissa (hormonaaliset muutokset, ilmastointi, stressi).
+        Kruunuohdakkeella on suotuisa vaikutus ihon vesi-rasvatasapainoon ja se saa ihon tuntumaan rentoutuneelta.
+        /Kruunuohdake tasapainottaa ihon luonnollista hydrolipidikerrosta ja saa ihon tuntumaan rentoutuneelta.<br/>
+        Eteeriset öljyt<br/> 
+        Lempeimmät luomulaatuiset öljyt hyvin pieninä määrinä tuovat voiteeseen miedon ja miellyttävän tuoksun. Ne
+        sopivat erityisen hyvin juuri herkälle iholle.
+    main_header: "Tehokkaat, vaikuttavat aineosat"
     products: ps_creme
     ps_cream: 
       header: "Rauhoittava ja kosteuttava voide"
-      main: "Luomuviljelty Buddleja davidii -uute rauhoittaa herkkää ihoa ja antaa parhaan mahdollisen suojan vapaita radikaaleja vastaan. Kruunuohdakeuute auttaa ihoa elpymään ja uudistumaan, poistaa kireyttä ja auttaa ihoa sopeutumaan olosuhteiden muutoksiin. Ihon kosteusaste paranee huomattavasti. Käytä aamuin illoin puhdistuksen/kasvoveden jälkeen.<br/> Sertifioitu luomukosmetiikka (NaTrue), vegaaninen."
+      main: |-
+          Luomuviljelty Buddleja davidii -uute rauhoittaa herkkää ihoa ja antaa parhaan mahdollisen suojan vapaita
+          radikaaleja vastaan. Kruunuohdakeuute auttaa ihoa elpymään ja uudistumaan, poistaa kireyttä ja auttaa ihoa
+          sopeutumaan olosuhteiden muutoksiin. Ihon kosteusaste paranee huomattavasti. Käytä aamuin illoin
+          puhdistuksen/kasvoveden jälkeen.<br/> Sertifioitu luomukosmetiikka (NaTrue), vegaaninen.
     sub_header: "herkän ihon hoitoon"

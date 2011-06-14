@@ -2,22 +2,43 @@
 fi: 
   styling: 
     header: "Hiusten muotoilutuotteet"
-    list: "Hiusten pesun ja hoidon jälkeen hiusten muotoilu käy erinomaisesti luomulaatuisilla tuotteilla, jotka auttavat kampauksen muotoilussa, pidossa sekä hoitavat ja suojaavat hiusta."
+    list: |-
+        Hiusten pesun ja hoidon jälkeen hiusten muotoilu käy erinomaisesti luomulaatuisilla tuotteilla, jotka
+        auttavat kampauksen muotoilussa, pidossa sekä hoitavat ja suojaavat hiusta.
     products: "st_mousse st_spray st_gel"
     st_gel: 
       header: "Styling Gel"
-      main: "The styling gel. Our styling gel for expert modelling and creative styling. Non-sticky, residue-free combing out. No synthetic aroma, colour or preservatives. No PEGs or silicone."
+      main: |-
+          The styling gel. Our styling gel for expert modelling and creative styling. Non-sticky, residue-free
+          combing out. No synthetic aroma, colour or preservatives. No PEGs or silicone.
       sub_header: "Long-lasting hold"
     st_mousse: 
       header: Muotoiluvaahto
-      inci: "Aqua, Olea europaea leaf extract *, sorbitol, alcohol, Coco-glucoside, beer, sodium Cocoyl glutamate, Punica Granatum extract *, Aloe barbadensis leaf extract *, betaine, disodium Cocoyl glutamate, sodium PCA, perfume, Hydrolyzed wheat protein, lactic acid, Citral *, Citronellol *, Geraniol *, linalool *, limonene *. * certified organic * part of natural essential oils"
-      ingredients: "vesi, oliivinlehtiuute, sugar alcohol, alkoholi, vegetable foam basis, granaattiomenan siemenuute, aloe vera, sokerijuurikasuute, natriumsuola, mix natural essential oils, vehnäproteiini, maitohappo"
-      main: "Pitoa, volyymia ja kiiltoa! Luonnollinen muotoiluvaahto auttaa kampauksen muotoilussa, tukee kampauksen kestävyyttä ja tekee kauniin kiiltävät hiukset. Levitä pyyhekuiviin hiuksiin pesun jälkeen."
+      inci: |-
+          Aqua, Olea europaea leaf extract *, sorbitol, alcohol, Coco-glucoside, beer, sodium Cocoyl glutamate,
+          Punica Granatum extract *, Aloe barbadensis leaf extract *, betaine, disodium Cocoyl glutamate, sodium PCA,
+          perfume, Hydrolyzed wheat protein, lactic acid, Citral *, Citronellol *, Geraniol *, linalool *, limonene
+          *. * certified organic * part of natural essential oils
+      ingredients: |-
+          vesi, oliivinlehtiuute, sugar alcohol, alkoholi, vegetable foam basis, granaattiomenan siemenuute, aloe
+          vera, sokerijuurikasuute, natriumsuola, mix natural essential oils, vehnäproteiini, maitohappo
+      main: |-
+          Pitoa, volyymia ja kiiltoa! Luonnollinen muotoiluvaahto auttaa kampauksen muotoilussa, tukee kampauksen
+          kestävyyttä ja tekee kauniin kiiltävät hiukset. Levitä pyyhekuiviin hiuksiin pesun jälkeen.
       sub_header: "Hold, volume & shine"
     st_spray: 
       header: Hiuskiinne
-      inci: "Alcohol, shellac, Aqua, Olea europaea leaf extract *, sorbitol, beer, Simmondsia chinensis seed oil *, citrus aurantium Amara flower water *, Aloe barbadensis leaf extract *, sodium PCA, glycerin, Parfum, Hydrolyzed wheat protein, Citral *, Citronellol *, Geraniol *, linalool *, limonene *. * certified organic * part of natural essential oils"
-      ingredients: "alkoholi, sellakka, vesi, oliiviuute*sorbitoli, olut, jojobaöljy, appelsiininkukkavesi, aloe vera, sodium PCA, kasviglyseriini, mixture of natural essential oils, vehnäproteiini"
-      main: "Luonnollinen ja joustava tuki kaikille hiuksille ja jokaiselle kampaukselle koko päiväksi! Hiuskiinne on hienojakoinen (ei tahmaa?/ ei jää jäämiä??) ja sen voi harjata helposti pois hiuksista. (Ilman ponneaineita!)"
+      inci: |-
+          Alcohol, shellac, Aqua, Olea europaea leaf extract *, sorbitol, beer, Simmondsia chinensis seed oil *,
+          citrus aurantium Amara flower water *, Aloe barbadensis leaf extract *, sodium PCA, glycerin, Parfum,
+          Hydrolyzed wheat protein, Citral *, Citronellol *, Geraniol *, linalool *, limonene *. * certified organic
+          * part of natural essential oils
+      ingredients: |-
+          alkoholi, sellakka, vesi, oliiviuute*sorbitoli, olut, jojobaöljy, appelsiininkukkavesi, aloe vera, sodium
+          PCA, kasviglyseriini, mixture of natural essential oils, vehnäproteiini
+      main: |-
+          Luonnollinen ja joustava tuki kaikille hiuksille ja jokaiselle kampaukselle koko päiväksi! Hiuskiinne on
+          hienojakoinen (ei tahmaa?/ ei jää jäämiä??) ja sen voi harjata helposti pois hiuksista. (Ilman
+          ponneaineita!)
       sub_header: "Hold, volume & shine"
     sub_header: "Hair with style!"

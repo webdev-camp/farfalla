@@ -3,14 +3,13 @@ en:
     products: am_creme am_serum am_rollon am_night 
     header: age miracle
     sub_header: for anti-ageing care
-    list: 
-          1. Innovation, Slows down ageing process of skin! <br/>
-          2. Effectively tones skin. <br/>
-          3. Significantly improves moisture level of skin. <br/>
-          4. Is dermatologically proven to diminish wrinkles. 
-        
+    list: |-
+      1. Innovation, Slows down ageing process of skin! <br/>
+      2. Effectively tones skin. <br/>
+      3. Significantly improves moisture level of skin. <br/>
+      4. Is dermatologically proven to diminish wrinkles. 
     header: Innovative active ingredients
-    main: 
+    main: |-
         Leucojum Aestivum bulb extract <br/>
         An absolute innovation in anti-ageing research! Rather than speeding up the skin’s 
         cell division, as is the case with other products, the so-called ‘dormins’ extracted 
@@ -22,7 +21,7 @@ en:
         has a distinct wrinkle-improving effect. This was confirmed by 75% of the test 
         participants after only a day’s use. 83% of the testers also confirmed a significant 
         reduction in “crow’s feet”. Relaxed facial features correspond to fewer wrinkles 
-        and a younger-looking skin.<br/> 
+        and a younger-looking skin.<br/>
         Centella asiatica extract <br/>
         This organic extract stimulates the production of the skin’s own collagen and has 
         a significant influence on the skin’s elasticity and toning of the facial outline. <br/>
@@ -34,7 +33,6 @@ en:
         Natural scents <br/>
         According to aromatherapeutic principles, a mixture of essential oils, isolated 
         from iris and attar of roses, supports the regenerating effect.<br/>
-        
     am_creme:
         header: Lifting &amp; regenerating cream
         main:    

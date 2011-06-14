@@ -3,31 +3,69 @@ fi:
   ambra: 
     am_body_butter: 
       header: "Vartalovoide Ambra"
-      inci: "Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, alcohol *, citrus aurantium flower water *, Aloe barbadensis extract *, Cera Alba, Heliantus Annuus seed oil *, Cocos Nucifera oil *, Hamamelis Virginiana flower water *, Cetearyl alcohol, glyceryl stearate, Cetearyl wheat bran Glycosides, perfume (natural essential oils), citrus of grandis seed extract *, Squalane, tocopherol, xanthan gum, Daucus carota extract *, Asparagopsis Armata extract, limonene *. * certified organic * from natural essential oils"
-      ingredients: "shea butter, vesi, kasviglyseriini, triglyseridit, appelsiininkukkavesi, aloe vera, greipinsiemenuute, mehiläisvaha, auringonkukkaöljy, kookosöljy, hamamelisvesi, wheat glykosid, cetearyl alcohol, glyceryl stearate, porkkanauute, phytosqualan, luonnoll. vit. E, merileväuute, xantaanikumi, citric acid, natural essential oils mixture"
-      main: "Hienostunut kosteuttava vartalovoide, joka kirjaimellisesti sulaa iholle ja tekee sen sametin pehmeäksi tuoksuen aistikkaalle ambralle. 50 ml"
+      inci: |-
+          Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, alcohol *, 
+          citrus aurantium flower water *, Aloe barbadensis extract *, Cera Alba, Heliantus Annuus seed oil *, 
+          Cocos Nucifera oil *, Hamamelis Virginiana flower water *, Cetearyl alcohol, glyceryl stearate, 
+          Cetearyl wheat bran Glycosides, perfume (natural essential oils), citrus of grandis seed extract *, 
+          Squalane, tocopherol, xanthan gum, Daucus carota extract *, 
+          Asparagopsis Armata extract, limonene *. * certified organic * from natural essential oils
+      ingredients: |-
+          shea butter, vesi, kasviglyseriini, triglyseridit, appelsiininkukkavesi, aloe vera, greipinsiemenuute, 
+          mehiläisvaha, auringonkukkaöljy, kookosöljy, hamamelisvesi, wheat glykosid, cetearyl alcohol, 
+          glyceryl stearate, porkkanauute, phytosqualan, luonnoll. vit. E, merileväuute, 
+          xantaanikumi, citric acid, natural essential oils mixture
+      main: |-
+          Hienostunut kosteuttava vartalovoide, joka kirjaimellisesti sulaa iholle ja tekee sen sametin pehmeäksi 
+          tuoksuen aistikkaalle ambralle. 50 ml
     am_bodylotion: 
-      ainesosat: "Aqueous alcoholic extract of CENTELLA asiatica (CENTELLA asiatica= gotu kola), (vesipitoinen alkoholi….), kasviglyseriini, shea butter, ruusuvesi, kookosöljy, vehnä glykosidi, fatty alcohol, mix natural essential oils, Phytosqualan, auringonkukkaöljy, mehiläisvaha,   triglycerides, glyceryl stearate, luonnoll. vit. E, xantaanikumi, greipinsiemenöljy, merisuolauute. * from kontr. Organic"
       header: "Ambra kosteusvoide"
-      inci: "Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, Rosa Damascena flower water *, Cocos Nucifera oil *, Cetearyl alcohol, Cetearyl wheat bran glucoside, fragrance (natural essential oils), Squalane, Heliantus Annuus seed oil *, Cera Alba, glyceryl stearate, tocopherol, xanthan gum, Vitis vinifera seed oil, CENTELLA asiatica extract, Asparagopsis Armata extract, limonene *, linalool *, Citronellol *, benzyl benzoates *, Geraniol *. * certified organic * part of natural essential oils"
-      main: "Tämä sensuellituoksuinen kosteusvoide imeytyy helposti iholla ja tekee ihon sametin pehmeäksi kasviöljy pohjaisten luomuraaka-aineiden avulla. 150 ml"
+      inci: |-
+          Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, 
+          Rosa Damascena flower water *, Cocos Nucifera oil *, Cetearyl alcohol, Cetearyl wheat bran glucoside, 
+          fragrance (natural essential oils), Squalane, Heliantus Annuus seed oil *, 
+          Cera Alba, glyceryl stearate, tocopherol, xanthan gum, 
+          Vitis vinifera seed oil, CENTELLA asiatica extract, Asparagopsis Armata extract, limonene *, 
+          linalool *, Citronellol *, benzyl benzoates *, Geraniol *. * certified organic 
+          * part of natural essential oils
+      ingredients: |-
+          Aqueous alcoholic extract of CENTELLA asiatica (CENTELLA asiatica= gotu kola), 
+          (vesipitoinen alkoholi….), kasviglyseriini, shea butter, ruusuvesi, kookosöljy, vehnä glykosidi, 
+          fatty alcohol, mix natural essential oils, Phytosqualan, auringonkukkaöljy, mehiläisvaha,   
+          triglycerides, glyceryl stearate, luonnoll. vit. E, xantaanikumi, greipinsiemenöljy, merisuolauute. 
+          * from kontr. Organic
+      main: |-
+          Tämä sensuellituoksuinen kosteusvoide imeytyy helposti iholla ja tekee ihon sametin pehmeäksi 
+          kasviöljy pohjaisten luomuraaka-aineiden avulla. 150 ml
     am_eau_fraiche: 
-      ainesosat: "alkoholi, natural essential oils mixture, ruusuvesi"
       header: "Ambra Eau Fraîche"
-      inci: "Alcohol*, perfume (natural essential oils), Rosa Damascena flower water*, limonene*, linalool*, benzyl benzoates*, Citral*, benzyl alcohol*, Geraniol*, benzyl salicylates*, Citronellol*, Coumarine*.* certified organic. * from natural essential oils"
-      main: "Ihastuttava taianomainen tuoksuyhdistelmä, jossa yhdistyvät santeli, Attar-ruusu ja vanilja yhdessä rockrosen kanssa. 50 ml <br/>"
+      inci: |-
+          Alcohol*, perfume (natural essential oils), Rosa Damascena flower water*, limonene*, linalool*, 
+          benzyl benzoates*, Citral*, benzyl alcohol*, Geraniol*, benzyl salicylates*, Citronellol*, 
+          Coumarine*.* certified organic. * from natural essential oils
+      ingredients: "alkoholi, natural essential oils mixture, ruusuvesi"
+      main: |-
+          Ihastuttava taianomainen tuoksuyhdistelmä, jossa yhdistyvät santeli, Attar-ruusu ja vanilja yhdessä 
+          rockrosen kanssa. 50 ml <br/>
     am_lotion_small: 
       header: "Ambra Bodylotion"
       main: "Small version for travelling and to try out"
     am_shower: 
       header: "Ambra suihkuvoide"
-      inci: "Aqua, Coco glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, limonene *, linalool *, benzyl benzoates *. * certified organic * from natural essential oils"
-      ingredients: "vesi, (kasviperäisten raaka-aineiden pinta-aktiivisia aineita), auringonkukkaöljy, alkoholi, kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo"
-      main: "Kannattaa kokeilla! Lämmin- ja aistikastuoksuinen suihkugeeli puhdistaa ihon hellästi ja perusteellisesti. Purista sormenpäihisi helmenkokoinen annos ja hiero kostealle iholle. 200 ml"
+      inci: |-
+          Aqua, Coco glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, 
+          fragrance (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, limonene *, 
+          linalool *, benzyl benzoates *. * certified organic * from natural essential oils
+      ingredients: |-
+          vesi, (kasviperäisten raaka-aineiden pinta-aktiivisia aineita), auringonkukkaöljy, alkoholi, 
+          kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo
+      main: |-
+          Kannattaa kokeilla! Lämmin- ja aistikastuoksuinen suihkugeeli puhdistaa ihon hellästi ja perusteellisesti. 
+          Purista sormenpäihisi helmenkokoinen annos ja hiero kostealle iholle. 200 ml
     am_shower_small: 
       header: "Ambra Shower cream"
       main: "Small version for travelling and to try out"
-    header: " "
+    header: Ambra
     list: "Ylellinen, hemmotteleva vartalonhoitosarja, jonka mysteerinen lämmin itämainen tuoksu on vastustamaton."
     main: " "
     products: "am_shower am_bodylotion am_eau_fraiche am_body_butter am_shower_small am_lotion_small"
