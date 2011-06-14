@@ -1,5 +1,4 @@
 class PageController < ApplicationController
-  before_filter :locale
   
   def index
     @page =  params[:page] || "index"
@@ -7,10 +6,5 @@ class PageController < ApplicationController
     render :template =>  @page
   end
   
-  protected
-  
-  def locale
-    I18n.locale = :fi
-  end
 
 end

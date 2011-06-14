@@ -19,4 +19,10 @@ module ApplicationHelper
   def dir name
     I18n.t("#{name}.all" , :locale => :en ).split(",").collect do |n| n.strip end
   end
+  
+  def t( key  )
+    ret = I18n.t(key)
+    "#{ret} <a href='/translations/?key=#{key}&return=#{this_page}'>e</a>"
+  end
+  
 end

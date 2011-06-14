@@ -6,10 +6,10 @@
   <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /> 
   
   <meta name="keywords" content="Farfalla" />
-  <meta name="description" content="Farfalla : <%=t('slogan') + ' ' + t(@page + ".short") %>" />
+  <meta name="description" content="Farfalla : <%=I18n.t('slogan') + ' ' + I18n.t( "#{@page}.short") %>" />
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta http-equiv="Content-Language" content="fi"/>  
-  <title>Farfalla : <%= t(@page + ".header") %></title>
+  <title>Farfalla : <%= I18n.t("#{@page}.header") %></title>
   
 </head>
 
@@ -18,10 +18,10 @@
 <div id="main">
 
   <div id="header">
-      <div id="slogan"><%=t("slogan")%></div>
+      <div id="slogan"><%==t("slogan")%></div>
       <ul id="menu_bar">
-        <% t("menu_bar").split.each do |menu| %>
-        <li><a href="<%=menu%>.html"><%= t(menu+'.menu_text')%></a></li>
+        <% I18n.t("menu_bar").split.each do |menu| %>
+        <li><a href="<%=menu%>.html"><%= I18n.t(menu+'.menu_text')%></a></li>
         <%end%>
       </ul>
   </div>
@@ -29,15 +29,15 @@
   <div id="lcol">
     <div id="menu">
       <ul>
-        <% t("menu").split(" ").each do |p| %>
-          <li class="menu"<%=raw('class="active"') if params[:page] == p %>>
-            <%= link_to  t(p+'.menu_text') , "/#{p}.html" %>
+        <% I18n.t("menu").split(" ").each do |p| %>
+          <li class="menu <%== ' active' if params[:page] == p %>">
+            <%= link_to  I18n.t(p+'.menu_text') , "/#{p}.html" %>
           </li>
-          <% if (t(p+'.sub_menu').index("missing") == nil) and (p == @page or
-                t(p+'.sub_menu').index(@page) != nil)
-             t(p+'.sub_menu').split.each do |sub| %>
+          <% if (I18n.t(p+'.sub_menu').index("missing") == nil) and (p == @page or
+                I18n.t(p+'.sub_menu').index(@page) != nil)
+             I18n.t(p+'.sub_menu').split.each do |sub| %>
              <li class="sub_menu <%='active' if params[:page] == sub %>">
-               <%= link_to  t(p +'.' + sub) , "/#{sub}.html" %>
+               <%= link_to  I18n.t(p +'.' + sub) , "/#{sub}.html" %>
              </li>
              <% end %>
             <% end %>
