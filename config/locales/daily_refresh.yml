@@ -33,15 +33,13 @@ fi:
           Eteeriset öljyt greippi, sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. 
           Levitä puhdistusvaahtoa kostealle iholle ja hiero kevyesti.<br/>
           Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
-      sub_header: |10-
+      sub_header: |-
            Syväpuhdistaa ja kirkastaa normaalin ja lievästi epäpuhtaan ihon
-          > kuivattamatta sitä. Quillaja –puusta saatava luomulaatuinen  saponiini
-          > antaa iholle miellyttävän puhtauden tunnun. Eteeriset öljyt greippi,
-          > sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. Levitä
-          > puhdistusvaahtoa kostealle iholle ja hiero kevyesti.
-          
-          100% luonnollisista aineksista
-          Sopii vegaaneille
+           kuivattamatta sitä. Quillaja –puusta saatava luomulaatuinen  saponiini
+           antaa iholle miellyttävän puhtauden tunnun. Eteeriset öljyt greippi,
+           sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. Levitä
+           puhdistusvaahtoa kostealle iholle ja hiero kevyesti. <br/>
+           100% luonnollisista aineksista Sopii vegaaneille
     dr_tonicF: 
       header: "kirkastava kasvovesi"
       main: |-
@@ -49,7 +47,7 @@ fi:
           Sisältämiensä hamamelisuutteen sekä rosmariinin, 
           kultapäivännoudon ja ruusumyrtin eteeristen öljyjen ansiosta kasvovesi on hellävaraisesti desinfioiva. 
           Valmistaa ihoa ottamaan vastaan hoitavia tuotteita. Puhdistuksen jälkeen pyyhi koko
-           kasvojen iho hellästi kasvoveteen kostutetulla pumpulilla<br/>
+          kasvojen iho hellästi kasvoveteen kostutetulla pumpulilla<br/>
           Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
     dr_tonicK: 
       header: "kosteuttava kasvovesi"
