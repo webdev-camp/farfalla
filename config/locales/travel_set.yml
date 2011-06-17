@@ -1,20 +1,17 @@
 --- 
 fi: 
   travel_set: 
-    header: "travel set"
+    header: Matkasetti
     list: ""
-    main: |-
-        In this carefully selected set, you will find conveniently-sized samples of the most essential cosmetic
-        products. They will give your skin ideal care during a short trip. You can also try out the samples at home
-        in order to acquaint yourself with our organic products with active ingredients. 
-    main_header: "Let us spend a weekend together!"
+    main: "Huolella valittu setti sisältää kätevän kokoiset näytepakkaukset olennaisimmista kosmetiikkatuotteista. Tuotteet antavat ihollesi parhaan mahdollisen huolenpidon esim. viikonloppumatkalla. Voit myös kokeilla matkapakkauksen näytteitä kotona, kun tutustut tehokkaisiin luomutuotteisiimme."
+    main_header: "Vietetään viikonloppu yhdessä!"
     products: bb_creme
-    sub_header: "Give it a try!"
+    sub_header: "Kokeile ja tutustu!"
     travel_set: 
-      header: "The set contains"
+      header: "Setti sisältää:"
       main: |-
           <p><strong>daily refresh </strong><br/> 
-          Cleansing fluid, 10 ml</p> <p> <strong>intense moisture </strong><br/> 
-          Light moisturising fluid, 10 ml </p> <p><strong>age miracle </strong><br/> 
-          Night miracle fluid, 7 ml </p> <p><strong>be beautiful </strong><br/> 
+          Puhdistusemulsio, 10 ml</p> <p> <strong>intense moisture </strong><br/> 
+          Kevyt kosteusemulsio, 10 ml </p> <p><strong>age miracle </strong><br/> 
+          Night miracle -emulsio, 7 ml </p> <p><strong>be beautiful </strong><br/> 
           Bliss cream, 7 ml </p> 
