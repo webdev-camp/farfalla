@@ -48,7 +48,6 @@ a
   text-decoration: none;
 }
 #menu_bar a:hover {
-  #background: #2580a2 url("images/hover.gif") bottom center no-repeat;
   color: black;
   padding-bottom: 8px;
 }
@@ -57,7 +56,6 @@ a
 menu a:hover
 {
 text-decoration: none;
-background:  url('/images/bbg1.gif');
 }
 
 strong
@@ -125,10 +123,10 @@ list-style: none;
 margin: 0px;
 }
 
-#menu ul li.active {
-  background-image: url('/images/bbg2.gif');
+#menu ul li.active 
+{
+color: black;
 }
-
 
 
 #menu a:hover

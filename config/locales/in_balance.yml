@@ -28,15 +28,19 @@ fi:
           Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
     list: |-
         In balance –sarja sisältää kolme tuotetta, jotka saavat sinut tuntemaan itsesi kauniiksi. Luonnollista ja
-        tehokasta apua rasvaiselle ja sekaiholle. <br/>
-        - Puhdistaa ja raikastaa <br/>
-        - Säätelee talineritystä<br/>
-        - Tekee ihosta tasaisen ja mattamaisen silkinpehmeän<br/>
-        - Rauhoittaa ihon epäpuhtauksia<br/>"
+        tehokasta apua rasvaiselle ja sekaiholle. <br/><br/>
+        1. Puhdistaa ja raikastaa <br/>
+        2. Säätelee talineritystä<br/>
+        3. Tekee ihosta tasaisen ja mattamaisen silkinpehmeän<br/>
+        4. Rauhoittaa ihon epäpuhtauksia<br/>"
     main: |-
+        <em>Pellavansiemenuute </em><br/>
         Luomulaatuinen pellavansiemenuute tasapainottaa epäpuhtauksia ja tekee kasvojen ihosta näkyvästi raikkaamman
-        ja kirkkaamman. Luomulaatuinen hamamelisuute ja eteeriset öljyt kirkastavat ja virkistävät ihoa. Aloe Vera
-        kosteuttaa ja edistää solujen uusiutumista.
-    main_header: "Tehokkaat, vaikuttavat aineosat :"
+        ja kirkkaamman. <br/><br/>
+        <em>Hamamelisuute </em><br/>
+        Luomulaatuinen hamamelisuute ja eteeriset öljyt kirkastavat ja virkistävät ihoa.<br/><br/>
+        <em>Aloe Vera </em><br/>
+        Aloe Vera kosteuttaa ja edistää solujen uusiutumista.
+    main_header: "Tehokkaat, vaikuttavat aineosat"
     products: "ib_fluid ib_maske ib_serum"
     sub_header: "Tasapainoinen iho – Epäpuhtauksien hoitoon"

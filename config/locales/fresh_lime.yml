@@ -2,7 +2,7 @@
 fi: 
   fresh_lime: 
     fl_body_butter: 
-      header: "Fresh Lime kosteusvoide"
+      header: "Fresh Lime vartalovoide"
       inci: |-
           Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, 
           Rosa Damascena flower water *, Cocos Nucifera oil *, Cetearyl alcohol, Cetearyl wheat bran Glucosides, 
@@ -20,7 +20,7 @@ fi:
           Kun iho vaatii uudistumista ja kaipaa virkistystä, takaa kasvipohjainen sitruksenraikas voide sille
           jokapäiväisen vitamiiniannoksen. 50 ml
     fl_bodylotion: 
-      header: "Fresh Lime vartalovoide"
+      header: "Fresh Lime kosteusvoide"
       inci: |-
           Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, citrus aurantium flower water
           *, Aloe barbadensis gel *, alcohol *, citrus of grandis seed extract *, Cera Alba, Heliantus Annuus seed
