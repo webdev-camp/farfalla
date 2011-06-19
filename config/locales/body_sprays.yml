@@ -2,11 +2,10 @@
 fi: 
   body_sprays: 
     freshen_up: 
-      header: "Freshen Up"
+      header: "Freshen Up- Raikkautta"
       main: |-
-          A fruity-cool, freshening spray for warm days and overheated brains.  
-          Use: spray once or twice directly on skin. Avoid contact with eyes.<br/>
-          Contents: Orange, lemon, orangeflower water
+          Tämä hedelmäisen raikas spray viilentää ja virkistää sinua, sekä lisää rohkeutta. Tarvittaessa voit suihkuttaa spraytä useita kertoja päivässä suoraan iholle, kaulalle,ranteisiin tai jaloille. 
+          Valmistusaineet: Luomu sitruunamelissa, greippi ja sitruunamelissavesi
     header: "Body Sprays"
     list: |
         Mahtavia tuoksuja pienessä pullossa. Nämä kätevät pienet spray pullot mahtuvat  käsilaukkuun ja voit suihkauttaa niitä  tarvittaessa.
