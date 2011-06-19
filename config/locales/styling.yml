@@ -2,9 +2,7 @@
 fi: 
   styling: 
     header: "Hiusten muotoilutuotteet"
-    list: |-
-        Hiusten pesun ja hoidon jälkeen hiusten muotoilu käy erinomaisesti luomulaatuisilla tuotteilla, jotka
-        auttavat kampauksen muotoilussa, pidossa sekä hoitavat ja suojaavat hiusta.
+    list: "Hiusten muotoilu käy erinomaisesti luomulaatuisilla tuotteilla, jotka kohottavat ja antavat ryhtiä hiuksiin, auttavat kampauksen muotoilussa, pidossa ja viimeistelyssä sekä suojaavat hiusta hoitavilla luonnon eliksiireillä."
     products: "st_mousse st_spray st_gel"
     st_gel: 
       header: "Styling Gel"
