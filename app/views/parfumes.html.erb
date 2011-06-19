@@ -1,14 +1,16 @@
 <%= render :partial => "group_header" , :locals => {:group => "parfumes" }%>
 
+<% ["womans_parfumes" , "body_sprays"].each do |group| %>
 <div class="one">
-  <a href="/womans_parfumes.html">
-    <img alt="logo Womans parfumes" src="/images/womans_parfumes/logo.jpg">
-  </a>
-  <%== t('parfumes.list')%>
+  <h2> <%== t("#{group}.header")%> </h2>
+  <div class="four">
+    <a href="/<%=group%>.html">
+      <img alt="logo <%=group.humanize%>" src="/images/<%=group%>/logo.jpg">
+    </a>
+  </div>
+  <div class="sixty">
+    <%== t("#{group}.list")%>
+  </div>
 </div>
-<div class="one">
-  <a href="/body_sprays.html">
-    <img alt="body sprays" src="images/body_sprays/freshen_up.jpg">
-  </a>
-  <%== t('body_sprays.list')%>
-</div>
+<br/>
+<%end%>
