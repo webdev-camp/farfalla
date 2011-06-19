@@ -2,10 +2,11 @@
 fi: 
   body_sprays: 
     freshen_up: 
-      header: "Freshen Up- Raikkautta"
+      header: "Freshen Up - Raikkautta"
       main: |-
           Tämä hedelmäisen raikas spray viilentää ja virkistää sinua, sekä lisää rohkeutta. Tarvittaessa voit suihkuttaa spraytä useita kertoja päivässä suoraan iholle, kaulalle,ranteisiin tai jaloille. 
           Valmistusaineet: Luomu sitruunamelissa, greippi ja sitruunamelissavesi
+      sub_header: ""
     header: "Body Sprays"
     list: |
         Mahtavia tuoksuja pienessä pullossa. Nämä kätevät pienet spray pullot mahtuvat  käsilaukkuun ja voit suihkauttaa niitä  tarvittaessa.
