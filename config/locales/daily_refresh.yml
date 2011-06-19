@@ -8,20 +8,18 @@ fi:
     dr_peeling: 
       header: "hellävarainen kuorintavoide"
       main: |-
-          Tekee ihosta tasaisen, heleän ja silkinpehmeän. 
-          Hellävaraisesti kuorivat riisi- ja bambuhiukkaset poistavat vanhoja ihosoluja ja elvyttävät ihoa. 
-          Valmistaa ihoa ottamaan vastaan hoitavia tuotteita. 
-          Hiero hellästi kostealle iholle 1-2 kertaa viikossa välttäen silmien aluetta, huuhtele vedellä.<br/>
-          Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+          Riisistä ja bambusta saadut kuorivat hiukkaset poistavat hellästi kuolleita ihosoluja ja elävöittävät ihoa. Kuorintavoide antaa erinomaisen pohjan hoitavien tuotteiden tehokkaalle imeytymiselle. Hiero kuorintavoide puhtaalle, kostealle iholle ja huuhtele huolellisesti runsaalla vedellä. 
+          100% luonnollisista aineista - 80 sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille.
+      sub_header: "Silkinpehmeä iho"
     dr_schaum: 
       header: Puhdistusvaahto
       main: |-
           Syväpuhdistaa ja kirkastaa normaalin ja rasvaisen ihon
           kuivattamatta sitä. Quillaja –puusta saatava luomulaatuinen  saponiini
-          antaa iholle miellyttävän puhtauden tunnun. Eteeriset öljyt greippi,
+          antaa iholle ihanan puhtauden tunnun. Eteeriset öljyt greippi,
           sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. Levitä
-          puhdistusvaahtoa kostealle iholle ja hiero kevyesti. Huuhtele runsaalla vedellä. <br/>
-          100% luonnollisista aineksista Sopii vegaaneille
+          puhdistusvaahtoa kostealle iholle ja hiero kevyesti. Huuhtele runsaalla vedellä.
+          100% luonnollisista aineista. Sopii vegaaneille.
       sub_header: "Kirkastava, tehokas puhdistus"
     dr_tonicF: 
       header: "Kirkastava kasvovesi"
@@ -30,11 +28,11 @@ fi:
     dr_tonicK: 
       header: "Kosteuttava kasvovesi"
       main: |-
-          Raikastaa ja rauhoittaa kasvojen herkkää ihoa ja poistaa puhdistuksen jäänteet. 
-          Säilyttää ihon luonnollisen kosteuden sisältämiensä centella asiatican ja aloe veran ansiosta. 
-          Valmistaa ihoa ottamaan vastaan hoitavia tuotteita. 
-          Puhdistuksen jälkeen pyyhi koko kasvojen iho hellästi kasvoveteen kostutetulla pumpulilla.<br/>
-          Sertifioitua luomukosmetiikkaa – 70% sertifioitavissa olevista aineosista luomua (NaTrue), vegaaninen
+          Raikastaa ja rauhoittaa herkkää ihoa ja poistaa mahdolliset meikin jäänteet. 
+          Aloe vera ja Centella asiatica -uutteet ylläpitävät ja vahvistavat ihon luonnollista kosteustasapainoa.  
+          Puhdistuksen jälkeen pyyhi koko kasvojen iho hellästi kasvoveteen kostutetulla pumpulilla.
+          Puhdistuksen ja kasvoveden jälkeen iho on valmis ottamaan vastaan hoitotuotteiden tehokkaat vaikutukset.
+          100% luonnollisista aineista – 70% sertifioitavissa olevista aineosista luomua (NaTrue). Sopii vegaaneille.
       sub_header: "Raikkautta ja kosteutta"
     header: "daily refresh"
     list: |-
@@ -63,4 +61,4 @@ fi:
         ihoa ja edistävät kasviuutteiden syvälle ulottuvaa vaikutusta.
     main_header: "Tehokkaat, vaikuttavat ainesosat"
     products: "dr_fluid dr_schaum dr_tonicF dr_tonicK dr_peeling"
-    sub_header: "ihon päivittäiseen hoitoon"
+    sub_header: "Ihon päivittäiseen hoitoon"
