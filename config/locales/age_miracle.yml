@@ -2,7 +2,7 @@
 fi: 
   age_miracle: 
     am_creme: 
-      header: "uudistava ja kiinteyttävä/kohottava voide"
+      header: "Uudistava ja kohottava voide"
       main: |-
           Tehokkaan kosteuttavan vaikutuksensa vuoksi tämä voide silminnähden pehmentää ja kohottaa kasvojen ihoa. 
           Kesälumipisaran uute (Leucojum aestivum) hidastaa ihon ikääntymisprosessia ja vähentää tehokkaasti 
@@ -12,8 +12,9 @@ fi:
           Käytä päivittäin puhdistuksen jälkeen.<br/>
           
           Seretifioitu luomukosmetiikka (NaTrue), vegaaninen
+      sub_header: "Heleyttää ja kiinteyttää"
     am_night: 
-      header: "emulsio yöksi/hyvänyön emulsio"
+      header: "Hyvän yön nektari"
       main: |-
           Kevyt yöhoito jossa on runsaasti/suuri määrä/korkea pitoisuus vaikuttavia aineosia. 
           Antaa/sallii ihon hengittää/syvähengittää yöllä ja valmistelee sitä raikkaaksi ja kiinteäksi aamua 
@@ -24,8 +25,9 @@ fi:
           Jos haluat, levitä iholle sen jälkeen vielä ravitseva voide.<br/>
           
           Sertifioitua luomukosmetiikkaa (NaTrue), vegaaninen
+      sub_header: "Ravitsevaan lepoon ja virkeään aamuun"
     am_rollon: 
-      header: "Kiinteyttävä/kohottava seerumi silmänympäryksien iholle"
+      header: "Kiinteyttävä nektari silmänympäryksien iholle"
       main: |-
           Hieno/huolella suunniteltu vaikuttavien aineosien yhdistelmä täydentää ihon kosteusvarastoja ja pehmentää
           silminnähden/huomattavasti linjoja/juonteita/uurteita silmien ympärillä. Pihlajanversouute (Sorbus
@@ -33,8 +35,9 @@ fi:
           turvotusta. Hellävaraista herkän (silmänympärys)ihon hoitoa, joka saa silmät loistamaan. Taputtele hellästi
           iholle aamuin illoin puhdistuksen jälkeen.<br/>
           Sertifioitu luomukosmetiikka (NaTrue), vegaaninen
+      sub_header: "Silmät loistamaan"
     am_serum: 
-      header: "Kohottava/kiinteyttävä seerumi"
+      header: "Kohottava nektari"
       main: |-
           Tehokkaat aineosat tiivistetyssä muodossa! Seerumin hieno/huolella suunniteltu vaikuttavien aineosien
           yhdistelmä heleyttää ihonväriä, tekee ihosta kimmoisamman ja selkeyttää kasvonpiirteitä. Käytä aamuisin 2-3
@@ -42,12 +45,13 @@ fi:
           vaikutusta/vaikutuksia. Voidaan käyttää myös yhdessä muiden linjojemme tuotteiden kanssa tuomassa
           yksilölliseen ihonhoito-ohjelmaasi anti ageing –tehoa/tehohoitoa/hoitoa/vaikutusta.<br/>
           Sertifioitu luomukosmetiikka (NaTrue), vegaaninen
+      sub_header: "Tehoannos heleyttä ja kiinteyttä"
     header: "age miracle"
     list: |-
-        1. Uutuus: Hidastaa ihon ikääntymisprosessia! <br/>
-        2. Heleyttää ihon sävyä tehokkaasti/Tehokas heleyttävä/ihon sävyä heleyttävä vaikutus<br/>
+        1. Innovaatio: Hidastaa ihon ikääntymisprosessia! <br/>
+        2. Selvä ihonväriä heleyttävä vaikutus.s<br/>
         3. Parantaa huomattavasti ihon kosteustasapainoa<br/>
-        4. Juonteita vähentävä vaikutus on dermatologisesti testattu
+        4. Ryppyjä ja juonteita vähentävä vaikutus on dermatologisesti testattu
     main: |-
         <em>Kesälumipisara (Leucojum aestivum)</em><br/>
         Kesälumipisaran mukulasta saatava uute (Leucojum aestivum) on

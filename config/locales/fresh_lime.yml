@@ -35,7 +35,7 @@ fi:
           glyceryl stearate, natural essential oils mixture. * from kontr. Organic
       main: |-
           Kosteuttava, hyvin ihoon imeytyvä shea butter-pohjainen voide uudistaa ihoa ja antaa ihanan virkistyneen
-          olon! 150 ml
+          olon. 150 ml
     fl_eau_fraiche: 
       header: "Fresh Lime Eau Fraîche"
       inci: |-
@@ -47,7 +47,7 @@ fi:
           arkeen, työhön kuin juhlaankin. 50 ml
     fl_lotion_small: 
       header: "Lime and Lemon Bodylotion"
-      main: "Small version for travelling and to try out"
+      main: " Matkapakkaus "
     fl_shower: 
       header: "Fresh Lime suihkuvoide"
       inci: |-
@@ -64,7 +64,7 @@ fi:
           Purista sormenpäihin helmenkokoinen annos ja hiero kostealle iholle. 200 ml
     fl_shower_small: 
       header: "Lime and Lemon Shower cream"
-      main: "Small version for travelling and to try out"
+      main: "Matkapakkaus "
     header: "Fresh Lime"
     list: |-
         <em> Mikä tuoksu! </em> 
