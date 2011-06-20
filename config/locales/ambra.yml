@@ -62,6 +62,8 @@ fi:
       main: |-
           Kannattaa kokeilla! Lämmin- ja aistikkaantuoksuinen suihkugeeli puhdistaa ihon hellästi ja perusteellisesti. 
           Purista sormenpäihisi helmenkokoinen annos ja hiero kostealle iholle. 200 ml
+      sub_header: |
+          Ambra am shower sub header
     am_shower_small: 
       header: "Ambra Shower cream"
       main: "Small version for travelling and to try out"
