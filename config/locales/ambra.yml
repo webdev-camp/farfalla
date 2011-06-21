@@ -49,7 +49,7 @@ fi:
           rockrosen kanssa. 50 ml <br/>
     am_lotion_small: 
       header: "Ambra Bodylotion"
-      main: "Small version for travelling and to try out"
+      main: Matkasetti
     am_shower: 
       header: "Ambra suihkuvoide"
       inci: |-
@@ -62,13 +62,12 @@ fi:
       main: |-
           Kannattaa kokeilla! Lämmin- ja aistikkaantuoksuinen suihkugeeli puhdistaa ihon hellästi ja perusteellisesti. 
           Purista sormenpäihisi helmenkokoinen annos ja hiero kostealle iholle. 200 ml
-      sub_header: |
-          Ambra am shower sub header
+      sub_header: "Ambra am shower sub header\n"
     am_shower_small: 
       header: "Ambra Shower cream"
-      main: "Small version for travelling and to try out"
+      main: Matkasetti
     header: Ambra
-    list: "Ylellinen ja hemmotteleva vartalonhoitosarja, jonka mystisen lämmin itämainen tuoksu vie vastustamattomasti mukanaan rauhoittaen ja tasapainoittaen hoitavilla ominaisuuksillaan."
+    list: "Ylellinen ja hemmotteleva vartalonhoitosarja, jonka mystisen lämmin itämainen tuoksu vie vastustamattomasti mukanaan rauhoittaen ja tasapainoittaen hoitavilla ominaisuuksillaan, ja tottakai, suurin osa raaka-aineista on luomulaatua. Suo itsellesi (...)"
     main: " "
     products: "am_shower am_bodylotion am_eau_fraiche am_body_butter am_shower_small am_lotion_small"
     sub_header: "<b>aistillinen vartalonhoitosarja</b>"

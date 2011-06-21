@@ -19,6 +19,7 @@ fi:
       main: |-
           Kun iho vaatii uudistumista ja kaipaa virkistystä, takaa kasvipohjainen sitruksenraikas voide sille
           jokapäiväisen vitamiiniannoksen. 50 ml
+      sub_header: "Uudistava ja ravitseva"
     fl_bodylotion: 
       header: "Fresh Lime kosteusvoide"
       inci: |-
@@ -36,6 +37,7 @@ fi:
       main: |-
           Kosteuttava, hyvin ihoon imeytyvä shea butter-pohjainen voide uudistaa ihoa ja antaa ihanan virkistyneen
           olon. 150 ml
+      sub_header: "Kosteuttava ja uudistava"
     fl_eau_fraiche: 
       header: "Fresh Lime Eau Fraîche"
       inci: |-
@@ -45,9 +47,10 @@ fi:
       main: |-
           Ihastuttavan raikkaat sitrukset, hienovarainen iiris ja pehmeä vanilja tekevät tuoksun, joka sopii niin
           arkeen, työhön kuin juhlaankin. 50 ml
+      sub_header: "Piristävä ja hedelmäinen"
     fl_lotion_small: 
       header: "Lime and Lemon Bodylotion"
-      main: " Matkapakkaus "
+      main: " Matkasetti  "
     fl_shower: 
       header: "Fresh Lime suihkuvoide"
       inci: |-
@@ -62,9 +65,10 @@ fi:
           Sitruksen raikkautta suihkuun! Voidemainen hellävaraisesti pesevä vaahto ja kypsien limettien virkistävä
           tuoksu takaavat suihkuelämyksen! <br/>
           Purista sormenpäihin helmenkokoinen annos ja hiero kostealle iholle. 200 ml
+      sub_header: "Hellävarainen ja raikas"
     fl_shower_small: 
       header: "Lime and Lemon Shower cream"
-      main: "Matkapakkaus "
+      main: "Matkasetti "
     header: "Fresh Lime"
     list: |-
         <em> Mikä tuoksu! </em> 

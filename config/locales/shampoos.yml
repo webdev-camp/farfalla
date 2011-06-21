@@ -12,7 +12,7 @@ fi:
       main: |-
           Silkkiproteiini tekee hiukset säihkyvän kiiltäviksi, fosfolipidit antavat runsautta ja kestävää volyymia, ja frangipanin
           kukat ihastuttavat herkällä tuoksullaan.
-      sub_header: "For more shine and volume"
+      sub_header: "Kiiltoa ja volyymiä!"
     sh_jojoba_aloe: 
       header: "Korjaava Jojoba-aloe shampoo"
       inci: |-
@@ -56,7 +56,7 @@ fi:
           Ihanteellinen shampoo nomaaleille hiuksille sekä usein toistuvaan pesuun. Kallisarvoisen granaattiomenan
           tehoaineet suojaavat hiuksia kuivumiselta ja kosteuttavat hiuksia luonnollisesti. Hiukset ovat elastiset,
           kuohkeat, hyvässä kunnossa ja kauniin kiiltävät.
-      sub_header: "For normal hair, frequent washing"
+      sub_header: "Hiuksia kosteuttava!"
     sh_wild_rose: 
       header: "Hellävarainen Villiruusu shampoo"
       ingredients: |-
@@ -66,5 +66,5 @@ fi:
           Erittäin mieto ja luonnollinen shampoo sopii erityisesti hennoille hiuksille, herkälle päänahalle ja
           lapsille. Kallisarvoinen ruusu-uute rauhoittaa ja tasapainoittaa herkkää päänahkaa. Shampoo tekee hiuksista
           luonnollisen kiiltävät, terveet ja kauniit juurista latvoihin.
-      sub_header: "For fine hair, sensitive scalp, children"
+      sub_header: "Herkän ihon shampoo!"
     sub_header: "Hellävaraiseen hiustenpesuun "

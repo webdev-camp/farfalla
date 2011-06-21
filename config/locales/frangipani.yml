@@ -31,6 +31,7 @@ fi:
       main: |-
           Tämä emulsio imeytyy ihoon antamalla puhtaan, silkin pehmeän olon sekä trooppisten frangipanin kukkien
           ihanan kevyen tuoksun. 50 ml
+      sub_header: "Päivittäiseen ihonhoitoon"
     fp_eau_fraiche: 
       header: "Frangipani Eau Fraîche"
       inci: |-
@@ -43,7 +44,7 @@ fi:
           toiletten jokapäiväiseen elämän menoon. 50 ml
     fp_lotion_small: 
       header: "Frangipani Bodylotion"
-      main: "Small version for travelling and to try out"
+      main: "Matkasetti "
     fp_shower: 
       header: "Frangipani suihkuvoide"
       inci: |-
@@ -61,11 +62,11 @@ fi:
       sub_header: "Hoitava, ihastuttava"
     fp_shower_small: 
       header: "Frangipani Shower cream"
-      main: "Small version for travelling and to try out"
+      main: Matkasetti
     header: Frangipani
     list: |-
         Runoilijoiden ylistämät frangipaninkukkaset ja niiden hienostunut, hiukkasen makea, mutta kuitenkin raikas
-        tuoksu on innostava perusta tälle elvyttävälle ja kiehtovalle vartalonhoitosarjalle.
+        tuoksu on innostava perusta tälle elvyttävälle ja kiehtovalle vartalonhoitosarjalle. Sanomattakin on selvää, että teemme oikeutta kauneuden hoidolle käyttämällä parhaimpia luomuraaka-aineita, ja se saa ihmeitä aikaan!
     main: ~
     products: "fp_shower fp_bodylotion fp_eau_fraiche fp_body_butter fp_shower_small fp_lotion_small"
     sub_header: "<b>hienostunut vartalonhoitosarja</b>"
