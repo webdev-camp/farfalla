@@ -18,6 +18,7 @@ fi:
       main: |-
           Hienostunut kosteuttava vartalovoide, joka kirjaimellisesti sulaa iholle ja tekee sen sametin pehmeäksi 
           tuoksuen aistikkaalle ambralle. 50 ml
+      sub_header: "Elvyttävä ja pehmentävä "
     am_bodylotion: 
       header: "Ambra kosteusvoide"
       inci: |-
@@ -37,6 +38,7 @@ fi:
       main: |-
           Tämä sensuellituoksuinen kosteusvoide imeytyy helposti iholla ja tekee ihon sametin pehmeäksi 
           kasviöljypohjaisten luomuraaka-aineiden avulla. 150 ml
+      sub_header: "Kosteuttava ja hoitava"
     am_eau_fraiche: 
       header: "Ambra Eau Fraîche"
       inci: |-
@@ -45,11 +47,13 @@ fi:
           Coumarine*.* certified organic. * from natural essential oils
       ingredients: "alkoholi, natural essential oils mixture, ruusuvesi"
       main: |-
-          Ihastuttava taianomainen tuoksuyhdistelmä, jossa yhdistyvät santeli, Attar-ruusu ja vanilja yhdessä 
-          rockrosen kanssa. 50 ml <br/>
+          Upea, syvä tuoksuluomus, jossa yhdistyvät santeli, Attar-ruusu ja vanilja (yhdessä 
+          cistuksen kanssa). Tämä Eau Fraiche on taianomainen!  50 ml <br/>
+      sub_header: "Lämmin ja aistillinen Eau Fraiche"
     am_lotion_small: 
       header: "Ambra Bodylotion"
       main: Matkasetti
+      sub_header: "Kosteuttava ja hoitava "
     am_shower: 
       header: "Ambra suihkuvoide"
       inci: |-
@@ -62,10 +66,11 @@ fi:
       main: |-
           Kannattaa kokeilla! Lämmin- ja aistikkaantuoksuinen suihkugeeli puhdistaa ihon hellästi ja perusteellisesti. 
           Purista sormenpäihisi helmenkokoinen annos ja hiero kostealle iholle. 200 ml
-      sub_header: "Ambra am shower sub header\n"
+      sub_header: "Hellävaraisesti puhdistava "
     am_shower_small: 
       header: "Ambra Shower cream"
       main: Matkasetti
+      sub_header: "Hellävaraisesti puhdistava "
     header: Ambra
     list: "Ylellinen ja hemmotteleva vartalonhoitosarja, jonka mystisen lämmin itämainen tuoksu vie vastustamattomasti mukanaan rauhoittaen ja tasapainoittaen hoitavilla ominaisuuksillaan, ja tottakai, suurin osa raaka-aineista on luomulaatua. Suo itsellesi (...)"
     main: " "

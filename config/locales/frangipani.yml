@@ -14,6 +14,7 @@ fi:
       main: |-
           Kun iho tarvitsee syväkostutusta, on tämä kasviöljypohjainen vartalovoide oiva valinta. Se imeytyy helposti
           iholle ja tekee ihon ihanan sileäksi ja frangipanin herkkien kukkien tuoksuiseksi. 150 ml
+      sub_header: "Syväkosteuttava ja ravitseva "
     fp_bodylotion: 
       header: "Frangipani kosteusvoide"
       inci: |-
@@ -42,9 +43,11 @@ fi:
       main: |-
           Raikkaat latvatuoksut ja frangipanikukkien kaunis, lempeä tuoksu muodostavat pehmeän, naisellisen eau de
           toiletten jokapäiväiseen elämän menoon. 50 ml
+      sub_header: "Hienostunut kukkaistuoksu "
     fp_lotion_small: 
       header: "Frangipani Bodylotion"
       main: "Matkasetti "
+      sub_header: "Päivittäiseen ihonhoitoon "
     fp_shower: 
       header: "Frangipani suihkuvoide"
       inci: |-
@@ -63,6 +66,7 @@ fi:
     fp_shower_small: 
       header: "Frangipani Shower cream"
       main: Matkasetti
+      sub_header: "Hoitava, ihastuttava "
     header: Frangipani
     list: |-
         Runoilijoiden ylistämät frangipaninkukkaset ja niiden hienostunut, hiukkasen makea, mutta kuitenkin raikas
