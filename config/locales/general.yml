@@ -17,7 +17,7 @@ fi:
   menu: "face_care body_care hair_care parfumes aroma_sprays gemstone_cosmetics"
   menu_bar: "farfalla quality standards  tukku"
   parfumes: 
-    menu_text: Parfumes
+    menu_text: Luomu Eau de Parfum
     sub_menu: "womans_parfumes body_sprays"
   quality: 
     menu_text: Laatu

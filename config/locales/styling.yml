@@ -2,9 +2,7 @@
 fi: 
   styling: 
     header: "Hiusten muotoilutuotteet"
-    list: |-
-        Hiusten pesun ja hoidon jälkeen hiusten muotoilu käy erinomaisesti luomulaatuisilla tuotteilla, jotka
-        auttavat kampauksen muotoilussa, pidossa sekä hoitavat ja suojaavat hiusta.
+    list: "Hiusten muotoilu käy erinomaisesti luomulaatuisilla tuotteilla, jotka kohottavat ja antavat ryhtiä hiuksiin, auttavat kampauksen muotoilussa, pidossa ja viimeistelyssä sekä suojaavat hiusta hoitavilla luonnon eliksiireillä."
     products: "st_mousse st_spray st_gel"
     st_gel: 
       header: "Styling Gel"
@@ -25,7 +23,7 @@ fi:
       main: |-
           Pitoa, volyymia ja kiiltoa! Luonnollinen muotoiluvaahto auttaa kampauksen muotoilussa, tukee kampauksen
           kestävyyttä ja tekee kauniin kiiltävät hiukset. Levitä pyyhekuiviin hiuksiin pesun jälkeen.
-      sub_header: "Hold, volume & shine"
+      sub_header: "Volyymiä ja kiiltoa!"
     st_spray: 
       header: Hiuskiinne
       inci: |-
@@ -38,7 +36,6 @@ fi:
           PCA, kasviglyseriini, mixture of natural essential oils, vehnäproteiini
       main: |-
           Luonnollinen ja joustava tuki kaikille hiuksille ja jokaiselle kampaukselle koko päiväksi! Hiuskiinne on
-          hienojakoinen (ei tahmaa?/ ei jää jäämiä??) ja sen voi harjata helposti pois hiuksista. (Ilman
-          ponneaineita!)
-      sub_header: "Hold, volume & shine"
+          hienojakoinen ja sen voi harjata helposti pois hiuksista. Ei sisällä ponneaineita.
+      sub_header: "Luonnollista suojaa hiuksille!"
     sub_header: "Hair with style!"

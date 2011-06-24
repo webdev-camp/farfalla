@@ -1,9 +1,10 @@
-<% all = t("#{group}.products").split %>
+<% all = I18n.t("#{group}.products").split %>
 <% until (line = all[0,4]).empty? do %>
   <div class="one">
     <% line.each do |product| %>
       <div class="four">
         <p><strong><%== t("#{group}.#{product}.header")%> </strong></p>
+        <p><em><%== t("#{group}.#{product}.sub_header")%> </em></p>
         <div class="bottom">
           <img src='<%="images/#{group}/#{product}"%>.jpg' alt="<%=group.humanize%> <%=product.humanize%>" />
         </div>

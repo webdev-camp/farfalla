@@ -14,6 +14,7 @@ fi:
       main: |-
           Kun iho tarvitsee syväkostutusta, on tämä kasviöljypohjainen vartalovoide oiva valinta. Se imeytyy helposti
           iholle ja tekee ihon ihanan sileäksi ja frangipanin herkkien kukkien tuoksuiseksi. 150 ml
+      sub_header: "Syväkosteuttava ja ravitseva "
     fp_bodylotion: 
       header: "Frangipani kosteusvoide"
       inci: |-
@@ -31,6 +32,7 @@ fi:
       main: |-
           Tämä emulsio imeytyy ihoon antamalla puhtaan, silkin pehmeän olon sekä trooppisten frangipanin kukkien
           ihanan kevyen tuoksun. 50 ml
+      sub_header: "Päivittäiseen ihonhoitoon"
     fp_eau_fraiche: 
       header: "Frangipani Eau Fraîche"
       inci: |-
@@ -41,9 +43,11 @@ fi:
       main: |-
           Raikkaat latvatuoksut ja frangipanikukkien kaunis, lempeä tuoksu muodostavat pehmeän, naisellisen eau de
           toiletten jokapäiväiseen elämän menoon. 50 ml
+      sub_header: "Hienostunut kukkaistuoksu "
     fp_lotion_small: 
       header: "Frangipani Bodylotion"
-      main: "Small version for travelling and to try out"
+      main: "Matkasetti "
+      sub_header: "Päivittäiseen ihonhoitoon "
     fp_shower: 
       header: "Frangipani suihkuvoide"
       inci: |-
@@ -58,13 +62,15 @@ fi:
           Aivan erityisen ihastuttava kokemus: frangipanin kukkien eksoottinen tuoksu yhdistyneenä pehmeään
           kermaiseen vaahtoon, joka pesee ja hoitaa ihoa samanaikaisesti. Purista sormenpäihin helmenkokoinen annos
           ja hiero kostealle iholle. 200 ml
+      sub_header: "Hoitava, ihastuttava"
     fp_shower_small: 
       header: "Frangipani Shower cream"
-      main: "Small version for travelling and to try out"
+      main: Matkasetti
+      sub_header: "Hoitava, ihastuttava "
     header: Frangipani
     list: |-
         Runoilijoiden ylistämät frangipaninkukkaset ja niiden hienostunut, hiukkasen makea, mutta kuitenkin raikas
-        tuoksu on innostava perusta tälle elvyttävälle ja kiehtovalle vartalonhoitosarjalle.
+        tuoksu on innostava perusta tälle elvyttävälle ja kiehtovalle vartalonhoitosarjalle. Sanomattakin on selvää, että teemme oikeutta kauneuden hoidolle käyttämällä parhaimpia luomuraaka-aineita, ja se saa ihmeitä aikaan!
     main: ~
     products: "fp_shower fp_bodylotion fp_eau_fraiche fp_body_butter fp_shower_small fp_lotion_small"
     sub_header: "<b>hienostunut vartalonhoitosarja</b>"

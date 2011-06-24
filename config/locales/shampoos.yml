@@ -2,15 +2,7 @@
 fi: 
   shampoos: 
     header: "Luonnolliset shampoot"
-    list: |-
-        Asiantuntevaa hiustenhoitoa parhaimmista luonnonmukaisista raaka-aineista hienostunein/ ihastuttavin
-        luonnollisin tuoksuin. <br/> 
-        Farfalla on kehittänyt kaikille hiustyypeille uuden sukupolven luonnolliset
-        shampoot (ja –suihkugeelit) valikoiduista uusiutuvista luonnon raaka-aineista; kasviuutteista, eteerisistä
-        öljyistä ja kasvien luonnollisista pesevistä ainesosista. Jokaisen hiuslaadun (ihotyypin) yksilölliset
-        erityisominaisuudet on otettu huomioon, jotta hiustenhoidon (ihonhoidon) optimaalinen vaikuttavuus on taattu.
-        <br/> 
-        Farfallan tuotteet eivät sisällä synteettisiä hajusteita, väri- tai säilöntäaineita.
+    list: "Luonnon raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä koostuvat shampoot pesevät erilaiset hiuslaadut lempeästi hoitaen samalla hiuksia kokonaisvaltaisesti. Miedosti tuoksuvat shampoot hellivät aisteja ja tekevät hiuksista silkkisen kiiltävät. "
     products: "sh_frangipani_silk sh_wild_rose sh_pomegranate sh_neem_rhassoul sh_jojoba_aloe sh_melissa_seaweed"
     sh_frangipani_silk: 
       header: "Kiiltoa ja volyymia Frangipani-silkki shampoosta"
@@ -18,9 +10,9 @@ fi:
           Vesi, kasvipohjainen saippua, alkoholi, kasviglyseriini, eteeriset öljyt, xantaanikumi, maitohappo,
           silkkiproteiinit, kasviproteiinit
       main: |-
-          Silkkiproteiini antaa hiuksille ihanan hohteen, fosfolipidit enemmän kestävää volyymia. ja frangipanin
-          kukat ihastuttavan herkän tuoksun
-      sub_header: "For more shine and volume"
+          Silkkiproteiini tekee hiukset säihkyvän kiiltäviksi, fosfolipidit antavat runsautta ja kestävää volyymia, ja frangipanin
+          kukat ihastuttavat herkällä tuoksullaan.
+      sub_header: "Vahvat, terveet hiukset! "
     sh_jojoba_aloe: 
       header: "Korjaava Jojoba-aloe shampoo"
       inci: |-
@@ -36,7 +28,7 @@ fi:
           Vahvistava shampoo kuiville, katkeileville ja värikäsitellyille hiuksille. Jojobauute ja aloe vera
           kosteuttavat ja ravitsevat hiusta. Sitrushedelmien eteeriset öljyt elvyttävät päänahkaa. Hiuksista tulee
           elinvoimaiset, terveet ja luonnollisen kiiltävät.
-      sub_header: "For dry, brittle and dyed hair"
+      sub_header: "Käsitellyille hiuksille "
     sh_melissa_seaweed: 
       header: "Clear, Melissa-seaweed Shampoo"
       main: |-
@@ -64,15 +56,15 @@ fi:
           Ihanteellinen shampoo nomaaleille hiuksille sekä usein toistuvaan pesuun. Kallisarvoisen granaattiomenan
           tehoaineet suojaavat hiuksia kuivumiselta ja kosteuttavat hiuksia luonnollisesti. Hiukset ovat elastiset,
           kuohkeat, hyvässä kunnossa ja kauniin kiiltävät.
-      sub_header: "For normal hair, frequent washing"
+      sub_header: "Hiuksia kosteuttava!"
     sh_wild_rose: 
       header: "Hellävarainen Villiruusu shampoo"
       ingredients: |-
           Vesi, kasvipohjainen saippua, alkoholi, kasviglyseriini, xantaanikumi, luomuruusun kukkien uute,
           maitohappo, kasviproteiinit
       main: |-
-          Erittäin mieto ja luonnollinen shampoo sopii erityisesti ohuille hiuksille, herkälle päänahalle ja
+          Erittäin mieto ja luonnollinen shampoo sopii erityisesti hennoille hiuksille, herkälle päänahalle ja
           lapsille. Kallisarvoinen ruusu-uute rauhoittaa ja tasapainoittaa herkkää päänahkaa. Shampoo tekee hiuksista
           luonnollisen kiiltävät, terveet ja kauniit juurista latvoihin.
-      sub_header: "For fine hair, sensitive scalp, children"
-    sub_header: "For gentle skin and hair care"
+      sub_header: "Herkän ihon shampoo!"
+    sub_header: "Hellävaraiseen hiustenpesuun "
