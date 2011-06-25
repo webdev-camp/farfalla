@@ -4,18 +4,17 @@ fi:
     gemstone_tourmaline: 
       header: "Turmaliini Jalokiviöljy"
       main: |-
-          Tässä jalokiviöljyssä yhdistyvät Turmaliinin energisoivat ja aisteja elävöittävät vaikutukset hurmaaviin korkealuokkaisiin luomulaatuisiin tuoksuviin eteerisiin öljyihin. Pieni Turmaliini joka pullossa vahvistaa öljyn
-          vaikutusta. Voit käyttää öljyä hierontaan tai kasvojen ja vartalon hoitoon. <br/> 
+          Tässä jalokiviöljyssä yhdistyvät Turmaliinin energisoivat, tasapainottavat ja aisteja elävöittävät vaikutukset hurmaaviin korkealuokkaisiin luomulaatuisiin tuoksuviin eteerisiin öljyihin. Pieni Turmaliini, joka pullossa, vahvistaa öljyn
+          vaikutusta. Voit käyttää öljyä hierontaan, tai kasvojen ja vartalon hoitoon. <br/> 
           Valmistusaineet: liuotettu turmaliini jojoba luomuöljyssä, valvottua luomutuotantoa olevien 
           luonnollisten eteeristen öljyjen seos
       sub_header: "Tasapainoa ja energiaa"
     header: Turmaliini
     list: |
-        Turmaliinilla on harvinaisen laaja väriskaala, ja sen ansiosta se onkin jalokivien joukossa omaa luokkaansa. Laajan väriskaalan tapaan myös turmaliinin hoitavat ja parantavat ominaisuudet ovat laajat. 
-        Crystal Balance sarjan tuotteet pitävät sisällän turmaliinin monipuoliset rauhoittavat ja energisoivat vaikutukset. Turmaliini auttaa keskittymään ja tuo sisäistä tasapainoa samalla kun se saa meidät myös ulkoisesti sädehtimään. Turmaliinin on uskottu myös avaavan tukkeutuneita energiakanavia. 
+        Crystal Balance sarjassa pääsevät esiin turmaliinin monipuoliset rauhoittavat ja energisoivat vaikutukset. Turmaliini auttaa keskittymään ja tuo sisäistä tasapainoa samalla kun se saa meidät myös ulkoisesti sädehtimään. Turmaliinilla on harvinaisen laaja väriskaala. Samoin sen hoitavat ja parantavat ominaisuudet ovat monipuoliset. Turmaliini avaa myös tukkeutuneita energiakanavia. 
         Sarjan tuotteet saavat ihanan tuoksunsa eteerisistä öljyistä: Ruususta ja Iiriksestä – kahdesta kukasta, jotka on liitetty tähän kiveen jo muinaista ajoista lähtien – pyöristettynä Bergamotilla ja Nerolilla.
     products: "gemstone_tourmaline tourmaline_cream tourmaline_fraiche"
-    sub_header: ~
+    sub_header: "Voimaa ja energiaa"
     tourmaline_cream: 
       header: "Turmaliini Ihonhoitovoide"
       main: |-
@@ -24,6 +23,7 @@ fi:
           triglyzerides, shea butter*, grapeseed oil, wheat glycoside, ettalcohol, vegetable glycerine, Jojobaöl*,
           almond oil*, wild rose oil*, glyceryle stearate, phytosqualan from olives, bees wax, vitamin E, blend of
           natural essential oils, extract of sea algae, Xanthan.
+      sub_header: "Ravitseavaa tasapainoa"
     tourmaline_fraiche: 
       header: "Turmaliini Virkistävä Spray"
       main: |-
@@ -31,3 +31,4 @@ fi:
           Käyttö: parfyymina, energisoivana ja – esimerkiksi huoneessa – harmonisoivana spraynä. <br/>
           Valmistusaineet:: Alcohol*, rosewater*, blend of natural essential oils from controlled organic
           cultivation.
+      sub_header: "Voimaa ja harmoniaa"

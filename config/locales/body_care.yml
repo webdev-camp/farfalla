@@ -2,8 +2,7 @@
 fi: 
   body_care: 
     header: Vartalohoito
-    list: "Better text needed"
-    sub_header: |-
-        Kolme luomulaatuista vartalonhoitosarjaa, joita ihosi rakastaa! <br/>
-        Sarjoissa yhdistyvät luonnonmukaisuus, selkeävaikutteiset raaka-aineet sekä tieteellinen kehitys, 
-        mitkä takaavat kokonaisvaltaisen hyvän olon jokapäiväisessä vartalonhoidossa.
+    list: |-
+        Näissä sarjoissa yhdistyvät luonnonmukaisuus, selkeävaikutteiset raaka-aineet sekä tieteellinen kehitys. 
+        Nämä kaikki ominaisuudet takaavat kokonaisvaltaisen hyvän olon jokapäiväisessä vartalonhoidossa. 
+    sub_header: "Kolme luomulaatuista vartalonhoitosarjaa, joita ihosi rakastaa! "

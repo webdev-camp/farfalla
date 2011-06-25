@@ -2,7 +2,7 @@
 fi: 
   shampoos: 
     header: "Luonnolliset shampoot"
-    list: "Luonnon raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä koostuvat shampoot pesevät erilaiset hiuslaadut lempeästi hoitaen samalla hiuksia kokonaisvaltaisesti. Miedosti tuoksuvat shampoot hellivät aisteja ja tekevät hiuksista silkkisen kiiltävät. "
+    list: "Luonnon raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä koostuvat shampoot pesevät erilaiset hiuslaadut lempeästi ja hoitavat samalla hiuksia kokonaisvaltaisesti. Miedosti tuoksuvat shampoot hellivät aisteja ja tekevät hiuksista silkkisen kiiltävät.  "
     products: "sh_frangipani_silk sh_wild_rose sh_pomegranate sh_neem_rhassoul sh_jojoba_aloe sh_melissa_seaweed"
     sh_frangipani_silk: 
       header: "Kiiltoa ja volyymia Frangipani-silkki shampoosta"

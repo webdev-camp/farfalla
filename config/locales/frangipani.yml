@@ -31,7 +31,7 @@ fi:
           xantaanikumi, greipinsiemenöljy, merisuolauute. sitruunahappo * from kontr. Organic
       main: |-
           Tämä emulsio imeytyy ihoon antamalla puhtaan, silkin pehmeän olon sekä trooppisten frangipanin kukkien
-          ihanan kevyen tuoksun. 50 ml
+          ihanan kevyen tuoksun. <br/>50 ml
       sub_header: "Päivittäiseen ihonhoitoon"
     fp_eau_fraiche: 
       header: "Frangipani Eau Fraîche"
@@ -42,7 +42,7 @@ fi:
       ingredients: "alkoholi, natural essential oils mixture, ruusuvesi"
       main: |-
           Raikkaat latvatuoksut ja frangipanikukkien kaunis, lempeä tuoksu muodostavat pehmeän, naisellisen eau de
-          toiletten jokapäiväiseen elämän menoon. 50 ml
+          toiletten jokapäiväiseen elämän menoon. <br/>50 ml
       sub_header: "Hienostunut kukkaistuoksu "
     fp_lotion_small: 
       header: "Frangipani Bodylotion"
@@ -61,7 +61,7 @@ fi:
       main: |-
           Aivan erityisen ihastuttava kokemus: frangipanin kukkien eksoottinen tuoksu yhdistyneenä pehmeään
           kermaiseen vaahtoon, joka pesee ja hoitaa ihoa samanaikaisesti. Purista sormenpäihin helmenkokoinen annos
-          ja hiero kostealle iholle. 200 ml
+          ja hiero kostealle iholle. <br/>200 ml
       sub_header: "Hoitava, ihastuttava"
     fp_shower_small: 
       header: "Frangipani Shower cream"
