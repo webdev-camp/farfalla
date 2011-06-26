@@ -13,7 +13,7 @@ fi:
       ingredients: "shea butter, vesi kasviglyseriini, triglycerides, appelsiininkukkavesi, aloe vera, alkoholi, greippiuute, mehiläisvaha, auringonkukkaöljy, kookosöljy, hamamelisvesi, wheat Glykosid, Cetearyl alcohol, glyceryl stearate, porkkanauute, glyceryl stearate, luonnoll. vit. E, merileväuute, xantaanikumi, sitruunahappo, glyceryl stearate,"
       main: |-
           Kun iho tarvitsee syväkostutusta, on tämä kasviöljypohjainen vartalovoide oiva valinta. Se imeytyy helposti
-          iholle ja tekee ihon ihanan sileäksi ja frangipanin herkkien kukkien tuoksuiseksi. 150 ml
+          iholle ja tekee ihon ihanan sileäksi ja frangipanin kukkien tuoksuiseksi. 150 ml 
       sub_header: "Syväkosteuttava ja ravitseva "
     fp_bodylotion: 
       header: "Frangipani kosteusvoide"
@@ -31,7 +31,7 @@ fi:
           xantaanikumi, greipinsiemenöljy, merisuolauute. sitruunahappo * from kontr. Organic
       main: |-
           Tämä emulsio imeytyy ihoon antamalla puhtaan, silkin pehmeän olon sekä trooppisten frangipanin kukkien
-          ihanan kevyen tuoksun. <br/>50 ml
+          ihanan tuoksun. <br/>50 ml 
       sub_header: "Päivittäiseen ihonhoitoon"
     fp_eau_fraiche: 
       header: "Frangipani Eau Fraîche"
@@ -59,9 +59,9 @@ fi:
           kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo, natural
           essential oils mixture
       main: |-
-          Aivan erityisen ihastuttava kokemus: frangipanin kukkien eksoottinen tuoksu yhdistyneenä pehmeään
+          Frangipanin kukkien eksoottinen tuoksu yhdistyneenä pehmeään
           kermaiseen vaahtoon, joka pesee ja hoitaa ihoa samanaikaisesti. Purista sormenpäihin helmenkokoinen annos
-          ja hiero kostealle iholle. <br/>200 ml
+          ja hiero kostealle iholle. <br/>200 ml 
       sub_header: "Hoitava, ihastuttava"
     fp_shower_small: 
       header: "Frangipani Shower cream"
@@ -69,8 +69,8 @@ fi:
       sub_header: "Hoitava, ihastuttava "
     header: Frangipani
     list: |-
-        Runoilijoiden ylistämät frangipaninkukkaset ja niiden hienostunut, hiukkasen makea, mutta kuitenkin raikas
-        tuoksu on innostava perusta tälle elvyttävälle ja kiehtovalle vartalonhoitosarjalle. Sanomattakin on selvää, että teemme oikeutta kauneuden hoidolle käyttämällä parhaimpia luomuraaka-aineita, ja se saa ihmeitä aikaan!
+        Frangipaninkukkaset ja niiden hienostunut ja raikas
+        tuoksu on innostava perusta tälle elvyttävälle ja hoitavalle vartalonhoitosarjalle. Käytämme parhaimpia luomuraaka-aineita, ja se saa ihmeitä aikaan!  
     main: ~
     products: "fp_shower fp_bodylotion fp_eau_fraiche fp_body_butter fp_shower_small fp_lotion_small"
     sub_header: "<b>hienostunut vartalonhoitosarja</b>"

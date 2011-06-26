@@ -1,9 +1,12 @@
 --- 
 fi: 
+  aroma_sprays: 
+    menu_text: "Aroma Sprays"
   body_care: 
     menu_text: "Body Care"
     sub_menu: "fresh_lime ambra frangipani"
   face_care: 
+    main_header: " "
     menu_text: "Face Care"
     sub_menu: "daily_refresh in_balance intense_moisture age_miracle pure_sensitive be_beautiful travel_set"
   farfalla: 
@@ -18,14 +21,12 @@ fi:
   menu: "face_care body_care hair_care parfumes aroma_sprays crystal_balance"
   menu_bar: "farfalla quality standards  tukku"
   parfumes: 
-    menu_text: Luomu Eau de Parfum
+    menu_text: "Luomu Eau de Parfum"
     sub_menu: "womans_parfumes body_sprays"
   quality: 
     menu_text: Laatu
     header: Laatu
   slogan: "laadukasta luomukosmetiikkaa"
-  aroma_sprays: 
-    menu_text: "Aroma Sprays"
   standards: 
     menu_text: Luomukosmetiikka
     header: Luomukosmetiikka

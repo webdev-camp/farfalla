@@ -2,7 +2,7 @@
 fi: 
   shampoos: 
     header: "Luonnolliset shampoot"
-    list: "Luonnon raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä koostuvat shampoot pesevät erilaiset hiuslaadut lempeästi ja hoitavat samalla hiuksia kokonaisvaltaisesti. Miedosti tuoksuvat shampoot hellivät aisteja ja tekevät hiuksista silkkisen kiiltävät.  "
+    list: "Shampoot on valmistettu luonnollisista raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä. Ne pesevät erilaiset hiuslaadut lempeästi ja hoitavat samalla hiuksia kokonaisvaltaisesti. Miedosti tuoksuvat shampoot hellivät aisteja ja tekevät hiuksista silkkisen kiiltävät.  "
     products: "sh_frangipani_silk sh_wild_rose sh_pomegranate sh_neem_rhassoul sh_jojoba_aloe sh_melissa_seaweed"
     sh_frangipani_silk: 
       header: "Kiiltoa ja volyymia Frangipani-silkki shampoosta"
@@ -11,7 +11,7 @@ fi:
           silkkiproteiinit, kasviproteiinit
       main: |-
           Silkkiproteiini tekee hiukset säihkyvän kiiltäviksi, fosfolipidit antavat runsautta ja kestävää volyymia, ja frangipanin
-          kukat ihastuttavat herkällä tuoksullaan.
+          kukat ihastuttavat tuoksullaan.
       sub_header: "Vahvat, terveet hiukset! "
     sh_jojoba_aloe: 
       header: "Korjaava Jojoba-aloe shampoo"
@@ -53,9 +53,8 @@ fi:
           Vesi, kasvisaippua, alkoholi, kasviglyseriini, eteeriset öljyt, xantaanikumi, granaattiomenauute*,
           maitohappo, kasviproteiini *valvottua luomutuotantoa
       main: |-
-          Ihanteellinen shampoo nomaaleille hiuksille sekä usein toistuvaan pesuun. Kallisarvoisen granaattiomenan
-          tehoaineet suojaavat hiuksia kuivumiselta ja kosteuttavat hiuksia luonnollisesti. Hiukset ovat elastiset,
-          kuohkeat, hyvässä kunnossa ja kauniin kiiltävät.
+          Ihanteellinen shampoo nomaaleille hiuksille sekä usein toistuvaan pesuun. Granaattiomenan
+          tehoaineet suojaavat hiuksia kuivumiselta ja kosteuttavat hiuksia luonnollisesti. Hiukset ovat elastiset, hyvässä kunnossa ja kauniin kiiltävät. 
       sub_header: "Hiuksia kosteuttava!"
     sh_wild_rose: 
       header: "Hellävarainen Villiruusu shampoo"
@@ -63,8 +62,8 @@ fi:
           Vesi, kasvipohjainen saippua, alkoholi, kasviglyseriini, xantaanikumi, luomuruusun kukkien uute,
           maitohappo, kasviproteiinit
       main: |-
-          Erittäin mieto ja luonnollinen shampoo sopii erityisesti hennoille hiuksille, herkälle päänahalle ja
-          lapsille. Kallisarvoinen ruusu-uute rauhoittaa ja tasapainoittaa herkkää päänahkaa. Shampoo tekee hiuksista
-          luonnollisen kiiltävät, terveet ja kauniit juurista latvoihin.
+          Erittäin mieto shampoo sopii erityisesti hennoille hiuksille, herkälle päänahalle ja
+          lapsille. Ruusu-uute rauhoittaa ja tasapainoittaa herkkää päänahkaa. Shampoo tekee hiuksista
+          luonnollisen kiiltävät, terveet ja kauniit juurista latvoihin. 
       sub_header: "Herkän ihon shampoo!"
     sub_header: "Hellävaraiseen hiustenpesuun "
