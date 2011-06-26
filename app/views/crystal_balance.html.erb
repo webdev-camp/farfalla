@@ -1,0 +1,17 @@
+<%= render :partial => "group_header" , :locals => {:group => "crystal_balance" }%>
+
+<% ["tourmaline" , "amberstone"].each do |group| %>
+<div class="one">
+  <h2> <%== t("#{group}.header")%> </h2>
+  <div class="four">
+    <a href="/<%=group%>.html">
+      <img alt="logo <%=group.humanize%>" src="/images/<%=group%>/logo.jpg">
+    </a>
+  </div>
+  <div class="sixty">
+    <%== t("#{group}.list")%>
+  </div>
+</div>
+<br/>
+<%end%>
+ 

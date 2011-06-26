@@ -1,5 +1,5 @@
 en:
-  menu: face_care body_care hair_care parfumes aroma_sprays gemstone_cosmetics
+  menu: face_care body_care hair_care parfumes aroma_sprays crystal_balance
   face_care: 
     menu_text: Face Care
     sub_menu: daily_refresh in_balance intense_moisture age_miracle pure_sensitive be_beautiful travel_set
@@ -28,8 +28,8 @@ en:
     conditioner: Conditioner
   aroma_sprays: 
     menu_text: Aroma sprays
-  gemstone_cosmetics: 
-    menu_text: Gemstome Cosmetics
+  crystal_balance: 
+    menu_text: Crystal Balance
     sub_menu: tourmaline amberstone
     tourmaline: Tourmaline
     amberstone: Amberstone
