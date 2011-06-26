@@ -1,12 +1,11 @@
 --- 
 fi: 
   crystal_balance: 
-    header: "Luomu Eau de Parfum"
+    header: "Crystal Balance"
     list: |-
-        Luonnollinen hajuvesi on kuin näkymätön huntu. 
-        Tuoksun huomaa ainoastaan henkilön välittömässä läheisyydessä. 
-        Luonnolliset tuoksut haihtuvat nopeammin kuin synteettiset . 
-        Ne eivät pe
+        Jalokiviin on kautta aikain yhdistetty parantavia ja tasapainottavia ominaisuuksia. Farfalla on nyt kehittänyt ainutlaatuisen tekniikan, jolla nämä kivien hienot ominaisuudet saadaan palvelemaan ihonhoitoa erityisen liuotuksen kautta. <br><br>
+        Farfallan Jalokivi kosmetiikka -sarjassa luomukosmetiikka ylellisine tuoksuineen yhdistetään joko Turmaliinin tai Meripihkan ainutlaatuisiin ominaisuuksiin. Kivien elävöittävät ja tasapainottavat vaikutukset pääsevät oikeuksiinsa sarjan hienovaraisissa ja korkealuokkaisissa tuotteissa. <br><br>
+        Jalokivi kosmetiikka -tuotteista löydät niin Eau de Fraîche –sprayt, voiteet kuin hurmaavat jalokiviöljyt, joilla hemmottelet sekä ihoasi että aistejasi!
     main: ""
     products: ~
     sub_header: ""

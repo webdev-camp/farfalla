@@ -8,6 +8,7 @@ fi:
     sub_menu: "daily_refresh in_balance intense_moisture age_miracle pure_sensitive be_beautiful travel_set"
   farfalla: 
     menu_text: Farfalla
+    header: Farfalla Essentials
   crystal_balance: 
     menu_text: Crystal Balance
     sub_menu: "tourmaline amberstone"
@@ -21,10 +22,12 @@ fi:
     sub_menu: "womans_parfumes body_sprays"
   quality: 
     menu_text: Laatu
+    header: Laatu
   slogan: "laadukasta luomukosmetiikkaa"
   aroma_sprays: 
     menu_text: "Aroma Sprays"
   standards: 
     menu_text: Luomukosmetiikka
+    header: Luomukosmetiikka
   tukku: 
     menu_text: Tukku

@@ -5,7 +5,16 @@
 <div class ="one">
 
 <div class ="one">
-<% ["daily_refresh","in_balance","intense_moisture","age_miracle","pure_sensitive","be_beautiful"].each do |line|%>
+<% ["daily_refresh","in_balance","intense_moisture"].each do |line|%>
+  <div class="three">
+      <a href="<%=line%>.html">
+        <img src="images/<%=line%>/logo.jpg" alt="logo <%=line.humanize%>" /> <br/><%= I18n.t(line+'.sub_header')%>
+      </a><br/><br/>
+  </div>
+<%end%>
+</div>
+<div class ="one">
+<% ["age_miracle","pure_sensitive","be_beautiful"].each do |line|%>
   <div class="three">
       <a href="<%=line%>.html">
         <img src="images/<%=line%>/logo.jpg" alt="logo <%=line.humanize%>" /> <br/><%= I18n.t(line+'.sub_header')%>
