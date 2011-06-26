@@ -16,8 +16,8 @@ fi:
           glyceryl stearate, porkkanauute, phytosqualan, luonnoll. vit. E, merileväuute, 
           xantaanikumi, citric acid, natural essential oils mixture
       main: |-
-          Hienostunut kosteuttava vartalovoide, joka kirjaimellisesti sulaa iholle ja tekee sen sametin pehmeäksi 
-          tuoksuen aistikkaalle ambralle. 50 ml
+          Kosteuttava vartalovoide, joka kirjaimellisesti sulaa iholle ja tekee sen sametin pehmeäksi 
+          tuoksuen aistikkaalle ambralle. 50 ml 
       sub_header: "Elvyttävä ja pehmentävä "
     am_bodylotion: 
       header: "Ambra kosteusvoide"
@@ -62,15 +62,15 @@ fi:
           vesi, (kasviperäisten raaka-aineiden pinta-aktiivisia aineita), auringonkukkaöljy, alkoholi, 
           kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo
       main: |-
-          Kannattaa kokeilla! Lämmin- ja aistikkaantuoksuinen suihkugeeli puhdistaa ihon hellästi ja perusteellisesti. 
-          Purista sormenpäihisi helmenkokoinen annos ja hiero kostealle iholle. 200 ml
+          Kannattaa kokeilla! Aistikkaantuoksuinen suihkugeeli puhdistaa ihon hellästi ja perusteellisesti. 
+          Purista sormenpäihisi helmenkokoinen annos ja hiero kostealle iholle. 200 ml 
       sub_header: "Hellävaraisesti puhdistava "
     am_shower_small: 
       header: "Ambra Shower cream"
       main: Matkasetti
       sub_header: "Hellävaraisesti puhdistava "
     header: Ambra
-    list: "Ylellinen ja hemmotteleva vartalonhoitosarja, jonka mystisen lämmin itämainen tuoksu vie vastustamattomasti mukanaan rauhoittaen ja tasapainoittaen hoitavilla ominaisuuksillaan, ja tottakai, suurin osa raaka-aineista on luomulaatua. Suo itsellesi (...)"
+    list: "Ylellinen vartalonhoitosarja, joka rauhoittaa, tasapainoittaa ja hoitaa. Sen lämmin itämainen tuoksu vie mukanaan! Suurin osa raaka-aineista on luomulaatua. Suo itsellesi ihana hemmotteluhetki! "
     main: " "
     products: "am_shower am_bodylotion am_eau_fraiche am_body_butter am_shower_small am_lotion_small"
     sub_header: "<b>aistillinen vartalonhoitosarja</b>"
