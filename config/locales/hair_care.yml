@@ -1,7 +1,6 @@
 --- 
 fi: 
   hair_care: 
-    header: "Take care of your hair"
     list: |-
         Farfalla on kehittänyt kaikille hiustyypeille luonnolliset shampoot, hoitoaineet ja muotoilutuotteet valikoiduista uusiutuvista luonnon raaka-aineista: kasviuutteista, eteerisistä
         öljyistä ja kasvien luonnollisista pesevistä ainesosista. Jokaisen hiuslaadun yksilölliset
@@ -10,3 +9,4 @@ fi:
     sub_header: |-
         Asiantuntevaa hiustenhoitoa parhaimmista luonnonmukaisista raaka-aineista
         luonnollisin tuoksuin.   
+
