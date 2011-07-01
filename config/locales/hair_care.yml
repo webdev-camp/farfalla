@@ -1,8 +1,12 @@
 --- 
 fi: 
   hair_care: 
-    header: "Take care of your hair"
-    list: "Farfalla on kehittänyt kaikille hiustyypeille uuden sukupolven luonnolliset shampoot, hoitoaineet ja muotoilutuotteet valikoiduista uusiutuvista luonnon raaka-aineista; kasviuutteista, eteerisistä öljyistä ja kasvien luonnollisista pesevistä ainesosista. Jokaisen hiuslaadun yksilölliset erityisominaisuudet on otettu huomioon. Näin hiustenhoidon optimaalinen vaikuttavuus on taattu. <br> Tuotteet eivät sisällä synteettisiä hajusteita, silikonia, väri- tai säilöntäaineita."
+    list: |-
+        Farfalla on kehittänyt kaikille hiustyypeille luonnolliset shampoot, hoitoaineet ja muotoilutuotteet valikoiduista uusiutuvista luonnon raaka-aineista: kasviuutteista, eteerisistä
+        öljyistä ja kasvien luonnollisista pesevistä ainesosista. Jokaisen hiuslaadun yksilölliset
+        erityisominaisuudet on otettu huomioon. Näin hiustenhoidon vaikuttavuus on taattu.
+        Tuotteet eivät sisällä synteettisiä hajusteita, silikonia, väri- tai säilöntäaineita.
     sub_header: |-
-        Asiantuntevaa hiustenhoitoa parhaimmista luonnonmukaisista raaka-aineista ihastuttavin
-        luonnollisin tuoksuin.  
+        Asiantuntevaa hiustenhoitoa parhaimmista luonnonmukaisista raaka-aineista
+        luonnollisin tuoksuin.   
+
