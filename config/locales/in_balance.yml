@@ -3,7 +3,9 @@ fi:
   in_balance: 
     header: "in balance"
     ib_fluid: 
-      header: "Tasapainottava, tasoittava emulsio"
+      header: |-
+          Tasapainottava, tasoittava emulsio,
+           joka tuo iholle mattapinnan
       main: |-
           Kirkastaa, pehmentää ja rauhoittaa ihoa ja antaa sille tasapainoisen, silkinpehmeän mattapinnan.
           Pellavansiemenuutteet säännöstelevät liiallista talineritystä. Rosmariini, kultapäivännouto (Rock Rose) ja ruusumyrtti ehkäisevät
@@ -45,4 +47,3 @@ fi:
     main_header: "Tehokkaat, vaikuttavat aineosat"
     products: "ib_fluid ib_maske ib_serum"
     sub_header: "tasapainoinen iho - tehokasta apua epäpuhtauksien hoitoon"
-
