@@ -18,7 +18,9 @@ fi:
   hair_care: 
     menu_text: "Hair care"
     sub_menu: "shampoos conditioner styling"
-  menu: "face_care body_care hair_care parfumes aroma_sprays crystal_balance"
+  men:
+    menu_text: Miehille
+  menu: "face_care body_care hair_care parfumes aroma_sprays crystal_balance men"
   menu_bar: "farfalla quality standards  tukku"
   parfumes: 
     menu_text: "Luomu Eau de Parfum"
