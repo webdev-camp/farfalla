@@ -1,0 +1,55 @@
+--- 
+fi: 
+  aloe_shea: 
+    as_cleansing: 
+      header: "Aloe-Shea Soft Cleansing Milk"
+      main: |-
+          Mild cleanser for mature skin. Moisten face, spread cleanser on the face or apply with cotton 
+          pads and rinse with lots of water.
+      sub_header: ""
+    as_eye_fluid: 
+      header: "Aloe-Shea Anti-ageing Eye Fluid"
+      main: |-
+          Certified natural cosmetic (BDIH) with no synthetic dyes, artificial scents, 
+          preservatives or paraffines. An anti-ageing eye fluid with intensive action. For daily use. 
+          Application: put small portion from the dispenser on fingertips and softly tap in around the eyes.
+      sub_header: ""
+    as_mask: 
+      header: "Aloe-Shea Energising Mask"
+      main: |-
+          A refreshing, intensive treatment mask for those in a hurry. 
+          Tones and invigorates the complexion in a short time and supplies the skin with moisture. 
+          For a resplendent look.
+      sub_header: ""
+    as_nourishing: 
+      header: "Aloe-Shea Anti-ageing Nourishing Cream"
+      main: |-
+          A regenerating anti-wrinkle cream with precious plant ingredients to counteract the ageing process.
+          Apply day and night. 
+      sub_header: ""
+    as_serum: 
+      header: "Aloe-Shea Skin Serum, Intensive Treatment"
+      main: |-
+          Fat free intensive treatment with concentrated anti-ageing substances like aloe vera, 
+          phytosqualane, hyaluron acid (from wheat) and centella extract. 
+          Use 2-3 times a week or as intensive treatment during 4-8 weeks.
+      sub_header: ""
+    as_tonic: 
+      header: "Aloe-Shea Tonic"
+      main: |-
+          A gentle revitalizing and purifying skin tonic with aloe vera and rose blossom water which 
+          has a slightly astringent action. We recommend following with Aloe Shea Nourishing Cream.    
+      sub_header: ""
+    header: "aloe shea"
+    list: "Anti-Ageing Care for Mature Skin Organically grown, fresh aloe vera juice stimulates the circulation and regulates evaporation of moisture from the skin. Shea butter protects against dehydration and preserves the elasticity of the skin. Two wheat based ingredients, wheat soramides and hyaluron acid, work in a natural and gentle way to counteract the ageing process. The anti-ageing effectiveness is dermatologically tested and proven. Aloe-Shea Anti-ageing Nourishing Cream: the average wrinkle reduction after 4 weeks of application reaches 33 %. e "
+    main: |
+        Anti-Ageing Care for Mature Skin
+        Organically grown, fresh aloe vera juice stimulates the circulation and regulates evaporation of 
+        moisture from the skin. Shea butter protects against dehydration and preserves the elasticity of the skin. 
+        Two wheat based ingredients, wheat soramides and hyaluron acid, work in a natural and gentle way to counteract 
+        the ageing process. The anti-ageing effectiveness is dermatologically tested and proven.
+        Aloe-Shea Anti-ageing Nourishing Cream: the average wrinkle reduction after 4 weeks of application 
+        reaches 33 %. 
+    main_header: "Anti-Ageing Care for Mature Skin"
+    products: "as_cleansing as_tonic as_nourishing as_serum as_eye_fluid as_mask"
+    sub_header: "Anti-Ageing Care for Mature Skin"
