@@ -3,7 +3,6 @@ fi:
   amberstone: 
     amberstone_cream: 
       header: "Amberstone Cream"
-      sub_header: ""
       inci: |-
           Aqua, Helianthus Annuus Seed Oil*, Simmondsia Chinensis Seed Oil*,  Aloe Barbadensis Leaf Juice*, 
           Citrus Aurantium Amara Flower Water*, Alcohol*,  Lauryl Laurate, Glycerin*, 
@@ -17,9 +16,9 @@ fi:
           Käyttö: suojaava ihonhoito, päivä ja yö.
           Ei synteettisiä värejä, tuoksuja, säilöntäaineita eikä
           PEG tai parafiinia. Ilman eläinkokeita.
+      sub_header: ""
     amberstone_fraiche: 
       header: "Amberstone Eau Fraîche"
-      sub_header: ""
       inci: |-
           Alcohol*, Citrus Aurantium Amara Flower Water*, Parfum (Natural Essential Oils), 
           Benzyl Benzoate**,  Benzyl Cinnamate**, Citral**, Coumarine**, Farnesol**, Geraniol**, 
@@ -29,6 +28,7 @@ fi:
           Meripihka ja bergamotti yhdistävät valoa puoleensavetävät energiansa benzoen ja mandariinin 
           tarjotessa lempeän taustan.  Käyttö: parfyymina, energisoivana ja – esimerkiksi 
           huoneessa –harmonisoivana spraynä 
+      sub_header: ""
     amberstone_oil: 
       header: "Amberstone Oil"
       inci: |-
@@ -43,8 +43,8 @@ fi:
           Tutustu Meripihka-sarjaan, anna lahjaksi tai ota mukaan matkalle. 3 x 20 ml."
     header: Amber
     list: |-
-        Amberstone (meripihka) ja hienovaraisesti valikoidut eteeriset luomuöljyt antavat kasvojesi iholle uutta säteilyä. Erityisen tehokkaita tämän uutta luovan sarjan tuotteet ovat väsyneelle ja kalpealle iholle sekä iholle, joka kärsii  huonosta verenkierrosta. Näissä tuotteissa meripihkan energia saadaan palvelemaan ihonhoitoa erityisen liuotuksen kautta. Hedelmäiset ja raikkaat mandariinin ja bergamotin tuoksut  yhdistettynä benzoen, inkiväärin ja 
-        vaniljan lämmittäviin ydintuoksuihin lämmittävät sydäntä ja luovat turvallisuuden tunnetta.<br/>
+        Amberstone (meripihka) ja hienovaraisesti valikoidut eteeriset luomuöljyt antavat kasvojesi iholle uutta säteilyä. Erityisen tehokkaita tämän uutta luovan sarjan tuotteet ovat väsyneelle ja kalpealle iholle sekä iholle, joka kärsii  huonosta verenkierrosta. Hedelmäiset ja raikkaat mandariinin ja bergamotin tuoksut  yhdistettynä benzoen, inkiväärin ja 
+        vaniljan lämmittäviin ydintuoksuihin avaavat sydäntä, vahvistavat ja luovat turvallisuuden tunnetta. Näissä tuotteissa meripihkan energia saadaan palvelemaan ihonhoitoa erityisen liuotuksen kautta. <br/>
         Sertifioitua luomukosmetiikkaa, jossa 95% valmistusaineista on luomu-laatua, – Tason 3 NaTrue. 
     products: "amberstone_oil amberstone_cream amberstone_fraiche"
     sub_header: "Silkinpehmeyttä ja säteilyä ihollesi!\n"
