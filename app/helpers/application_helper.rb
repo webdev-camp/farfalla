@@ -25,4 +25,15 @@ module ApplicationHelper
     "#{ret} <a href='/translations/?key=#{key}&return=#{this_page}'>e</a>"
   end
   
+  def groups
+    ret = []
+    I18n.t( "menu").split(" ").each do |g|
+      if(I18n.t("#{g}.sub_menu").index("missing"))
+        ret << g
+      else
+        ret += I18n.t("#{g}.sub_menu").split(" ")
+      end
+    end
+    ret   
+  end
 end
