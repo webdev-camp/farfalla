@@ -3,14 +3,16 @@ fi:
   in_balance: 
     header: "in balance"
     ib_fluid: 
-      header: "Tasapainottava, tasoittava emulsio"
+      header: |-
+          Tasapainottava, tasoittava emulsio,
+           joka tuo iholle mattapinnan
       main: |-
           Kirkastaa, pehmentää ja rauhoittaa ihoa ja antaa sille tasapainoisen, silkinpehmeän mattapinnan.
           Pellavansiemenuutteet säännöstelevät liiallista talineritystä. Rosmariini, kultapäivännouto (Rock Rose) ja ruusumyrtti ehkäisevät
           epäpuhtauksien syntyä. Käytä puhdistuksen ja kasvoveden 
           jälkeen aamuin illoin. Halutessasi levitä emulsion alle in balance Tasapainottava seerumi. <br/> 
           100% luonnollisista aineista - 74% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
-      sub_header: "Silkinpehmeä, tasainen iho"
+      sub_header: "Silkinpehmeä, mattapintainen iho"
     ib_maske: 
       header: "Kirkastava puhdistusnaamio"
       main: |-
@@ -45,4 +47,3 @@ fi:
     main_header: "Tehokkaat, vaikuttavat aineosat"
     products: "ib_fluid ib_maske ib_serum"
     sub_header: "tasapainoinen iho - tehokasta apua epäpuhtauksien hoitoon"
-

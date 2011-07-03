@@ -2,38 +2,34 @@
 fi: 
   aroma_sprays: 
     ambiance: 
-      header: Ambiance
+      header: Ambiance- Tunnelma
       main: |-
-          Composition: a flowery, fresh, stimulating scent to set the mood for a calming environment. 
-          Uses: living areas, offices, reception areas, waiting rooms. 
-          Contents: bergamot, orange*, lemon*, rose geranium, peppermint.
-    atmosphere: 
-      header: Atmosphere
+          Tämä raikas ja piristävä tuoksu tuo rauhallisen ilmapiirin.
+          Sopii hyvin kotiin, toimistoihin ja odotushuoneisiin.<br/>
+          Sisältää: Bergamotin-,appelsiinin-,sitruunan-,pelargonin-ja piparmintun eteeristä öljyä
+    security: 
+      header: Security-Turvallisuuden tunne
       main: |-
-          Composition: a fresh, tangy scent, strongly purifying and an aid to concentration. 
-          Uses: to neutralise odours and to use as air freshener in rooms and vehicles. 
-          Contents: eucalyptus*, clove, neroli, lemon*, frankincense, lemongrass*.
+          Lämmin, pehmeä ja hedelmäinen tuoksu, joka tuo lempeän ja pehmeän ilmapiirin tilaan.  
+          Tilassa olijat voivat tuntea, kuinka heistä pidetään hyvä huoli.<br/>
+          Sisältää:vaniljan-, santelipuun-, kaakaon-, tonkapavun- ja appelsiinin eteeristä öljyä 
     fresh: 
-      header: Fresh
+      header: Fresh-Raikkautta
       main: |-
-          Composition: fresh, fruity, lemon touch. For refreshing the home and when travelling,  
-          in the car and hotel room. Boosts concentration when driving and keeps one awake. 
-          Contents: blood orange*, bergamot*, peppermint
+        Raikas, piristävä tuoksu, joka tuo virkeyttä ja auttaa keskittymiskykyä . Ajon aikana se pitää sinut hereillä piristävällä tuoksullaan. Kuumana kesäpäivänä se vilvoittaa ihanasti.
+        Matkustaessa se  tuo  raikkautta, vaikkapa hotellihuoneeseen
+         Fresh sopii myös olohuoneen tunnelman tuojaksi.<br/>
+        Sisältää : bergamotin-, veriappelsiinin-, mandariinin- ja piparmintun eteerisiä öljyjä.
     header: "Aroma Sprays"
     list: |
-        Aromasprayt sopivat hyvin ilman raikastamisen huoneessa, neutraloimaan epämiellyttäviä hajuja tai luomaan miellyttävän tuoksuvan tunnelman huoneeseen tai tilaan.
-        Aroma sprayt sisältävät luonnollisia eteerisiä öljyjä ja ovat siksi luonnollisia , mutta tehokkaita.
-        Niitä voi käyttää kotona, wc.ssä, toimistoissa, autossa, hoitohuoneissa tai sairaaloissa.
-    products: "ambiance atmosphere fresh tuscany vanilla_mandarine"
+      Aromasprayt sopivat hyvin ilman raikastamisen huoneessa, neutraloimaan epämiellyttäviä hajuja tai luomaan miellyttävän tuoksuvan tunnelman huoneeseen tai tilaan.
+      aroma sprayt sisältävät luonnollisia teerisiä öljyjä ja ovat siksi luonnollisia , mutta tehokkaita.
+      Niitä voi käyttää kotona, wc.ssä, toimistoissa, autossa, hoitohuoneissa tai sairaaloissa.
+    products: "fresh ambiance joy security"
     sub_header: ""
-    tuscany: 
-      header: Tuscany
+    joy: 
+      header: Joy of Life- Elämänilo
       main: |-
-          Composition: a fruity, woody scent, which refreshes and stimulates the senses. 
-          Uses: It can be used as an air freshener, to stimulate and cleanse rooms, conference halls and offices. 
-          Contents: bergamot, chamomile, lavender*, rose geranium, lemon*, cypress*.
-    vanilla_mandarine: 
-      header: Vanilla-Mandarine
-      main: |-
-          Composition: soft and fruity, mellow. This refreshing spray is a comforter for the
-          soul and can be used everywhere as pleased.  For the home, when travelling, in the childrens room etc.
+        Tämä lempeä hedelmäinen tuoksu tuo iloisen tunnelman mukanaan. Jos tarvitset tunnelman kohottajaa, niin suihkaus tätä
+        elämäniloa huokuvaa spraytä luo iloisemman ilmapiirin.<br/>
+        Sisältää: pelargonin-, bergamotin ja salvian eteerisiä öljyjä.

@@ -1,0 +1,34 @@
+--- 
+en: 
+  men: 
+    header: "Sandlewood - pur l'homme"
+    list: |-
+        A new cosmetic, especially designed for men's skin. 
+        With anti-ageing effectiveness. 
+        Made of plant ingredients. 
+        With a fresh, slightly tarty scent of sandalwood and cedar.
+    main: |-
+        <em>Pellavansiemenuute </em><br/>
+        Fantastinen luomulaatuinen kasviuute, joka tasapainottaa rasvaista ihoa ja tekee kasvojen ihosta näkyvästi raikkaamman
+        ja kirkkaamman. Testit osoittivat ihon talintuotannon tasapainottuneen ja pienten ihovaurioiden tasaantuneen.<br/><br/>
+        <em>Hamamelisuute </em><br/>
+        Luomulaatuinen kasviuute, jolla on ihohuokosia puhdistava ja miedosti tulehduksia ehkäisevä vaikutus, kirkastaa rasvaista ihoa.<br/><br/>
+        <em>Aloe Vera </em><br/>
+        Aloe Vera kosteuttaa ja edistää solujen uusiutumista.<br/><br/>
+        <em>Luonnolliset, syvävaikutteiset eteeriset öljyt </em><br/>
+        Valikoitujen eteeristen öljyjen yhdistelmä (luomucistus, -ruusumyrtti, -rosmariini ja -salvia) ehkäisee epäpuhtauksien syntyä. Vaikutus ulottuu syvälle, iho tulee pitkävaikutteisesti puhdistetuksi ja talineritys tasapainottuu. 
+    main_header: "Tehokkaat, vaikuttavat aineosat"
+    products: "sw_after_shave sw_deo sw_shower_gel"
+    sub_header: "Natural Cosmetics for Men"
+    sw_after_shave: 
+      header: "Sandalwood – Natural After Shave Balm "
+      main: "with a warm note of exotic woods. Discreet and yet very masculine, a perfume that brings to mind exotic woods. With precious sandalwood from the East Indies, nestling in a bed of cedar, iris and patchouli. Sandalwood balm soothes and cares for the skin after each shave. With aloe vera, witch hazel and camomile extracts as well as natural essential oils. "
+      sub_header: ""
+    sw_deo: 
+      header: "Sandalwood Deo Roll-on"
+      main: "Very mild non-greasy deo roll-on for daily use. With a precious note of exotic woods. Deodorizes effectively in a natural way. pH-neutral."
+      sub_header: ""
+    sw_shower_gel: 
+      header: "Sandalwood Shower Gel"
+      main: "Very mild shower gel for body and hair. With a tarty scent of sandalwood and cedar. For daily use."
+      sub_header: ""

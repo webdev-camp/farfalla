@@ -3,6 +3,7 @@ fi:
   amberstone: 
     amberstone_cream: 
       header: "Amberstone Cream"
+      sub_header: ""
       inci: |-
           Aqua, Helianthus Annuus Seed Oil*, Simmondsia Chinensis Seed Oil*,  Aloe Barbadensis Leaf Juice*, 
           Citrus Aurantium Amara Flower Water*, Alcohol*,  Lauryl Laurate, Glycerin*, 
@@ -17,7 +18,8 @@ fi:
           Ei synteettisiä värejä, tuoksuja, säilöntäaineita eikä
           PEG tai parafiinia. Ilman eläinkokeita.
     amberstone_fraiche: 
-      header: "Meripihka Eau Fraîche"
+      header: "Amberstone Eau Fraîche"
+      sub_header: ""
       inci: |-
           Alcohol*, Citrus Aurantium Amara Flower Water*, Parfum (Natural Essential Oils), 
           Benzyl Benzoate**,  Benzyl Cinnamate**, Citral**, Coumarine**, Farnesol**, Geraniol**, 
@@ -35,7 +37,7 @@ fi:
       main: "Lämmittävä öljy joka herättää aurinkoisia ajatuksia ja tuo sisäistä energiaa. Eteeriset benzoe ja mandariiniöljyt tekevät ihosta silkin pehmeän ja säteilevän. Meripihka jalokiviöljyä voidaan käyttää kasvoille, iholle, hierontaan tai kylpyöljynä. Hiero kevyesti kasvoille tai vartalolle. 80 ml.\n"
       sub_header: ""
     amberstone_set: 
-      header: "Meripihka setti"
+      header: "Amberstone setti"
       main: |-
           Tämä ihana setti sisältää Meripihka jalokiviöljyn, ihovoiteen ja Eau fraichen. 
           Tutustu Meripihka-sarjaan, anna lahjaksi tai ota mukaan matkalle. 3 x 20 ml."
