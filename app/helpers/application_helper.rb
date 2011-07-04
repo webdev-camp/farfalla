@@ -34,6 +34,6 @@ module ApplicationHelper
         ret += I18n.t("#{g}.sub_menu").split(" ")
       end
     end
-    ret   
+    ret.sort
   end
 end
