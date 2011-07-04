@@ -10,9 +10,9 @@ fi:
           luonnollisten eteeristen öljyjen seos
       sub_header: "Tasapainoa ja energiaa"
     header: Turmaliini
-    list: |
-        Crystal Balance sarjassa pääsevät esiin turmaliinin monipuoliset rauhoittavat ja energisoivat vaikutukset. Turmaliini auttaa keskittymään ja tuo sisäistä tasapainoa samalla kun se saa meidät myös ulkoisesti sädehtimään. Turmaliinilla on harvinaisen laaja väriskaala. Samoin sen hoitavat ja parantavat ominaisuudet ovat monipuoliset. Turmaliini avaa myös tukkeutuneita energiakanavia. 
-        Sarjan tuotteet saavat ihanan tuoksunsa eteerisistä öljyistä: Ruususta ja Iiriksestä – kahdesta kukasta, jotka on liitetty tähän kiveen jo muinaista ajoista lähtien – pyöristettynä Bergamotilla ja Nerolilla.
+    list: |+
+        Crystal Balance sarjassa pääsevät esiin turmaliinin monipuoliset rauhoittavat ja energisoivat vaikutukset. Sarjan tuotteet saavat ihanan tuoksunsa eteerisistä öljyistä: Ruususta ja Iiriksestä pyöristettynä Bergamotilla ja Nerolilla. Ruusu sekä Iiris ovatkin kukat, jotka on liitetty Turmaliiniin jo muinaista ajoista lähtien. Turmaliini auttaa keskittymään ja tuo sisäistä tasapainoa samalla kun se saa meidät myös ulkoisesti sädehtimään. Turmaliini on kivi, jolla on harvinaisen laaja väriskaala. Samoin sen hoitavat ja parantavat ominaisuudet ovat monipuoliset. Turmaliini avaa myös tukkeutuneita energiakanavia. 
+        
     products: "gemstone_tourmaline tourmaline_cream tourmaline_fraiche"
     sub_header: "Voimaa ja energiaa"
     tourmaline_cream: 

@@ -15,6 +15,7 @@ fi:
           Kun iho tarvitsee syväkostutusta, on tämä kasviöljypohjainen vartalovoide oiva valinta. Se imeytyy helposti
           iholle ja tekee ihon ihanan sileäksi ja frangipanin kukkien tuoksuiseksi. 150 ml 
       sub_header: "Syväkosteuttava ja ravitseva "
+      tarra: "When the body needs intense moisture, this butter is just right. It easily draws in and provides the skin with a silky feeling. Certified natural cosmetic (BDIH) with no synthetic dyes, artificial scents, preservatives or paraffines."
     fp_bodylotion: 
       header: "Frangipani kosteusvoide"
       inci: |-
@@ -33,6 +34,7 @@ fi:
           Tämä emulsio imeytyy ihoon antamalla puhtaan, silkin pehmeän olon sekä trooppisten frangipanin kukkien
           ihanan tuoksun. <br/>50 ml 
       sub_header: "Päivittäiseen ihonhoitoon"
+      tarra: "This body lotion with its light and delicate scent of tropical frangipani blossoms gives your skin a pleasant silky feeling. With plant oils and flower waters in organic quality. For your daily body care. Certified natural cosmetic (BDIH) with no synthetic dyes, artificial scents, preservatives or paraffines."
     fp_eau_fraiche: 
       header: "Frangipani Eau Fraîche"
       inci: |-
@@ -44,6 +46,7 @@ fi:
           Raikkaat latvatuoksut ja frangipanikukkien kaunis, lempeä tuoksu muodostavat pehmeän, naisellisen eau de
           toiletten jokapäiväiseen elämän menoon. <br/>50 ml
       sub_header: "Hienostunut kukkaistuoksu "
+      tarra: "An Eau Fraîche is a discreet natural perfume which accompanies you throughout the day. With fruity head notes, soft delicate notes in the middle and the scent of tropical frangipani blossoms. With no synthetic dyes, artificial scents, preservatives or paraffines."
     fp_lotion_small: 
       header: "Frangipani Bodylotion"
       main: "Matkasetti "
@@ -63,6 +66,9 @@ fi:
           kermaiseen vaahtoon, joka pesee ja hoitaa ihoa samanaikaisesti. Purista sormenpäihin helmenkokoinen annos
           ja hiero kostealle iholle. <br/>200 ml 
       sub_header: "Hoitava, ihastuttava"
+      tarra: |-
+          Silky soft shower cream with a delicate noteof tropical flowers.  For your daily body cleaning. Application: Froth up a dose the size of a pearl in your hands and spread it on your wet skin. With a cleansing sponge you can achieve more foam.
+          Certified natural cosmetic (BDIH) with no synthetic dyes, artificial scents, preservatives or paraffines.
     fp_shower_small: 
       header: "Frangipani Shower cream"
       main: Matkasetti

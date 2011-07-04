@@ -1,0 +1,13 @@
+<% groups.each do |group| %>
+  <% I18n.t("#{group}.products").split.each do |product| %>
+    <div class="one">
+      <div class="three">
+        <%= I18n.t("#{group}.header")%> <br/>
+        <strong><%= I18n.t("#{group}.#{product}.header")%> </strong>
+      </div>
+      <div class="sixty">
+        <p><em><%== t("#{group}.#{product}.tarra")%> </em></p>
+      </div>
+    </div>
+  <%end%>
+<%end%>
