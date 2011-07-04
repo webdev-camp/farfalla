@@ -2,34 +2,43 @@
 fi: 
   aroma_sprays: 
     ambiance: 
-      header: Ambiance- Tunnelma
+      header: "Ambiance- Tunnelma"
       main: |-
           Tämä raikas ja piristävä tuoksu tuo rauhallisen ilmapiirin.
           Sopii hyvin kotiin, toimistoihin ja odotushuoneisiin.<br/>
           Sisältää: Bergamotin-,appelsiinin-,sitruunan-,pelargonin-ja piparmintun eteeristä öljyä
+      tarra: "Raumspray mit lieblichem, leicht blumigem duft. Für eine angenehme, entspannte Raumatmosphäre. Mit 100% naturreinen äterischen ölen wie Bergamotte, Zitrone, Limette, Rosengeranie u.a."
+    fresh: 
+      header: Fresh-Raikkautta
+      main: |-
+          Raikas, piristävä tuoksu, joka tuo virkeyttä ja auttaa keskittymiskykyä . Ajon aikana se pitää sinut hereillä piristävällä tuoksullaan. Kuumana kesäpäivänä se vilvoittaa ihanasti.
+          Matkustaessa se  tuo  raikkautta, vaikkapa hotellihuoneeseen
+           Fresh sopii myös olohuoneen tunnelman tuojaksi.<br/>
+          Sisältää : bergamotin-, veriappelsiinin-, mandariinin- ja piparmintun eteerisiä öljyjä.
+      tarra: |-
+          Raumspray mit fruchtigem duft. Zum Erfrischen von Wohnraumen und auf reisen. Fördert die Konzentration beim Autofahren.
+          Stimmt fröhlich, lebensfroh und ausgelassen. Mit 100% naturreinen äterischen ölen von Zitrusfrüchten und Minze.
+    header: "Aroma Sprays"
+    joy: 
+      header: "Joy of Life- Elämänilo"
+      main: |-
+          Tämä lempeä hedelmäinen tuoksu tuo iloisen tunnelman mukanaan. Jos tarvitset tunnelman kohottajaa, niin suihkaus tätä
+          elämäniloa huokuvaa spraytä luo iloisemman ilmapiirin.<br/>
+          Sisältää: pelargonin-, bergamotin ja salvian eteerisiä öljyjä.
+      tarra: |-
+          Raumspray mit sanftem duft. Stimmt fröhlich, lebensfroh und ausgelassen. Mit 100% naturreinen äterischen ölen wie Love in the Mist, Rosengeranie, Bergamotte, Muskatellersalbei u.a.
+          
+          Sensibilisierung durch hautkontakt möglich. Schädlich für wasserorganismen, kann in gewässern längerfristig schädliche Wirkungen haben. Darf nicht in die Hände von Kindern gelangen. Berührung mit der haut vermeiden. Nicht in die Kanalisation gelangen lassen.  Bei Verschlucken sofort ärztllichen Rat einholen und Verpackung oder etikett vorzeigen. 
+          Bestandteile: Alkohol, natürliche äterische Öle. 
+    list: |
+        Aromasprayt sopivat hyvin ilman raikastamisen huoneessa, neutraloimaan epämiellyttäviä hajuja tai luomaan miellyttävän tuoksuvan tunnelman huoneeseen tai tilaan.
+        aroma sprayt sisältävät luonnollisia teerisiä öljyjä ja ovat siksi luonnollisia , mutta tehokkaita.
+        Niitä voi käyttää kotona, wc.ssä, toimistoissa, autossa, hoitohuoneissa tai sairaaloissa.
+    products: "fresh ambiance joy security"
     security: 
-      header: Security-Turvallisuuden tunne
+      header: "Security-Turvallisuuden tunne"
       main: |-
           Lämmin, pehmeä ja hedelmäinen tuoksu, joka tuo lempeän ja pehmeän ilmapiirin tilaan.  
           Tilassa olijat voivat tuntea, kuinka heistä pidetään hyvä huoli.<br/>
           Sisältää:vaniljan-, santelipuun-, kaakaon-, tonkapavun- ja appelsiinin eteeristä öljyä 
-    fresh: 
-      header: Fresh-Raikkautta
-      main: |-
-        Raikas, piristävä tuoksu, joka tuo virkeyttä ja auttaa keskittymiskykyä . Ajon aikana se pitää sinut hereillä piristävällä tuoksullaan. Kuumana kesäpäivänä se vilvoittaa ihanasti.
-        Matkustaessa se  tuo  raikkautta, vaikkapa hotellihuoneeseen
-         Fresh sopii myös olohuoneen tunnelman tuojaksi.<br/>
-        Sisältää : bergamotin-, veriappelsiinin-, mandariinin- ja piparmintun eteerisiä öljyjä.
-    header: "Aroma Sprays"
-    list: |
-      Aromasprayt sopivat hyvin ilman raikastamisen huoneessa, neutraloimaan epämiellyttäviä hajuja tai luomaan miellyttävän tuoksuvan tunnelman huoneeseen tai tilaan.
-      aroma sprayt sisältävät luonnollisia teerisiä öljyjä ja ovat siksi luonnollisia , mutta tehokkaita.
-      Niitä voi käyttää kotona, wc.ssä, toimistoissa, autossa, hoitohuoneissa tai sairaaloissa.
-    products: "fresh ambiance joy security"
     sub_header: ""
-    joy: 
-      header: Joy of Life- Elämänilo
-      main: |-
-        Tämä lempeä hedelmäinen tuoksu tuo iloisen tunnelman mukanaan. Jos tarvitset tunnelman kohottajaa, niin suihkaus tätä
-        elämäniloa huokuvaa spraytä luo iloisemman ilmapiirin.<br/>
-        Sisältää: pelargonin-, bergamotin ja salvian eteerisiä öljyjä.

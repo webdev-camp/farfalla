@@ -11,6 +11,7 @@ fi:
           Riisistä ja bambusta saadut kuorivat hiukkaset poistavat hellästi kuolleita ihosoluja ja elävöittävät ihoa. Kuorintavoide antaa erinomaisen pohjan hoitavien tuotteiden tehokkaalle imeytymiselle. Hiero kuorintavoide puhtaalle, kostealle iholle ja huuhtele huolellisesti runsaalla vedellä. 
           100% luonnollisista aineista - 80 sertifioitavissa olevista aineista luomua. Sopii vegaaneille.
       sub_header: "Silkinpehmeä iho"
+      tarra: "For a silky-smooth complexion. Exfoliating particles made of rice and bamboo gently remove dead skin scales, vitalise skin and are ideal preparation for skin to absorb complex of active ingredients in subsequent skin care. Massage well into clean and moist skin, avoiding eye area. Thoroughly rinse off with plenty of water. "
     dr_schaum: 
       header: Puhdistusvaahto
       main: |-
@@ -25,6 +26,7 @@ fi:
       header: "Kirkastava kasvovesi"
       main: "Kirkastaa ja raikastaa ihon ja poistaa poistaa mahdolliset meikin jäänteet. Hamamelisuute ja rosmariinin, cistuksen ja ruusumyrtin eteeriset öljyt tekevät kasvovedestä miedosti desinfioivan. Puhdistuksen jälkeen suihkauta kasvovettä kostealle pumpulille ja pyyhi sillä hellästi koko kasvojen iho. Puhdistuksen ja kasvoveden jälkeen iho on valmis ottamaan vastaan hoitotuotteiden tehokkaat vaikutukset. 100% luonnollisista raaka-aineista, 72% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
       sub_header: "Raikkautta ja puhtautta"
+      tarra: "Clarifies and refreshes the skin and removes remaining traces of make-up. Slightly astringent thanks to hamamelis water and the essential oils in rosemary, cistus and manuka. Ideal preparation for skin to absorb complex of active ingredients in subsequent skin care. After cleansing, spray tonic on damp cotton pad and gently wipe all over face."
     dr_tonicK: 
       header: "Kosteuttava kasvovesi"
       main: |-
@@ -34,6 +36,7 @@ fi:
           Puhdistuksen ja kasvoveden jälkeen iho on valmis ottamaan vastaan hoitotuotteiden tehokkaat vaikutukset.
           100% luonnollisista aineista – 70% sertifioitavissa olevista aineosista luomua. Sopii vegaaneille.
       sub_header: "Raikkautta ja kosteutta"
+      tarra: "Refreshes and calms sensitive skin, removes remaining traces of make-up. Retains skin moisture thanks to Centella asiatica and Aloe vera. Ideal preparation for skin to absorb complex of active ingredients in subsequent skin care. After cleansing, spray tonic on damp cotton pad and gently wipe all over face.\n"
     header: "daily refresh"
     list: |-
         1. Tehokas mutta hellävarainen puhdistus.<br>

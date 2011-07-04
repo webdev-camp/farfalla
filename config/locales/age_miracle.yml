@@ -34,6 +34,7 @@ fi:
           iholle aamuin illoin puhdistuksen jälkeen.<br/>
           100% luonnollisista aineista - 95% sertifikoitavissa olevista ainesosista luomua. Sopii vegaaneille.
       sub_header: "Silmät loistamaan!"
+      tarra: "Refills the skin’s moisture depots and smoothes eye wrinkles. Reduces the appearance of dark circles and unsightly puffiness around the eyes. Apply after cleansing/toning by gently patting onto skin. "
     am_serum: 
       header: "Kohottava seerumi"
       main: |-
@@ -41,6 +42,9 @@ fi:
           kertaa viikossa tai päivittäisenä tehohoitona 3-4 viikon ajan. Tukee muiden age miracle -linjan tuotteiden tehoa. Suosittelemme Kohottavaa seerumia myös muita tuotelinjoja täydentäväksi anti age -lisäksi.
           100% luonnollisista aineista - 95% sertifioitavissa olevista aineista luomua. Sopii vegaaneille.
       sub_header: "Tehokkaat ainesosat tiiviissä muodossa!"
+      tarra: |-
+          The active-agent concentrate with an intensive effect! Noticeably tightens ans smoothes the skin. The sophisticated complex of active substances tones the skin and leaves the facial outline firmer. Apply in the morning 2-3 times a week or as a daily course of treatment for 2-3 weeks. Gently pat onto the skin before applying the nourishing cream.
+          The anti-wrinkle effectiveness is dermatologically proven.
     header: "age miracle"
     list: |-
         1. Innovaatio: Hidastaa ihon ikääntymisprosessia! <br/>
