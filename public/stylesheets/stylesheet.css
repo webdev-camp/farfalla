@@ -35,14 +35,14 @@ a
 
 #menu_bar li {
   float: left;
-  font: 13px "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+  font: 15px "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
 }
 
 #menu_bar a {
 #  background: transparent url("/images/seperator.gif") no-repeat right;
-  color: #636363;
+  color: black;
   display: block;
   float: left;
   margin: 0;
@@ -78,13 +78,13 @@ background:  url('/images/site/top_perfumes.jpg') no-repeat;;
 
 #slogan
 {
-width: 200px;
+width: 240px;
 float: right;
 position: relative;
-bottom: 7px;
-font-size: 13px;
+top: 57px;
+font-size: 20px;
 color: rgb(0, 132, 149);
-text-align: right;
+text-align: left;
 font-style: italic;
 }
 
@@ -176,7 +176,7 @@ width: 800px;
 #rcontent
 {
 position: relative;
-padding: 25px 25px 0px 20px;
+padding: 10px 25px 0px 20px;
 }
 
 p
