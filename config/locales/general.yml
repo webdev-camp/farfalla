@@ -5,20 +5,21 @@ fi:
   body_care: 
     menu_text: "Body Care"
     sub_menu: "fresh_lime ambra frangipani"
+  crystal_balance: 
+    menu_text: "Crystal Balance"
+    sub_menu: "tourmaline amberstone"
   face_care: 
     main_header: " "
     menu_text: "Face Care"
     sub_menu: "daily_refresh in_balance intense_moisture age_miracle pure_sensitive be_beautiful aloe_shea travel_set"
   farfalla: 
+    header: "Farfalla Essentials"
     menu_text: Farfalla
-    header: Farfalla Essentials
-  crystal_balance: 
-    menu_text: Crystal Balance
-    sub_menu: "tourmaline amberstone"
   hair_care: 
+    header: "Hiustenhoitotuotteet "
     menu_text: "Hair care"
     sub_menu: "shampoos conditioner styling"
-  men:
+  men: 
     menu_text: Miehille
   menu: "face_care body_care hair_care parfumes aroma_sprays crystal_balance men"
   menu_bar: "farfalla quality standards  tukku"
@@ -26,13 +27,12 @@ fi:
     menu_text: "Luomu Eau de Parfum"
     sub_menu: "womans_parfumes body_sprays"
   quality: 
-    menu_text: Laatu
     header: Laatu
+    menu_text: Laatu
   slogan: "laadukasta luomukosmetiikkaa"
   standards: 
-    menu_text: Luomukosmetiikka
     header: Luomukosmetiikka
+    menu_text: Luomukosmetiikka
   tukku: 
-    menu_text: Tukku
     header: Tukku
-    
+    menu_text: Tukku
