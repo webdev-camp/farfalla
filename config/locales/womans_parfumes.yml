@@ -3,11 +3,11 @@ fi:
   womans_parfumes: 
     anima: 
       header: Anima
-      sub_header: ""
       main: |-
           Tuoksu, joka tuo esille olemuksesi kätketyn hymyn! Samalla kertaa syvällinen ja dynaaminen sekä hedelmäisen
           raikas greipin, mandariini ja appelsiinin tuoksuilla. Sydäntuoksu sisältää mimosan ja appelsiinin kukkien
-          aurinkoista hehkua . Tuoksu on pyöristetty metsäisillä tuoksuilla ja benzoanilla.
+          aurinkoista hehkua . Tuoksu on pyöristetty metsäisillä tuoksuilla ja benzoella. 
+      sub_header: ""
     header: "Eau de parfum naisille"
     list: |-
         Luonnollinen hajuvesi on kuin näkymätön huntu. Tuoksun huomaa ainoastaan henkilön välittömässä läheisyydessä.
@@ -19,11 +19,11 @@ fi:
     main: ~
     nuvola: 
       header: Nuvola
-      sub_header: ""
       main: |-
           Nauti tunteesta että kävelet kuin ilmassa käyttäessäsi tätä tuoksua! Nuvola tarkoittaa pilveä italiaksi
           .Käyttäessäsi tätä tuoksua saat miesten päät kääntymään . Sydäntuoksu on aluksi raikas ja moni-ilmeinen ,
-          sitten puuterimainen ja erittäin naisellinen. Tässä luomu parfyymissä, neroli, bergamot, ylang, ylang,
-          vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia .
+          sitten puuterimainen ja erittäin naisellinen. Tässä luomu parfyymissä, neroli, bergamotti, ylang, ylang,
+          vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia.
+      sub_header: ""
     products: "anima nuvola"
     sub_header: "Luomu parfyymi naisille/ women's natural parfumes"

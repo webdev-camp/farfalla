@@ -38,10 +38,8 @@ fi:
       sub_header: "For greasy hair"
     sh_neem_rhassoul: 
       header: "Tasapainoittava Neem-rhassoul shampoo "
-      main: |-
-          Natural shampoo to combat dandruff. This special shampoo based on extract of neem, as well as Moroccan
-          clay, lastingly combats dandruff. With the essential oils of juniper wood, thyme and rosemary as selected
-          active ingredients. For dandruff-free hair and a well-groomed appearance.
+      main: |
+          Shampoon perustana ovat neem-uute ja rhassoul-savi, joidenka puhdistavat ominaisuudet auttavat päänahan hilseilyyn ja tekevät hiuksista terveet. Katajan, timjamin ja rosmariinin eteeriset öljyt tehostavat shampoon hoitavaa vaikutusta ja antavat raikkaan tuoksun. 
       sub_header: "Hilsettä vastaan! "
     sh_pomegranate: 
       header: "Granaattiomenashampoo päivittäiseen käyttöön"

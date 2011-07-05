@@ -9,10 +9,10 @@ fi:
       sub_header: ""
     header: "Body Sprays"
     list: |
-        Mahtavia tuoksuja pienessä pullossa. Nämä kätevät pienet spray pullot mahtuvat  käsilaukkuun ja voit suihkauttaa niitä  tarvittaessa.
-         Viisi tuoksu luomusta kaikkiin eri tilanteisiin. Suihkuta tuoksua kaulalle, kasvoille,niskaan tai ranteisiisi tai halutessasi voit suihkauttaa niitä hiuksiisi tai vaatteisiisi, koska  niistä jää tahroja Voit halutessasi suihkauttaa ilmaan ja nuuhkaista ihania tuoksuja.
-         Body sprayt sisältävät luomu kukkaisvesiä, luomu alkoholia ja eteeristen luomu öljyjen sekoituksia
-        Saatavana 20 ml pulloissa.
+        Mahtavia tuoksuja pienessä pullossa. Nämä kätevät pienet spraypullot mahtuvat  käsilaukkuun ja voit suihkauttaa niitä  tarvittaessa.
+         Viisi tuoksuluomusta erilaisiin tilanteisiin. Suihkuta tuoksua kaulalle, kasvoille,niskaan tai ranteisiisi, tai halutessasi voit suihkauttaa niitä hiuksiisi tai vaatteisiisi, koska niistä ei jää tahroja. Voit halutessasi suihkauttaa ilmaan ja nuuhkaista ihania tuoksuja.
+         Body sprayt sisältävät luomukukkaisvesiä, luomualkoholia ja eteeristen luomuöljyjen sekoituksia.
+        Saatavana 20 ml pulloissa. 
     main: " "
     on_he_move: 
       header: "On the Move - Mukana"
