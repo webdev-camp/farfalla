@@ -20,6 +20,13 @@ module ApplicationHelper
     I18n.t("#{name}.all" , :locale => :en ).split(",").collect do |n| n.strip end
   end
   
+  def has_sub key
+    ret = t(key)
+    return true if ret.index "href"
+    return false if ret.index "missing"
+    ! key.strip.empty?
+  end
+  
   def t( key  )
     ret = I18n.t(key)
     "#{ret} <a href='/translations/?key=#{key}&return=#{this_page}'>e</a>"
