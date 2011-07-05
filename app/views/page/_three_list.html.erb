@@ -4,7 +4,9 @@
     <% line.each do |product| %>
       <div class="three">
         <p><strong><%== t("#{group}.#{product}.header")%> </strong></p>
-        <p><em><%== t("#{group}.#{product}.sub_header")%> </em></p>
+        <% if has_sub(sub = "#{group}.#{product}.sub_header") %>
+          <p><em><%== t(sub)%> </em></p>
+        <%end%>
         <div class="bottom">
           <img src='<%="images/#{group}/#{product}"%>.jpg' alt="<%=group.humanize%> <%=product.humanize%>" />
         </div>
