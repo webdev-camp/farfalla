@@ -10,10 +10,9 @@ fi:
       sub_header: ""
     header: "Eau de parfum naisille"
     list: |-
-        Farfallan luomu parfyymit ovat aitoja ja luonnollisia ja ne
-        ovat saaneet BDIH sertifikaatin. Nämä tuotteet menevät vieläkin korkealaatuisemmaksi kuin luomu sertifikaatti
-        vaatii: 98% aineesta on luomutuotannosta. Parfyymien pohjana Farfalla käyttää luomu alkoholia ja luomu
-        kukkaisvesiä. Tuotteita ei ole testattu eläimillä.
+        Farfallan luomuparfyymit ovat aitoja ja luonnollisia ja ne
+        ovat saaneet BDIH sertifikaatin. Nämä tuotteet menevät vieläkin korkealaatuisemmaksi kuin luomusertifikaatti
+        vaatii: 98% aineesta on luomutuotannosta. Parfyymien pohjana Farfalla käyttää luomualkoholia ja luomukukkaisvesiä. Tuotteita ei ole testattu eläimillä.
     main: ~
     nuvola: 
       header: Nuvola
