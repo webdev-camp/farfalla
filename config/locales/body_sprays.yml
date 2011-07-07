@@ -2,10 +2,10 @@
 fi: 
   body_sprays: 
     freshen_up: 
-      header: Freshen Up <br>- Raikkautta
-      main: |- <strong>Freshen Up -tuoksuluomus on tehty tuomaan rohkeutta hankaliin tilanteisiin.</strong> Tarvittaessa voit suihkuttaa spraytä useita kertoja päivässä suoraan iholle, kaulalle, ranteisiin. <em>Kuumana kesäpäivänä voit virkistää väsyneitä jalkojasi suihkauttamalla niille raikasta sprayta!</em> 
-          Valmistusaineet: Luomu sitruunamelissa, greippi ja sitruunamelissavesi
+      header: "Freshen Up <br>- Raikkautta"
+      main: "<strong>Freshen Up -tuoksuluomus on tehty tuomaan rohkeutta hankaliin tilanteisiin.</strong> Tarvittaessa voit suihkuttaa spraytä useita kertoja päivässä suoraan iholle, kaulalle, ranteisiin. <em>Kuumana kesäpäivänä voit virkistää väsyneitä jalkojasi suihkauttamalla niille raikasta sprayta!</em> Valmistusaineet: Luomu sitruunamelissa, greippi ja sitruunamelissavesi"
       sub_header: "Tämä hedelmäisen raikas spray viilentää ja virkistää sinua"
+      tarra: "A fruity-cool, freshening spray for warm days and overheated brains. Use: spray once or twice directly on skin.\n"
     header: "Body Sprays"
     list: |
         Mahtavia tuoksuja pienessä pullossa. Nämä kätevät pienet spraypullot mahtuvat  käsilaukkuun ja voit suihkauttaa niitä  tarvittaessa.
@@ -21,19 +21,21 @@ fi:
         Saatavana 20 ml pulloissa.
     main: " "
     on_he_move: 
-      header: On the Move <br>- Mukana
-      sub_header: "Tämä spray virkistää, raikastaa ja lisää keskittymiskykyä"
-      main: |- <strong>On the Move auttaa keskittymään ja pitämään hereillä ajaessasi autoa.</strong> Farfallan On the move -spray pitää sinut  virkeänä koko päivän.
-          Aina kun kaipaat virkistystä, niin suihkauta tuoksua ihollesi. Suihkaus ympärillesi saa sinut taas virkeäksi ja pirteäksi.
+      header: "On the Move <br>- Mukana"
+      main: |-
+          <strong>On the Move auttaa keskittymään ja pitämään hereillä ajaessasi autoa.</strong> Farfallan On the move -spray pitää sinut  virkeänä koko päivän.Aina kun kaipaat virkistystä, niin suihkauta tuoksua ihollesi. Suihkaus ympärillesi saa sinut taas virkeäksi ja pirteäksi.
           Valmistusaineet: Luomu minttu, appelsiin, litsea ja piparminttu vesi.
+      sub_header: "Tämä spray virkistää, raikastaa ja lisää keskittymiskykyä"
+      tarra: "A refreshing spray for concentration while driving or travelling. Use: Spray in the air or on the skin whenever required."
     products: "freshen_up on_he_move three_roses wellbeing"
     sub_header: " "
     three_roses: 
-      header: Three Roses <br>- Ruusutarha
+      header: "Three Roses <br>- Ruusutarha"
+      main: "<strong>Herkkä ja ihastuttava kukkaistuoksu.</strong> Farfallan Three Roses -tuoksu on kuin hienovarainen Eau de Parfum. Voit suihkuttaa sitä kaulallesi, kasvoillesi tai ranteisiisi. Valmistettu luomu ruusuöljyistä ja luomu ruusuvedestä."
       sub_header: "Tämä tuoksu rauhoittaa, rentouttaa ja tuo harmoniaa"
-      main: |-
-          <strong>Herkkä ja ihastuttava kukkaistuoksu.</strong> Farfallan Three Roses -tuoksu on kuin hienovarainen Eau de Parfum. Voit suihkuttaa sitä kaulallesi, kasvoillesi tai ranteisiisi. Valmistettu luomu ruusuöljyistä ja luomu ruusuvedestä.
+      tarra: "A delicate, pampering flower scent. Use: Spray directly on skin."
     wellbeing: 
-      header: Wellbeing <br>- Hyvinvointia elämään!
+      header: "Wellbeing <br>- Hyvinvointia elämään!"
+      main: "<strong>Voit hemmotella itseäsi tällä rauhoittavalla ja rentouttavalla tuoksulla.</strong> Farfallan Wellbeing -tuoksu tuo iloa ja harmoniaa. Voit suihkuttaa sitä kaulallesi, kasvoillesi, ranteisiisi tai tyynylle. Se edistää hyvää ja rauhallista unta. Sopii hyvin myös lapsille. Valmistusaineet: luomu laventelinkukka ja -ruusuvesi sekä luomunerolin, -ruusun ja -laventelin eteeriset öljyt."
       sub_header: "Tämä spray tuo rauhaa ja hyvinvointia stressaavaankin päivään"
-      main: |- <strong>Voit hemmotella itseäsi tällä rauhoittavalla ja rentouttavalla tuoksulla.</strong> Farfallan Wellbeing -tuoksu tuo iloa ja harmoniaa. Voit suihkuttaa sitä kaulallesi, kasvoillesi, ranteisiisi tai tyynylle. Se edistää hyvää ja rauhallista unta. Sopii hyvin myös lapsille. Valmistusaineet: luomu laventelinkukka ja -ruusuvesi sekä luomunerolin, -ruusun ja -laventelin eteeriset öljyt.
+      tarra: "A relaxing scent to pamper and cheer. Use: spray once on skin whenever required. "

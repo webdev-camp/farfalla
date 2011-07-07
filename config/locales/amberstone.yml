@@ -17,6 +17,7 @@ fi:
           Ei synteettisiä värejä, tuoksuja, säilöntäaineita eikä
           PEG tai parafiinia. Ilman eläinkokeita.
       sub_header: ""
+      tarra: "Certified organic cosmetic. This special moisturising cream for day and night is suitable for every skin type. For a radiant compexion and protection against environmental influences. Without synthetic dyes, artificial scents, preservatives or paraffines."
     amberstone_fraiche: 
       header: "Amberstone Eau Fraîche"
       inci: |-
@@ -29,6 +30,8 @@ fi:
           tarjotessa lempeän taustan.  Käyttö: parfyymina, energisoivana ja – esimerkiksi 
           huoneessa –harmonisoivana spraynä 
       sub_header: ""
+      tarra: |-
+          Amber and bergamot combine their light-bringing energy, benzoe and mandarin provide a soft background. Use: as a natural perfume, energy spray and room harmoniser.            Certified organic cosmetic according to NaTrue. 
     amberstone_oil: 
       header: "Amberstone Oil"
       inci: |-
@@ -36,6 +39,9 @@ fi:
           Citral**, Geraniol**, Linalol**, Limonene**."
       main: "Lämmittävä öljy joka herättää aurinkoisia ajatuksia ja tuo sisäistä energiaa. Eteeriset benzoe ja mandariiniöljyt tekevät ihosta silkin pehmeän ja säteilevän. Meripihka jalokiviöljyä voidaan käyttää kasvoille, iholle, hierontaan tai kylpyöljynä. Hiero kevyesti kasvoille tai vartalolle. 80 ml.\n"
       sub_header: ""
+      tarra: |-
+          A warming oil that awakens sunny thoughts and inner energy. Makes the skin silky-soft and radiant. 
+          Essential oils of benzoe and mandarin reinforce the light-bringing qualities of this oil. May be used as facial, skin, massage or bath oil. Massage gently into face or body. To enhance the effect, each bottle contains a small amberstone.
     amberstone_set: 
       header: "Amberstone setti"
       main: |-
