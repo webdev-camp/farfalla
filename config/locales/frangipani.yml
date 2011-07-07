@@ -51,6 +51,7 @@ fi:
       header: "Frangipani Bodylotion"
       main: "Matkasetti "
       sub_header: "Päivittäiseen ihonhoitoon "
+      tarra: matkasetti
     fp_shower: 
       header: "Frangipani suihkuvoide"
       inci: |-
@@ -73,6 +74,7 @@ fi:
       header: "Frangipani Shower cream"
       main: Matkasetti
       sub_header: "Hoitava, ihastuttava "
+      tarra: matkasetti
     header: Frangipani
     list: |-
         Frangipaninkukkaset ja niiden hienostunut ja raikas

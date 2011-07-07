@@ -55,6 +55,7 @@ fi:
       header: "Ambra Bodylotion"
       main: Matkasetti
       sub_header: "Kosteuttava ja hoitava "
+      tarra: Matkasetti
     am_shower: 
       header: "Ambra suihkuvoide"
       inci: |-
@@ -75,6 +76,7 @@ fi:
       header: "Ambra Shower cream"
       main: Matkasetti
       sub_header: "Hellävaraisesti puhdistava "
+      tarra: Matkasetti
     header: Ambra
     list: "Ylellinen vartalonhoitosarja, joka rauhoittaa, tasapainoittaa ja hoitaa. Sen tuoksu on lämmin ja itämainen. Suurin osa raaka-aineista on luomulaatua. Suo itsellesi ihana hemmotteluhetki! "
     main: " "

@@ -11,13 +11,13 @@ fi:
           100% luonnollisista aineista - 95% sertifikoitavissa olevista ainesosista luomua. Sopii vegaaneille.
       sub_header: "Hellävarainen syväpuhdistus"
       tarra: |-
-           all skin types
-           Cleanses sensitive and intensively yet gently. 
-           Aloe vera protects skin against moisture loss. 
-           Grapefruit, Douglas-fir and citron essential oils invigorate complexion. 
-           Apply cleansing fluid to damp face and gently massage into skin. 
-           Thoroughly rinse off with plenty of water. The cleansing fluid can also be used
-           as make-up remover.
+          all skin types <br/>
+          Cleanses sensitive and intensively yet gently. 
+          Aloe vera protects skin against moisture loss. 
+          Grapefruit, Douglas-fir and citron essential oils invigorate complexion. 
+          Apply cleansing fluid to damp face and gently massage into skin. 
+          Thoroughly rinse off with plenty of water. The cleansing fluid can also be used
+          as make-up remover.
     dr_peeling: 
       header: "hellävarainen kuorintavoide"
       main: |-
@@ -36,6 +36,7 @@ fi:
           puhdistusvaahtoa kostealle iholle ja hiero kevyesti. Huuhtele runsaalla vedellä.<br/>
           100% luonnollisista aineista. Sopii vegaaneille.
       sub_header: "Kirkastava syväpuhdistus"
+      tarra: "Thoroughly cleanses and clarifies normal and impure facial skin without drying it out. Saponin from the quillaja bark gives a special feeling of cleanliness. Essential oils of grapefruit, Douglas-fir and lemon invigorate the complexion. Apply cleansing fluid to damp face and gently massage into skin. Thoroughly rinse off with plenty of water. "
     dr_tonicF: 
       header: "Kirkastava kasvovesi"
       main: |-

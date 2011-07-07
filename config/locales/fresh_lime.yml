@@ -53,6 +53,7 @@ fi:
       header: "Lime and Lemon Bodylotion"
       main: " Matkasetti  "
       sub_header: "Kosteuttava ja virkistävä "
+      tarra: matkasetti
     fl_shower: 
       header: "Fresh Lime suihkuvoide"
       inci: |-
@@ -75,6 +76,7 @@ fi:
       header: "Lime and Lemon Shower cream"
       main: "Matkasetti "
       sub_header: "Sitruksen raikkautta suihkuun!"
+      tarra: matkasetti
     header: "Fresh Lime"
     list: |-
         <em> Mikä tuoksu! </em> 
