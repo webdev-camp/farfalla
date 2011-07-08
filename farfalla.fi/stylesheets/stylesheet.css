@@ -165,9 +165,7 @@ float: left;
 {
 position: relative;
 margin-left: 200px;
-width: 800px;
-#background-image: url('http://localhost:3000/images/a2.gif');
-#background-repeat: repeat-x;
+width: 890px;
 }
 
 #rcontent
@@ -255,7 +253,7 @@ vertical-align: bottom;
 }
 .eighty {
 float: left;
-width:  75%;
+width:  70%;
 }
 
 .ninety {
