@@ -85,6 +85,21 @@ text-align: left;
 font-style: italic;
 }
 
+ul.blu li 
+{ 
+	font-size: 15px;
+	line-height:130%;
+	color: rgb(0, 132, 149);
+	font-style: italic;
+}
+
+hr {
+  border: none;
+  background-color: rgb(0, 132, 149);
+  color: rgb(0, 132, 149);
+  height: 1px;
+}
+
 .logo_right {
 float: right;
 padding-left: 15px;
@@ -140,6 +155,13 @@ background: inherit;
 color: #50514D;
 font-size: 26px;
 }
+
+h2
+{
+color: #50514D;
+font-size: 20px;
+}
+
 
 h3
 {
@@ -220,6 +242,12 @@ margin-bottom: 9px;
 	float:  left;
 }
 
+.imgleft
+{
+margin-left: 80px;
+}
+
+
 .six {
 float: left;
 width:  14%;
@@ -227,6 +255,15 @@ width:  14%;
 	padding-right: 7px;
 	text-decoration: center;
 }
+
+.seven {
+float: left;
+width:  10%;
+	padding-left: 0px;
+	padding-right: 2px;
+}
+
+
 .two {
 width:  50%;
 float: left;	
