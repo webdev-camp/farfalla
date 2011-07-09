@@ -3,7 +3,7 @@ fi:
   styling: 
     header: "Hiusten muotoilutuotteet"
     list: "Hiusten muotoilu käy erinomaisesti luomulaatuisilla tuotteilla, jotka antavat ryhtiä hiuksiin, auttavat kampauksen muotoilussa ja viimeistelyssä sekä suojaavat hiusta hoitavilla luonnon eliksiireillä. "
-    products: "st_mousse st_spray st_gel"
+    products: "st_mousse st_spray"
     st_gel: 
       header: "Styling Gel"
       main: |-
