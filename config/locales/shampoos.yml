@@ -13,7 +13,9 @@ fi:
           Silkkiproteiini tekee hiukset säihkyvän kiiltäviksi, fosfolipidit antavat runsautta ja kestävää volyymia, ja frangipanin
           kukat ihastuttavat tuoksullaan.
       sub_header: "Vahvat, terveet hiukset! "
-      tarra: "Natural shampoo for fine and thin hair. Silkily lustrous hair and more volume? Feel the difference – silk proteins give a wonderful shine and more lasting volume. With the delicate scent of the frangipani blossom. Back up the new fullness with farfalla volume hairspray."
+      tarra: |
+          Kiiltoa ja volyymia Frangipani-silkki shampoosta 
+          Luonnollinen shampoo hienoille, hennoille ja normaaleille hiuksille. Silkin kiiltävät hiukset ja lisää runsautta? Tunne ero – silkkiproteiinit tuovat kiiltoa ja kestävää volyymiä ja frangipanin kukat ihastuttavat tuoksullaan. Täydennä uusi runsaus Farfallan Hoitavalla muotovaahdolla.
     sh_jojoba_aloe: 
       header: "Korjaava Jojoba-aloe shampoo"
       inci: |-
@@ -30,8 +32,10 @@ fi:
           kosteuttavat ja ravitsevat hiusta. Sitrushedelmien eteeriset öljyt elvyttävät päänahkaa. Hiuksista tulee
           elinvoimaiset, terveet ja luonnollisen kiiltävät.
       sub_header: "Käsitellyille hiuksille "
-      tarra: |-
-          Natural shampoo for dry and dyed hair.           Extracts of jojoba and aloe vera provide moisture and important building materials for the hair. For manageable, smooth hair, that gleams with a natural shine. Essential oils of citrus fruits revitalise the scalp and make for a lively, healthy head of hair.
+      tarra: |
+          Korjaava Jojoba-aloe shampoo 
+          Käsitellyille hiuksille.
+          Vahvistava shampoo kuiville, katkeileville ja värjätyille hiuksille. Jojobauute ja aloe vera kosteuttavat ja ravitsevat hiusta. Sitrushedelmien eteeriset öljyt elvyttävät päänahkaa. Jojoba-aloe shampoolla saat hiuksistasi elinvoimaiset, helposti käsiteltävät ja luonnollisen kiiltävät.
     sh_melissa_seaweed: 
       header: "Clear, Melissa-seaweed Shampoo"
       main: |-
@@ -57,7 +61,8 @@ fi:
           tehoaineet suojaavat hiuksia kuivumiselta ja kosteuttavat hiuksia luonnollisesti. Hiukset ovat elastiset, hyvässä kunnossa ja kauniin kiiltävät. 
       sub_header: "Hiuksia kosteuttava!"
       tarra: |-
-          Natural shampoo for frequent washing.                     Precious active ingredients from the pomegranate protect your hair from drying out, even with daily washing. The hair feels more elastic, manageable and well-groomed. For ideal moisturising and a natural shine. 
+          Granaattiomenashampoo
+          Ihanteellinen shampoo usein toistuvaan pesuun. Granaattiomenan tehoaineet suojaavat hiuksia kuivumiselta ja kosteuttavat hiuksia luonnollisesti, jopa päivittäisessä käytössä. Saa hiuksesi tuntumaan terveiltä ja helppohoitoisilta. Tasapainottavaa kosteutta ja luonnollista kiiltoa.
     sh_wild_rose: 
       header: "Hellävarainen Villiruusu shampoo"
       ingredients: |-
@@ -68,5 +73,7 @@ fi:
           lapsille. Ruusu-uute rauhoittaa ja tasapainoittaa herkkää päänahkaa. Shampoo tekee hiuksista
           luonnollisen kiiltävät, terveet ja kauniit juurista latvoihin. 
       sub_header: "Herkän ihon shampoo!"
-      tarra: "Extra-mild natural shampoo. Especially for children and sensitive scalps. Extract of rose soothes and harmonises the sensitive scalp. For healthy, beautiful hair, from the roots to the tips. For natural shine. No synthetic aroma, colour or preservatives. No PEGs, silicone or SLS. "
+      tarra: |
+          Hellävarainen Villiruusu shampoo 
+          Herkän ihon shampoo! Erittäin mieto shampoo sopii erityisesti hennoille hiuksille, herkälle päänahalle ja lapsille. Ruusu-uute rauhoittaa ja tasapainoittaa herkkää päänahkaa. Shampoo tekee hiuksista luonnollisen kiiltävät, terveet ja kauniit juurista latvoihin. Ei sisällä synteettisiä haju-, väri tai säilöntäaineita, eikä PEG-yhdisteitä, silikonia tai SLS:a.
     sub_header: "Hellävaraiseen hiustenpesuun "

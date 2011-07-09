@@ -22,7 +22,9 @@ fi:
           Jos haluat, levitä iholle Hyvän yön nektarin jälkeen vielä ravitseva voide.<br/>
           100% luonnollisista aineista - 95% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
       sub_header: "Ravitsevaan lepoon ja virkeään aamuun."
-      tarra: "Light night care with high degree complex of active ingredients. Allows skin to breathe deeply during the night and stimulates complexion towards new tension and freshness in the morning. Leucojum aestivum bulb extract, the anti-ageing innovation, slows down ageing process of skin. Wrinkles are reduced. Use in the evenings, following cleansing/tonic. If desired, add nouri- shing cream afterwards.\n"
+      tarra: |
+          Hyvän yön nektari 
+          Kevyt yövoide, joka vaikuttaa tehokkaasti. Se antaa ihon hengittää syvään yön aikana ja tuo kasvoille raikkautta ja kiinteyttä aamua kohti. Kesälumipisarauute (leucojum aestivum), anti-age-innovaatio, hidastaa ihon ikääntymistä ja tasoittaa juonteita. Käytä iltaisin ihon puhdistuksen jälkeen. Jos haluat, voit käyttää Hyvän yön nektarin jälkeen vielä ravitsevaa voidetta. 
     am_rollon: 
       header: "Kiinteyttävä seerumi silmänympäryksien iholle"
       main: |-
@@ -33,7 +35,9 @@ fi:
           iholle aamuin illoin puhdistuksen jälkeen.<br/>
           100% luonnollisista aineista - 95% sertifikoitavissa olevista ainesosista luomua. Sopii vegaaneille.
       sub_header: "Silmät loistamaan!"
-      tarra: "Refills the skin’s moisture depots and smoothes eye wrinkles. Reduces the appearance of dark circles and unsightly puffiness around the eyes. Apply after cleansing/toning by gently patting onto skin. "
+      tarra: |-
+          Kiinteyttävä seerumi silmänympärysiholle 
+          Kosteuttaa ihoa ja pehmentää ryppyjä silmien ympärillä. Vähentää tummia silmänalusia ja turvotusta. Taputtele iholle hellästi puhdistuksen jälkeen aamuin ja illoin. 
     am_serum: 
       header: "Kohottava seerumi"
       main: |-
@@ -43,8 +47,8 @@ fi:
           100% luonnollisista aineista - 95% sertifioitavissa olevista aineista luomua. Sopii vegaaneille.
       sub_header: "Tehokkaat ainesosat tiiviissä muodossa!"
       tarra: |-
-          The active-agent concentrate with an intensive effect! Noticeably tightens ans smoothes the skin. The sophisticated complex of active substances tones the skin and leaves the facial outline firmer. Apply in the morning 2-3 times a week or as a daily course of treatment for 2-3 weeks. Gently pat onto the skin before applying the nourishing cream.
-          The anti-wrinkle effectiveness is dermatologically proven.
+          Kohottava seerumi
+          Tehokkaat ja hienostuneet ainesosat tiiviissä muodossa kiinteyttävät kasvoja, heleyttävät ihonväriä ja pehmentävät ihoa. Käytä aamuisin 2-3 krt viikossa tai päivittäisenä tehohoitona 3-4 viikon ajan. Taputtele seerumi hellästi iholle ennen ravitsevaa voidetta. The anti-wrinkle effectiveness is dermatologically proven. 
     header: "age miracle"
     list: |-
         1. Innovaatio: Hidastaa ihon ikääntymisprosessia! <br/>

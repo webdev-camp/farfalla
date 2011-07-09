@@ -2,46 +2,39 @@
 fi: 
   aloe_shea: 
     as_cleansing: 
-      header: "Aloe-Shea Soft Cleansing Milk"
-      main: |-
-          Mild cleanser for mature skin. Moisten face, spread cleanser on the face or apply with cotton 
-          pads and rinse with lots of water.
+      header: "Aloe-Shea Hellä puhdistusmaito"
+      main: "Lempeä puhdistusmaito kypsälle iholle. Kostuta kasvot, levitä puhdistusmaitoa iholle sormenpäillä tai pumpulilla ja huuhtele runsaalla vedellä."
       sub_header: ""
+      tarra: "Lempeä puhdistusmaito kypsälle iholle. Kostuta kasvot, levitä puhdistusmaitoa iholle sormenpäillä tai pumpulilla ja huuhtele runsaalla vedellä."
     as_eye_fluid: 
-      header: "Aloe-Shea Anti-ageing Eye Fluid"
+      header: "Aloe-Shea Anti-age -emulsio silmänympäryksien iholle"
       main: |-
-          Certified natural cosmetic (BDIH) with no synthetic dyes, artificial scents, 
-          preservatives or paraffines. An anti-ageing eye fluid with intensive action. For daily use. 
-          Application: put small portion from the dispenser on fingertips and softly tap in around the eyes.
+          Hanna kysyy: Pitäisikö tämän tekstinpätkän ollakin yleinen Aloe Shean teksti, eikä juuri Silmänympärysemulsion teksti? "Sertifioitua luonnonkosmetiikkaa (BDIH), ei sisällä synteettisiä väriaineita, keinotekoisia tuoksuja, säilöntäaineita tai parafiineja."
+          Tehokkaasti vaikuttava anti-age -emulsio silmänympäryksien iholle. Päivittäiseen käyttöön. Ota pieni määrä emulsiota sormenpäähän ja taputtele hellästi silmänympärysiholle.
       sub_header: ""
+      tarra: "Anti-age -emulsio silmänympäryksien iholle. Päivittäiseen käyttöön. Ota pieni määrä emulsiota sormenpäähän ja taputtele hellästi silmänympärysiholle. "
     as_mask: 
-      header: "Aloe-Shea Energising Mask"
-      main: |-
-          A refreshing, intensive treatment mask for those in a hurry. 
-          Tones and invigorates the complexion in a short time and supplies the skin with moisture. 
-          For a resplendent look.
+      header: "Aloe-Shea Energisoiva naamio"
+      main: "Raikastava, tehokkaasti hoitava naamio kiireiselle. Heleyttää ihonväriä ja hehkeyttää kasvoja nopeasti sekä antaa iholle kosteutta. Näytät upealta! "
       sub_header: ""
+      tarra: "Raikastava, tehokkaasti hoitava naamio kiireiselle. Heleyttää ihonväriä ja hehkeyttää kasvoja nopeasti sekä antaa iholle kosteutta. Näytät upealta!"
     as_nourishing: 
-      header: "Aloe-Shea Anti-ageing Nourishing Cream"
-      main: |-
-          A regenerating anti-wrinkle cream with precious plant ingredients to counteract the ageing process.
-          Apply day and night. 
+      header: "Aloe-Shea Anti-age Ravitseva voide"
+      main: "Uudistava anti-wrinkle -voide, joka sisältää arvokkaita, ikääntymistä vastaan tehokkaasti toimivia kasviaineita. Käytä aamuin illoin. "
       sub_header: ""
+      tarra: "Uudistava ryppyjä ja juonteita vähentävä ja tasoittava voide, joka sisältää arvokkaita, ikääntymistä vastaan tehokkaasti toimivia kasviaineita. Käytä aamuin illoin."
     as_serum: 
-      header: "Aloe-Shea Skin Serum, Intensive Treatment"
-      main: |-
-          Fat free intensive treatment with concentrated anti-ageing substances like aloe vera, 
-          phytosqualane, hyaluron acid (from wheat) and centella extract. 
-          Use 2-3 times a week or as intensive treatment during 4-8 weeks.
+      header: "Aloe-Shea Seerumi, tehohoitoa kasvojen iholle"
+      main: "Rasvaton tehohoito, joka sisältää anti age -vaikuttaja-aineita tiivistetyssä muodossa: aloe veraa, phytosqualanea, hyaluronihappoa ja centellauutetta. Käytä 2-3 kertaa viikossa tai tehokuurina päivittäin 4-8 viikon ajan."
       sub_header: ""
+      tarra: "Rasvaton tehohoito, joka sisältää anti age -vaikuttaja-aineita tiivistetyssä muodossa: aloe veraa, phytosqualanea, hyaluronihappoa ja centellauutetta. Käytä 2-3 kertaa viikossa tai tehokuurina päivittäin 4-8 viikon ajan. "
     as_tonic: 
-      header: "Aloe-Shea Tonic"
-      main: |-
-          A gentle revitalizing and purifying skin tonic with aloe vera and rose blossom water which 
-          has a slightly astringent action. We recommend following with Aloe Shea Nourishing Cream.    
+      header: "Aloe-Shea Kasvovesi"
+      main: "Hellävarainen, elvyttävä ja puhdistava kasvovesi. Sisältää aloe veraa ja ruusunkukkavettä, jolla on miedosti supistava vaikutus. Suosittelemme kasvoveden käytön jälkeen Aloe Shea Ravitsevaa voidetta. "
       sub_header: ""
+      tarra: "Hellävarainen, elvyttävä ja puhdistava kasvovesi. Sisältää aloe veraa ja ruusunkukkavettä, jolla on miedosti supistava vaikutus. Suosittelemme kasvoveden jälkeen Aloe Shea Anti-age Ravitsevaa voidetta."
     header: "aloe shea"
-    list: "Anti-Ageing Care for Mature Skin Organically grown, fresh aloe vera juice stimulates the circulation and regulates evaporation of moisture from the skin. Shea butter protects against dehydration and preserves the elasticity of the skin. Two wheat based ingredients, wheat soramides and hyaluron acid, work in a natural and gentle way to counteract the ageing process. The anti-ageing effectiveness is dermatologically tested and proven. Aloe-Shea Anti-ageing Nourishing Cream: the average wrinkle reduction after 4 weeks of application reaches 33 %. e "
+    list: "Luomuviljelty, raikas aloe vera -mehu vilkastuttaa verenkiertoa ja säännöstelee kosteuden haihtumista iholta. Sheavoi suojelee ihoa kuivumiselta ja pitää sen joustavana. Kaksi vehnäpohjaista ainesosaa,  vehnäsoramidit ja hyaluronihappo, toimivat hellävaraisesti ja luonnollisesti ikääntymistä vastaan. Hedelmäuutteet viikunasta, papaijasta ja ananaksesta tuovat iholle  aminohappoja ja entsyymejä, jotka virkistävät ja kiinteyttävät. Anti-age -vaikutus on dermatologisesti testattu ja todistettu. Esimerkiksi Aloa-Shea Anti-age Ravitsevan voiteen koekäyttäjillä rypyt ja juonteet vähenivät keskimäärin 33% neljän viikon käytön aikana. "
     main: |
         Anti-Ageing Care for Mature Skin
         Organically grown, fresh aloe vera juice stimulates the circulation and regulates evaporation of 
@@ -52,4 +45,4 @@ fi:
         reaches 33 %. 
     main_header: "Anti-Ageing Care for Mature Skin"
     products: "as_cleansing as_tonic as_nourishing as_serum as_eye_fluid as_mask"
-    sub_header: "Anti-Ageing Care for Mature Skin"
+    sub_header: "Anti-age -tuotteet kypsälle iholle"
