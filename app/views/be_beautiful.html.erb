@@ -5,6 +5,11 @@
   <div class="sixty">
     <h3><%== t('be_beautiful.bb_cream.header')%></h3>
      <%== t('be_beautiful.bb_cream.main')%> <br/>
+     <% if has_sub(fact = "be_beautiful.bb_cream.fact") %>
+       <div class="fact">
+         <%== t( fact )%> 
+       </div>
+     <%end%>
   </div>
   <div class="logo_right">
        <p>

@@ -100,6 +100,16 @@ hr {
   height: 1px;
 }
 
+.fact
+{ 
+  	font: 12px "Lucida Sans Unicode", Verdana, Helvetica, sans-serif;
+	line-height:120%;
+	color: black;
+	border-top: 1px dotted #008495;
+	padding-top: 3px;
+	margin-top: 3px;
+}
+
 .logo_right {
 float: right;
 padding-left: 15px;

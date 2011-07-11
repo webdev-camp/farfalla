@@ -17,6 +17,11 @@
     <% line.each do |product| %>
       <div class="four">
         <p><%== t("#{group}.#{product}.main")%> </p>
+        <% if has_sub(fact = "#{group}.#{product}.fact") %>
+          <div class="fact">
+            <%== t( fact )%> 
+          </div>
+        <%end%>
       </div>
       <% all.delete(product) %>
     <%end%>
