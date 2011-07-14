@@ -2,18 +2,19 @@
 fi: 
   age_miracle: 
     am_creme: 
+      fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
       header: "Uudistava ja kohottava voide"
       main: |-
           Tehokkaan kosteuttavan vaikutuksensa vuoksi tämä voide silminnähden pehmentää ja kohottaa kasvojen ihoa. 
           Kesälumipisaran uute (Leucojum aestivum), anti age -innovaatio, hidastaa ihon ikääntymisprosessia ja vähentää tehokkaasti 
           ryppyjä ja juonteita. Spilanthes acmellan ja hyaluronihapon sisältämä hieno vaikuttavien aineiden kokonaisuus heleyttää ihonväriä ja kiinteyttää kasvonpiirteitä. 
-          Ryppyjä ja juonteita vähentävä vaikutus on dermatologisesti testattu. <br/>
-          100% luonnollisista aineista - 95% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
+          Ryppyjä ja juonteita vähentävä vaikutus on dermatologisesti testattu. 
       sub_header: "Lisää kiinteyttä ja heleyttä!"
       tarra: |
           Uudistava ja kohottava voide
-          Tehokas ja kosteuttava voide, joka silminnähden pehmentää ihoa ja kohottaa kasvoja. Kesälumipisaran uute (Leucojum aestivum), anti-age-innovaatio, hidastaa ihon ikääntymistä ja vähentää tehokkaasti ryppyjä ja juonteita. Spilanthes acmellan ja hyaluronihaponsisältämä vaikuttavien aineiden kokonaisuus heleyttää ihonväriä ja kiinteyttää kasvonpiirteitä. Käytä päivittäin kasvojen puhdistuksen jälkeen. The anti-wrinkle effectiveness is dermatologically proven.
+          Kosteuttava voide, joka pehmentää ihoa ja kohottaa kasvoja. Kesälumipisaran uute (Leucojum aestivum), anti-age-innovaatio, hidastaa ihon ikääntymistä ja vähentää tehokkaasti ryppyjä ja juonteita. Spilanthes acmellan ja hyaluronihaponsisältämä vaikuttavien aineiden kokonaisuus heleyttää ihonväriä ja kiinteyttää kasvonpiirteitä. Käytä päivittäin kasvojen puhdistuksen jälkeen. The anti-wrinkle effectiveness is dermatologically proven.
     am_night: 
+      fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
       header: "Hyvän yön nektari"
       main: |-
           Kevyt yöhoito, jossa on korkea pitoisuus tehokkaasti vaikuttavia aineosia. 
@@ -21,36 +22,35 @@ fi:
           Kesälumipisarauute (Leucojum aestivum), anti age -innovaatio,  
           hidastaa ihon ikääntymisprosessia ja tasoittaa ryppyjä ja juonteita. 
           Käytä iltaisin puhdistuksen ja kasvoveden jälkeen. 
-          Jos haluat, levitä iholle Hyvän yön nektarin jälkeen vielä ravitseva voide.<br/>
-          100% luonnollisista aineista - 95% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
+          Jos haluat, levitä iholle Hyvän yön nektarin jälkeen vielä ravitseva voide.
       sub_header: "Ravitsevaan lepoon ja virkeään aamuun."
       tarra: |
           Hyvän yön nektari 
-          Kevyt yövoide, joka vaikuttaa tehokkaasti. Se antaa ihon hengittää syvään yön aikana ja tuo kasvoille raikkautta ja kiinteyttä aamua kohti. Kesälumipisarauute (leucojum aestivum), anti-age-innovaatio, hidastaa ihon ikääntymistä ja tasoittaa juonteita. Käytä iltaisin ihon puhdistuksen jälkeen. Jos haluat, voit käyttää Hyvän yön nektarin jälkeen vielä ravitsevaa voidetta. 
+          Kevyt yövoide, joka vaikuttaa tehokkaasti. Se antaa ihon hengittää syvään yön aikana ja tuo kasvoille raikkautta ja kiinteyttä. Kesälumipisarauute (leucojum aestivum), anti-age-innovaatio, hidastaa ihon ikääntymistä ja tasoittaa juonteita. Käytä iltaisin ihon puhdistuksen jälkeen. Jos haluat, voit käyttää Hyvän yön nektarin jälkeen vielä ravitsevaa voidetta. 
     am_rollon: 
+      fact: "100% luonnollisista aineista.<br/>95% sertifikoitavissa olevista ainesosista luomua. Sopii vegaaneille."
       header: "Kiinteyttävä seerumi silmänympäryksien iholle"
       main: |-
           Hieno tehokkaasti vaikuttavien ainesosien yhdistelmä täydentää ihon kosteusvarastoja ja pehmentää
           silminnähden ryppyjä silmien ympärillä. Pihlajanversouute (Sorbus
           domestica) vähentää selvästi tummia silmänalusia ja
           turvotusta. Hellävaraista hoitoa herkälle silmänympärysalueen iholle. Taputtele hellästi
-          iholle aamuin illoin puhdistuksen jälkeen.<br/>
-          100% luonnollisista aineista - 95% sertifikoitavissa olevista ainesosista luomua. Sopii vegaaneille.
+          iholle aamuin illoin puhdistuksen jälkeen.
       sub_header: "Silmät loistamaan!"
       tarra: |-
           Kiinteyttävä seerumi silmänympärysiholle 
           Kosteuttaa ihoa ja pehmentää ryppyjä silmien ympärillä. Vähentää tummia silmänalusia ja turvotusta. Taputtele iholle hellästi puhdistuksen jälkeen aamuin ja illoin. 
     am_serum: 
+      fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista aineista luomua. Sopii vegaaneille."
       header: "Kohottava seerumi"
       main: |-
           Hienostunut yhdistelmä tehokkaasti vaikuttavia aineita heleyttää ihonväriä ja kiinteyttää kasvojen linjoja. Käytä aamuisin 2-3
           kertaa viikossa tai päivittäisenä tehohoitona 3-4 viikon ajan. Tukee muiden age miracle -linjan tuotteiden tehoa. 
-          Suosittelemme Kohottavaa seerumia myös muita tuotelinjoja täydentäväksi anti age -lisäksi. <br/>
-          100% luonnollisista aineista - 95% sertifioitavissa olevista aineista luomua. Sopii vegaaneille.
+          Suosittelemme Kohottavaa seerumia myös muita tuotelinjoja täydentäväksi anti age -lisäksi. 
       sub_header: "Tehokkaat ainesosat tiiviissä muodossa!"
       tarra: |-
           Kohottava seerumi
-          Tehokkaat ja hienostuneet ainesosat tiiviissä muodossa kiinteyttävät kasvoja, heleyttävät ihonväriä ja pehmentävät ihoa. Käytä aamuisin 2-3 krt viikossa tai päivittäisenä tehohoitona 3-4 viikon ajan. Taputtele seerumi hellästi iholle ennen ravitsevaa voidetta. The anti-wrinkle effectiveness is dermatologically proven. 
+          Tehokkaat ainesosat tiiviissä muodossa kiinteyttävät kasvoja, heleyttävät ihonväriä ja pehmentävät ihoa. Käytä aamuisin 2-3 krt viikossa tai päivittäisenä tehohoitona 3-4 viikon ajan. Taputtele seerumi hellästi iholle ennen ravitsevaa voidetta. The anti-wrinkle effectiveness is dermatologically proven. 
     header: "age miracle"
     list: |-
         1. Innovaatio: Hidastaa ihon ikääntymisprosessia! <br/>

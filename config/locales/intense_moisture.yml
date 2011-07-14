@@ -3,36 +3,47 @@ fi:
   intense_moisture: 
     header: "intense moisture"
     im_cream: 
+      fact: "100% luonnollisista aineista.<br/>97% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
       header: "Ravitseva, kosteuttava voide"
       main: |-
           Ravitsee ja rentouttaa ihoa. Luomulaatuiset macadamiaöljy ja sheavoi antavat iholle silkinpehmeän tunnun.
           Jerikonruusu-uutteet parantavat ihon omia suojautumismekanismeja ja kosteuttavat ihoa. Hyaluronihappo täydentää ihon
           kosteusvarastoja. Gotu kola (Centella asiatica) edistää ihon omaa kollageenintuotantoa.<br/> 
           Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Halutessasi voit ensin levittää iholle intense 
-          moisture Kevyttä kosteusemulsiota.<br/> 
-          100% luonnollisista aineista, 97% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
+          moisture Kevyttä kosteusemulsiota.
       sub_header: "Rentouttaa ja uudistaa"
-      tarra: "Nourishes and relaxes skin. The addition of macadamia oil and shea butter gives complexion silky-smooth touch. Resurrection plant extracts improve skin’s protective role and lend intense moisture. Hyaluronic acid refills skin’s moisture depots. Centella asiatica stimulates its own collagen production. After cleansing/tonic, apply morning and evening. If desired, use Light moisturising fluid beforehand. "
+      tarra: |+
+          Ravitseva, kosteuttava voide
+          Ravitsee ja rentouttaa ihoa. Macadamia- ja shea butter-luomuöljyt tekevät ihon silkinpehmeäksi. Jerikonruusu-uute parantaa ihon omia suojamekanismeja ja kosteuttaa ihoa. Hyaluronihappo täydentää ihon kosteusvarastoja. Gotu kola (Centella asiatica) edistää ihon omaa kollageenituotantoa. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. intense moisture Kevyt kosteusemulsiota voi käyttää voiteen alla.
+          
     im_fluid: 
+      fact: "100% luonnollisista aineista.<br/>97% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
       header: "Kevyt kosteusemulsio"
       main: |-
           Kevyt päiväemulsio, josta iho saa tehoannoksen kosteutta. Jerikonruusu-uutteet parantavat ihon omaa luonnollista suojautumiskykyä ja kosteuttavat tehokkaasti.
           Hyaluronihappo täydentää ihon kosteusvarastoja. Gotu kola (Centella asiatica) aktivoi ihon omaa
           kollageenintuotantoa.<br/> Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Halutessasi voit käyttää
-          tätä emulsiota ennen juuri omalle ihotyypillesi tarkoitettua ravitsevaa voidetta.<br/> 
-          100% luonnollisista aineista, 97% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
+          tätä emulsiota ennen juuri omalle ihotyypillesi tarkoitettua ravitsevaa voidetta.
       sub_header: "Tehokasta kosteutta kevyesti"
-      tarra: "This light day care boosts moisture. Resurrection plant extracts improve skin’s protective role and lend intense moisture. Hyaluronic acid refills moisture depots. Centella asiatica stimulates skin’s own collagen production. Apply after cleansing/tonic. If desired, apply before a skin-specific nourishing cream. "
+      tarra: |+
+          Kevyt kosteusemulsio
+          Kevyt päiväemulsio, josta iho saa tehoannoksen kosteutta. Jerikonruusu-uute parantaa ihon omia suojamekanismeja ja kosteuttaa tehokkaasti. Hyaluronihappo täydentää ihon omia kosteusvarastoja. Gotu kola (Centella asiatica) aktivoi ihon omaa kollageenituotantoa. Käytä puhdistuksen ja kasvoveden jälkeen. Voit käyttää emulsion alla omalle ihotyypillesi soveltuvaa ravitsevaa voidetta.
+          
     im_maske: 
+      fact: "100% luonnollisista aineista.<br>99% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
       header: "Ravitseva, kosteuttava naamio"
       main: |-
           Sisältää runsaasti aktiivisia kosteuttavia aineosia. 
           Manteli-, macadamia- ja jojobaöljyt antavat iholle tehokasta, kosteuttavaa hoitoa. 
           Naamio on helppo poistaa lämpimällä vedellä. 
           Levitä puhdistetulle iholle 1-2 kertaa viikossa ja anna vaikuttaa 15 minuuttia. 
-          Huuhtele huolellisesti runsaalla vedellä ja nauti silkinpehmeästä ihostasi. 100% luonnollisista aineista - 99% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
+          Huuhtele huolellisesti runsaalla vedellä ja nauti silkinpehmeästä ihostasi. 
       sub_header: "Hoitavaa silkinpehmeyttä"
-      tarra: "Rich in active moisturising ingredients. Almond oil, jojoba oil and macadamia nut oil lend intense moisture. Can be removed easily with warm water. Apply once or twice a week on cleansed skin and leave for 15 minutes. Thoroughly rinse off with plenty of water and enjoy your silky-smooth complexion. "
+      tarra: |+
+          Ravitseva, kosteuttava naamio
+          Sisältää runsaasti aktiivisesti kosteuttavia ainesosia. Manteli-, jojoba- ja macadamiaöljyt kosteuttavat ja hoitavat ihoa tehokkaasti. Käytä 1-2 krt viikossa puhtaalle iholle. Anna vaikuttaa 15 min. ja huuhtele huolellisesti runsaalla lämpimällä vedellä. Nauti silkinpehmeästä ihostasi!
+          
+          
     list: |-
         Vahvistaa ihon kosteustasapainoa<br/> 
         1. Dermatologisesti testattu: parantaa ihon kosteustasapainoa 25%:lla. <br/> 
