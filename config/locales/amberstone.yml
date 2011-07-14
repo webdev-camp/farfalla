@@ -17,7 +17,9 @@ fi:
           Ei synteettisiä värejä, tuoksuja, säilöntäaineita eikä
           PEG tai parafiinia. Ilman eläinkokeita.
       sub_header: "Suojaa ja pehmeyttä"
-      tarra: "Certified organic cosmetic. This special moisturising cream for day and night is suitable for every skin type. For a radiant compexion and protection against environmental influences. Without synthetic dyes, artificial scents, preservatives or paraffines."
+      tarra: |-
+          Tämä kosteusvoide sopii kaikille ihotyypeille-sekä yö- että päivävoiteeksi.Se energisoi, tekee ihostasi säteilevän ja suojaa ympäristön haitallisilta vaikutuksilta.
+          Ei sisällä keinotekoisia väriaineita,- tuoksuja,-säilöntäaineita eikä paraffiiniä. Tämä tuote on sertifioitua luomukosmetiikkaa.
     amberstone_fraiche: 
       header: "Amberstone Eau Fraîche"
       inci: |-
@@ -30,8 +32,7 @@ fi:
           tarjotessa lempeän taustan.  Käyttö: parfyymina, energisoivana ja – esimerkiksi 
           huoneessa –harmonisoivana spraynä 
       sub_header: "Lempeää energiaa"
-      tarra: |-
-          Amber and bergamot combine their light-bringing energy, benzoe and mandarin provide a soft background. Use: as a natural perfume, energy spray and room harmoniser.                                                                                                      Certified organic cosmetic according to NaTrue. 
+      tarra: "Tämä eau fraiche tuo iloa ja energiaa elämääsi. Voit suihkauttaa sitä ihollesi, tai huoneeseen tunnelman Kohottamiseksi.Valmistettu bergamotin,ambran,benzoen ja mandariinin eteerisistä öljyistä.Tämä spray on sertifioitu Na True standardien mukaisesti. "
     amberstone_oil: 
       header: "Amberstone öljy"
       inci: |-

@@ -19,7 +19,9 @@ fi:
           Kosteuttava vartalovoide, joka kirjaimellisesti sulaa iholle ja tekee sen sametin pehmeäksi 
           tuoksuen aistikkaalle ambralle. 50 ml 
       sub_header: "Elvyttävä ja pehmentävä "
-      tarra: "Soft velvety body butter with a warm, sensuous scent note for your daily body care. Very nurturing. Certified natural cosmetic (BDIH) with no synthetic dyes, artificial scents, preservatives or paraffines."
+      tarra: |-
+          Ambra vartalovoide
+          Ihoa hoitava ja hyvin ravitseva  vartalovoide ,ihon päivittäiseen hoitamiseen.Siinä on aistillinen ja hieman itämainen tuoksu. Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH)luomulaatua.Siinä ei ole synteettisiä väriaineita,- tuoksuja,-säilöntäaineita eikä paraffiinia. e e
     am_bodylotion: 
       header: "Ambra kosteusvoide"
       inci: |-
@@ -40,7 +42,7 @@ fi:
           Tämä sensuellituoksuinen kosteusvoide imeytyy helposti iholla ja tekee ihon sametin pehmeäksi 
           kasviöljypohjaisten luomuraaka-aineiden avulla. 150 ml
       sub_header: "Kosteuttava ja hoitava"
-      tarra: "This body lotion with its warm, sensuous scent gives your skin a velvety soft feeling. With plant oils and flower Waters in Organic quality. Certified natural cosmetic (BDIH) with no synthetic dyes, artificial scents, preservatives or paraffines."
+      tarra: "Ihoa hoitava ja ravitseva , kevyt kosteusvoide ,ihon päivittäiseen hoitamiseen..Siinä on aistillinen ja hieman itämainen tuoksu. Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH)luomulaatua.Siinä ei ole synteettisiä väriaineita,- tuoksuja,-säilöntäaineita eikä paraffiinia. e"
     am_eau_fraiche: 
       header: "Ambra Eau Fraîche"
       inci: |-
@@ -50,7 +52,7 @@ fi:
       ingredients: "alkoholi, natural essential oils mixture, ruusuvesi"
       main: "Upea, syvä tuoksuluomus, jossa yhdistyvät santeli, Attar-ruusu, vanilja ja cistus. Tämä eau de toilette on taianomainen!  50 ml "
       sub_header: "Lämmin ja aistillinen eau de toilette "
-      tarra: "An Eau Fraîche is a discreet natural perfume with a warm, embracing, pure herbal scent note. Sophisticated combination with labdanum, sandalwood, rose attar and vanilla. With no synthetic dyes, artificial scents."
+      tarra: " Ambra eau Fraiche on luonnollinen , hienovarainen parfyymi päivittäiseen käyttöön.Tuoksu on aistillinen ja hieman mausteinen.Siinä on sekoitus santelipuuta,Attar ruusua ja vaniljaa. Siinä ei ole synteettisiä väriaineita,- tuoksuja,-säilöntäaineita eikä paraffiinia. e"
     am_lotion_small: 
       header: "Ambra Bodylotion"
       main: Matkasetti
@@ -70,8 +72,8 @@ fi:
           Purista sormenpäihisi helmenkokoinen annos ja hiero kostealle iholle. 200 ml 
       sub_header: "Hellävaraisesti puhdistava "
       tarra: |-
-          Velvety soft shower cream with a warm sensuous note  for your daily, gentle body cleaning. Application: Froth up a dose the size of a pearl in your hands, and apply onto wet skin. With a cleansing sponge you can achieve more foam.
-          Certified natural cosmetic (BDIH) with no synthetic dyes, artificial scents, preservatives or paraffines.
+          Ambra suihkugeeli
+          Pehmeä ja ihoa ravitseva suihkugeeli ihon päivittäisee pesuun .Tuoksu on aistillinen ripauksella itämaista sävyä. Annostele käsillesi helmenkokoinen pisara ja levitä märälle ihollesi. Tuote on sertifioitua luonnonkosmetikkaa,(BDIH). Siinä ei ole synteettisiä väriaineita,- tuoksuja,-säilöntäaineita eikä paraffiinia. e
     am_shower_small: 
       header: "Ambra Shower cream"
       main: Matkasetti
