@@ -20,7 +20,7 @@ fi:
           Kun iho vaatii uudistumista ja kaipaa virkistystä, takaa kasvipohjainen sitruksenraikas voide sille
           jokapäiväisen vitamiiniannoksen. 50 ml
       sub_header: "Uudistava ja ravitseva"
-      tarra: "Intense moisture for dry skin. draws into skin easily and provides a pleasant feeling of freshness. Certified natural cosmetic (BDIH) with no synthetic dyes, artificial scents, preservatives or paraffines."
+      tarra: "Vartalovoi Fresh Lime Kun tarvitset ihollesi syvää kosteutusta, tämä vartalovoide on juuri täydellinen sinulle. Ihanan raikas ja virkistävä tuoksu. Voide imeytyy hyvin ja jättää raikkauden ihollesi. Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia. "
     fl_bodylotion: 
       header: "Fresh Lime kosteusvoide"
       inci: |-
@@ -39,7 +39,7 @@ fi:
           Kosteuttava, hyvin ihoon imeytyvä shea butter-pohjainen voide uudistaa ihoa ja antaa ihanan virkistyneen
           olon. 150 ml
       sub_header: "Kosteuttava ja virkistävä "
-      tarra: "Deliciously caring and refreshing. This body lotion with its fruity and light scent gives your skin a delicate feeling. With plant oils and flower waters in organic quality. For your daily body care. Certified natural cosmetic (BDIH) with no synthetic dyes, artificial scents, preservatives or paraffines."
+      tarra: "Kosteusvoide Fresh Lime on ihoa hoitava ja ravitseva, kevyt kosteusvoide päivittäiseen hoitoon. Raikas ja ihana tuoreiden limettisitruunoiden tuoksu. Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH)luomulaatua. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     fl_eau_fraiche: 
       header: "Fresh Lime Eau Fraîche"
       inci: |-
@@ -48,7 +48,7 @@ fi:
       ingredients: "alkoholi, natural essential oils mixture, appelsiininkukkavesi"
       main: "Ihastuttavan raikkaat sitrukset, hienovarainen iiris ja pehmeä vanilja tekevät fantastisen eau de toiletten, joka sopii niin arkeen, työhön kuin juhlaankin. 50 ml "
       sub_header: "Kevyt luonnollinen eau de toilette "
-      tarra: "An Eau Fraîche is a discreet natural perfume. It has a fresh, fruity and cheerful scent. Fruity and joyous tips are underlined with soft notes of iris root and vanilla. With no synthetic dyes, and artificial scents."
+      tarra: "Fresh Lime eau Fraiche on luonnollinen, hienovarainen parfyymi päivittäiseen käyttöön. Raikas, hedelmäinen ja iloinen tuoksu. Iiris ja vanilja tuovat pehmeyttä tähän ilahduttavaan tuoksuluomukseen. Ei ole käytetty synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia. e"
     fl_lotion_small: 
       header: "Lime and Lemon Bodylotion"
       main: " Matkasetti  "
@@ -69,9 +69,9 @@ fi:
           tuoksu takaavat suihkuelämyksen! <br/>
           Purista sormenpäihin helmenkokoinen annos ja hiero kostealle iholle. 200 ml
       sub_header: "Sitruksen raikkautta suihkuun!"
-      tarra: |-
-          Velvety soft shower cream with a refreshing scent of ripe lime.  Application: Froth up a dose the size of a pearl in your hands and apply onto wet skin. With a cleansing sponge you can achieve more foam.
-          Certified natural cosmetic (BDIH) with no synthetic dyes, artificial scents, preservatives or paraffines.
+      tarra: |
+          Fresh Lime suihkuvoide
+          Pehmeä ja ihoa ravitseva suihkugeeli päivittäiseen pesuun. Tuoksu on raikas ja piristävä. Jättää ihollesi tuoreen limettisitruunan tuoksun. Annostele helmenkokoinen pisara ja levitä kostealle ihollesi. Tuote on sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia. 
     fl_shower_small: 
       header: "Lime and Lemon Shower cream"
       main: "Matkasetti "
@@ -81,7 +81,7 @@ fi:
     list: |-
         <em> Mikä tuoksu! </em> 
         Kuin kävelisi sitruslehdossa ja tuntisi auringon lämmön ihollaan! Tämä fantastinen sitruskukilta ja
-        –hedelmiltä tuoksuva vartalonhoitosarja vitalisoi ja ravitsee ihosi kaikkia soluja. 
+        –hedelmiltä tuoksuva luomulaatuinen vartalonhoitosarja vitalisoi ja ravitsee ihosi kaikkia soluja. 
     main: " "
     products: "fl_shower fl_bodylotion fl_eau_fraiche fl_body_butter fl_shower_small fl_lotion_small"
     sub_header: "<b>raikas vartalonhoitosarja</b>"

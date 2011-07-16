@@ -5,8 +5,7 @@ fi:
       header: "Freshen Up <br>- Raikkautta"
       main: "<strong>Freshen Up -tuoksuluomus on tehty tuomaan rohkeutta hankaliin tilanteisiin.</strong> Tarvittaessa voit suihkuttaa spraytä useita kertoja päivässä suoraan iholle, kaulalle, ranteisiin. <em>Kuumana kesäpäivänä voit virkistää väsyneitä jalkojasi suihkauttamalla niille raikasta sprayta!</em> Valmistusaineet: Luomu sitruunamelissa, greippi ja sitruunamelissavesi"
       sub_header: "Tämä hedelmäisen raikas spray viilentää ja virkistää sinua"
-      tarra: |
-          Freshen up on tehty tuomaan rohkeutta hankaliin tilanteisiin. Tarvittaessa voit suihkuttaa spraytä useita kertoja päivässä suoraan iholle, kaulalle, ranteisiin. Kuumana kesäpäivänä voit virkistää väsyneitä jalkojasi suihkauttamalla niille raikasta sprayta! Valmistusaineet luomusitruunamelissa, greippi ja sitruunamelissavesi.
+      tarra: "Freshen up on tehty tuomaan rohkeutta hankaliin tilanteisiin. Tarvittaessa voit suihkuttaa spraytä useita kertoja päivässä suoraan iholle, kaulalle, ranteisiin. Kuumana kesäpäivänä voit virkistää väsyneitä jalkojasi suihkauttamalla niille raikasta sprayta! Valmistusaineet luomusitruunamelissa, greippi ja sitruunamelissavesi.\n"
     header: "Body Sprays"
     list: |
         Mahtavia tuoksuja pienessä pullossa. Nämä kätevät pienet spraypullot mahtuvat  käsilaukkuun ja voit suihkauttaa niitä  tarvittaessa.
@@ -42,5 +41,5 @@ fi:
       main: "<strong>Voit hemmotella itseäsi tällä rauhoittavalla ja rentouttavalla tuoksulla.</strong> Farfallan Wellbeing -tuoksu tuo iloa ja harmoniaa. Voit suihkuttaa sitä kaulallesi, kasvoillesi, ranteisiisi tai tyynylle. Se edistää hyvää ja rauhallista unta. Sopii hyvin myös lapsille. Valmistusaineet: luomu laventelinkukka ja -ruusuvesi sekä luomunerolin, -ruusun ja -laventelin eteeriset öljyt."
       sub_header: "Tämä spray tuo rauhaa ja hyvinvointia stressaavaankin päivään"
       tarra: |+
-          Wellbeing - hyvinvointia elämään! Tämä spray tuo iloa, rauhaa ja harmoniaa stressaavaankin päivään. Voit hemmotella itseäsi suihkuttamalla sitä kaulallesi, kasvoillesi, ranteisiisi tai tyynylle. Spray edistää hyvää ja rauhallista unta ja sopii hyvin myös lapsille. Valmistusaineet: luomulaventeli ja -ruusuvesi sekä luomunerolin, -ruusun ja -laventelin eteeriset öljyt. 
+          Wellbeing - hyvinvointia elämään! Tämä spray tuo iloa, rauhaa ja harmoniaa stressaavaankin päivään. Voit hemmotella itseäsi suihkuttamalla sitä kaulallesi, kasvoillesi, ranteisiisi tai tyynylle. Spray edistää hyvää ja rauhallista unta ja sopii hyvin myös lapsille. Valmistusaineet: luomuruusu- ja laventelivesi sekä luomunerolin, -ruusun ja -laventelin eteeriset öljyt. 
           
