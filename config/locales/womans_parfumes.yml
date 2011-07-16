@@ -4,26 +4,39 @@ fi:
     anima: 
       header: Anima
       main: |-
-          Tuoksu, joka tuo esille olemuksesi kätketyn hymyn! Samalla kertaa syvällinen ja dynaaminen sekä hedelmäisen
-          raikas greipin, mandariini ja appelsiinin tuoksuilla. Sydäntuoksu sisältää mimosan ja appelsiinin kukkien
+          Tuoksu, joka tuo esille olemuksesi kätketyn hymyn! 
+          Samalla kertaa syvällinen ja dynaaminen sekä hedelmäisen
+          raikas greipin, mandariini ja appelsiinin tuoksuilla. 
+          Sydäntuoksu sisältää mimosan ja appelsiinin kukkien
           aurinkoista hehkua . Tuoksu on pyöristetty metsäisillä tuoksuilla ja benzoella. 
       sub_header: ""
-      tarra: "Tuoksu, joka tuo esille olemuksesi kätketyn hymyn! Syvällinen ja dynaaminen, mutta samalla hedelmäisen raikas greipin, mandariinin ja appelsiinin vivahteineen. Sydäntuoksu sisältää mimosan ja appelsiininkukkien aurinkoista hehkua  pyöristettynä metsäisillä tuoksuilla ja benzoella. Sertifioitua luomukosmetiikkaa - 98% ainesosista luomua (BDIH)"
+      tarra: |-
+        Tuoksu, joka tuo esille olemuksesi kätketyn hymyn! 
+        Syvällinen ja dynaaminen, mutta samalla hedelmäisen raikas greipin, mandariinin ja 
+        appelsiinin vivahteineen. Sydäntuoksu sisältää mimosan ja appelsiininkukkien aurinkoista hehkua  
+        pyöristettynä metsäisillä tuoksuilla ja benzoella. 
+        Sertifioitua luomukosmetiikkaa - 98% ainesosista luomua (BDIH)
     header: "Eau de parfum naisille"
     list: |-
         Farfallan luomuparfyymit ovat aitoja ja luonnollisia ja ne
-        ovat saaneet BDIH sertifikaatin. Nämä tuotteet menevät vieläkin korkealaatuisemmaksi kuin luomusertifikaatti
-        vaatii: 98% aineesta on luomutuotannosta. Parfyymien pohjana Farfalla käyttää luomualkoholia ja luomukukkaisvesiä. Tuotteita ei ole testattu eläimillä.
+        ovat saaneet BDIH sertifikaatin. Nämä tuotteet menevät vieläkin korkealaatuisemmaksi kuin 
+        luomusertifikaatti vaatii: 98% aineesta on luomutuotannosta. 
+        Parfyymien pohjana Farfalla käyttää luomualkoholia ja luomukukkaisvesiä. 
+        Tuotteita ei ole testattu eläimillä.
     main: ~
     nuvola: 
       header: Nuvola
       main: |-
-          Nauti tunteesta että kävelet kuin ilmassa käyttäessäsi tätä tuoksua! Nuvola tarkoittaa pilveä italiaksi
-          .Käyttäessäsi tätä tuoksua saat miesten päät kääntymään . Sydäntuoksu on aluksi raikas ja moni-ilmeinen ,
-          sitten puuterimainen ja erittäin naisellinen. Tässä luomu parfyymissä, neroli, bergamotti, ylang, ylang,
-          vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia.
+        Nauti tunteesta että kävelet kuin ilmassa käyttäessäsi tätä tuoksua! Nuvola tarkoittaa pilveä italiaksi.
+        Käyttäessäsi tätä tuoksua saat miesten päät kääntymään . Sydäntuoksu on aluksi raikas ja moni-ilmeinen ,
+        sitten puuterimainen ja erittäin naisellinen. Tässä luomu parfyymissä, neroli, bergamotti, ylang, ylang,
+        vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia.
       sub_header: ""
-      tarra: |
-          Nauti tunteesta, että kävelet kuin ilmassa! Nuvola tarkoittaa pilveä italiaksi. Käyttäessäsi tätä tuoksua saat miesten päät kääntymään. Sydäntuoksu on aluksi raikas ja moni-ilmeinen, sitten puuterimainen ja erittäin naisellinen. Tässä luomuparfyymissa neroli, bergamotti, ylang, ylang, vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia. Sertifioitua luomukosmetiikkaa - 98% ainesosista luomua (BDIH)
+      tarra: |-
+        Nauti tunteesta, että kävelet kuin ilmassa! Nuvola tarkoittaa pilveä italiaksi. 
+        Käyttäessäsi tätä tuoksua saat miesten päät kääntymään. 
+        Sydäntuoksu on aluksi raikas ja moni-ilmeinen, sitten puuterimainen ja erittäin naisellinen. 
+        Tässä luomuparfyymissa neroli, bergamotti, ylang, ylang, vanilja ja santelipuu korostavat 
+        kantajan vetovoimaa ja charmia. Sertifioitua luomukosmetiikkaa - 98% ainesosista luomua (BDIH)
     products: "anima nuvola"
     sub_header: "Luomu parfyymi naisille/ women's natural parfumes"

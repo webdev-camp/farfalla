@@ -3,7 +3,10 @@ fi:
   travel_set: 
     header: matkasetti
     list: ""
-    main: "Huolella valittu setti sisältää kätevän kokoiset näytepakkaukset olennaisimmista kosmetiikkatuotteista. Tuotteet antavat ihollesi parhaan mahdollisen huolenpidon esim. viikonloppumatkalla. Voit myös käyttää matkapakkausta apunasi kotona, kun tutustut tehokkaasti vaikuttaviin luomutuotteisiimme."
+    main: |-
+      Huolella valittu setti sisältää kätevän kokoiset näytepakkaukset olennaisimmista kosmetiikkatuotteista. 
+      Tuotteet antavat ihollesi parhaan mahdollisen huolenpidon esim. viikonloppumatkalla. 
+      Voit myös käyttää matkapakkausta apunasi kotona, kun tutustut tehokkaasti vaikuttaviin luomutuotteisiimme.
     main_header: "Vietetään viikonloppu yhdessä!"
     products: travel_set
     sub_header: "Kokeile ja tutustu!"
@@ -19,13 +22,25 @@ fi:
           Feel beautiful-matkasetti
           
           Daily Refresh, Puhdistusemulsio
-          Puhdistaa ihon hellävaraisen tehokkaasti. Aloe vera suojaa ihoa kuivumiselta, valikoidut eteeriset öljyt virkistävät ja elvyttävät ihoa. Levitä puhdistusemulsiota kostealle iholle, hiero kevyesti ja huuhtele runsaalla vedellä.
+          Puhdistaa ihon hellävaraisen tehokkaasti. 
+          Aloe vera suojaa ihoa kuivumiselta, valikoidut eteeriset öljyt virkistävät ja elvyttävät ihoa. 
+          Levitä puhdistusemulsiota kostealle iholle, hiero kevyesti ja huuhtele runsaalla vedellä.
           
           In Balance, Kevyt kosteusemulsio
-          Kevyt päiväemulsio, josta iho saa tehoannoksen kosteutta. Jerikonruusu-uute parantaa ihon omaa luonnollista suojautumiskykyä ja kosteuttaa tehokkaasti. Hyaluronihappo täydentää ihon kosteustasapainoa. Gotu kola (Centella asiatica) aktivoi ihon omaa kollageenintuotantoa. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin.
+          Kevyt päiväemulsio, josta iho saa tehoannoksen kosteutta. 
+          Jerikonruusu-uute parantaa ihon omaa luonnollista suojautumiskykyä ja kosteuttaa tehokkaasti. 
+          Hyaluronihappo täydentää ihon kosteustasapainoa. 
+          Gotu kola (Centella asiatica) aktivoi ihon omaa kollageenintuotantoa. 
+          Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin.
           
           Be Beautiful, Bliss cream 
-          Ainutlaatuinen voide tilanteisiin, joissa tahdot olla parhaimmillasi. Sisältää Orinoco–pähkinää ja brasilialaista pippuripuuta, joilla on “onnellisuushormoni”-dopamiinin erittymistä edistävä vaikutus. Luonnonmineraalien hohtohiukkaset peittävät epäpuhtauksia ja juonteita. Kun sinun on hyvä olla, säteilet sitä myös ulospäin, ja olet kaunis.
+          Ainutlaatuinen voide tilanteisiin, joissa tahdot olla parhaimmillasi. 
+          Sisältää Orinoco–pähkinää ja brasilialaista pippuripuuta, joilla on “onnellisuushormoni”-dopamiinin 
+          erittymistä edistävä vaikutus. Luonnonmineraalien hohtohiukkaset peittävät epäpuhtauksia ja juonteita. 
+          Kun sinun on hyvä olla, säteilet sitä myös ulospäin, ja olet kaunis.
           
           Age Miracle, Hyvän yön nektari
-          Kevyt yövoide, jossa on paljon tehokkaasti vaikuttavia aineosia. Antaa ihon hengittää syvään yön aikana ja tuo kasvoille uutta raikkautta ja kiinteyttä. Kesälumipisarauute (Leucojum aestivum), anti age -innovaatio, hidastaa ihon ikääntymistä ja tasoittaa juonteita. Käytä iltaisin ihon puhdistuksen jälkeen.
+          Kevyt yövoide, jossa on paljon tehokkaasti vaikuttavia aineosia. 
+          Antaa ihon hengittää syvään yön aikana ja tuo kasvoille uutta raikkautta ja kiinteyttä. 
+          Kesälumipisarauute (Leucojum aestivum), anti age -innovaatio, hidastaa ihon ikääntymistä ja 
+          tasoittaa juonteita. Käytä iltaisin ihon puhdistuksen jälkeen.

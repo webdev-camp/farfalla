@@ -22,7 +22,10 @@ fi:
       sub_header: "Silkinpehmeä iho"
       tarra: |-
           Hellävarainen kuorintavoide
-          Riisin ja bambun kuorivat hiukkaset poistavat kuolleita ihosoluja ja elävöittävät ihoa. Kuorintavoide antaa erinomaisen pohjan hoitavien tuotteiden imeytymiselle. Hiero kuorintavoide puhtaalle, kostealle iholle, vältä silmänympärysihoa. Huuhtele runsaalla vedellä.
+          Riisin ja bambun kuorivat hiukkaset poistavat kuolleita ihosoluja ja elävöittävät ihoa. 
+          Kuorintavoide antaa erinomaisen pohjan hoitavien tuotteiden imeytymiselle. 
+          Hiero kuorintavoide puhtaalle, kostealle iholle, vältä silmänympärysihoa. 
+          Huuhtele runsaalla vedellä.
     dr_schaum: 
       fact: "100% luonnollisista aineista. Sopii vegaaneille."
       header: Puhdistusvaahto
@@ -35,18 +38,28 @@ fi:
       sub_header: "Kirkastava syväpuhdistus"
       tarra: |
           Puhdistusvaahto 
-          
-          Syväpuhdistaa ja kirkastaa normaalin ja rasvaisen ihon kuivattamatta ihoa. Quillaja –puusta saatava luomulaatuinen saponiini antaa iholle raikkaan puhtauden tunnun. Eteeriset öljyt greippi, sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. Levitä puhdistusvaahtoa kostealle iholle ja hiero kevyesti. Huuhtele runsaalla vedellä.
+          Syväpuhdistaa ja kirkastaa normaalin ja rasvaisen ihon kuivattamatta ihoa. 
+          Quillaja –puusta saatava luomulaatuinen saponiini antaa iholle raikkaan puhtauden tunnun. 
+          Eteeriset öljyt greippi, sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. 
+          Levitä puhdistusvaahtoa kostealle iholle ja hiero kevyesti. Huuhtele runsaalla vedellä.
     dr_tonicF: 
-      fact: "100% luonnollisista raaka-aineista, <br>72% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
+      fact: |-
+        100% luonnollisista raaka-aineista, <br>
+        72% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
       header: "Kirkastava kasvovesi"
       main: |-
-          Kirkastaa ja raikastaa ihon ja poistaa poistaa mahdolliset meikin jäänteet. Hamamelisuute ja rosmariinin, cistuksen ja ruusumyrtin eteeriset öljyt tekevät kasvovedestä miedosti desinfioivan. Puhdistuksen jälkeen suihkauta kasvovettä kostealle pumpulille ja pyyhi sillä hellästi koko kasvojen iho. 
+          Kirkastaa ja raikastaa ihon ja poistaa poistaa mahdolliset meikin jäänteet. 
+          Hamamelisuute ja rosmariinin, cistuksen ja ruusumyrtin eteeriset öljyt tekevät kasvovedestä 
+          miedosti desinfioivan. Puhdistuksen jälkeen suihkauta kasvovettä kostealle pumpulille 
+          ja pyyhi sillä hellästi koko kasvojen iho. 
           Puhdistuksen ja kasvoveden jälkeen iho on valmis ottamaan vastaan hoitotuotteiden tehokkaat vaikutukset.
       sub_header: "Raikkautta ja puhtautta"
       tarra: |
           Kirkastava kasvovesi
-          Kirkastaa ihon ja poistaa mahdolliset meikin jäänteet. Hamamelisuute ja rosmariinin, cistuksen ja ruusumyrtin eteeriset öljyt tekevät kasvovedestä miedosti desinfioivan. Puhdistuksen jälkeen suihkauta kasvovettä kostealle pumpulille ja pyyhi hellästi kasvojen iho.
+          Kirkastaa ihon ja poistaa mahdolliset meikin jäänteet. 
+          Hamamelisuute ja rosmariinin, cistuksen ja ruusumyrtin eteeriset öljyt tekevät kasvovedestä 
+          miedosti desinfioivan. Puhdistuksen jälkeen suihkauta kasvovettä kostealle pumpulille ja pyyhi 
+          hellästi kasvojen iho.
     dr_tonicK: 
       fact: "100% luonnollisista aineista.<br/>70% sertifioitavissa olevista aineosista luomua. Sopii vegaaneille."
       header: "Kosteuttava kasvovesi"
@@ -58,18 +71,19 @@ fi:
       sub_header: "Raikkautta ja kosteutta"
       tarra: |
           Kosteuttava kasvovesi
-          Raikastaa ja rauhoittaa herkkää ihoa, poistaa mahdolliset meikin jäänteet. Aloe vera ja Centella asiatica ylläpitävät ja vahvistavat ihon luonnollista kosteustasapainoa. Puhdistuksen jälkeen suihkauta kasvovettä kosteaan pumpuliin ja pyyhi kasvot hellästi.
+          Raikastaa ja rauhoittaa herkkää ihoa, poistaa mahdolliset meikin jäänteet. 
+          Aloe vera ja Centella asiatica ylläpitävät ja vahvistavat ihon luonnollista kosteustasapainoa. 
+          Puhdistuksen jälkeen suihkauta kasvovettä kosteaan pumpuliin ja pyyhi kasvot hellästi.
     header: "daily refresh"
     list: |-
-        1. Tehokas mutta hellävarainen puhdistus.<br>
-        
+        1. Tehokas mutta hellävarainen puhdistus.<br>        
         2. Selvästi havaittava raikastava ja pehmentävä vaikutus.<br>
-        
         3. Erinomainen pohja ennen hoitotuotteiden käyttöä.<br>
     main: |-
         <em>Quillaja </em><br/>
         Arvokas luomulaatuinen quillajan saponiini on saatu eteläamerikkalaisen suopapuun, 
-        Quillaja saponarian, kuoresta. Tämän luonnonmateriaalin tehokkaasti vaikuttavat ainesosat sopivat erityisen hyvin 
+        Quillaja saponarian, kuoresta. Tämän luonnonmateriaalin tehokkaasti vaikuttavat ainesosat sopivat 
+        erityisen hyvin 
         nimenomaan kasvojen ihon puhdistukseen. Kansanlääketiede on hyödyntänyt saponiinia sisältävää 
         quillajankuorta jo vuosien ajan.<br/><br/>
         <em>Aloe vera </em><br/>

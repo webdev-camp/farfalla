@@ -12,22 +12,33 @@ fi:
           Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Halutessasi voit ensin levittää iholle intense 
           moisture Kevyttä kosteusemulsiota.
       sub_header: "Rentouttaa ja uudistaa"
-      tarra: |+
-          Ravitseva, kosteuttava voide
-          Ravitsee ja rentouttaa ihoa. Macadamia- ja shea butter-luomuöljyt tekevät ihon silkinpehmeäksi. Jerikonruusu-uute parantaa ihon omia suojamekanismeja ja kosteuttaa ihoa. Hyaluronihappo täydentää ihon omaa kosteustasapainoa. Gotu kola (Centella asiatica) edistää ihon omaa kollageenituotantoa. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. intense moisture Kevyt kosteusemulsiota voi käyttää voiteen alla.
-          
+      tarra: |-
+        Ravitseva, kosteuttava voide
+        Ravitsee ja rentouttaa ihoa. Macadamia- ja shea butter-luomuöljyt tekevät ihon silkinpehmeäksi. 
+        Jerikonruusu-uute parantaa ihon omia suojamekanismeja ja kosteuttaa ihoa. 
+        Hyaluronihappo täydentää ihon omaa kosteustasapainoa. 
+        Gotu kola (Centella asiatica) edistää ihon omaa kollageenituotantoa. 
+        Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. 
+        intense moisture Kevyt kosteusemulsiota voi käyttää voiteen alla.  
     im_fluid: 
       fact: "100% luonnollisista aineista.<br/>97% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
       header: "Kevyt kosteusemulsio"
       main: |-
-          Kevyt päiväemulsio, josta iho saa tehoannoksen kosteutta. Jerikonruusu-uutteet parantavat ihon omaa luonnollista suojautumiskykyä ja kosteuttavat tehokkaasti.
+          Kevyt päiväemulsio, josta iho saa tehoannoksen kosteutta. 
+          Jerikonruusu-uutteet parantavat ihon omaa luonnollista suojautumiskykyä ja kosteuttavat tehokkaasti.
           Hyaluronihappo täydentää ihon kosteusvarastoja. Gotu kola (Centella asiatica) aktivoi ihon omaa
-          kollageenintuotantoa.<br/> Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Halutessasi voit käyttää
+          kollageenintuotantoa.<br/> Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. 
+          Halutessasi voit käyttää
           tätä emulsiota ennen juuri omalle ihotyypillesi tarkoitettua ravitsevaa voidetta.
       sub_header: "Tehokasta kosteutta kevyesti"
-      tarra: |+
-          Kevyt kosteusemulsio
-          Kevyt päiväemulsio, josta iho saa tehoannoksen kosteutta. Jerikonruusu-uute parantaa ihon omia suojamekanismeja ja kosteuttaa tehokkaasti. Hyaluronihappo täydentää ihon omaa kosteustasapainoa. Gotu kola (Centella asiatica) aktivoi ihon omaa kollageenituotantoa. Käytä puhdistuksen ja kasvoveden jälkeen. Voit käyttää emulsion alla omalle ihotyypillesi soveltuvaa ravitsevaa voidetta.
+      tarra: |-
+        Kevyt kosteusemulsio
+        Kevyt päiväemulsio, josta iho saa tehoannoksen kosteutta. 
+        Jerikonruusu-uute parantaa ihon omia suojamekanismeja ja kosteuttaa tehokkaasti. 
+        Hyaluronihappo täydentää ihon omaa kosteustasapainoa. 
+        Gotu kola (Centella asiatica) aktivoi ihon omaa kollageenituotantoa. 
+        Käytä puhdistuksen ja kasvoveden jälkeen. 
+        Voit käyttää emulsion alla omalle ihotyypillesi soveltuvaa ravitsevaa voidetta.
           
     im_maske: 
       fact: "100% luonnollisista aineista.<br>99% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
@@ -39,11 +50,13 @@ fi:
           Levitä puhdistetulle iholle 1-2 kertaa viikossa ja anna vaikuttaa 15 minuuttia. 
           Huuhtele huolellisesti runsaalla vedellä ja nauti silkinpehmeästä ihostasi. 
       sub_header: "Hoitavaa silkinpehmeyttä"
-      tarra: |+
-          Ravitseva, kosteuttava naamio
-          Sisältää runsaasti aktiivisesti kosteuttavia ainesosia. Manteli-, jojoba- ja macadamiaöljyt kosteuttavat ja hoitavat ihoa tehokkaasti. Käytä 1-2 krt viikossa puhtaalle iholle. Anna vaikuttaa 15 min. ja huuhtele huolellisesti runsaalla lämpimällä vedellä. Nauti silkinpehmeästä ihostasi!
-          
-          
+      tarra: |-
+        Ravitseva, kosteuttava naamio
+        Sisältää runsaasti aktiivisesti kosteuttavia ainesosia. Manteli-, jojoba- ja macadamiaöljyt 
+        kosteuttavat ja hoitavat ihoa tehokkaasti. 
+        Käytä 1-2 krt viikossa puhtaalle iholle. 
+        Anna vaikuttaa 15 min. ja huuhtele huolellisesti runsaalla lämpimällä vedellä. 
+        Nauti silkinpehmeästä ihostasi!  
     list: |-
         Vahvistaa ihon kosteustasapainoa<br/> 
         1. Dermatologisesti testattu: parantaa ihon kosteustasapainoa 25%:lla. <br/> 
@@ -52,9 +65,11 @@ fi:
         4. Näkyvä kasvojen ihoa uudistava ja rentouttava vaikutus.<br/>
     main: |-
         <em>Jerikonruusu (Selaginella lepidophylla) </em><br/> 
-        Aavikko-oloissa elävä kasvi, jolla on ainutlaatuinen taipumus: vaikka se kuivuisi täysin, se pystyy laajenemaan takaisin reheväksi, kukkivaksi kasviksi, jos se vain saa käyttöönsä hivenenkin vettä.
+        Aavikko-oloissa elävä kasvi, jolla on ainutlaatuinen taipumus: vaikka se kuivuisi täysin, 
+        se pystyy laajenemaan takaisin reheväksi, kukkivaksi kasviksi, jos se vain saa käyttöönsä hivenenkin vettä.
         Jerikonruusulla on sama vaikutus myös ihoon! Se sisältää harvinaisen ainesosan, joka pystyy
-        uudelleenjärjestelemään denaturoituja entsyymejä ja siten optimoimaan ihon oman, luonnollisen itsesuojelukyvyn. Jo viikon käytön
+        uudelleenjärjestelemään denaturoituja entsyymejä ja siten optimoimaan ihon oman, luonnollisen itsesuojelukyvyn. 
+        Jo viikon käytön
         jälkeen ihon pintarakenne näyttää selvästi parantuneen ja kasvot näyttävät hehkeämmiltä.  <br/><br/> 
         <em>Hyaluronihappo </em><br/> 
         Tehokkaasti vaikuttava aine, joka on
@@ -65,7 +80,8 @@ fi:
         mineraaleja, entsyymejä, tehoaineita ja vitamiineja, se tukee solujen uusiutumista. Aloe vera täydentää ihon
         kosteusvarastoja, joten ihosta tulee tasaisempi ja juonteet pehmenevät. <br/><br/>
         <em>Macadamiaöljy </em><br/> 
-        Luomupähkinäöljy, joka sisältää harvinaisen monipuolisen valikoiman rasvahappoja. Macadamiaöljy on erittäin tehokas
+        Luomupähkinäöljy, joka sisältää harvinaisen monipuolisen valikoiman rasvahappoja. 
+        Macadamiaöljy on erittäin tehokas
         ihon pehmentäjä ja uudistaja. Se antaa iholle sametinpehmeän tunnun ja ravitsee tehokkaasti.
     main_header: "Tehokkaat, vaikuttavat aineosat"
     products: "im_cream im_fluid im_maske"

@@ -12,12 +12,20 @@ fi:
           Tocopherol, Citric Acid, Ascorbic Acid, Benzyl Benzoate**, Citral**, Coumarine**, 
           Farnesol**,  Geraniol**, Linalool**, Limonene**. 
       main: |
-          Tämä kaikille ihotyypeille sopiva kosteusvoide ravitsee ihoasi. Se saa ihosi tuntumaan sileältä ja silkinpehmeältä. Meripihkavoide myös suojaa ihoa vahvistaen ihon omaa suojakerrosta ja sen luontaisia suojamekanismeja. Voide auttaa ihoa säilyttämään sekä palauttamaan sen luontaisen kosteustasapainon sekä säteilyn.
+          Tämä kaikille ihotyypeille sopiva kosteusvoide ravitsee ihoasi. 
+          Se saa ihosi tuntumaan sileältä ja silkinpehmeältä. 
+          Meripihkavoide myös suojaa ihoa vahvistaen ihon omaa suojakerrosta ja sen luontaisia 
+          suojamekanismeja. Voide auttaa ihoa säilyttämään sekä palauttamaan sen luontaisen 
+          kosteustasapainon sekä säteilyn.
           Käyttö: suojaava ihonhoito, päivä ja yö.
           Ei sisällä synteettisiä värejä, tuoksuja, säilöntäaineita,
           PEG-yhdisteitä tai parafiinia. Ilman eläinkokeita.
       sub_header: "Suojaa ja pehmeyttä"
-      tarra: "Tämä kosteusvoide sopii kaikille ihotyypeille sekä yö- että päivävoiteeksi. Se energisoi, tekee ihostasi säteilevän ja suojaa ympäristön haitallisilta vaikutuksilta. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia. Sertifioitua luomukosmetiikkaa."
+      tarra: |-
+        Tämä kosteusvoide sopii kaikille ihotyypeille sekä yö- että päivävoiteeksi. 
+        Se energisoi, tekee ihostasi säteilevän ja suojaa ympäristön haitallisilta vaikutuksilta. 
+        Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia. 
+        Sertifioitua luomukosmetiikkaa.
     amberstone_fraiche: 
       header: "Amberstone Eau Fraîche"
       inci: |-
@@ -30,15 +38,28 @@ fi:
           tarjotessa lempeän taustan.  Käyttö: parfyymina, energisoivana ja – esimerkiksi 
           huoneessa –harmonisoivana spraynä. 
       sub_header: "Lempeää energiaa"
-      tarra: "Tämä eau fraiche tuo iloa ja energiaa elämääsi. Voit suihkauttaa sitä joko ihollesi tai huoneeseen tunnelman kohottamiseksi. Valmistettu bergamotin, ambran, benzoen ja mandariinin eteerisistä öljyistä. Sertifioitu NaTrue-standardien mukaisesti. "
+      tarra: |-
+        Tämä eau fraiche tuo iloa ja energiaa elämääsi. 
+        Voit suihkauttaa sitä joko ihollesi tai huoneeseen tunnelman kohottamiseksi. 
+        Valmistettu bergamotin, ambran, benzoen ja mandariinin eteerisistä öljyistä. 
+        Sertifioitu NaTrue-standardien mukaisesti. 
     amberstone_oil: 
       header: "Amberstone -öljy"
       inci: |-
           Simondsia Chinensis*, Parfum (Natural Essential Oils), Benzyl Benzoate**,  
-          Citral**, Geraniol**, Linalol**, Limonene**."
-      main: "Lämmittävä öljy joka tuo energiaa ja herättää aurinkoisia ajatuksia. Eteeriset benzoe- ja mandariiniöljyt tekevät ihosta silkinpehmeän ja säteilevän. Amberstone -öljyä voidaan käyttää kasvoille, iholle, hierontaan tai kylpyöljynä. Hiero kevyesti kasvoille tai vartalolle. 80 ml.\n"
+          Citral**, Geraniol**, Linalol**, Limonene**.
+      main: |-
+        Lämmittävä öljy joka tuo energiaa ja herättää aurinkoisia ajatuksia. 
+        Eteeriset benzoe- ja mandariiniöljyt tekevät ihosta silkinpehmeän ja säteilevän. 
+        Amberstone -öljyä voidaan käyttää kasvoille, iholle, hierontaan tai kylpyöljynä. 
+        Hiero kevyesti kasvoille tai vartalolle. 80 ml.
       sub_header: "Lämpöä ja valoa!"
-      tarra: "Amberstone-öljy. Tämä öljy tuo iloa ja energiaa päivääsi. Voit käyttää sitä kasvo-, iho-, hieronta- tai kylpyöljynä. Tekee ihosi silkinpehmeäksi ja säteileväksi. Mandariinin ja benzoen eteeriset öljyt ovat laadultaan kepeyttä ja valoisuutta tuovia. Jokaisessa pullossa on pieni meripihkahippunen."
+      tarra: |-
+        Amberstone-öljy. Tämä öljy tuo iloa ja energiaa päivääsi. 
+        Voit käyttää sitä kasvo-, iho-, hieronta- tai kylpyöljynä. 
+        Tekee ihosi silkinpehmeäksi ja säteileväksi. 
+        Mandariinin ja benzoen eteeriset öljyt ovat laadultaan kepeyttä ja valoisuutta tuovia. 
+        Jokaisessa pullossa on pieni meripihkahippunen.
     amberstone_set: 
       header: "Amberstone setti"
       main: |-
@@ -46,7 +67,11 @@ fi:
           Tutustu Amberstone -sarjaan, anna lahjaksi tai ota mukaan matkalle. 3 x 20 ml.
     header: Amber
     list: |-
-        Farfallan Amberstone (meripihka) sarja on kehitetty tuomaan sekä ihollesi että sinulle uutta säteilyä ja hyvinvointia. Ne tuovat energiaa ja auttavat väsynyttä ihoa lisäämällä sen verenkiertoa. Eteeristen öljyjen sekoitus raikkaista ja hedelmäisistä bergamotista ja mandariinista yhdistettynä lämmittäviin benzoen, inkiväärin ja vaniljan sydäntuoksuihin lisäävät turvallisuuden tunnetta ja avaavat sydäntä. Voit tuntea itsesi energisemmäksi ja asiat näyttävät valoisammilta.
-        Sertifioitua luomukosmetiikkaa, jossa 95% valmistusaineista on luomulaatua – tason 3 NaTrue.  <br/>
+        Farfallan Amberstone (meripihka) sarja on kehitetty tuomaan sekä ihollesi että sinulle uutta 
+        säteilyä ja hyvinvointia. Ne tuovat energiaa ja auttavat väsynyttä ihoa lisäämällä sen verenkiertoa. 
+        Eteeristen öljyjen sekoitus raikkaista ja hedelmäisistä bergamotista ja mandariinista yhdistettynä 
+        lämmittäviin benzoen, inkiväärin ja vaniljan sydäntuoksuihin lisäävät turvallisuuden tunnetta 
+        ja avaavat sydäntä. Voit tuntea itsesi energisemmäksi ja asiat näyttävät valoisammilta.
+        Sertifioitua luomukosmetiikkaa, jossa 95% valmistusaineista on luomulaatua – tason 3 NaTrue.
     products: "amberstone_oil amberstone_cream amberstone_fraiche"
-    sub_header: "Silkinpehmeyttä ja säteilyä ihollesi!\n"
+    sub_header: "Silkinpehmeyttä ja säteilyä ihollesi!"

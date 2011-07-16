@@ -2,7 +2,7 @@
 fi: 
   frangipani: 
     fp_body_butter: 
-      header: "Frangipani vartalovoide"
+      header: "Frangipani vartalovoi"
       inci: |-
           Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, alcohol *, citrus aurantium
           flower water *, Aloe barbadensis extract *, Cera Alba, Heliantus Annuus seed oil *, Cocos Nucifera oil *,
@@ -10,14 +10,22 @@ fi:
           perfume (natural essential oils), Citrus paradisi fruit extract *, Squalane, tocopherol, xanthan gum,
           Daucus carota extract *, Asparagopsis Armata extract, Citronello *, Geraniol *, limonene *, linalool *,
           Citral *., Benzyl salicylates *, benzyl benzoates certified organic. * from natural essential oils
-      ingredients: "shea butter, vesi kasviglyseriini, triglycerides, appelsiininkukkavesi, aloe vera, alkoholi, greippiuute, mehiläisvaha, auringonkukkaöljy, kookosöljy, hamamelisvesi, wheat Glykosid, Cetearyl alcohol, glyceryl stearate, porkkanauute, glyceryl stearate, luonnoll. vit. E, merileväuute, xantaanikumi, sitruunahappo, glyceryl stearate,"
+      ingredients: |-
+        shea butter, vesi kasviglyseriini, triglycerides, appelsiininkukkavesi, 
+        aloe vera, alkoholi, greippiuute, mehiläisvaha, auringonkukkaöljy, 
+        kookosöljy, hamamelisvesi, wheat Glykosid, Cetearyl alcohol, glyceryl stearate, 
+        porkkanauute, glyceryl stearate, luonnoll. vit. E, merileväuute, 
+        xantaanikumi, sitruunahappo, glyceryl stearate
       main: |-
-          Kun iho tarvitsee syväkostutusta, on tämä kasviöljypohjainen vartalovoide oiva valinta. Se imeytyy helposti
+          Kun iho tarvitsee syväkostutusta, on tämä kasviöljypohjainen vartalovoi oiva valinta. Se imeytyy helposti
           iholle ja tekee ihon ihanan sileäksi ja frangipanin kukkien tuoksuiseksi. 150 ml 
       sub_header: "Syväkosteuttava ja ravitseva "
       tarra: |-
-          Vartalovoi Frangipani
-          Kun tarvitset ihollesi syvää kosteutusta, tämä vartalovoi on juuri täydellinen sinulle. Siinä on ihanan raikas tuoksu, maustettu ripauksella trooppisia kukkasia. Imeytyy hyvin ihollesi. Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. Ei sisällä synteettisiä väri-, tuoksu- tai -säilöntäaineita eikä parafiinia. 
+          Frangipani Vartalovoi
+          Kun tarvitset ihollesi syvää kosteutusta, tämä vartalovoi on juuri täydellinen sinulle. 
+          Siinä on ihanan raikas tuoksu, maustettu ripauksella trooppisia kukkasia. 
+          Imeytyy hyvin ihollesi. Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. 
+          Ei sisällä synteettisiä väri-, tuoksu- tai -säilöntäaineita eikä parafiinia. 
     fp_bodylotion: 
       header: "Frangipani kosteusvoide"
       inci: |-
@@ -36,7 +44,11 @@ fi:
           Tämä emulsio imeytyy ihoon antamalla puhtaan, silkin pehmeän olon sekä trooppisten frangipanin kukkien
           ihanan tuoksun. <br/>50 ml 
       sub_header: "Päivittäiseen ihonhoitoon"
-      tarra: "Hoitava ja ravitseva, kevyt kosteusvoide, ihon päivittäiseen hoitoon. Siinä on raikas tuoksu ja kevyt trooppistn kukkasten sävy. Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia. "
+      tarra: |-
+        Hoitava ja ravitseva, kevyt kosteusvoide, ihon päivittäiseen hoitoon. 
+        Siinä on raikas tuoksu ja kevyt trooppistn kukkasten sävy. 
+        Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. 
+        Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia. 
     fp_eau_fraiche: 
       header: "Frangipani Eau Fraîche"
       inci: |-
@@ -48,7 +60,11 @@ fi:
           Raikkaat latvatuoksut ja frangipanikukkien kaunis, lempeä tuoksu muodostavat pehmeän, naisellisen eau de
           toiletten jokapäiväiseen elämän menoon. <br/>50 ml
       sub_header: "Hienostunut kukkaistuoksu "
-      tarra: "Frangipani eau Fraiche on luonnollinen, hienovarainen parfyymi päivittäiseen käyttöön. Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä ripauksella trooppista frangipanin kukkaa. Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia. "
+      tarra: |-
+        Frangipani eau Fraiche on luonnollinen, hienovarainen parfyymi päivittäiseen käyttöön. 
+        Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä ripauksella trooppista 
+        frangipanin kukkaa. Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita 
+        eikä parafiinia.
     fp_lotion_small: 
       header: "Frangipani Bodylotion"
       main: "Matkasetti "
@@ -69,7 +85,12 @@ fi:
           kermaiseen vaahtoon, joka pesee ja hoitaa ihoa samanaikaisesti. Purista sormenpäihin helmenkokoinen annos
           ja hiero kostealle iholle. <br/>200 ml 
       sub_header: "Hoitava, ihastuttava"
-      tarra: "Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Tuoksu on raikas ja siinä on trooppisten kukkasten hienostunut sävy. Annostele käsillesi helmenkokoinen pisara ja levitä kostealle ihollesi. Tuote on sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
+      tarra: |-
+        Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. 
+        Tuoksu on raikas ja siinä on trooppisten kukkasten hienostunut sävy. 
+        Annostele käsillesi helmenkokoinen pisara ja levitä kostealle ihollesi. 
+        Tuote on sertifioitua luonnonkosmetikkaa (BDIH). 
+        Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     fp_shower_small: 
       header: "Frangipani Shower cream"
       main: Matkasetti
@@ -78,7 +99,8 @@ fi:
     header: Frangipani
     list: |-
         Frangipaninkukkaset ja niiden hienostunut ja raikas
-        tuoksu on perusta tälle elvyttävälle ja hoitavalle vartalonhoitosarjalle. Käytämme parhaimpia luomuraaka-aineita, ja se saa ihmeitä aikaan!  
+        tuoksu on perusta tälle elvyttävälle ja hoitavalle vartalonhoitosarjalle. 
+        Käytämme parhaimpia luomuraaka-aineita, ja se saa ihmeitä aikaan!  
     main: ~
     products: "fp_shower fp_bodylotion fp_eau_fraiche fp_body_butter fp_shower_small fp_lotion_small"
     sub_header: "<b>hienostunut vartalonhoitosarja</b>"
