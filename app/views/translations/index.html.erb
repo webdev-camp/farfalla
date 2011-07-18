@@ -8,6 +8,7 @@
     Teksti: <br />
    <textarea rows="20" cols="120" name="value" id="value" ><%= I18n.t(params[ :key ])%></textarea>  
   </p>
-  <p><%= submit_tag "Submit" %></p>
+  <p><%= submit_tag "Lähetä" %></p>
+  <p> <a href="<%=params[:return]%>"> Peru </p>
 <% end %>
 
