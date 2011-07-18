@@ -1,7 +1,7 @@
 --- 
 fi: 
   tourmaline: 
-    gemstone_tourmaline: 
+    tourmaline_oil: 
       header: Turmaliini-öljy
       main: |-
           Tässä hoitavassa öljyssä yhdistyvät Turmaliinin energisoivat, tasapainottavat ja aisteja elävöittävät 
@@ -17,7 +17,7 @@ fi:
           Jokaisessa pullossa on pieni turmaliinikide. Turmaliinin sanotaan myös lisäävän luovuutta.
     header: Turmaliini
     list: "Crystal Balance -sarjan Turmaliini on kehitetty tuomaan harmoniaa ja lisää energiaa. Sarjan tuotteissa on ihanien eteeristen öljyjen sekoitus: ruusua ja iiristä, jotka on raikastettu virkistävällä bergamotilla ja nerolilla. Jokaisessa tuotteessa on mukana myös turmaliinia. Turmaliinin sanotaan avaavan energiakanavia ja lisäävän keskittymiskykyä. Se saa ihmisen myös säteilemään elämäniloa."
-    products: "gemstone_tourmaline tourmaline_cream tourmaline_fraiche"
+    products: "tourmaline_oil tourmaline_cream tourmaline_fraiche tourmaline_gel"
     sub_header: "Voimaa ja energiaa"
     tourmaline_cream: 
       header: "Turmaliini Ihonhoitovoide"
@@ -33,6 +33,27 @@ fi:
           Voit käyttää sitä kasvojesi ja koko vartalosi kosteuttamiseen. 
           Sertifioitua luonnonkosmetiikkaa (BDIH). 
           Ei sisällä keinotekoisia väri-, tuoksu- tai lisäaineita eikä parafiinia.
+    tourmaline_gel: 
+      header: "Turmaliini puhdistusgeeli"
+      main: |-
+        Hoitavaa puhtautta kasvoille ja vartalolle. 
+        Turmaliini puhdistusgeeli vahvistaa ja suojaa ihoasi monella eri tasolla. 
+        Ihollesi jää suloinen ruusun ja iiriksen tuoksu raikastettuna bergamotilla ja nerolilla. 
+        Puhdistusgeelissä on mukana myös ametistia, jolla on puhdistava vaikutus, sekä mustaa turmaliinia, 
+        jolla sanotaan olevan sekä vahvistavia että suojaavia ominaisuuksia.<br/>
+        Käyttö: Levitä puhdistettavalle alueelle ja anna vaikutta lyhyesti, huuhtele pois vedellä. 
+        Voit suoda itsellesi myös rauhoittavan kylpyhetken lisäämällä tilkan puhdistusgeeliä kylpyveteen. 
+        Sopii kaikille ihotyypeille.
+      sub_header: ""
+      tarra: |-
+        Hoitavaa puhtautta kasvoille ja vartalolle. 
+        Turmaliini puhdistusgeeli vahvistaa ja suojaa ihoasi monella eri tasolla. 
+        Ihollesi jää suloinen ruusun ja iiriksen tuoksu raikastettuna bergamotilla ja nerolilla. 
+        Puhdistusgeelissä on mukana myös ametistia, jolla on puhdistava vaikutus, sekä mustaa turmaliinia, 
+        jolla sanotaan olevan sekä vahvistavia että suojaavia ominaisuuksia.<br/>
+        Käyttö: Levitä puhdistettavalle alueelle ja anna vaikutta lyhyesti, huuhtele pois vedellä. 
+        Voit suoda itsellesi myös rauhoittavan kylpyhetken lisäämällä tilkan puhdistusgeeliä kylpyveteen. 
+        Sopii kaikille ihotyypeille.
     tourmaline_fraiche: 
       header: "Turmaliini Eau Fraîche"
       main: |-
