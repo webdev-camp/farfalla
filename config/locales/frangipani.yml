@@ -11,11 +11,11 @@ fi:
           Daucus carota extract *, Asparagopsis Armata extract, Citronello *, Geraniol *, limonene *, linalool *,
           Citral *., Benzyl salicylates *, benzyl benzoates certified organic. * from natural essential oils
       ingredients: |-
-        shea butter, vesi kasviglyseriini, triglycerides, appelsiininkukkavesi, 
-        aloe vera, alkoholi, greippiuute, mehiläisvaha, auringonkukkaöljy, 
-        kookosöljy, hamamelisvesi, wheat Glykosid, Cetearyl alcohol, glyceryl stearate, 
-        porkkanauute, glyceryl stearate, luonnoll. vit. E, merileväuute, 
-        xantaanikumi, sitruunahappo, glyceryl stearate
+          shea butter, vesi kasviglyseriini, triglycerides, appelsiininkukkavesi, 
+          aloe vera, alkoholi, greippiuute, mehiläisvaha, auringonkukkaöljy, 
+          kookosöljy, hamamelisvesi, wheat Glykosid, Cetearyl alcohol, glyceryl stearate, 
+          porkkanauute, glyceryl stearate, luonnoll. vit. E, merileväuute, 
+          xantaanikumi, sitruunahappo, glyceryl stearate
       main: |-
           Kun iho tarvitsee syväkostutusta, on tämä kasviöljypohjainen vartalovoi oiva valinta. Se imeytyy helposti
           iholle ja tekee ihon ihanan sileäksi ja frangipanin kukkien tuoksuiseksi. 150 ml 
@@ -45,10 +45,10 @@ fi:
           ihanan tuoksun. <br/>50 ml 
       sub_header: "Päivittäiseen ihonhoitoon"
       tarra: |-
-        Hoitava ja ravitseva, kevyt kosteusvoide, ihon päivittäiseen hoitoon. 
-        Siinä on raikas tuoksu ja kevyt trooppistn kukkasten sävy. 
-        Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. 
-        Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia. 
+          Hoitava ja ravitseva, kevyt kosteusvoide, ihon päivittäiseen hoitoon. 
+          Siinä on raikas tuoksu ja kevyt trooppistn kukkasten sävy. 
+          Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. 
+          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia. 
     fp_eau_fraiche: 
       header: "Frangipani Eau Fraîche"
       inci: |-
@@ -61,10 +61,10 @@ fi:
           toiletten jokapäiväiseen elämän menoon. <br/>50 ml
       sub_header: "Hienostunut kukkaistuoksu "
       tarra: |-
-        Frangipani eau Fraiche on luonnollinen, hienovarainen parfyymi päivittäiseen käyttöön. 
-        Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä ripauksella trooppista 
-        frangipanin kukkaa. Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita 
-        eikä parafiinia.
+          Frangipani eau Fraiche on luonnollinen, hienovarainen parfyymi päivittäiseen käyttöön. 
+          Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä ripauksella trooppista 
+          frangipanin kukkaa. Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita 
+          eikä parafiinia.
     fp_lotion_small: 
       header: "Frangipani Bodylotion"
       main: "Matkasetti "
@@ -86,11 +86,13 @@ fi:
           ja hiero kostealle iholle. <br/>200 ml 
       sub_header: "Hoitava, ihastuttava"
       tarra: |-
-        Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. 
-        Tuoksu on raikas ja siinä on trooppisten kukkasten hienostunut sävy. 
-        Annostele käsillesi helmenkokoinen pisara ja levitä kostealle ihollesi. 
-        Tuote on sertifioitua luonnonkosmetikkaa (BDIH). 
-        Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. 
+          Tuoksu on raikas ja siinä on trooppisten kukkasten hienostunut sävy. 
+          Annostele käsillesi helmenkokoinen pisara ja levitä kostealle ihollesi. 
+          Tuote on sertifioitua luonnonkosmetikkaa (BDIH). 
+          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          @@@@@
+          Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja hienostunut trooppisten kukkien tuoksu. Levitä helmenkokoinen pisara kostealle iholle ja huuhtele. Jättää ihon suloisen silkinpehmeäksi. Sertifioitua luomukosmetiikkaa.
     fp_shower_small: 
       header: "Frangipani Shower cream"
       main: Matkasetti

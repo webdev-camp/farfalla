@@ -9,11 +9,13 @@ fi:
           <em>Kuumana kesäpäivänä voit virkistää väsyneitä jalkojasi suihkauttamalla niille raikasta sprayta!</em> 
           Valmistusaineet: Luomu sitruunamelissa, greippi ja sitruunamelissavesi
       sub_header: "Tämä hedelmäisen raikas spray viilentää ja virkistää sinua"
-      tarra: |-
+      tarra: |
           Freshen up on tehty tuomaan rohkeutta hankaliin tilanteisiin. 
           Tarvittaessa voit suihkuttaa spraytä useita kertoja päivässä suoraan iholle, kaulalle, ranteisiin. 
           Kuumana kesäpäivänä voit virkistää väsyneitä jalkojasi suihkauttamalla niille raikasta sprayta! 
           Valmistusaineet luomusitruunamelissa, greippi ja sitruunamelissavesi.
+          @@@@@@
+          Ihanan raikas spray,joka tuo virkistystä kuumaan kesäpäivään tai työn keskelle.  Tarvittaessa voit suihkauttaa sprayta useita kertoja päivässä suoraan iholle, kaulalle, ranteisiin tai jaloille. Voit suihkuttaa sitä halutessasi myös vaatteisiin tai hiuksiin, sillä se ei tahraa. Pieni pullo on kätevä pitää mukana. Valmistusaineet luomusitruunamelissa, greippi ja sitruunamelissavesi.
     header: "Body Sprayt"
     list: |-
         Mahtavia tuoksuja pienessä pullossa. 
@@ -38,6 +40,9 @@ fi:
           Se antaa keskittymiskykyä ja pitää sinut hereillä esim. autoa ajaessasi.    
           Aina kun kaipaat virkistystä ja piristystä, suihkauta tuoksua ihollesi tai ympärillesi. 
           Valmistusaineet luomuminttu, -appelsiini, -litsea ja -piparminttuvesi.  
+          @@@@@ 
+          Piristävä raikkaantuoksuinen spray, joka lisää keskittymiskykyä ja auttaa pysymään hereillä esim. autoa ajaessa. Voidaan suihkauttaa suoraan iholle, vaatteisiin, hiuksiin tai ilmaan. Kätevä pikkupullo on helppo pitää mukana ja suihkauttaa piristystä aina tarvittaessa! 
+          Valmistusaineet luomuminttu, -appelsiini, -litsea ja -piparminttuvesi.
     products: "freshen_up on_he_move three_roses wellbeing"
     sub_header: " "
     three_roses: 
@@ -48,10 +53,13 @@ fi:
           Voit suihkuttaa sitä kaulallesi, kasvoillesi tai ranteisiisi. 
           Valmistettu luomu ruusuöljyistä ja luomu ruusuvedestä.
       sub_header: "Tämä tuoksu rauhoittaa, rentouttaa ja tuo harmoniaa"
-      tarra: |-
+      tarra: |
           Herkkä ja ihastuttava kukkaistuoksu, joka rauhoittaa, rentouttaa ja tuo harmoniaa. 
           Three Roses -tuoksu on kuin hienovarainen Eau de Parfum. 
           Voit suihkuttaa sitä kaulallesi, kasvoillesi tai ranteisiisi. 
+          Valmistettu luomuruusuöljyistä ja -ruusuvedestä.
+          @@@@@
+          Mieto, luonnollinen, ruusuntuoksuinen body spray, jota voi suihkuttaa suoraan iholle, kaulalle, kasvoihin tai ranteisiin. Spray ei tahraa, joten sitä voi käyttää myös hiuksiin tai vaatteisiin. Harmonisoiva, rauhoittava ja rentouttava kukkaistuoksu.
           Valmistettu luomuruusuöljyistä ja -ruusuvedestä.
     wellbeing: 
       header: "Wellbeing -<br/> Hyvinvointia elämään!"
@@ -68,3 +76,6 @@ fi:
           Voit hemmotella itseäsi suihkuttamalla sitä kaulallesi, kasvoillesi, ranteisiisi tai tyynylle. 
           Spray edistää hyvää ja rauhallista unta ja sopii hyvin myös lapsille. 
           Valmistusaineet: luomuruusu- ja laventelivesi sekä luomunerolin, -ruusun ja -laventelin eteeriset öljyt. 
+          @@@@@
+          Ilahduttava ja harmonisoiva body spray. Tarkoitettu käytettäväksi suoraan iholle. Voidaan suihkuttaa myös vaatteisiin tai hiuksiin, sillä spray ei tahraa. Suihkaus tyynylle edistää hyvää ja rauhallista unta. Sopii hyvin myös lapsille.
+          Valmistusaineet: luomuruusu- ja laventelivesi sekä luomunerolin, -ruusun ja -laventelin eteeriset öljyt.
