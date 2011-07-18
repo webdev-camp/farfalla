@@ -27,7 +27,7 @@ module ApplicationHelper
     ! key.strip.empty?
   end
   
-  if Rails.env == "development"
+  if Rails.env != "development"
     def t( key  )
       ret = I18n.t(key)
       "#{ret} <a href='/translations/?key=#{key}&return=#{this_page}'>e</a>"
