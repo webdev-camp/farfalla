@@ -46,10 +46,10 @@ fi:
           kasviöljypohjaisten luomuraaka-aineiden avulla. 150 ml
       sub_header: "Kosteuttava ja hoitava"
       tarra: |-
-        Hoitava ja ravitseva, kevyt kosteusvoide ihon päivittäiseen hoitoon. 
-        Aistillinen ja hieman itämainen tuoksu. 
-        Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. 
-        Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          Hoitava ja ravitseva, kevyt kosteusvoide ihon päivittäiseen hoitoon. 
+          Aistillinen ja hieman itämainen tuoksu. 
+          Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. 
+          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     am_eau_fraiche: 
       header: "Ambra Eau Fraîche"
       inci: |-
@@ -58,15 +58,15 @@ fi:
           Coumarine*.* certified organic. * from natural essential oils
       ingredients: "alkoholi, natural essential oils mixture, ruusuvesi"
       main: |-
-        Upea, syvä tuoksuluomus, jossa yhdistyvät santeli, Attar-ruusu, vanilja ja cistus. 
-        Tämä eau de toilette on taianomainen!  
-        50 ml 
+          Upea, syvä tuoksuluomus, jossa yhdistyvät santeli, Attar-ruusu, vanilja ja cistus. 
+          Tämä eau de toilette on taianomainen!  
+          50 ml 
       sub_header: "Lämmin ja aistillinen eau de toilette "
       tarra: |-
-        Ambra eau Fraiche on luonnollinen, hienovarainen parfyymi päivittäiseen käyttöön. 
-        Tuoksu on aistillinen ja hieman mausteinen. Siinä on sekoitus santelipuuta, 
-        Attar ruusua ja vaniljaa. 
-        Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          Ambra eau Fraiche on luonnollinen, hienovarainen parfyymi päivittäiseen käyttöön. 
+          Tuoksu on aistillinen ja hieman mausteinen. Siinä on sekoitus santelipuuta, 
+          Attar ruusua ja vaniljaa. 
+          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     am_lotion_small: 
       header: "Ambra Bodylotion"
       main: Matkasetti
@@ -86,8 +86,8 @@ fi:
           Purista sormenpäihisi helmenkokoinen annos ja hiero kostealle iholle. 200 ml 
       sub_header: "Hellävaraisesti puhdistava "
       tarra: |
-          Ambra suihkugeeli
-          Pehmeä ja ihoa ravitseva suihkugeeli päivittäiseen pesuun. 
+          Ambra suihkuvoide
+          Pehmeä ja ihoa ravitseva suihkuvoide päivittäiseen pesuun. 
           Tuoksu on aistillinen ripauksella itämaista sävyä. 
           Annostele helmenkokoinen pisara ja levitä kostealle ihollesi. 
           Tuote on sertifioitua luonnonkosmetikkaa(BDIH). 
@@ -99,9 +99,9 @@ fi:
       tarra: Matkasetti
     header: Ambra
     list: |-
-      Ylellinen vartalonhoitosarja, joka rauhoittaa, tasapainoittaa ja hoitaa. 
-      Sen tuoksu on lämmin ja itämainen. Suurin osa raaka-aineista on luomulaatua. 
-      Suo itsellesi ihana hemmotteluhetki! 
+        Ylellinen vartalonhoitosarja, joka rauhoittaa, tasapainoittaa ja hoitaa. 
+        Sen tuoksu on lämmin ja itämainen. Suurin osa raaka-aineista on luomulaatua. 
+        Suo itsellesi ihana hemmotteluhetki! 
     main: " "
     products: "am_shower am_bodylotion am_eau_fraiche am_body_butter am_shower_small am_lotion_small"
     sub_header: "<b>aistillinen vartalonhoitosarja</b>"
