@@ -3,11 +3,10 @@ fi:
   parfumes: 
     header: "Luomu Eau de Parfum"
     list: |-
-        Luonnollinen hajuvesi on kuin näkymätön huntu. 
-        Tuoksun huomaa ainoastaan henkilön välittömässä läheisyydessä. 
-        Luonnolliset tuoksut haihtuvat nopeammin kuin synteettiset . 
-        Ne eivät peitä kehon luonnollista hajua , vaan
-        luovat ainutlaatuisen luonnollisen harmonian.
+        Farfallan korkealaatuiset parfyymit ovat upeita tuoksuluomuksia nykynaiselle.
+        Luonnolliset tuoksut huomaa ainoastaan henkilön välittömässä läheisyydessä.
+        Ne eivät peitä kehon luonnollista hajua, vaan luovat ainutlaatuisen, luonnollisen harmonian.
+        Koska parfyymit ovat 98% sertifioiduista  luomuaineista, ne voivat sopia myös ihmisille, joille kemialliset tuoksut aiheuttavat allergioita.  
     main: ""
     products: ~
     sub_header: ""

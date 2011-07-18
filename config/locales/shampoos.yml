@@ -3,9 +3,9 @@ fi:
   shampoos: 
     header: "Luonnolliset shampoot"
     list: |-
-      Shampoot on valmistettu luonnollisista raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä. 
-      Ne pesevät erilaiset hiuslaadut lempeästi ja hoitavat samalla hiuksia kokonaisvaltaisesti. 
-      Miedosti tuoksuvat shampoot hellivät aisteja ja tekevät hiuksista silkkisen kiiltävät.
+        Shampoot on valmistettu luonnollisista raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä. 
+        Ne pesevät erilaiset hiuslaadut lempeästi ja hoitavat samalla hiuksia kokonaisvaltaisesti. 
+        Miedosti tuoksuvat shampoot hellivät aisteja ja tekevät hiuksista silkkisen kiiltävät.
     products: "sh_frangipani_silk sh_wild_rose sh_pomegranate sh_neem_rhassoul sh_jojoba_aloe"
     sh_frangipani_silk: 
       header: "Kiiltoa ja volyymia Frangipani-silkki shampoosta"
@@ -16,12 +16,14 @@ fi:
           Silkkiproteiini tekee hiukset säihkyvän kiiltäviksi, fosfolipidit antavat runsautta ja kestävää volyymia, 
           ja frangipanin kukat ihastuttavat tuoksullaan.
       sub_header: "Vahvat, terveet hiukset! "
-      tarra: |
+      tarra: |-
           Kiiltoa ja volyymia Frangipani-silkki shampoosta 
           Luonnollinen shampoo hienoille, hennoille ja normaaleille hiuksille. 
           Silkin kiiltävät hiukset ja lisää runsautta? Tunne ero – silkkiproteiinit tuovat kiiltoa ja
           kestävää volyymiä ja frangipanin kukat ihastuttavat tuoksullaan. 
           Täydennä uusi runsaus Farfallan Hoitavalla muotovaahdolla.
+          @@@@@
+          Kiiltoa ja volyymia - luonnollinen shampoo hennoille ja normaaleille hiuksille. Silkkiproteiinit tuovat upeaa, luonnollista kiiltoa ja kestävää runsautta. Frangipanin kukkien mieto ja hienostunut tuoksu. Täydennä uusi runsaus Farfallan Hoitavalla muotovaahdolla. Valmistettu luonnollisista raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä. Ei sisällä synteettisiä hajusteita, silikonia, väri- tai säilöntäaineita.
     sh_jojoba_aloe: 
       header: "Korjaava Jojoba-aloe shampoo"
       inci: |-
@@ -44,6 +46,8 @@ fi:
           Vahvistava shampoo kuiville, katkeileville ja värjätyille hiuksille. Jojobauute ja aloe vera kosteuttavat 
           ja ravitsevat hiusta. Sitrushedelmien eteeriset öljyt elvyttävät päänahkaa. 
           Jojoba-aloe shampoolla saat hiuksistasi elinvoimaiset, helposti käsiteltävät ja luonnollisen kiiltävät.
+          @@@@@
+          Vahvistava shampoo kuiville, katkeileville ja värjätyille hiuksille. Jojobauute ja aloe vera kosteuttavat ja ravitsevat hiusta ja sitrushedelmien eteeriset öljyt elvyttävät päänahkaa. Hiukset tulevat elinvoimaisiksi, helposti käsiteltäviksi ja luonnollisen kiiltäviksi. Valmistettu luonnollisista raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä. Ei sisällä synteettisiä haju-, väri- tai säilöntäaineita, PEG-yhdisteitä, silikonia eikä SLS:a.
     sh_melissa_seaweed: 
       header: "Clear, Melissa-seaweed Shampoo"
       main: |-
@@ -54,9 +58,9 @@ fi:
     sh_neem_rhassoul: 
       header: "Tasapainoittava Neem-rhassoul shampoo "
       main: |-
-        Shampoon perustana ovat neem-uute ja rhassoul-savi, joidenka puhdistavat ominaisuudet auttavat päänahan 
-        hilseilyyn ja tekevät hiuksista terveet. Katajan, timjamin ja rosmariinin eteeriset öljyt tehostavat 
-        shampoon hoitavaa vaikutusta ja antavat raikkaan tuoksun. 
+          Shampoon perustana ovat neem-uute ja rhassoul-savi, joidenka puhdistavat ominaisuudet auttavat päänahan 
+          hilseilyyn ja tekevät hiuksista terveet. Katajan, timjamin ja rosmariinin eteeriset öljyt tehostavat 
+          shampoon hoitavaa vaikutusta ja antavat raikkaan tuoksun. 
       sub_header: "Hilsettä vastaan! "
       tarra: |-
           Tasapainoittava Neem-rhassoul shampoo <br>
@@ -65,6 +69,8 @@ fi:
           auttavat päänahan hilseilyyn ja hoitavat hiuksia. 
           Katajan, timjamin ja rosmariinin eteeriset öljyt tehostavat shampoon hoitavaa vaikutusta ja 
           antavat raikkaan tuoksun.
+          @@@@@
+          Tasapainottava shampoo hilsettä vastaan. Neem -uutteen ja rhassoul -saven puhdistavat ominaisuudet auttavat päänahan hilseilyyn ja hoitavat hiuksia. Katajan, timjamin ja rosmariinin eteeriset öljyt tehostavat shampoon hoitavaa vaikutusta ja antavat raikkaan tuoksun. Valmistettu luonnollisista raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä. Ei sisällä synteettisiä hajusteita, silikonia, väri- tai säilöntäaineita.
     sh_pomegranate: 
       header: "Granaattiomenashampoo päivittäiseen käyttöön"
       inci: |-
@@ -85,6 +91,8 @@ fi:
           Granaattiomenan tehoaineet suojaavat hiuksia kuivumiselta ja kosteuttavat hiuksia luonnollisesti, 
           jopa päivittäisessä käytössä. Saa hiuksesi tuntumaan terveiltä ja helppohoitoisilta. 
           Tasapainottavaa kosteutta ja luonnollista kiiltoa.
+          @@@@@
+          Ihanteellinen shampoo usein toistuvaan pesuun. Luomuviljellyn granaattiomenan tehoaineet suojaavat hiuksia kuivumiselta.  Shampoo tekee hiuksista luonnollisen kiiltävät ja säilyttää niiden kosteustasapainon - jopa päivittäisessä käytössä. Hiukset tuntuvat terveiltä ja helppohoitoisilta. Valmistettu luonnollisista raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä. Ei sisällä synteettisiä haju-, väri- tai säilöntäaineita, PEG-yhdisteitä, silikonia eikä SLS:a.
     sh_wild_rose: 
       header: "Hellävarainen Villiruusu shampoo"
       ingredients: |-
@@ -95,10 +103,12 @@ fi:
           lapsille. Ruusu-uute rauhoittaa ja tasapainoittaa herkkää päänahkaa. Shampoo tekee hiuksista
           luonnollisen kiiltävät, terveet ja kauniit juurista latvoihin. 
       sub_header: "Herkän ihon shampoo!"
-      tarra: |
+      tarra: |-
           Hellävarainen Villiruusu shampoo 
           Herkän ihon shampoo! Erittäin mieto shampoo sopii erityisesti hennoille hiuksille, herkälle 
           päänahalle ja lapsille. Ruusu-uute rauhoittaa ja tasapainoittaa herkkää päänahkaa. 
           Shampoo tekee hiuksista luonnollisen kiiltävät, terveet ja kauniit juurista latvoihin. 
           Ei sisällä synteettisiä haju-, väri tai säilöntäaineita, eikä PEG-yhdisteitä, silikonia tai SLS:a.
+          @@@@@
+          Erittäin mieto herkän ihon shampoo, joka sopii erityisesti hennoille hiuksille ja lapsille. Rauhoittaa ja tasapainottaa herkkää päänahkaa ja tekee hiuksista kiiltävät, terveet ja kauniit juurista latvoihin. Valmistettu luonnollisista raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä. Ei sisällä synteettisiä haju-, väri tai säilöntäaineita, PEG-yhdisteitä, silikonia tai SLS:a.
     sub_header: "Hellävaraiseen hiustenpesuun "

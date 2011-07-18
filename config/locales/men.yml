@@ -25,13 +25,13 @@ fi:
     products: "sw_after_shave sw_deo sw_shower_gel"
     sub_header: "Luonnonkosmetiikkaa miehille"
     sw_after_shave: 
-      header: "Santelipuu – Luonnollinen After Shave Balsami "
+      header: "Santelipuu – After Shave Balsami "
       main: |-
-        eksoottisten puiden lämmin tuoksu. 
-        Hienovarainen mutta maskuliininen parfyymi, joka tuo mieleesi eksoottiset puut. 
-        Itä -Intiasta tulevan kallisarvoisen santelipuun tuoksua tukevat seetri, iiris ja patsuli. 
-        Santelipuu-balsami rauhoittaa ja hoitaa ihoa jokaisen parranajon jälkeen. 
-        Hoitavaa vaikutusta tehostavat aloe vera, hassel- ja camomilla-uutteet sekä luonnolliset eteeriset öljyt.
+          eksoottisten puiden lämmin tuoksu. 
+          Hienovarainen mutta maskuliininen parfyymi, joka tuo mieleesi eksoottiset puut. 
+          Itä -Intiasta tulevan kallisarvoisen santelipuun tuoksua tukevat seetri, iiris ja patsuli. 
+          Santelipuu-balsami rauhoittaa ja hoitaa ihoa jokaisen parranajon jälkeen. 
+          Hoitavaa vaikutusta tehostavat aloe vera, hassel- ja camomilla-uutteet sekä luonnolliset eteeriset öljyt.
       sub_header: ""
       tarra: |-
           Santelipuu – Luonnollinen After Shave Balsami
@@ -41,10 +41,10 @@ fi:
           Santelipuu-balsami rauhoittaa ja hoitaa ihoa jokaisen parranajon jälkeen. 
           Hoitavaa vaikutusta tehostavat aloe vera, hassel- ja kamomilla-uutteet sekä luonnolliset eteeriset öljyt.
     sw_deo: 
-      header: "Santelipuu Rooll-on deodorantti"
+      header: "Santelipuu Roll-on deodorantti"
       main: |-
-        Mieto tahraamaton roll-on deodorantti päivittäiseen käyttöön. 
-        Kallisarvoinen tuulahdus eksoottisia puita. Ehkäisee hienhajun luonnollisen tehokkaasti. pH-neutraali.
+          Mieto tahraamaton roll-on deodorantti päivittäiseen käyttöön. 
+          Kallisarvoinen tuulahdus eksoottisia puita. Ehkäisee hienhajun luonnollisen tehokkaasti. pH-neutraali.
       sub_header: ""
       tarra: |-
           Santelipuu Roll-on -deodorantti 
@@ -54,11 +54,11 @@ fi:
     sw_shower_gel: 
       header: "Santelipuu Suihkugeeli"
       main: |-
-        Mieto suihkugeeli vartalolle ja hiuksille. 
-        Santelipuun ja seetrin hedelmäisen kirpeä tuoksu. Päivittäiseen käyttöön.  
+          Mieto suihkugeeli vartalolle ja hiuksille. 
+          Santelipuun ja seetrin hedelmäisen kirpeä tuoksu. Päivittäiseen käyttöön.  
       sub_header: ""
       tarra: |-
-        Mieto suihkugeeli vartalolle ja hiuksille. 
-        Santelipuun ja seetrin raikas, hedelmäisen kirpeä tuoksu. 
-        Vehnäproteiineja. Ei sisällä synteettisiä väriaineita, keinotekoisia haju- tai 
-        säilöntäaineita eikä PEG-yhdisteitä.
+          Mieto suihkugeeli vartalolle ja hiuksille. 
+          Santelipuun ja seetrin raikas, hedelmäisen kirpeä tuoksu. 
+          Vehnäproteiineja. Ei sisällä synteettisiä väriaineita, keinotekoisia haju- tai 
+          säilöntäaineita eikä PEG-yhdisteitä.

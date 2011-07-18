@@ -13,14 +13,16 @@ fi:
           Käyttöohje: hiero pesun jälkeen pähkinän kokoinen nokare  hoitoainetta kosteisiin hiuksiin, 
           anna vaikuttaa 1-3 min. ja huuhtele huolellisesti.
       sub_header: "Täydellinen hoitoaine!"
-      tarra: |
+      tarra: |-
           Villiruusu hiustenhoitobalsami
           Täydellinen hoitoaine!
           Villiruusu hiustenhoitoaine tekee hiuksistasi pehmeät ja helposti kammattavat. 
           Antaa hiuksillesi kauniin silkin hohteen. 
           Käyttö: hiero pesun jälkeen pähkinän kokoinen nokare hoitoainetta kosteisiin hiuksiin, 
           anna vaikuttaa 1-3 min. ja huuhtele huolellisesti. 
-          Ei sisällä  synteettisiä haju-, väri tai säilöntäaineita, eikä PEG-yhdisteitä tai silikonia. 
+          Ei sisällä  synteettisiä haju-, väri tai säilöntäaineita, PEG-yhdisteitä eikä silikonia.
+          @@@@
+          Täydellinen hoitoaine, joka tekee hiukset pehmeiksi, helposti kammattaviksi ja kauniin kiiltäviksi. Pesun jälkeen hiero  kosteisiin hiuksiin pähkinänkokoinen annos hoitoainetta, anna vaikuttaa 1-3 min. ja huuhtele huolellisesti. Ei sisällä  synteettisiä haju-, väri- tai säilöntäaineita, PEG-yhdisteitä eikä silikonia.
     co_mask: 
       header: "Deep recovery hair mask"
       main: |-
@@ -32,22 +34,22 @@ fi:
           No synthetic aroma, color or preservatives.
       sub_header: "Repair, care & shine"
       tarra: |-
-        Deep recovery hair mask. Repair, care & shine. The form protector. 
-        Our hair mask lends elasticity and protects even damaged hair from drying out. 
-        Use, massage nut-sized portion into towel-dried hair once or twice a week after washing, 
-        leave for 5-10 minutes, rinse thoroughly. 
-        For split ends, massage directly into hair tips, do not rinse. 
-        No synthetic aroma, color or preservatives.
+          Deep recovery hair mask. Repair, care & shine. The form protector. 
+          Our hair mask lends elasticity and protects even damaged hair from drying out. 
+          Use, massage nut-sized portion into towel-dried hair once or twice a week after washing, 
+          leave for 5-10 minutes, rinse thoroughly. 
+          For split ends, massage directly into hair tips, do not rinse. 
+          No synthetic aroma, color or preservatives.
     co_mousse: 
       header: "Hoitava muotovaahto hiuksille"
       ingredients: |-
           Vesi, oliivinlehtiuute, kasviglyseriini, alkoholi, kasvisaippua, granaattiomenauute, 
           eteeriset öljyt, kasviproteiini, maitohappo
       main: |-
-        Hiuksiin jätettävä hoitava muotovaahto antaa hiuksille runsautta ja volyymia sekä loistavan 
-        kiillon  tekemättä niitä raskaan tuntuisiksi. 
-        Suositellaan myös hennoille hiuksille!  
-        Käyttöohje: Hiero pyyhekuiviin hiuksiin pesun jälkeen, ei huuhtelua. Muotoile tavalliseen tapaan. 
+          Hiuksiin jätettävä hoitava muotovaahto antaa hiuksille runsautta ja volyymia sekä loistavan 
+          kiillon  tekemättä niitä raskaan tuntuisiksi. 
+          Suositellaan myös hennoille hiuksille!  
+          Käyttöohje: Hiero pyyhekuiviin hiuksiin pesun jälkeen, ei huuhtelua. Muotoile tavalliseen tapaan. 
       sub_header: "Volyymiä ja runsautta!"
       tarra: |
           Hoitava muotovaahto hiuksille
@@ -57,6 +59,9 @@ fi:
           Käyttö: Hiero pyyhekuiviin hiuksiin pesun jälkeen, ei huuhtelua. 
           Muotoile tavalliseen tapaan. 
           Ei sisällä synteettisiä haju-, väri tai säilöntäaineita, eikä PEG-yhdisteitä tai silikonia. 
+          @@@@@
+          Volyymia, kiiltoa ja runsautta. Hoitoaine ja muotovaahto samassa tuotteessa: hiustenhoitoa nopeasti ja tehokkaasti! Hiuksiin jätettävä hoitava muotovaahto antaa runsautta ja kiiltoa, mutta ei tee hiuksia raskaan tuntuisiksi. Hiero pyyhekuiviin hiuksiin pesun jälkeen, älä huuhtele. Sopii kaikille hiustyypeille. 
+          Ei sisällä synteettisiä haju-, väri- tai säilöntäaineita, PEG-yhdisteitä tai silikonia. 
     header: "Hiustenhoitotuotteet "
     list: |-
         Pesun jälkeen hiukset tarvitsevat oikeanlaista hiuksia vahvistavaa ja ravitsevaa hoitoainetta. 
