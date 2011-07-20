@@ -51,7 +51,7 @@ fi:
           päivittäiseen hoitoon. Raikas ja ihana tuoreiden limettisitruunoiden tuoksu. 
           Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH)luomulaatua. 
           Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
-          @@@@@
+          Fresh Lime kosteusvoide
           Hoitava ja ravitseva kevyt kosteusvoide ihon päivittäiseen hoitoon. Raikas ja virkistävä tuoreen limettisitruunan tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     fl_eau_fraiche: 
       header: "Fresh Lime Eau Fraîche"
@@ -94,14 +94,8 @@ fi:
           Purista sormenpäihin helmenkokoinen annos ja hiero kostealle iholle. 200 ml
       sub_header: "Sitruksen raikkautta suihkuun!"
       tarra: |
-          Fresh Lime suihkuvoide
-          Pehmeä ja ihoa ravitseva suihkugeeli päivittäiseen pesuun. 
-          Tuoksu on raikas ja piristävä. Jättää ihollesi tuoreen limettisitruunan tuoksun. 
-          Annostele helmenkokoinen pisara ja levitä kostealle ihollesi. 
-          Tuote on sertifioitua luonnonkosmetikkaa (BDIH). 
-          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia. 
-          @@@@@
-          Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja piristävä tuoreen limettisitruunan tuoksu. Levitä helmenkokoinen pisara kostelle ihollesi ja huuhtele. Jättää ihon silkinpehmeäksi. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          RFresh Lime suihkuvoide
+          Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja piristävä tuoreen limettisitruunan tuoksu. Levitä helmenkokoinen pisara kostealle ihollesi ja huuhtele. Jättää ihon silkinpehmeäksi. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     fl_shower_small: 
       header: "Lime and Lemon Shower cream"
       main: "Matkasetti "
