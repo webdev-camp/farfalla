@@ -19,12 +19,14 @@ fi:
           Kosteuttava vartalovoi, joka kirjaimellisesti sulaa iholle ja tekee sen sametin pehmeäksi 
           tuoksuen aistikkaalle ambralle. 50 ml 
       sub_header: "Elvyttävä ja pehmentävä "
-      tarra: |-
+      tarra: |
           Ambra vartalovoi
           Hoitava ja hyvin ravitseva  vartalovoi ihon päivittäiseen hoitoon. 
           Aistillinen ja hieman itämainen tuoksu. 
           Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. 
           Ei sisällä synteettisiä väri-, tuoksu-tai säilöntäaineita eikä parafiinia.
+          @@@@@ 
+          Pehmeä ja ravitseva vartalovoi. Hienostunut, aistillinen, hieman itämainen tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon hellään ja ravitsevaan tehohoitoon. Ihosi tuntuu ja tuoksuu ihanalta! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     am_bodylotion: 
       header: "Ambra kosteusvoide"
       inci: |-
@@ -45,11 +47,14 @@ fi:
           Tämä sensuellituoksuinen kosteusvoide imeytyy helposti iholla ja tekee ihon sametin pehmeäksi 
           kasviöljypohjaisten luomuraaka-aineiden avulla. 150 ml
       sub_header: "Kosteuttava ja hoitava"
-      tarra: |-
+      tarra: |+
           Hoitava ja ravitseva, kevyt kosteusvoide ihon päivittäiseen hoitoon. 
           Aistillinen ja hieman itämainen tuoksu. 
           Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. 
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          @@@@@
+          Kevyt  ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Ylellinen ja aistillinen tuoksu, jossa on hienostunut itämainen vivahde. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          
     am_eau_fraiche: 
       header: "Ambra Eau Fraîche"
       inci: |-
@@ -67,6 +72,8 @@ fi:
           Tuoksu on aistillinen ja hieman mausteinen. Siinä on sekoitus santelipuuta, 
           Attar ruusua ja vaniljaa. 
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          @@@@@
+          Luonnollinen, hienostunut eau de toilette päivittäiseen käyttöön. Aistillinen, hieman mausteinen tuoksu, jossa on santelipuuta, ottoruusua ja vaniljaa.  Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     am_lotion_small: 
       header: "Ambra Bodylotion"
       main: Matkasetti
@@ -92,6 +99,12 @@ fi:
           Annostele helmenkokoinen pisara ja levitä kostealle ihollesi. 
           Tuote on sertifioitua luonnonkosmetikkaa(BDIH). 
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          @@@@@
+          Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Hurmaava, aistillinen tuoksu, jossa on ripaus itämaista sävyä. Levitä helmenkokoinen pisara kostelle ihollesi ja huuhtele. Jättää ihon silkinpehmeäksi. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          @@@@@
+          Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Viehättävä, aistillinen tuoksu, jossa on kiehtova ripaus itämaista sävyä. Levitä helmenkokoinen pisara kostelle ihollesi ja huuhtele. Jättää ihon silkinpehmeäksi. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          @@@@@
+          Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Ylellinen, aistillinen tuoksu, jossa on ripaus itämaista sävyä. Levitä helmenkokoinen pisara kostelle ihollesi ja huuhtele. Jättää ihon silkinpehmeäksi. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     am_shower_small: 
       header: "Ambra Shower cream"
       main: Matkasetti

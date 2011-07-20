@@ -20,12 +20,14 @@ fi:
           Kun iho vaatii uudistumista ja kaipaa virkistystä, takaa kasvipohjainen sitruksenraikas 
           voide sille jokapäiväisen vitamiiniannoksen. 50 ml
       sub_header: "Uudistava ja ravitseva"
-      tarra: |-
-        Vartalovoi Fresh Lime Kun tarvitset ihollesi syvää kosteutusta, tämä vartalovoide on juuri 
-        täydellinen sinulle. Ihanan raikas ja virkistävä tuoksu. 
-        Voide imeytyy hyvin ja jättää raikkauden ihollesi. 
-        Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. 
-        Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+      tarra: |
+          Vartalovoi Fresh Lime Kun tarvitset ihollesi syvää kosteutusta, tämä vartalovoide on juuri 
+          täydellinen sinulle. Ihanan raikas ja virkistävä tuoksu. 
+          Voide imeytyy hyvin ja jättää raikkauden ihollesi. 
+          Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. 
+          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          @@@@@
+          Pehmeä ja ravitseva vartalovoi. Raikas ja virkistävä tuoreen limettisitruunan tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon hellään ja ravitsevaan tehohoitoon. Ihosi tuntuu ja tuoksuu ihanalta! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     fl_bodylotion: 
       header: "Fresh Lime kosteusvoide"
       inci: |-
@@ -44,11 +46,13 @@ fi:
           Kosteuttava, hyvin ihoon imeytyvä shea butter-pohjainen voide uudistaa ihoa ja antaa ihanan virkistyneen
           olon. 150 ml
       sub_header: "Kosteuttava ja virkistävä "
-      tarra: |-
-        Kosteusvoide Fresh Lime on ihoa hoitava ja ravitseva, kevyt kosteusvoide 
-        päivittäiseen hoitoon. Raikas ja ihana tuoreiden limettisitruunoiden tuoksu. 
-        Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH)luomulaatua. 
-        Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+      tarra: |
+          Kosteusvoide Fresh Lime on ihoa hoitava ja ravitseva, kevyt kosteusvoide 
+          päivittäiseen hoitoon. Raikas ja ihana tuoreiden limettisitruunoiden tuoksu. 
+          Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH)luomulaatua. 
+          Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          @@@@@
+          Hoitava ja ravitseva kevyt kosteusvoide ihon päivittäiseen hoitoon. Raikas ja virkistävä tuoreen limettisitruunan tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     fl_eau_fraiche: 
       header: "Fresh Lime Eau Fraîche"
       inci: |-
@@ -56,15 +60,19 @@ fi:
           Citral *, Geraniol *, Citronellol *. * certified organic. * from natural essential oils
       ingredients: "alkoholi, natural essential oils mixture, appelsiininkukkavesi"
       main: |-
-        Ihastuttavan raikkaat sitrukset, hienovarainen iiris ja pehmeä vanilja tekevät fantastisen 
-        eau de toiletten, joka sopii niin arkeen, työhön kuin juhlaankin. 
-        50 ml 
+          Ihastuttavan raikkaat sitrukset, hienovarainen iiris ja pehmeä vanilja tekevät fantastisen 
+          eau de toiletten, joka sopii niin arkeen, työhön kuin juhlaankin. 
+          50 ml 
       sub_header: "Kevyt luonnollinen eau de toilette "
-      tarra: |-
-        Fresh Lime eau Fraiche on luonnollinen, hienovarainen parfyymi päivittäiseen käyttöön. 
-        Raikas, hedelmäinen ja iloinen tuoksu. 
-        Iiris ja vanilja tuovat pehmeyttä tähän ilahduttavaan tuoksuluomukseen. 
-        Ei ole käytetty synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+      tarra: |
+          Fresh Lime eau Fraiche on luonnollinen, hienovarainen parfyymi päivittäiseen käyttöön. 
+          Raikas, hedelmäinen ja iloinen tuoksu. 
+          Iiris ja vanilja tuovat pehmeyttä tähän ilahduttavaan tuoksuluomukseen. 
+          Ei ole käytetty synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          @@@@@
+          Luonnollinen, hienovarainen eau de toilette päivittäiseen käyttöön. Raikas, hedelmäinen ja iloinen tuoksu, johon iiris ja vanilja tuovat pehmeyttä. Tuoksuluomus, joka ilahduttaa sinua koko päivän! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          @@@@@
+          Luonnollinen, hienovarainen eau de toilette päivittäiseen käyttöön. Raikas, hedelmäinen ja iloinen tuoksu, johon iiris ja vanilja tuovat pehmeyttä. Iloa ja raikkautta päivääsi! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     fl_lotion_small: 
       header: "Lime and Lemon Bodylotion"
       main: " Matkasetti  "
@@ -92,6 +100,8 @@ fi:
           Annostele helmenkokoinen pisara ja levitä kostealle ihollesi. 
           Tuote on sertifioitua luonnonkosmetikkaa (BDIH). 
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia. 
+          @@@@@
+          Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja piristävä tuoreen limettisitruunan tuoksu. Levitä helmenkokoinen pisara kostelle ihollesi ja huuhtele. Jättää ihon silkinpehmeäksi. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     fl_shower_small: 
       header: "Lime and Lemon Shower cream"
       main: "Matkasetti "
