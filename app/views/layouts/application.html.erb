@@ -60,6 +60,9 @@
 
   <div id="rcol">
     <div id="rcontent">
+      <% if flash[:error] %>
+        <div class="flash errors"><%= flash[:error] %></div>
+      <% end %>
 
       <%= yield %>
 

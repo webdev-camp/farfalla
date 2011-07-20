@@ -1,38 +1,53 @@
 class TranslationsController < ApplicationController
-  layout :false
   @@keys = {}
   
   def index
-
+    @page =  "index"
   end
 
   def create
     key = params["key"] 
     value = params["value"] 
+    value = value.strip if value 
     unless key && value
-      #puts "NO #{key} or value #{value}"
-      redirect_to "/index.html"
+      flash[:error] = "Internal error. Didn't find key #{key}"
+      redirect_to redirect_to params["return"] || "/index.html"
       return
     end
     unless file = get_file
-      redirect_to "/index.html"
-      #puts "NO key found for #{key}"
+      redirect_to redirect_to params["return"] || "/index.html"
       return
     end
-    #puts "File #{file}"
     hash = YAML.load_file file
     replace_key hash["fi"] , key , value
+    content = hash.ya2yaml
+    begin 
+      YAML.load content
+    rescue
+      flash[:error] = "Could not save the value"
+      redirect_to :action => 'index' , :key => key , :value => value , :return => params[:return]
+      return
+    end    
     io = File.open( file , "w" )
-    io << hash.ya2yaml
+    io << content
     io.close
-    if params["return"]
-      redirect_to params["return"]
-    else
-      redirect_to "/index.html"
-    end
+    redirect_to params["return"] || "/index.html"
   end
 
   protected
+
+  def check_write key , value
+    hasch = { key => value }
+    file = StringIO.new
+    file <<  hasch.ya2yaml
+    file.rewind
+    begin
+      ho = YAML.load file
+    rescue
+      return false
+    end
+    return true
+  end
   
   def replace_key hash , key , value
     keys = key.split "."
@@ -62,6 +77,7 @@ class TranslationsController < ApplicationController
       #puts "HIT #{k}  to #{key}" if k.start_with? key
       return v if k.start_with? key
     end
+    fash[:error] = "Internal error: File not found for key #{params[:key]}"
     return nil
   end
   

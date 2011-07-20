@@ -1,4 +1,10 @@
 <h1> Tarrat </h1>
+<% if flash.notice %>
+  <div class="flash notice"><%= flash.notice %></div>
+<% end %>
+<% if flash[:error] %>
+  <div class="flash errors"><%= flash[:error] %></div>
+<% end %>
 
 <% groups.each do |group| %>
   <% I18n.t("#{group}.products").split.each do |product| %>
