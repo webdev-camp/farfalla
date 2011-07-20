@@ -20,12 +20,14 @@ fi:
           Kun iho tarvitsee syväkostutusta, on tämä kasviöljypohjainen vartalovoi oiva valinta. Se imeytyy helposti
           iholle ja tekee ihon ihanan sileäksi ja frangipanin kukkien tuoksuiseksi. 150 ml 
       sub_header: "Syväkosteuttava ja ravitseva "
-      tarra: |-
+      tarra: |
           Frangipani Vartalovoi
           Kun tarvitset ihollesi syvää kosteutusta, tämä vartalovoi on juuri täydellinen sinulle. 
           Siinä on ihanan raikas tuoksu, maustettu ripauksella trooppisia kukkasia. 
           Imeytyy hyvin ihollesi. Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. 
           Ei sisällä synteettisiä väri-, tuoksu- tai -säilöntäaineita eikä parafiinia. 
+          @@@@@
+          Pehmeä ja ravitseva vartalovoi.  Raikas ja hienostunut trooppisten kukkien tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon hellään ja ravitsevaan tehohoitoon.  Ihosi tuntuu ja tuoksuu ihanalta! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     fp_bodylotion: 
       header: "Frangipani kosteusvoide"
       inci: |-
@@ -44,11 +46,13 @@ fi:
           Tämä emulsio imeytyy ihoon antamalla puhtaan, silkin pehmeän olon sekä trooppisten frangipanin kukkien
           ihanan tuoksun. <br/>50 ml 
       sub_header: "Päivittäiseen ihonhoitoon"
-      tarra: |-
+      tarra: |
           Hoitava ja ravitseva, kevyt kosteusvoide, ihon päivittäiseen hoitoon. 
           Siinä on raikas tuoksu ja kevyt trooppistn kukkasten sävy. 
           Kasviöljyt ja kukkaisvedet ovat sertifioitua (BDIH) luomulaatua. 
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia. 
+          @@@@@
+          Kevyt  ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Raikas ja hienostunut trooppisten kukkien tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     fp_eau_fraiche: 
       header: "Frangipani Eau Fraîche"
       inci: |-
@@ -60,11 +64,13 @@ fi:
           Raikkaat latvatuoksut ja frangipanikukkien kaunis, lempeä tuoksu muodostavat pehmeän, naisellisen eau de
           toiletten jokapäiväiseen elämän menoon. <br/>50 ml
       sub_header: "Hienostunut kukkaistuoksu "
-      tarra: |-
+      tarra: |
           Frangipani eau Fraiche on luonnollinen, hienovarainen parfyymi päivittäiseen käyttöön. 
           Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä ripauksella trooppista 
           frangipanin kukkaa. Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita 
           eikä parafiinia.
+          @@@@@
+          Luonnollinen, hienostunut eau de toilette päivittäiseen käyttöön. Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä. Ihana  trooppisen frangipanin kukan vivahde. Suihkauta iloa ja suloista tuoksua koko päivääsi tai illalla ennen ulos lähtöä! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     fp_lotion_small: 
       header: "Frangipani Bodylotion"
       main: "Matkasetti "
