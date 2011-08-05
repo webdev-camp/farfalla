@@ -1,26 +1,12 @@
 --- 
 fi: 
   tourmaline: 
-    tourmaline_oil: 
-      header: Turmaliini-öljy
-      main: |-
-          Tässä hoitavassa öljyssä yhdistyvät Turmaliinin energisoivat, tasapainottavat ja aisteja elävöittävät 
-          vaikutukset hurmaaviin korkealuokkaisiin luomulaatuisiin tuoksuviin eteerisiin öljyihin, ruusuun ja iirikseen. 
-          Pieni Turmaliini, joka pullossa, vahvistaa öljyn vaikutusta. 
-          Voit käyttää öljyä hierontaan tai kasvojen ja vartalon hoitoon. <br/> 
-      sub_header: "Tasapainoa ja energiaa"
-      tarra: |-
-          Turmaliini -öljy
-          Tämä öljy tuo harmoniaa ja energiaa päivääsi. 
-          Voit käyttää sitä iho-, hieronta- tai kylpyöljynä. 
-          Tekee ihosi silkinpehmeäksi ja säteileväksi. 
-          Jokaisessa pullossa on pieni turmaliinikide. Turmaliinin sanotaan myös lisäävän luovuutta.
     header: Turmaliini
     list: "Crystal Balance -sarjan Turmaliini on kehitetty tuomaan harmoniaa ja lisää energiaa. Sarjan tuotteissa on ihanien eteeristen öljyjen sekoitus: ruusua ja iiristä, jotka on raikastettu virkistävällä bergamotilla ja nerolilla. Jokaisessa tuotteessa on mukana myös turmaliinia. Turmaliinin sanotaan avaavan energiakanavia ja lisäävän keskittymiskykyä. Se saa ihmisen myös säteilemään elämäniloa."
     products: "tourmaline_oil tourmaline_cream tourmaline_fraiche tourmaline_gel"
     sub_header: "Voimaa ja energiaa"
     tourmaline_cream: 
-      header: "Turmaliini Ihonhoitovoide"
+      header: "Turmaliini Kosteusvoide"
       main: |-
           Turmaliini-voide hoitaa kasvojasi ja ihoasi, sopien sekä päivä että yökäyttöön. 
           Tämä tasapainottava kosteusvoide sopii kaikille ihotyypeille. 
@@ -33,27 +19,6 @@ fi:
           Voit käyttää sitä kasvojesi ja koko vartalosi kosteuttamiseen. 
           Sertifioitua luonnonkosmetiikkaa (BDIH). 
           Ei sisällä keinotekoisia väri-, tuoksu- tai lisäaineita eikä parafiinia.
-    tourmaline_gel: 
-      header: "Turmaliini puhdistusgeeli"
-      main: |-
-        Hoitavaa puhtautta kasvoille ja vartalolle. 
-        Turmaliini puhdistusgeeli vahvistaa ja suojaa ihoasi monella eri tasolla. 
-        Ihollesi jää suloinen ruusun ja iiriksen tuoksu raikastettuna bergamotilla ja nerolilla. 
-        Puhdistusgeelissä on mukana myös ametistia, jolla on puhdistava vaikutus, sekä mustaa turmaliinia, 
-        jolla sanotaan olevan sekä vahvistavia että suojaavia ominaisuuksia.<br/>
-        Käyttö: Levitä puhdistettavalle alueelle ja anna vaikutta lyhyesti, huuhtele pois vedellä. 
-        Voit suoda itsellesi myös rauhoittavan kylpyhetken lisäämällä tilkan puhdistusgeeliä kylpyveteen. 
-        Sopii kaikille ihotyypeille.
-      sub_header: ""
-      tarra: |-
-        Hoitavaa puhtautta kasvoille ja vartalolle. 
-        Turmaliini puhdistusgeeli vahvistaa ja suojaa ihoasi monella eri tasolla. 
-        Ihollesi jää suloinen ruusun ja iiriksen tuoksu raikastettuna bergamotilla ja nerolilla. 
-        Puhdistusgeelissä on mukana myös ametistia, jolla on puhdistava vaikutus, sekä mustaa turmaliinia, 
-        jolla sanotaan olevan sekä vahvistavia että suojaavia ominaisuuksia.<br/>
-        Käyttö: Levitä puhdistettavalle alueelle ja anna vaikutta lyhyesti, huuhtele pois vedellä. 
-        Voit suoda itsellesi myös rauhoittavan kylpyhetken lisäämällä tilkan puhdistusgeeliä kylpyveteen. 
-        Sopii kaikille ihotyypeille.
     tourmaline_fraiche: 
       header: "Turmaliini Eau Fraîche"
       main: |-
@@ -63,4 +28,40 @@ fi:
       tarra: |-
           Turmaliini Eau Fraiche tuo harmoniaa ja energiaa elämääsi. 
           Voit suihkauttaa sitä joko ihollesi tai huoneeseen  halutessasi vahvistaa energiaa ja harmoniaa. 
-          Tämä spray on sertifioitu Na True -standardien mukaisesti.
+          Tämä spray on sertifioitu NaTrue -standardien mukaisesti.
+          @@@@@
+          Turmaliini Eau Fraiche tuo harmoniaa ja energiaa elämääsi. 
+          Voit suihkauttaa sitä joko ihollesi tai huoneeseen  halutessasi vahvistaa energiaa ja harmoniaa. 
+          Sertifioitu NaTrue -standardien mukaisesti.
+    tourmaline_gel: 
+      header: "Turmaliini Puhdistusgeeli"
+      main: |-
+          Hoitavaa puhtautta kasvoille ja vartalolle. 
+          Turmaliini puhdistusgeeli vahvistaa ja suojaa ihoasi monella eri tasolla. 
+          Ihollesi jää suloinen ruusun ja iiriksen tuoksu raikastettuna bergamotilla ja nerolilla. 
+          Puhdistusgeelissä on mukana myös ametistia, jolla on puhdistava vaikutus, sekä mustaa turmaliinia, 
+          jolla sanotaan olevan sekä vahvistavia että suojaavia ominaisuuksia.<br/>
+          Käyttö: Levitä puhdistettavalle alueelle ja anna vaikutta lyhyesti, huuhtele pois vedellä. 
+          Voit suoda itsellesi myös rauhoittavan kylpyhetken lisäämällä tilkan puhdistusgeeliä kylpyveteen. 
+          Sopii kaikille ihotyypeille.
+      sub_header: ""
+      tarra: |-
+          Y Hoitavaa puhtautta kasvoille ja vartalolle. 
+          Turmaliini -puhdistusgeeli vahvistaa ja suojaa ihoasi monella eri tasolla. 
+          Ihollesi jää suloinen ruusun ja iiriksen tuoksu raikastettuna bergamotilla ja nerolilla. Puhdistusgeelissä on mukana myös ametistia, jolla on puhdistava vaikutus, sekä mustaa turmaliinia, jolla sanotaan olevan sekä vahvistavia että suojaavia ominaisuuksia.<br/>
+          Käyttö: Levitä puhdistettavalle alueelle ja anna vaikuttaa lyhyesti, huuhtele pois vedellä. Voit suoda itsellesi myös rauhoittavan kylpyhetken lisäämällä tilkan puhdistusgeeliä kylpyveteen. 
+          Sopii kaikille ihotyypeille.
+    tourmaline_oil: 
+      header: "Turmaliini Öljy"
+      main: |-
+          Tässä hoitavassa öljyssä yhdistyvät Turmaliinin energisoivat, tasapainottavat ja aisteja elävöittävät 
+          vaikutukset hurmaaviin korkealuokkaisiin luomulaatuisiin tuoksuviin eteerisiin öljyihin, ruusuun ja iirikseen. 
+          Pieni Turmaliini, joka pullossa, vahvistaa öljyn vaikutusta. 
+          Voit käyttää öljyä hierontaan tai kasvojen ja vartalon hoitoon. <br/> 
+      sub_header: "Tasapainoa ja energiaa"
+      tarra: |-
+          Turmaliini -öljy
+          Tämä öljy tuo harmoniaa ja energiaa päivääsi. 
+          Voit käyttää sitä iho-, hieronta- tai kylpyöljynä. 
+          Tekee ihosi silkinpehmeäksi ja säteileväksi. 
+          Jokaisessa pullossa on pieni turmaliinikide. Turmaliinin sanotaan myös lisäävän luovuutta.

@@ -13,7 +13,7 @@ fi:
           combing out. No synthetic aroma, colour or preservatives. No PEGs or silicone.
       sub_header: "Long-lasting hold"
     st_mousse: 
-      header: Muotoiluvaahto
+      header: "Volyymi Muotoiluvaahto"
       inci: |-
           Aqua, Olea europaea leaf extract *, sorbitol, alcohol, Coco-glucoside, beer, sodium Cocoyl glutamate,
           Punica Granatum extract *, Aloe barbadensis leaf extract *, betaine, disodium Cocoyl glutamate, sodium PCA,
@@ -26,7 +26,10 @@ fi:
           Pitoa, volyymia ja kiiltoa! Luonnollinen muotoiluvaahto auttaa kampauksen muotoilussa, tukee kampauksen
           kestävyyttä ja tekee kauniin kiiltävät hiukset. Levitä pyyhekuiviin hiuksiin pesun jälkeen.
       sub_header: "Volyymiä ja kiiltoa!"
-      tarra: "TEKSTI TEHTY VAIN NETTITEKSTIN PERUSTEELLA, PURKIN TEKSTI EI OLLUT KÄYTÖSSÄ: Volyymi – Muotovaahto Pitoa, volyymia ja kiiltoa! Luonnollinen muotovaahto auttaa kampauksesi muotoilussa. Se tuo kampaukseesi hellävaraista mutta voimakasta ja kestävää tukea sekä luonnollista kiiltoa. (Tuoksu ???) Levitä pesun jälkeen pyyhekuiviin hiuksiin. "
+      tarra: |-
+          TEKSTI TEHTY VAIN NETTITEKSTIN PERUSTEELLA, PURKIN TEKSTI EI OLLUT KÄYTÖSSÄ: Volyymi – Muotovaahto Pitoa, volyymia ja kiiltoa! Luonnollinen muotovaahto auttaa kampauksesi muotoilussa. Se tuo kampaukseesi hellävaraista mutta voimakasta ja kestävää tukea sekä luonnollista kiiltoa. (Tuoksu ???) Levitä pesun jälkeen pyyhekuiviin hiuksiin. 
+          @@@@@
+          Pitoa, volyymia ja kiiltoa! Luonnollinen muotovaahto tuo kampaukseesi hellävaraista mutta voimakasta ja kestävää tukea sekä luonnollista kiiltoa. Mieto, raikas ja miellyttävä tuoksu. Levitä pesun jälkeen pyyhekuiviin hiuksiin.
     st_spray: 
       header: Hiuskiinne
       inci: |-
@@ -41,5 +44,8 @@ fi:
           Luonnollinen ja joustava tuki kaikille hiuksille ja jokaiselle kampaukselle koko päiväksi! Hiuskiinne on
           hienojakoinen ja sen voi harjata helposti pois hiuksista. Ei sisällä ponneaineita.
       sub_header: "Luonnollista suojaa hiuksille!"
-      tarra: "TEKSTI TEHTY VAIN NETTITEKSTIN PERUSTEELLA, PURKIN TEKSTI EI OLLUT KÄYTÖSSÄ: Hiuskiinne antaa luonnollisen ja joustavan tuen koko päiväksi. Sopii kaikille hiustyypeille ja kampauksille. Hienojakoinen hiuskiinne on helppo harjata pois, ei vaurioita hauraitakaan hiuksia. Ei sisällä ponneaineita. e"
+      tarra: |-
+          TEKSTI TEHTY VAIN NETTITEKSTIN PERUSTEELLA, PURKIN TEKSTI EI OLLUT KÄYTÖSSÄ: Hiuskiinne antaa luonnollisen ja joustavan tuen koko päiväksi. Sopii kaikille hiustyypeille ja kampauksille. Hienojakoinen hiuskiinne on helppo harjata pois, ei vaurioita hauraitakaan hiuksia. Ei sisällä ponneaineita.
+          @@@@@
+          Hellävarainen hiuskiinne antaa luonnollisen ja joustavan tuen koko päiväksi. Sopii kaikille hiustyypeille ja kampauksille. Hienojakoinen hiuskiinne on helppo harjata pois, eikä se vaurioita hauraitakaan hiuksia. Ei sisällä ponneaineita.
     sub_header: "Tyylikkäät, kauniit hiukset "

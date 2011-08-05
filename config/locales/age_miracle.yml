@@ -3,7 +3,7 @@ fi:
   age_miracle: 
     am_creme: 
       fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
-      header: "Uudistava ja kohottava voide"
+      header: "Uudistava ja kiinteyttävä voide"
       main: |-
           Tehokkaan kosteuttavan vaikutuksensa vuoksi tämä voide silminnähden pehmentää ja kohottaa kasvojen ihoa. 
           Kesälumipisaran uute (Leucojum aestivum), anti age -innovaatio, hidastaa ihon ikääntymisprosessia 
@@ -12,14 +12,7 @@ fi:
           ihonväriä ja kiinteyttää kasvonpiirteitä. 
           Ryppyjä ja juonteita vähentävä vaikutus on dermatologisesti testattu. 
       sub_header: "Lisää kiinteyttä ja heleyttä!"
-      tarra: |
-          Uudistava ja kohottava voide
-          Kosteuttava voide, joka pehmentää ihoa ja kohottaa kasvoja. 
-          Kesälumipisaran uute (Leucojum aestivum), anti-age-innovaatio, hidastaa ihon ikääntymistä ja vähentää 
-          tehokkaasti ryppyjä. Spilanthes acmellaa ja hyaluronihappoa sisältävä vaikuttavien aineiden kokonaisuus 
-          heleyttää ihonväriä ja kiinteyttää kasvonpiirteitä. 
-          Käytä päivittäin kasvojen puhdistuksen jälkeen. 
-          The anti-wrinkle effectiveness is dermatologically proven.
+      tarra: "RTehokkaasti kosteuttava ja ravitseva anti age -voide päivittäiseen käyttöön. Selvästi havaittava kiinteyttävä, pehmentävä ja ihonväriä heleyttävä vaikutus. Anti-age -innovaatio, kesälumipisaran uute, hidastaa ihon ikääntymisprosessia. Ryppyjä vähentävä vaikutus on dermatologisesti testattu. 100% luonnollisista aineista. 95% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
     am_night: 
       fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
       header: "Hyvän yön nektari"
@@ -31,17 +24,10 @@ fi:
           Käytä iltaisin puhdistuksen ja kasvoveden jälkeen. 
           Jos haluat, levitä iholle Hyvän yön nektarin jälkeen vielä ravitseva voide.
       sub_header: "Ravitsevaan lepoon ja virkeään aamuun."
-      tarra: |
-          Hyvän yön nektari 
-          Kevyt yövoide, joka vaikuttaa tehokkaasti. 
-          Se antaa ihon hengittää syvään yön aikana ja tuo kasvoille raikkautta ja kiinteyttä. 
-          Kesälumipisarauute (leucojum aestivum), anti-age-innovaatio, hidastaa ihon ikääntymistä ja 
-          tasoittaa juonteita. 
-          Käytä iltaisin ihon puhdistuksen jälkeen. 
-          Jos haluat, voit käyttää Hyvän yön nektarin jälkeen vielä ravitsevaa voidetta. 
+      tarra: "RKevyt, tehokkaasti vaikuttava yövoide. Se antaa ihon hengittää syvään yön aikana ja tuo kasvoille raikkautta ja kiinteyttä. Aamulla iho tuntuu virkistyneeltä. Tehokkaasti vaikuttavat ainesosat hidastavat ihon ikääntymisprosessia ja tasoittavat ryppyjä ja juonteita. Käytä iltaisin puhdistuksen ja kasvoveden jälkeen. Halutessasi voit käyttää Hyvän yön nektarin jälkeen vielä ravitsevaa voidetta. 100% luonnollisista aineista, 95% sertifikoitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
     am_rollon: 
       fact: "100% luonnollisista aineista.<br/>95% sertifikoitavissa olevista ainesosista luomua. Sopii vegaaneille."
-      header: "Kiinteyttävä seerumi silmänympäryksien iholle"
+      header: "Kiinteyttävä seerumi silmänympärysiholle"
       main: |-
           Hieno tehokkaasti vaikuttavien ainesosien yhdistelmä täydentää ihon kosteusvarastoja ja pehmentää
           silminnähden ryppyjä silmien ympärillä. Pihlajanversouute (Sorbus
@@ -50,24 +36,19 @@ fi:
           iholle aamuin illoin puhdistuksen jälkeen.
       sub_header: "Silmät loistamaan!"
       tarra: |-
-          Kiinteyttävä seerumi silmänympärysiholle 
-          Kosteuttaa ihoa ja pehmentää ryppyjä silmien ympärillä. Vähentää tummia silmänalusia ja turvotusta. 
-          Taputtele iholle hellästi puhdistuksen jälkeen aamuin illoin. 
+          RKiinteyttävä ja hellävarainen tehoseerumi herkälle silmänympärysiholle. 
+          Kosteuttaa ihoa ja vähentää tutkitusti tummia silmänalusia, turvotusta ja ryppyjä silmien ympärillä. Taputtele hellästi iholle puhdistuksen jälkeen aamuin illoin. Virkistää ja saa silmät loistamaan!
+          100% luonnollisista aineista, 95% sertifikoitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
     am_serum: 
       fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista aineista luomua. Sopii vegaaneille."
-      header: "Kohottava seerumi"
+      header: "Kiinteyttävä seerumi"
       main: |-
           Hienostunut yhdistelmä tehokkaasti vaikuttavia aineita heleyttää ihonväriä ja kiinteyttää 
           kasvojen linjoja. Käytä aamuisin 2-3 kertaa viikossa tai päivittäisenä tehohoitona 3-4 viikon ajan. 
           Tukee muiden age miracle -linjan tuotteiden tehoa. 
           Suosittelemme Kohottavaa seerumia myös muita tuotelinjoja täydentäväksi anti age -lisäksi. 
       sub_header: "Tehokkaat ainesosat tiiviissä muodossa!"
-      tarra: |-
-          Kohottava seerumi
-          Tehokkaat ainesosat tiiviissä muodossa kiinteyttävät kasvoja, heleyttävät ihonväriä ja pehmentävät ihoa. 
-          Käytä aamuisin 2-3 krt viikossa tai päivittäisenä tehohoitona 3-4 viikon ajan. 
-          Taputtele seerumi hellästi iholle ennen ravitsevaa voidetta. 
-          The anti-wrinkle effectiveness is dermatologically proven. 
+      tarra: "RKiinteyttävä ja heleyttävä tehohoito iholle,ikääntymisen merkkejä vastaan. Käytä aamuisin 2-3 kertaa viikossa tai päivittäisenä tehohoitona 3-4 viikon ajan. Taputtele seerumi hellästi iholle ennen ravitsevaa voidetta. Tehostaa age miracle -linjan tuotteiden vaikutuksia, mutta sopii hyvin myös muita tuotelinjoja täydentäväksi anti age -lisäksi. Ryppyjä vähentävä vaikutus on dermatologisesti testattu. 100% luonnollisista aineista, 95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille."
     header: "age miracle"
     list: |-
         1. Innovaatio: Hidastaa ihon ikääntymisprosessia! <br/>
@@ -93,4 +74,4 @@ fi:
         Huolella valikoitu eteeristen öljyjen seos, erotettu mm. iiriksestä ja ottoruususta, tehostaa tuotteiden uusiutumista edistävää vaikutusta.
     main_header: "Tehokkaat, vaikuttavat aineosat"
     products: "am_creme am_serum am_rollon am_night"
-    sub_header: "toimiva anti age –uutuus"
+    sub_header: "toimiva anti age -uutuus"

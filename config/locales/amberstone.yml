@@ -2,7 +2,7 @@
 fi: 
   amberstone: 
     amberstone_cream: 
-      header: "Amberstone -voide"
+      header: "Amberstone Voide"
       inci: |-
           Aqua, Helianthus Annuus Seed Oil*, Simmondsia Chinensis Seed Oil*,  Aloe Barbadensis Leaf Juice*, 
           Citrus Aurantium Amara Flower Water*, Alcohol*,  Lauryl Laurate, Glycerin*, 
@@ -22,7 +22,7 @@ fi:
           PEG-yhdisteitä tai parafiinia. Ilman eläinkokeita.
       sub_header: "Suojaa ja pehmeyttä"
       tarra: |-
-          Tämä kosteusvoide sopii kaikille ihotyypeille sekä yö- että päivävoiteeksi. 
+          Y Tämä kosteusvoide sopii kaikille ihotyypeille sekä yö- että päivävoiteeksi. 
           Se energisoi, tekee ihostasi säteilevän ja suojaa ympäristön haitallisilta vaikutuksilta. 
           Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia. 
           Sertifioitua luomukosmetiikkaa.
@@ -39,12 +39,12 @@ fi:
           huoneessa – harmonisoivana spraynä. 
       sub_header: "Lempeää energiaa"
       tarra: |-
-          Tämä eau fraiche tuo iloa ja energiaa elämääsi. 
+          Y Tämä eau fraiche tuo iloa ja energiaa elämääsi. 
           Voit suihkauttaa sitä joko ihollesi tai huoneeseen tunnelman kohottamiseksi. 
-          Valmistettu bergamotin, ambran, benzoen ja mandariinin eteerisistä öljyistä. 
-          Sertifioitu NaTrue-standardien mukaisesti. 
+          Valmistettu bergamotin, ambran, benzoen ja mandariinin eteerisistä öljyistä.
+          100% luonnollisista aineista, 95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille.
     amberstone_oil: 
-      header: "Amberstone -öljy"
+      header: "Amberstone Öljy"
       inci: |-
           Simondsia Chinensis*, Parfum (Natural Essential Oils), Benzyl Benzoate**,  
           Citral**, Geraniol**, Linalol**, Limonene**.
@@ -55,13 +55,13 @@ fi:
           Hiero kevyesti kasvoille tai vartalolle. 80 ml.
       sub_header: "Lämpöä ja valoa!"
       tarra: |-
-          Amberstone-öljy. Tämä öljy tuo iloa ja energiaa päivääsi. 
+          RY Amberstone -öljy. Tämä öljy tuo iloa ja energiaa päivääsi. 
           Voit käyttää sitä kasvo-, iho-, hieronta- tai kylpyöljynä. 
           Tekee ihosi silkinpehmeäksi ja säteileväksi. 
           Mandariinin ja benzoen eteeriset öljyt ovat laadultaan kepeyttä ja valoisuutta tuovia. 
           Jokaisessa pullossa on pieni meripihkahippunen.
     amberstone_set: 
-      header: "Amberstone setti"
+      header: "Amberstone Setti"
       main: |-
           Tämä ihana setti sisältää Amberstone -öljyn, -ihovoiteen ja Eau Fraichen. 
           Tutustu Amberstone -sarjaan, anna lahjaksi tai ota mukaan matkalle. 3 x 20 ml.

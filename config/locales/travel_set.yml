@@ -4,9 +4,9 @@ fi:
     header: matkasetti
     list: ""
     main: |-
-      Huolella valittu setti sisältää kätevän kokoiset näytepakkaukset olennaisimmista kosmetiikkatuotteista. 
-      Tuotteet antavat ihollesi parhaan mahdollisen huolenpidon esim. viikonloppumatkalla. 
-      Voit myös käyttää matkapakkausta apunasi kotona, kun tutustut tehokkaasti vaikuttaviin luomutuotteisiimme.
+        Huolella valittu setti sisältää kätevän kokoiset näytepakkaukset olennaisimmista kosmetiikkatuotteista. 
+        Tuotteet antavat ihollesi parhaan mahdollisen huolenpidon esim. viikonloppumatkalla. 
+        Voit myös käyttää matkapakkausta apunasi kotona, kun tutustut tehokkaasti vaikuttaviin luomutuotteisiimme.
     main_header: "Vietetään viikonloppu yhdessä!"
     products: travel_set
     sub_header: "Kokeile ja tutustu!"
@@ -16,9 +16,9 @@ fi:
           <p><strong>daily refresh </strong><br/> 
           Puhdistusemulsio, 10 ml</p> <p> <strong>intense moisture </strong><br/> 
           Kevyt kosteusemulsio, 10 ml </p> <p><strong>age miracle </strong><br/> 
-          Night miracle -emulsio, 7 ml </p> <p><strong>be beautiful </strong><br/> 
-          Bliss cream, 7 ml </p> 
-      tarra: |
+          Hyvän yön nektari, 7 ml </p> <p><strong>be beautiful </strong><br/> 
+          Bliss cream, 7 ml </p>
+      tarra: |-
           Feel beautiful-matkasetti
           
           Daily Refresh, Puhdistusemulsio
@@ -44,3 +44,31 @@ fi:
           Antaa ihon hengittää syvään yön aikana ja tuo kasvoille uutta raikkautta ja kiinteyttä. 
           Kesälumipisarauute (Leucojum aestivum), anti age -innovaatio, hidastaa ihon ikääntymistä ja 
           tasoittaa juonteita. Käytä iltaisin ihon puhdistuksen jälkeen.
+          
+          @@@@@
+          Feel beautiful -matkasetti
+          
+          Setti sisältää kätevän kokoiset näytepakkaukset olennaisimmista ihonhoitotuotteista. Ota setti mukaan matkalle  tai tutustu laadukkaisiin, tehokkaisiin luomutuotteisiimme kotonasi. 
+          
+          Setti sisältää: 
+          
+          daily refresh
+          Puhdistusemulsio, 10 ml
+          Puhdistaa ihon hellävaraisen tehokkaasti. 
+          Käytä aamuin illoin. Levitä puhdistusemulsiota kostealle iholle, hiero kevyesti ja huuhtele runsaalla vedellä.
+          
+          intense moisture
+          Kevyt kosteusemulsio, 10 ml
+          Kevyt mutta tehokkaasti kosteuttava päivävoide.
+          Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin.
+          
+          age miracle
+          Hyvän yön nektari, 7 ml
+          Kevyt, tehokkaasti hoitava yövoide. Antaa ihon hengittää syvään yön aikana ja tuo kasvoille uutta raikkautta ja kiinteyttä. 
+          Käytä iltaisin ihon puhdistuksen jälkeen.
+          
+          be beautiful
+          Bliss cream, 7 ml
+          Tilanteisiin, joissa tahdot olla parhaimmillasi. Bliss creamin ainesosat aktivoivat luonnollisesti "onnellisuushormoni" dopamiinin tuotantoa. 
+          Luonnonmineraalien hohtohiukkaset peittävät pieniä epäpuhtauksia ja juonteita. 
+          Bliss cream saa sinut sädehtimään! Loistava voide käytettäväksi illalla ulos lähtiessä, ennen tärkeää tapaamista, esiintymistilanteisiin, koska tahansa kun tahdot säteillä hyvää oloa ja kauneutta!

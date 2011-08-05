@@ -10,12 +10,14 @@ fi:
           virkistävät ja elvyttävät ihoa. Levitä puhdistusemulsiota kostealle iholle, 
           hiero kevyesti ja huuhtele runsaalla vedellä. Soveltuu myös meikin poistoon. 
       sub_header: "Hellävarainen syväpuhdistus"
-      tarra: |
+      tarra: |-
           Puhdistusemulsio 
           Puhdistaa ihon hellävaraisen tehokkaasti.Aloe vera ehkäisee ihon kuivumista, eteeriset öljyt greippi, sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. Levitä puhdistusemulsiota kostealle iholle, hiero kevyesti ja huuhtele runsaalla vedellä. Soveltuu myös meikin poistoon. 
+          @@@@@
+          Puhdistaa ihon hellävaraisen tehokkaasti. Levitä puhdistusemulsiota aamuin illoin kostealle iholle, hiero kevyesti ja huuhtele runsaalla vedellä. Soveltuu myös meikin poistoon. 100% luonnollisista aineista, 95% sertifikoitavissa olevista ainesosista luomua. Sopii vegaaneille.
     dr_peeling: 
       fact: "100% luonnollisista aineista.<br/>80 sertifioitavissa olevista aineista luomua. Sopii vegaaneille."
-      header: "hellävarainen kuorintavoide"
+      header: "Hellävarainen kuorintavoide"
       main: |-
           Riisistä ja bambusta saadut kuorivat hiukkaset poistavat hellästi kuolleita ihosoluja ja elävöittävät ihoa. Kuorintavoide antaa erinomaisen pohjan hoitavien tuotteiden tehokkaalle imeytymiselle. 
           Hiero kuorintavoide puhtaalle, kostealle iholle ja huuhtele huolellisesti runsaalla vedellä. 
@@ -26,6 +28,11 @@ fi:
           Kuorintavoide antaa erinomaisen pohjan hoitavien tuotteiden imeytymiselle. 
           Hiero kuorintavoide puhtaalle, kostealle iholle, vältä silmänympärysihoa. 
           Huuhtele runsaalla vedellä.
+          @@@@@
+          Hellävarainen kuorintavoide
+          Riisin ja bambun hiukkaset poistavat hellästi kuolleita ihosoluja ja elävöittävät ihoa. Ihosi tuntuu silkinpehmeältä! Kuorintavoide antaa erinomaisen pohjan hoitavien tuotteiden tehokkaalle imeytymiselle. Hiero puhtaalle, kostealle iholle ja huuhtele huolellisesti runsaalla vedellä.
+          100% luonnollisista aineista.
+          80% sertifioitavissa olevista aineista luomua. Sopii vegaaneille.
     dr_schaum: 
       fact: "100% luonnollisista aineista. Sopii vegaaneille."
       header: Puhdistusvaahto
@@ -36,16 +43,19 @@ fi:
           sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. Levitä
           puhdistusvaahtoa kostealle iholle ja hiero kevyesti. Huuhtele runsaalla vedellä.
       sub_header: "Kirkastava syväpuhdistus"
-      tarra: |
+      tarra: |-
           Puhdistusvaahto 
           Syväpuhdistaa ja kirkastaa normaalin ja rasvaisen ihon kuivattamatta ihoa. 
           Quillaja –puusta saatava luomulaatuinen saponiini antaa iholle raikkaan puhtauden tunnun. 
           Eteeriset öljyt greippi, sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. 
           Levitä puhdistusvaahtoa kostealle iholle ja hiero kevyesti. Huuhtele runsaalla vedellä.
+          @@@@@
+          Syväpuhdistaa ja kirkastaa normaalin ja rasvaisen ihon kuivattamatta. Iholle jää ihana ja raikas puhtauden tuntu. Virkistää ja elvyttää ihoa. Levitä aamuin illoin kostealle iholle ja hiero kevyesti. Huuhtele runsaalla vedellä. 
+          100% luonnollisista aineista. Sopii vegaaneille.
     dr_tonicF: 
       fact: |-
-        100% luonnollisista raaka-aineista, <br>
-        72% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
+          100% luonnollisista raaka-aineista, <br>
+          72% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
       header: "Kirkastava kasvovesi"
       main: |-
           Kirkastaa ja raikastaa ihon ja poistaa poistaa mahdolliset meikin jäänteet. 
@@ -54,12 +64,16 @@ fi:
           ja pyyhi sillä hellästi koko kasvojen iho. 
           Puhdistuksen ja kasvoveden jälkeen iho on valmis ottamaan vastaan hoitotuotteiden tehokkaat vaikutukset.
       sub_header: "Raikkautta ja puhtautta"
-      tarra: |
+      tarra: |-
           Kirkastava kasvovesi
           Kirkastaa ihon ja poistaa mahdolliset meikin jäänteet. 
           Hamamelisuute ja rosmariinin, cistuksen ja ruusumyrtin eteeriset öljyt tekevät kasvovedestä 
           miedosti desinfioivan. Puhdistuksen jälkeen suihkauta kasvovettä kostealle pumpulille ja pyyhi 
           hellästi kasvojen iho.
+          @@@@@
+          Kirkastaa ja raikastaa ihon ja poistaa mahdolliset meikin jäänteet. Hamamelisuute ja rosmariinin, cistuksen ja ruusumyrtin eteeriset öljyt tekevät kasvovedestä miedosti desinfioivan. Puhdistuksen jälkeen ota kasvovettä kostealle pumpulille ja pyyhi hellästi kasvojen iho.
+          100% luonnollisista raaka-aineista,
+          72% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
     dr_tonicK: 
       fact: "100% luonnollisista aineista.<br/>70% sertifioitavissa olevista aineosista luomua. Sopii vegaaneille."
       header: "Kosteuttava kasvovesi"
@@ -69,11 +83,13 @@ fi:
           Puhdistuksen jälkeen suihkauta kasvovettä kosteaan pumpuliin ja pyyhi sillä koko kasvojen iho hellästi.
           Puhdistuksen ja kasvoveden jälkeen iho on valmis ottamaan vastaan hoitotuotteiden tehokkaat vaikutukset.
       sub_header: "Raikkautta ja kosteutta"
-      tarra: |
+      tarra: |-
           Kosteuttava kasvovesi
           Raikastaa ja rauhoittaa herkkää ihoa, poistaa mahdolliset meikin jäänteet. 
           Aloe vera ja Centella asiatica ylläpitävät ja vahvistavat ihon luonnollista kosteustasapainoa. 
           Puhdistuksen jälkeen suihkauta kasvovettä kosteaan pumpuliin ja pyyhi kasvot hellästi.
+          @@@@@
+          Raikastaa ja rauhoittaa herkkää ihoa ja poistaa mahdolliset meikin jäänteet. Ylläpitää ja vahvistaa ihon luonnollista kosteustasapainoa. Puhdistuksen jälkeen ota kasvovettä kosteaan pumpuliin ja pyyhi kasvojen iho hellästi. 100% luonnollisista aineista, 70% sertifioitavissa olevista aineosista luomua. Sopii vegaaneille.
     header: "daily refresh"
     list: |-
         1. Tehokas mutta hellävarainen puhdistus.<br>        
