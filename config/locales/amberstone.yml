@@ -2,7 +2,7 @@
 fi: 
   amberstone: 
     amberstone_cream: 
-      header: "Amberstone Voide"
+      header: Meripihkavoide
       inci: |-
           Aqua, Helianthus Annuus Seed Oil*, Simmondsia Chinensis Seed Oil*,  Aloe Barbadensis Leaf Juice*, 
           Citrus Aurantium Amara Flower Water*, Alcohol*,  Lauryl Laurate, Glycerin*, 
@@ -27,7 +27,7 @@ fi:
           Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia. 
           Sertifioitua luomukosmetiikkaa.
     amberstone_fraiche: 
-      header: "Amberstone Eau Fraîche"
+      header: "Meripihka Eau Fraîche"
       inci: |-
           Alcohol*, Citrus Aurantium Amara Flower Water*, Parfum (Natural Essential Oils), 
           Benzyl Benzoate**,  Benzyl Cinnamate**, Citral**, Coumarine**, Farnesol**, Geraniol**, 
@@ -44,30 +44,30 @@ fi:
           Valmistettu bergamotin, ambran, benzoen ja mandariinin eteerisistä öljyistä.
           100% luonnollisista aineista, 95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille.
     amberstone_oil: 
-      header: "Amberstone Öljy"
+      header: Meripihkaöljy
       inci: |-
           Simondsia Chinensis*, Parfum (Natural Essential Oils), Benzyl Benzoate**,  
           Citral**, Geraniol**, Linalol**, Limonene**.
       main: |-
           Lämmittävä öljy joka tuo energiaa ja herättää aurinkoisia ajatuksia. 
           Eteeriset benzoe- ja mandariiniöljyt tekevät ihosta silkinpehmeän ja säteilevän. 
-          Amberstone -öljyä voidaan käyttää kasvoille, iholle, hierontaan tai kylpyöljynä. 
+          Meripihkaöljyä voidaan käyttää kasvoille, iholle, hierontaan tai kylpyöljynä. 
           Hiero kevyesti kasvoille tai vartalolle. 80 ml.
       sub_header: "Lämpöä ja valoa!"
       tarra: |-
-          RY Amberstone -öljy. Tämä öljy tuo iloa ja energiaa päivääsi. 
+          RY Tämä öljy tuo iloa ja energiaa päivääsi. 
           Voit käyttää sitä kasvo-, iho-, hieronta- tai kylpyöljynä. 
           Tekee ihosi silkinpehmeäksi ja säteileväksi. 
           Mandariinin ja benzoen eteeriset öljyt ovat laadultaan kepeyttä ja valoisuutta tuovia. 
           Jokaisessa pullossa on pieni meripihkahippunen.
     amberstone_set: 
-      header: "Amberstone Setti"
+      header: Meripihkasetti
       main: |-
-          Tämä ihana setti sisältää Amberstone -öljyn, -ihovoiteen ja Eau Fraichen. 
-          Tutustu Amberstone -sarjaan, anna lahjaksi tai ota mukaan matkalle. 3 x 20 ml.
-    header: Amber
+          Tämä ihana setti sisältää Meripihkaöljyn, -ihovoiteen ja Eau Fraichen. 
+          Tutustu Meripihka -sarjaan, anna lahjaksi tai ota mukaan matkalle. 3 x 20 ml.
+    header: Meripihka
     list: |-
-        Farfallan Amberstone (meripihka) sarja on kehitetty tuomaan sekä ihollesi että sinulle uutta 
+        Farfallan Meripihka -sarja on kehitetty tuomaan sekä ihollesi että sinulle uutta 
         säteilyä ja hyvinvointia. Ne tuovat energiaa ja auttavat väsynyttä ihoa lisäämällä sen verenkiertoa. 
         Eteeristen öljyjen sekoitus raikkaista ja hedelmäisistä bergamotista ja mandariinista yhdistettynä 
         lämmittäviin benzoen, inkiväärin ja vaniljan sydäntuoksuihin lisäävät turvallisuuden tunnetta 

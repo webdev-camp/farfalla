@@ -4,14 +4,14 @@ fi:
     header: "in balance"
     ib_fluid: 
       fact: "100% luonnollisista aineista.<br/>74% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
-      header: "Tasapainottava, mattainen emulsio"
+      header: "Matta päivä- ja yövoide"
       main: |-
           Kirkastaa, pehmentää ja rauhoittaa ihoa ja antaa sille tasapainoisen, silkinpehmeän mattapinnan.
           Pellavansiemenuutteet säännöstelevät liiallista talineritystä. Rosmariini, 
           kultapäivännouto (Rock Rose) ja ruusumyrtti ehkäisevät
           epäpuhtauksien syntyä. Käytä puhdistuksen ja kasvoveden 
           jälkeen aamuin illoin. Halutessasi levitä emulsion alle in balance Tasapainottava seerumi. 
-      sub_header: "Silkinpehmeä, mattapintainen iho"
+      sub_header: "Tasapainottava kevyt voide rasvaiselle ja epäpuhtaalle iholle"
       tarra: |-
           Kirkastaa, pehmentää ja rauhoittaa ihoa ja antaa sille tasapainoisen mattapinnan. 
           Pellavansiemenuute säännöstelee liiallista talineritystä. 
@@ -20,20 +20,25 @@ fi:
           in balance Tasapainottavaa seerumia voi käyttää emulsion alla.
           @@@@@
           Tasapainottava mattaemulsio
-          Kirkastaa, pehmentää ja rauhoittaa ihoa ja antaa sille tasapainoisen, silkinpehmeän mattapinnan. Säännöstelee liiallista talineritystä ja ehkäisee epäpuhtauksien syntyä. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Halutessasi voit käyttää emulsion alla tehohoitona in balance Tasapainottavaa seerumia.
+          Kevyt voide päivittäiseen käyttöön. Kirkastaa, pehmentää ja rauhoittaa ihoa ja antaa sille tasapainoisen, silkinpehmeän mattapinnan. Säännöstelee liiallista talineritystä ja ehkäisee epäpuhtauksien syntyä. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Halutessasi voit käyttää emulsion alla tehohoitona in balance Tasapainottavaa seerumia.
           100% luonnollisista aineista.
-          74% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
+          74% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
+          @@@@@@
+          Tasapainottava, mattavaikutteinen päivä/yövoide
+          Sopii päivä- ja yövoiteeksi rasvaiselle, epäpuhtaalle tai sekaiholle iästä riippumatta.  Kirkastaa, tasoittaa, rauhoittaa ja antaa iholle huolitellun, silkinhimmeän mattapinnan. Säännöstelee liiallista talineritystä ja ehkäisee tehokkaasti epäpuhtauksien syntyä. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Tarvittaessa voit käyttää emulsion alla tehohoitona in balance Tasapainottavaa seerumia. Farfallan in balance -linjan tuotteet on tarkoitettu kaikenikäisille käyttäjille ihon epäpuhtauksien tehokkaaseen täsmähoitoon.
+          100% luonnollisista aineista.
+          74% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
     ib_maske: 
       fact: |-
           
           100% luonnollisista aineista.<br/>98% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
-      header: "Kirkastava puhdistusnaamio"
+      header: "Puhdistusnaamio epäpuhtauksien hoitoon"
       main: |-
           Puhdistaa, kirkastaa ja raikastaa ihoa sisältämiensä greipin, rosmariinin ja sitruunan ansiosta. 
           Poistaa hellästi kuivuneet, irronneet ihonosat. Erinomainen pohja hoitavien tuotteiden imeytymiselle.
           Käytä 1-2 kertaa viikossa puhdistetulle iholle, anna vaikuttaa 10-15 minuuttia ja huuhtele runsaalla vedellä.
           Sen jälkeen levitä iholle in balance Tasapainottava, tasoittava emulsio. 
-      sub_header: "Puhdistava ja raikastava tehohoito"
+      sub_header: "Kirkastava ja raikastava kasvonaamio"
       tarra: |-
           Kirkastava naamio
           Puhdistaa, kirkastaa ja raikastaa sisältämiensä greipin, sitruunan ja rosmariinin ansiosta. 
@@ -41,10 +46,14 @@ fi:
           anna vaikuttaa 10-15 min. ja huuhtele runsaalla vedellä. 
           Täydennä hoito levittämällä kasvoille in balance Tasapainoittava, tasoittava emulsio.
           @@@@@
-          Puhdistaa, kirkastaa ja raikastaa ihoa. Poistaa hellävaraisesti kuivuneet ihosolut. Käytä 1-2 kertaa viikossa puhdistetulle iholle, anna vaikuttaa 10-15 minuuttia ja huuhtele runsaalla vedellä. Täydennä hoito levittämällä iholle in balance Tasapainottava mattainen emulsio. 100% luonnollisista aineista. 98% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
+          Puhdistaa, kirkastaa ja raikastaa ihoa. Poistaa hellävaraisesti kuivuneet ihosolut. Käytä 1-2 kertaa viikossa puhdistetulle iholle, anna vaikuttaa 10-15 minuuttia ja huuhtele runsaalla vedellä. Täydennä hoito levittämällä iholle in balance Tasapainottava mattainen emulsio. 100% luonnollisista aineista. 98% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
+          @@@@@
+          Puhdistava ja kirkastava naamio
+          Tehohoidoksi rasvaiselle, epäpuhtaalle ja sekaiholle. Sopii kaikenikäisille. Puhdistaa, kirkastaa ja raikastaa ihoa. Poistaa hellävaraisesti kuivuneet ihosolut. Käytä 1-2 kertaa viikossa puhdistetulle iholle, anna vaikuttaa 10-15 minuuttia ja huuhtele runsaalla vedellä. Jos sinulla on sekaiho, voit käyttää naamiota täsmähoitona esim. ainoastaan T-alueelle. Naamion jälkeen levitä iholle in balance Tasapainottava mattainen emulsio. Farfallan in balance -linjan tuotteet on tarkoitettu kaikenikäisille käyttäjille ihon epäpuhtauksien tehokkaaseen täsmähoitoon.
+          100% luonnollisista aineista. 98% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
     ib_serum: 
       fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
-      header: "Tasapainottava seerumi"
+      header: "Tehoseerumi epäpuhtauksien hoitoon"
       main: |-
           Kirkastaa, tasoittaa ja rauhoittaa ihoa tehokkaasti. Pellavansiemenuutteet vähentävät selvästi ihon
           talineritystä. Rosmariini, kultapäivännouto (Rock Rose) ja ruusumyrtti estävät 
@@ -52,7 +61,7 @@ fi:
           Käytä 2-3 kertaa viikossa puhdistuksen jälkeen. Jos ihosi epäpuhtaudet vaativat erityistä huolenpitoa, 
           voit käyttää seerumia päivittäin. 
           Seerumin jälkeen levitä iholle in balance Tasapainottava, tasoittava emulsio. 
-      sub_header: "Tehokas apu ihon epäpuhtauksiin"
+      sub_header: "Tasapainottava ja kirkastava tehohoito"
       tarra: |-
           Tasapainoittava seerumi
           Kirkastaa, tasoittaa ja rauhoittaa ihoa tehokkaasti. Pellavansiemenuute vähentää talineritystä. 
@@ -62,8 +71,11 @@ fi:
           @@@@@
           Tasapainottava seerumi
           Tehokasta täsmähoitoa ihon epäpuhtauksiin. Kirkastaa, tasoittaa ja rauhoittaa ihoa. Vähentää selvästi ihon talineritystä ja estää näppylöiden ja mustapäiden syntyä. Käytä puhdistuksen jälkeen 2-3 kertaa viikossa tai tarvittaessa päivittäin. Seerumin jälkeen levitä iholle in balance Tasapainottava mattainen emulsio.
-          100% luonnollisista aineista.
-          95% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
+          100% luonnollisista aineista.95% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
+          @@@@@
+          Tasapainottava seerumi
+          Tehokasta luomulaatuista täsmähoitoa ihon epäpuhtauksiin. Sopii kaikenikäisille. Kirkastaa, tasoittaa ja rauhoittaa ihoa. Vähentää selvästi ihon talineritystä ja estää näppylöiden ja mustapäiden syntyä. Käytä puhdistuksen jälkeen 2-3 kertaa viikossa tai tarvittaessa päivittäin.  Sopii myös tehokkaaksi ja hellävaraiseksi täsmähoidoksi suoraan finnin tai näppylän päälle. Seerumin jälkeen levitä iholle in balance Tasapainottava mattainen emulsio.
+          100% luonnollisista aineista. 95% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
     list: |-
         1. Selvästi havaittava puhdistava ja raikastava vaikutus. <br/>
         2. Luonnollista ja tehokasta tasapainoa talineritykseen.<br/>

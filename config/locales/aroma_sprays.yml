@@ -9,7 +9,7 @@ fi:
           Sisältää: bergamotin, appelsiinin, sitruunan, pelargonin ja piparmintun eteerisiä öljyjä
       tarra: |-
           Y Tämä raikas ja piristävä huonetuoksu luo rauhallisen ilmapiirin. 
-          Sopii hyvin kotiin, toimistoihin ja odotushuoneisiin.
+          Sopii hyvin kotiin, toimistoihin, odotushuoneisiin tai wc:hen.
           Sisältää bergamotin, appelsiinin, sitruunan, pelargonin ja piparmintun 100% luonnollisia eteerisiä öljyjä. Valmistusaineet: alkoholi, luonnolliset eteeriset öljyt.
     fresh: 
       header: "Huonespray Fresh – Raikkautta"
@@ -21,12 +21,11 @@ fi:
           Fresh sopii myös olohuoneen tunnelman tuojaksi.<br/>
           Sisältää: bergamotin, veriappelsiinin, mandariinin ja piparmintun eteerisiä öljyjä.
       tarra: |-
-          Y Raikas, piristävä tuoksu, joka tuo virkeyttä ja keskittymiskykyä. 
-          Ajon aikana se pitää sinut hereillä, ja kuumana kesäpäivänä se vilvoittaa ihanasti. 
-          Matkustaessa se tuo raikkautta vaikkapa hotellihuoneeseen. 
-          Fresh sopii myös olohuoneeseen tunnelman tuojaksi.
+          RY Raikas ja  piristävä huonetuoksu, joka tuo virkeyttä ja keskittymiskykyä.
+          Käytä Fresh -huonesprayta, kun kaipaat raikastusta olohuoneessa, wc:ssä tai matkalla hotellihuoneessa.
+          Ajon aikana se pitää sinut hereillä: suihkaus ilmaan ja keskittymiskykysi on taas parempi.
           Sisältää bergamotin, veriappelsiinin, mandariinin ja piparmintun 100% luonnollisia eteerisiä öljyjä.
-    header: Huonesprayt
+    header: Huonetuoksut
     joy: 
       header: "Joy of Life – Iloa elämään!"
       main: |-
@@ -51,7 +50,7 @@ fi:
           Lämmin, pehmeä ja hedelmäinen tuoksu, joka tuo lempeän ja pehmeän ilmapiirin tilaan. Tilassa olijat voivat tuntea, kuinka heistä pidetään hyvä huoli.<br/>
           Sisältää: vaniljan, santelipuun, kaakaon, tonkapavun ja appelsiinin eteerisiä öljyjä
       tarra: |-
-          Lämmin, pehmeä ja hedelmäinen tuoksu, joka tuo huoneeseen lempeän ilmapiirin. 
+          Y Lämmin, pehmeä ja hedelmäinen tuoksu, joka tuo huoneeseen lempeän ilmapiirin. 
           Tilassa olijat voivat tuntea, kuinka heistä pidetään hyvä huoli.
           Sisältää vaniljan, santelipuun, kaakaon, tonkapavun ja appelsiinin 100% luonnollisia eteerisiä öljyjä.
           Valmistusaineet: alkoholi, luonnolliset eteeriset öljyt.

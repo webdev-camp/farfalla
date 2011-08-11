@@ -52,7 +52,7 @@ fi:
           Käyttö: Levitä puhdistettavalle alueelle ja anna vaikuttaa lyhyesti, huuhtele pois vedellä. Voit suoda itsellesi myös rauhoittavan kylpyhetken lisäämällä tilkan puhdistusgeeliä kylpyveteen. 
           Sopii kaikille ihotyypeille.
     tourmaline_oil: 
-      header: "Turmaliini Öljy"
+      header: Turmaliiniöljy
       main: |-
           Tässä hoitavassa öljyssä yhdistyvät Turmaliinin energisoivat, tasapainottavat ja aisteja elävöittävät 
           vaikutukset hurmaaviin korkealuokkaisiin luomulaatuisiin tuoksuviin eteerisiin öljyihin, ruusuun ja iirikseen. 
@@ -60,7 +60,7 @@ fi:
           Voit käyttää öljyä hierontaan tai kasvojen ja vartalon hoitoon. <br/> 
       sub_header: "Tasapainoa ja energiaa"
       tarra: |-
-          Turmaliini -öljy
+          Y Turmaliiniöljy
           Tämä öljy tuo harmoniaa ja energiaa päivääsi. 
           Voit käyttää sitä iho-, hieronta- tai kylpyöljynä. 
           Tekee ihosi silkinpehmeäksi ja säteileväksi. 
