@@ -1,0 +1,51 @@
+--- 
+fi: 
+  basic: 
+    bb_cream: 
+      fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista ainesosista luomua."
+      header: "Bliss Cream"
+      main: |
+          Ainutlaatuinen, hieno voide vaativiin tilanteisiin, joissa tahdot 
+          olla parhaimmillasi. 
+          Sisältää Orinoco –pähkinää ja brasilialaista pippuripuuta, 
+          joilla on “onnellisuushormoni” dopamiinin erittymistä edistävä vaikutus. 
+          Kun sinun on hyvä olla, säteilet sitä myös ulospäin, ja olet kaunis. 
+          Luonnonmineraaleista saadut hohtohiukkaset peittävät pieniä epäpuhtauksia, ryppyjä ja juonteita.<br/>
+          Ihanteellinen voide käytettäväksi illalla ennen ulos lähtöä, mutta myös kiireiseen elämänrytmiin, 
+          haastaviin tilanteisiin, mukaan matkalle jne, koska tahansa kun tahdot 
+          säteillä hyvää oloa ja kauneutta!
+      tarra: |-
+          Ainutlaatuinen voide, kun tahdot olla parhaimmillasi. 
+          Sisältää luonnonmineraaleista saatuja hohtohiukkasia sekä orinoco-pähkinää ja 
+          brasiliaista pippuripuuta, joilla on dopamiinin erittymistä edistävä vaikutus. 
+          Käytä illalla ennen ulos lähtöä, ota mukaan matkalle jne. koska tahansa, kun tahdot 
+          säteillä hyvää oloa ja kauneutta!
+          @@@@@
+          Hieno voide vaativiin tilanteisiin, joissa tahdot olla parhaimmillasi. Voiteen luonnollisilla ainesosilla on "onnellisuushormoni"  dopamiinin erittymistä edistävä vaikutus. Luonnonmineraaleista saadut hohtohiukkaset peittävät pieniä epäpuhtauksia, ryppyjä ja juonteita. Näytät upealta! Käytä ennen tapaamista, juhlaa, kokousta, esiintymistilannetta, matkoilla... koska tahansa kun tahdot säteillä hyvää oloa, varmuutta ja kauneutta!
+          100% luonnollisista aineista.
+          95% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
+          @@@@@
+          Kosteusvoide tilanteisiin, joissa tahdot olla parhaimmillasi: juhliin, treffeille, tärkeään kokoukseen... Bliss Creamin ainesosilla on onnellisuushormoniksi kutsutun dopamiinin erittymistä edistävä vaikutus. Voide tuntuu ihanalta ja saa sinut säteilemään! Se sisältää luonnonmineraalien  himmeästi hohtavia hiukkasia, jotka peittävät pieniä epäpuhtauksia, ryppyjä ja juonteita. Käytä ennen tapaamista, esiintymistilannetta, vaativaa työpäivää, matkoilla... koska tahansa kun tahdot suoda itsellesi jotakin erityistä ja  näyttää hyvältä! 100% luonnollisista aineista.  
+          95% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
+          “““““““““““
+          Bliss Cream on ihana kauneusvoide erikoistilanteisiin. Se saa sinut tuntemaan itsesi valmiiksi juhlaan ja sädehtimään! Bliss creamin ainutlaatuiset luomulaatuiset raaka-aineet lisäävät onnellisuushormonina tunnetun dopamiinin erittymistä. Tunnet olosi hyväksi,  virkeäksi ja valmiiksi uusiin tuuliin ja haasteisiin! Dopamiini myös parantaa verenkiertoa ja tuo kasvoille luonnollisen ja kauniin heleyden ja hehkun. Voide sisältää luonnonmineraalien himmeästi hohtavia hiukkasia, jotka peittävät ihon pieniä virheitä ja pintaryppyjä. Täydellinen voide käytettäväksi ennen tärkeää juhlaa, tapaamista, kokousta, esiintymistä, vaativaa työpäivää... koska tahansa kun...
+    header: "Basic Care"
+    list: |-
+        1. antaa kasvojen iholle “vastarakastuneen” hehkun <br/>
+        2. elvyttää ihoa stressaavissa tilanteissa <br/>
+        3. suojaa ympäristön vaikutuksilta <br/>
+        4. hohtavat mineraalihiukkaset peittävät pieniä epäpuhtauksia ja juonteita
+    main: |-
+        <em>Orinoco -pähkinä ja brasilialainen pippuripuu </em><br/>
+        Orinoco –pähkinässä on runsaasti hyvälaatuisia Omega-3 –rasvahappoja. 
+        Sillä ja brasilialaisella pippuripuulla on onnellisuushormoni dopamiinin erittymistä edistävä vaikutus. 
+        Muiden hyvien vaikutustensa lisäksi dopamiini parantaa verenkiertoa –näytät hehkeältä ja 
+        vastarakastuneelta! Loistava apu silloin kun ihosi tarvitsee erityistä huolenpitoa: 
+        esiintymistilanteisiin, stressaaviin hetkiin kiireisen työrupeaman keskellä, matkoille. <br/> <br/>
+        <em>Hohtavat mineraalihiukkaset </em><br/>
+        Luonnonmineraaleista saadut hohtohiukkaset peittävät pieniä epäpuhtauksia ja juonteita. <br/> <br/>
+        <em>Luonnolliset, syvävaikutteiset eteeriset öljyt  </em><br/>
+        Vaniljan, kookoksen ja bergamotin eteeriset öljyt edistävät tehokkaiden ainesosien vaikutuksia ja "onnellisuusefektiä".
+    main_header: "Tehokkaat, vaikuttavat aineosat"
+    products: bb_cream
+    sub_header: "olet kaunis – hyvän olon tuotteet"
