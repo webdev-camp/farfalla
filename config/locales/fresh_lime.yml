@@ -20,9 +20,7 @@ fi:
           Kun iho vaatii uudistumista ja kaipaa virkistystä, takaa kasvipohjainen sitruksenraikas 
           voide sille jokapäiväisen vitamiiniannoksen. 50 ml
       sub_header: "Uudistava ja ravitseva"
-      tarra: |
-          RY Fresh Lime vartalovoi
-          Pehmeä ja ravitseva vartalovoi. Raikas ja virkistävä tuoreen limettisitruunan tuoksu.  Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon hellään ja ravitsevaan tehohoitoon. Ihosi tuntuu ja tuoksuu ihanalta! Fresh Lime vartalovoi imeytyy hyvin iholle. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+      tarra: "RY Silkinpehmeä ja ravitseva vartalovoi. Raikas ja virkistävä tuoreen limettisitruunan tuoksu.  Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon hellään ja ravitsevaan tehohoitoon. Ihosi tuntuu ja tuoksuu ihanalta! Fresh Lime vartalovoi imeytyy hyvin iholle. Sisältää luomulaatuista aloe veraa, -sheavoita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     fl_bodylotion: 
       header: "Fresh Lime Kosteusvoide"
       inci: |-
@@ -41,9 +39,7 @@ fi:
           Kosteuttava, hyvin ihoon imeytyvä shea butter-pohjainen voide uudistaa ihoa ja antaa ihanan virkistyneen
           olon. 150 ml
       sub_header: "Kosteuttava ja virkistävä "
-      tarra: |
-          RY Fresh Lime kosteusvoide
-          Hoitava ja ravitseva kevyt kosteusvoide ihon päivittäiseen hoitoon. Raikas ja virkistävä tuoreen limettisitruunan tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+      tarra: "RY Hoitava ja ravitseva kevyt kosteusvoide ihon päivittäiseen hoitoon. Raikas ja virkistävä tuoreen limettisitruunan tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomulaatuista sheavoita ja -kasviöljyjä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     fl_eau_fraiche: 
       header: "Fresh Lime Eau Fraîche"
       inci: |-
@@ -55,9 +51,7 @@ fi:
           eau de toiletten, joka sopii niin arkeen, työhön kuin juhlaankin. 
           50 ml 
       sub_header: "Kevyt luonnollinen eau de toilette "
-      tarra: |
-          RY Fresh Lime Eau Fraiche 
-          Luonnollinen, hienovarainen eau de toilette päivittäiseen käyttöön. Limettisitruunan raikas, hedelmäinen ja  iloinen tuoksu, johon iiris ja vanilja tuovat pehmeyttä. Tuoksuluomus, joka ilahduttaa sinua koko päivän! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+      tarra: "RY Luonnollinen, hienovarainen eau de toilette päivittäiseen käyttöön. Limettisitruunan raikas, hedelmäinen ja  iloinen tuoksu, johon iiris ja vanilja tuovat pehmeyttä. Tuoksuluomus, joka ilahduttaa sinua koko päivän! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     fl_lotion_small: 
       header: "Lime and Lemon Bodylotion"
       main: " Matkasetti  "
@@ -78,9 +72,7 @@ fi:
           tuoksu takaavat suihkuelämyksen! <br/>
           Purista sormenpäihin helmenkokoinen annos ja hiero kostealle iholle. 200 ml
       sub_header: "Sitruksen raikkautta suihkuun!"
-      tarra: |
-          RY Fresh Lime suihkuvoide
-          Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja piristävä tuoreen limettisitruunan tuoksu. Levitä helmenkokoinen pisara kostealle ihollesi ja huuhtele. Jättää ihon silkinpehmeäksi. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+      tarra: "RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja piristävä tuoreen limettisitruunan tuoksu. Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä tai -harjaa saat suihkuvoiteen vaahtoamaan enemmän. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     fl_shower_small: 
       header: "Lime and Lemon Shower cream"
       main: "Matkasetti "
