@@ -19,7 +19,7 @@ fi:
           Kosteuttava vartalovoi, joka kirjaimellisesti sulaa iholle ja tekee sen sametin pehmeäksi 
           tuoksuen aistikkaalle ambralle. 50 ml 
       sub_header: "Elvyttävä ja pehmentävä "
-      tarra: "RY Pehmeä ja ravitseva vartalovoi. Hienostunut, aistillinen, hieman itämainen tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon hellään ja ravitsevaan tehohoitoon. Ihosi tuntuu ja tuoksuu ihanalta! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
+      tarra: "RY Pehmeä ja ravitseva vartalovoi. Hienostunut, aistillinen, hieman itämainen tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon hellään ja ravitsevaan tehohoitoon. Ihosi tuntuu ja tuoksuu ihanalta! Sisältää luomukasviöljyjä ja -kukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     am_bodylotion: 
       header: "Ambra Kosteusvoide"
       inci: |-
@@ -40,7 +40,7 @@ fi:
           Tämä sensuellituoksuinen kosteusvoide imeytyy helposti iholla ja tekee ihon sametin pehmeäksi 
           kasviöljypohjaisten luomuraaka-aineiden avulla. 150 ml
       sub_header: "Kosteuttava ja hoitava"
-      tarra: "RY Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Ylellinen ja aistillinen tuoksu, jossa on hienostunut itämainen vivahde. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
+      tarra: "RY Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Ylellinen ja aistillinen tuoksu, jossa on hienostunut itämainen vivahde. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomukasviöljyjä ja -kukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     am_eau_fraiche: 
       header: "Ambra Eau Fraîche"
       inci: |-
@@ -56,8 +56,7 @@ fi:
       tarra: |-
           RY Luonnollinen, hienovarainen eau de toilette päivittäiseen käyttöön. 
           Tuoksu on aistillinen ja hieman mausteinen. Siinä on sekoitus santelipuuta, 
-          Attar -ruusua ja vaniljaa. Sertifioitua luonnonkosmetiikkaa.
-          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          Attar -ruusua ja vaniljaa. Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     am_lotion_small: 
       header: "Ambra Bodylotion"
       main: Matkasetti
@@ -76,7 +75,7 @@ fi:
           Kannattaa kokeilla! Aistikkaantuoksuinen suihkugeeli puhdistaa ihon hellästi ja perusteellisesti. 
           Purista sormenpäihisi helmenkokoinen annos ja hiero kostealle iholle. 200 ml 
       sub_header: "Hellävaraisesti puhdistava "
-      tarra: "RY Pehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Viehättävä, aistillinen tuoksu, jossa on ripaus itämaista sävyä. Levitä helmenkokoinen pisara kostelle ihollesi ja huuhtele. Jättää ihon silkinpehmeäksi. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
+      tarra: "RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Viehättävä, aistillinen tuoksu, jossa on ripaus itämaista sävyä. Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä tai -harjaa saat suihkuvoiteen vaahtoamaan enemmän. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja kukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     am_shower_small: 
       header: "Ambra Shower cream"
       main: Matkasetti

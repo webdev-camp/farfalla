@@ -24,7 +24,7 @@ fi:
           Käytä iltaisin puhdistuksen ja kasvoveden jälkeen. 
           Jos haluat, levitä iholle Hyvän yön nektarin jälkeen vielä ravitseva voide.
       sub_header: "Ravitsevaan lepoon ja virkeään aamuun."
-      tarra: "RY Kevyt, tehokkaasti vaikuttava yövoide. Se antaa ihon hengittää syvään yön aikana ja tuo kasvoille raikkautta ja kiinteyttä. Aamulla iho tuntuu virkistyneeltä. Tehokkaasti vaikuttavat ainesosat hidastavat ihon ikääntymisprosessia ja tasoittavat ryppyjä ja juonteita. Käytä iltaisin puhdistuksen ja kasvoveden jälkeen. Halutessasi voit käyttää Hyvän yön nektarin jälkeen vielä ravitsevaa voidetta. 100% luonnollisista aineista. 95% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
+      tarra: "RY Kevyt, tehokkaasti vaikuttava yövoide. Se antaa ihon hengittää syvään yön aikana ja tuo kasvoille raikkautta ja kiinteyttä. Aamulla iho tuntuu virkistyneeltä. Tehokkaasti vaikuttavat ainesosat hidastavat ihon ikääntymisprosessia ja tasoittavat ryppyjä ja juonteita. Käytä iltaisin puhdistuksen ja kasvoveden jälkeen. Halutessasi voit käyttää Anti age -yövoiteen  jälkeen vielä ravitsevaa voidetta. 100% luonnollisista aineista. 95% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
     am_rollon: 
       fact: "100% luonnollisista aineista.<br/>95% sertifikoitavissa olevista ainesosista luomua. Sopii vegaaneille."
       header: "Anti-age Silmänympärysseerumi"
@@ -36,8 +36,8 @@ fi:
           iholle aamuin illoin puhdistuksen jälkeen.
       sub_header: "Silmät loistamaan!"
       tarra: |-
-          RY Kiinteyttävä ja hellävarainen tehoseerumi herkälle silmänympärysiholle. 
-          Kosteuttaa ihoa ja vähentää tutkitusti tummia silmänalusia, turvotusta ja ryppyjä silmien ympärillä. Taputtele hellästi iholle puhdistuksen jälkeen aamuin illoin. Virkistää ja saa silmät loistamaan!
+          Hellävarainen tehoseerumi herkälle silmänympärysiholle. 
+          Kosteuttaa ja kiinteyttää ihoa. Vähentää tutkitusti tummia silmänalusia, turvotusta ja pieniä ryppyjä silmien ympärillä. Seerumi tuntuu virkistävältä ja kirkastaa katseen. Taputtele hellästi iholle puhdistuksen jälkeen aamuin illoin. 
           100% luonnollisista aineista, 95% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
     am_serum: 
       fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista aineista luomua. Sopii vegaaneille."
@@ -48,10 +48,7 @@ fi:
           Tukee muiden age miracle -linjan tuotteiden tehoa. 
           Suosittelemme Kohottavaa seerumia myös muita tuotelinjoja täydentäväksi anti age -lisäksi. 
       sub_header: "Tehokkaat ainesosat tiiviissä muodossa!"
-      tarra: |-
-          RY Kiinteyttävä ja heleyttävä tehohoito iholle, ikääntymisen merkkejä vastaan. Käytä aamuisin 2-3 kertaa viikossa tai päivittäisenä tehohoitona 3-4 viikon ajan. Taputtele seerumi hellästi iholle ennen ravitsevaa voidetta. Tehostaa age miracle -linjan tuotteiden vaikutuksia, mutta sopii hyvin myös muita tuotelinjoja täydentäväksi anti age -lisäksi. Ryppyjä vähentävä vaikutus on dermatologisesti testattu. 100% luonnollisista aineista. 95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille.
-          ““““““““““
-          Kiinteyttävä ja heleyttävä tehohoito ikääntymisen merkkejä vastaan. Käytä aamuisin 2-3 kertaa viikossa tai päivittäisenä tehohoitona 3-4 viikon ajan. Taputtele seerumi hellästi iholle ennen ravitsevaa voidetta. Tehostaa age miracle -linjan tuotteiden vaikutuksia, mutta sopii hyvin myös muita tuotelinjoja täydentäväksi anti age -lisäksi. Ryppyjä vähentävä vaikutus on dermatologisesti testattu. 100% luonnollisista aineista. 95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille.
+      tarra: "RY Kiinteyttävä ja heleyttävä tehohoito ikääntymisen merkkejä vastaan. Käytä aamuisin 2-3 kertaa viikossa tai päivittäisenä tehohoitona 3-4 viikon ajan. Taputtele seerumi hellästi iholle ennen ravitsevaa voidetta. Tehostaa age miracle -linjan tuotteiden vaikutuksia, mutta sopii hyvin myös muita tuotelinjoja täydentäväksi anti age -tuotteeksi. Ryppyjä vähentävä vaikutus on dermatologisesti testattu. 100% luonnollisista aineista. 95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille."
     header: "age miracle"
     list: |-
         1. Innovaatio: Hidastaa ihon ikääntymisprosessia! <br/>
