@@ -3,6 +3,7 @@ fi:
   body_sprays: 
     freshen_up: 
       header: "Freshen Up –<br/>Raikastusta!"
+      link: freshen-up-raikastusta
       main: |-
           <strong>Freshen Up -tuoksuluomus on tehty tuomaan rohkeutta hankaliin tilanteisiin.</strong> 
           Tarvittaessa voit suihkuttaa spraytä useita kertoja päivässä suoraan iholle, kaulalle, ranteisiin. 
@@ -22,6 +23,7 @@ fi:
     main: " "
     on_he_move: 
       header: "On the Move –<br/> Aina mukana"
+      link: on-the-move-aina-mukana
       main: |-
           <strong>On the Move auttaa keskittymään ja pitämään hereillä ajaessasi autoa.</strong> 
           Farfallan On the move -spray pitää sinut  virkeänä koko päivän.
@@ -34,6 +36,7 @@ fi:
     sub_header: " "
     three_roses: 
       header: "Three Roses –<br/> Ruusutarha"
+      link: three-roses-ruusutarha
       main: |-
           <strong>Herkkä ja ihastuttava kukkaistuoksu.</strong> 
           Farfallan Three Roses -tuoksu on kuin hienovarainen Eau de Parfum. 
@@ -43,6 +46,7 @@ fi:
       tarra: "RY Luonnollinen, ruusuntuoksuinen body spray, jota voi suihkuttaa suoraan iholle, kaulalle, kasvoihin tai ranteisiin. Ihana ruusuntuoksu rauhoittaa, rentouttaa ja tuo harmoniaa. Spray ei tahraa, voit käyttää sitä myös hiuksiin tai vaatteisiin. Valmistettu luomuruusuvedestä, luomualkoholista ja luonnollisista eteerisistä öljyistä. Sertifioitua luonnonkosmetiikkaa (BDIH)."
     wellbeing: 
       header: "Wellbeing –<br/> Hyvinvointia elämään!"
+      link: wellbeing-hyvinvointia-elaemaeaen
       main: |-
           <strong>Voit hemmotella itseäsi tällä rauhoittavalla ja rentouttavalla tuoksulla.</strong> 
           Farfallan Wellbeing -tuoksu tuo iloa ja harmoniaa. 

@@ -7,6 +7,7 @@ fi:
     sub_header: "Voimaa ja energiaa"
     tourmaline_cream: 
       header: "Turmaliini Kosteusvoide"
+      link: turmaliini-kosteusvoide
       main: |-
           Turmaliini-voide hoitaa kasvojasi ja ihoasi, sopien sekä päivä että yökäyttöön. 
           Tämä tasapainottava kosteusvoide sopii kaikille ihotyypeille. 
@@ -21,6 +22,7 @@ fi:
           Ei sisällä keinotekoisia väri-, tuoksu- tai lisäaineita eikä parafiinia.
     tourmaline_fraiche: 
       header: "Turmaliini Eau Fraîche"
+      link: turmaliini-eau-fraiche
       main: |-
           Energiaspray joka virkistää, antaa uutta energiaa ja vahvistaa sisäisesti.<br/> 
           Käyttö: parfyymina, energisoivana ja – esimerkiksi huoneessa – harmonisoivana spraynä. 
@@ -31,6 +33,7 @@ fi:
           Sertifioitu NaTrue -luomustandardien mukaisesti.
     tourmaline_gel: 
       header: "Turmaliini Puhdistusgeeli"
+      link: turmaliini-puhdistusgeeli
       main: |-
           Hoitavaa puhtautta kasvoille ja vartalolle. 
           Turmaliini puhdistusgeeli vahvistaa ja suojaa ihoasi monella eri tasolla. 
@@ -49,6 +52,7 @@ fi:
           Sopii kaikille ihotyypeille.
     tourmaline_oil: 
       header: Turmaliiniöljy
+      link: turmaliinioeljy
       main: |-
           Tässä hoitavassa öljyssä yhdistyvät Turmaliinin energisoivat, tasapainottavat ja aisteja elävöittävät 
           vaikutukset hurmaaviin korkealuokkaisiin luomulaatuisiin tuoksuviin eteerisiin öljyihin, ruusuun ja iirikseen. 

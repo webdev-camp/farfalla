@@ -5,6 +5,11 @@
   <div class="sixty">
     <h3><%== t('pure_sensitive.ps_cream.header')%></h3>
     <p> <%== t('pure_sensitive.ps_cream.main')%> </p>
+    <% if has_sub(link = "pure_sensitive.ps_cream.link") %>
+      <div class="link">
+        <a href="<%==I18n.t('link.server')%><%==I18n.t(link)%>"><%==I18n.t("link.text")%> </a> 
+      </div>
+    <%end%>
   </div>
   <div class="logo_right">
       <p>

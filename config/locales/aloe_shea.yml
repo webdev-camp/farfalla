@@ -3,6 +3,7 @@ fi:
   aloe_shea: 
     as_cleansing: 
       header: "Aloe-Shea Puhdistusmaito +30v"
+      link: aloe-shea-puhdistusmaito-+30v
       main: |-
           Lempeä puhdistusmaito kypsälle iholle. 
           Kostuta kasvot, levitä puhdistusmaitoa iholle sormenpäillä tai pumpulilla ja huuhtele runsaalla vedellä.
@@ -10,6 +11,7 @@ fi:
       tarra: "RY Lempeä puhdistusmaito yli 30v. iholle. Sisältää luomukamomillaa ja -sheavoita. Kostuta kasvot, levitä puhdistusmaitoa iholle sormenpäillä tai pumpulilla ja huuhtele runsaalla vedellä.  BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     as_eye_fluid: 
       header: "Aloe-Shea Anti-age Silmänympärysvoide +30v"
+      link: aloe-shea-anti-age-silmaenympaerysvoide-+30v
       main: |-
           Hanna kysyy: Pitäisikö tämän tekstinpätkän ollakin yleinen Aloe Shean teksti, 
           eikä juuri Silmänympärysemulsion teksti? "Sertifioitua luonnonkosmetiikkaa (BDIH), ei sisällä 
@@ -20,6 +22,7 @@ fi:
       tarra: "RY Anti-age -silmänympärysvoide päivittäiseen käyttöön. Dermatologisessa tutkimuksessa silmänympärysrypyt vähenivät voiteen käyttäjillä 33%. Ota pieni määrä voidetta sormenpäähän ja taputtele hellästi silmänympärysiholle. Sisältää mm. luomu -aloe veraa ja -sheavoita, -kasviöljyjä ja -kukkaisvesiä. BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     as_mask: 
       header: "Aloe-Shea Energisoiva Kasvonaamio +30v"
+      link: aloe-shea-energisoiva-kasvonaamio-+30v
       main: |-
           Raikastava, tehokkaasti hoitava naamio kiireiselle. 
           Heleyttää ihonväriä ja hehkeyttää kasvoja nopeasti sekä antaa iholle kosteutta. Näytät upealta! 
@@ -31,6 +34,7 @@ fi:
           BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     as_nourishing: 
       header: "Aloe-Shea Anti-age -voide +30v"
+      link: aloe-shea-anti-age-voide-+30v
       main: |-
           Uudistava anti-wrinkle -voide, joka sisältää arvokkaita, ikääntymistä vastaan tehokkaasti 
           toimivia kasviaineita. Käytä aamuin illoin. 
@@ -38,6 +42,7 @@ fi:
       tarra: "RY Uudistava, heleyttävä ja kosteuttava anti age -voide. Sopii sekä päivä- että yövoiteeksi 30+ iholle. Vähentää ja tasoittaa ryppyjä ja estää niiden muodostumista. Voide sisältää arvokkaita, ikääntymistä vastaan tehokkaasti toimivia kasviaineita, mm. luomu -aloe veraa ja -sheavoita. Iho saa ihanaa pehmeyttä ja  heleyttä. Käytä aamuin illoin. BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     as_serum: 
       header: "Aloe-Shea Anti-age Seerumi +30v"
+      link: aloe-shea-anti-age-seerumi-+30v
       main: |-
           Rasvaton tehohoito, joka sisältää anti age -vaikuttaja-aineita tiivistetyssä 
           muodossa: aloe veraa, phytosqualanea, hyaluronihappoa ja centellauutetta. 
@@ -48,6 +53,7 @@ fi:
           muodossa: luomulaatuista aloe veraa, phytosqualanea, hyaluronihappoa ja centellauutetta. Elvyttää ja virkistää väsynyttäkin ihoa. Käytä 2-3 kertaa viikossa tai tehokuurina päivittäin 4-8 viikon ajan. BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     as_tonic: 
       header: "Aloe-Shea Kasvovesi +30v"
+      link: aloe-shea-kasvovesi-+30v
       main: |-
           Hellävarainen, elvyttävä ja puhdistava kasvovesi. 
           Sisältää aloe veraa ja ruusunkukkavettä, jolla on miedosti supistava vaikutus. 

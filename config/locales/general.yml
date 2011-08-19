@@ -36,3 +36,6 @@ fi:
   tukku: 
     header: Maahantuonti
     menu_text: Yhteystiedot
+  link:
+    server: "http://www.auringostaitaan.fi/products/"
+    text: "Tarkista hinta"

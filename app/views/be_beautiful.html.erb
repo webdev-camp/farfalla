@@ -10,6 +10,11 @@
          <%== t( fact )%> 
        </div>
      <%end%>
+     <% if has_sub(link = "be_beautiful.bb_cream.link") %>
+       <div class="link">
+         <a href="<%==I18n.t('link.server')%><%==I18n.t(link)%>"><%==I18n.t("link.text")%> </a> 
+       </div>
+     <%end%>
   </div>
   <div class="logo_right">
        <p>

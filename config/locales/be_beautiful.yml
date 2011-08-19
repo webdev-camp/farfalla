@@ -4,6 +4,7 @@ fi:
     bb_cream: 
       fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista ainesosista luomua."
       header: "Bliss Cream"
+      link: "bliss-cream"
       main: |
           Ainutlaatuinen, hieno voide vaativiin tilanteisiin, joissa tahdot 
           olla parhaimmillasi. 
