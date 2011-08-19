@@ -12,6 +12,7 @@ fi:
       ingredients: |-
           Vesi, kasvipohjainen saippua, alkoholi, kasviglyseriini, eteeriset öljyt, xantaanikumi, maitohappo,
           silkkiproteiinit, kasviproteiinit
+      link: kiilto-ja-volyymi-frangipani-shampoo
       main: |-
           Silkkiproteiini tekee hiukset säihkyvän kiiltäviksi, fosfolipidit antavat runsautta ja kestävää volyymia, 
           ja frangipanin kukat ihastuttavat tuoksullaan.
@@ -28,6 +29,7 @@ fi:
       ingredients: |-
           Vesi, kasvisaippua, alkoholi, kasviglyseriini, eteeriset öljyt, xantaanikumi, aloe vera, jojobauute,
           maitohappo, kasviproteiini
+      link: korjaava-jojoba-aloe-shampoo
       main: |-
           Vahvistava shampoo kuiville, katkeileville ja värikäsitellyille hiuksille. Jojobauute ja aloe vera
           kosteuttavat ja ravitsevat hiusta. Sitrushedelmien eteeriset öljyt elvyttävät päänahkaa. Hiuksista tulee
@@ -43,6 +45,7 @@ fi:
       sub_header: "For greasy hair"
     sh_neem_rhassoul: 
       header: "Tasapainottava – Neem-Rhassoul shampoo"
+      link: tasapainottava-neem-rhassoul-shampoo
       main: |-
           Shampoon perustana ovat neem-uute ja rhassoul-savi, joidenka puhdistavat ominaisuudet auttavat päänahan 
           hilseilyyn ja tekevät hiuksista terveet. Katajan, timjamin ja rosmariinin eteeriset öljyt tehostavat 
@@ -58,6 +61,7 @@ fi:
       ingredients: |-
           Vesi, kasvisaippua, alkoholi, kasviglyseriini, eteeriset öljyt, xantaanikumi, granaattiomenauute*,
           maitohappo, kasviproteiini *valvottua luomutuotantoa
+      link: paeivittaein-granaattiomena-shampoo
       main: |-
           Ihanteellinen shampoo nomaaleille hiuksille sekä usein toistuvaan pesuun. Granaattiomenan
           tehoaineet suojaavat hiuksia kuivumiselta ja kosteuttavat hiuksia luonnollisesti. 
@@ -69,6 +73,7 @@ fi:
       ingredients: |-
           Vesi, kasvipohjainen saippua, alkoholi, kasviglyseriini, xantaanikumi, luomuruusun kukkien uute,
           maitohappo, kasviproteiinit
+      link: hellaevarainen-villiruusu-shampoo
       main: |-
           Erittäin mieto shampoo sopii erityisesti hennoille hiuksille, herkälle päänahalle ja
           lapsille. Ruusu-uute rauhoittaa ja tasapainoittaa herkkää päänahkaa. Shampoo tekee hiuksista

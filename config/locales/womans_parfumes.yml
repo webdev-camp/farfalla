@@ -3,6 +3,7 @@ fi:
   womans_parfumes: 
     anima: 
       header: Anima
+      link: anima
       main: |-
           Anima
           Luomuparfyymi, joka tuo esille olemuksesi kätketyn hymyn! Syvällinen ja dynaaminen, mutta samalla hedelmäisen raikas greipin, mandariinin ja appelsiinin vivahteineen. Sydäntuoksu sisältää mimosan ja appelsiininkukkien aurinkoista hehkua pyöristettynä metsäisillä tuoksuilla ja benzoella. Farfallan luomuparfyymit ovat aitoja ja luonnollisia, ja niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. 98% ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä. e
@@ -20,6 +21,7 @@ fi:
     main: ~
     nuvola: 
       header: Nuvola
+      link: nuvola
       main: |-
           Nuvola
           Luomuparfyymi, jonka tuoksu on raikas ja modernin naisellinen. Neroli, bergamotti, ylang ylang, vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia. Saat miesten päät kääntymään! Farfallan luomuparfyymit ovat aitoja ja luonnollisia, ja niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. 98% ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä. e

@@ -4,6 +4,7 @@ fi:
     dr_fluid: 
       fact: "100% luonnollisista aineista.<br/>95% sertifikoitavissa olevista ainesosista luomua. Sopii vegaaneille."
       header: Puhdistusemulsio
+      link: puhdistusemulsio
       main: |-
           Puhdistaa herkän ja kuivan ihon tehokkaasti mutta hellävaraisesti. 
           Aloe vera suojaa ihoa kuivumiselta, eteeriset öljyt greippi, sitruuna ja douglaskuusi 
@@ -14,6 +15,7 @@ fi:
     dr_peeling: 
       fact: "100% luonnollisista aineista.<br/>80% sertifioitavissa olevista aineista luomua. Sopii vegaaneille."
       header: "Hellävarainen kuorintavoide"
+      link: hellaevarainen-kuorintavoide
       main: |-
           Riisistä ja bambusta saadut kuorivat hiukkaset poistavat hellästi kuolleita ihosoluja ja elävöittävät ihoa. Kuorintavoide antaa erinomaisen pohjan hoitavien tuotteiden tehokkaalle imeytymiselle. 
           Hiero kuorintavoide puhtaalle, kostealle iholle ja huuhtele huolellisesti runsaalla vedellä. 
@@ -25,6 +27,7 @@ fi:
     dr_schaum: 
       fact: "100% luonnollisista aineista. Sopii vegaaneille."
       header: Puhdistusvaahto
+      link: puhdistusvaahto
       main: |-
           Syväpuhdistaa ja kirkastaa normaalin ja rasvaisen ihon
           kuivattamatta sitä. Quillaja –puusta saatava luomulaatuinen  saponiini
@@ -40,6 +43,7 @@ fi:
           100% luonnollisista raaka-aineista, <br>
           72% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
       header: "Kirkastava kasvovesi"
+      link: kirkastava-kasvovesi
       main: |-
           Kirkastaa ja raikastaa ihon ja poistaa poistaa mahdolliset meikin jäänteet. 
           Hamamelisuute ja rosmariinin, cistuksen ja ruusumyrtin eteeriset öljyt tekevät kasvovedestä 
@@ -54,6 +58,7 @@ fi:
     dr_tonicK: 
       fact: "100% luonnollisista aineista.<br/>70% sertifioitavissa olevista aineosista luomua. Sopii vegaaneille."
       header: "Kosteuttava kasvovesi"
+      link: kosteuttava-kasvovesi
       main: |-
           Raikastaa ja rauhoittaa herkkää ihoa ja poistaa mahdolliset meikin jäänteet. 
           Aloe vera ja Centella asiatica -uutteet ylläpitävät ja vahvistavat ihon luonnollista kosteustasapainoa.  

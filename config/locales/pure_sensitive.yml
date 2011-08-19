@@ -22,6 +22,7 @@ fi:
     products: ps_cream
     ps_cream: 
       header: "Rauhoittava kosteusvoide"
+      link: "rauhoittava-kosteusvoide"
       main: |-
           Herkän ihon päivä- ja yövoide, joka hoitaa, suojaa ja rentouttaa. Luomuviljelty syyssyreeniuute (Buddleja davidii) rauhoittaa herkkää 
           ihoa ja antaa parhaan mahdollisen suojan vapaita radikaaleja vastaan. 
