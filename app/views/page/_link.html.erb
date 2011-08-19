@@ -1,6 +1,6 @@
 <% if has_sub(link) %>
   <div class="link">
     <a href="<%==I18n.t('link.server')%><%==I18n.t(link)%>"><%==I18n.t("link.text")%> </a> 
-    <%== t(link) %>
+    <%== translate_link(link) %>
   </div>
 <%end%>
