@@ -5,11 +5,7 @@
   <div class="two">
     <h3><%== t('travel_set.travel_set.header')%></h3>
      <%== t('travel_set.travel_set.main')%> <br/>
-     <% if has_sub(link = "travel_set.travel_set.link") %>
-       <div class="link">
-         <a href="<%==I18n.t('link.server')%><%==I18n.t(link)%>"><%==I18n.t("link.text")%> </a> 
-       </div>
-     <%end%>
+     <%= render :partial => "link" , :locals => {:link => "travel_set.travel_set.link" }%>
   </div>
   <div class="logo_right">
        <p>

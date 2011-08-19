@@ -21,10 +21,14 @@ module ApplicationHelper
   end
   
   def has_sub key
+    return true if edit_mode
     ret = t(key)
-    return true if ret.index "href"
     return false if ret.index "missing"
     ! key.strip.empty?
+  end
+  
+  def edit_mode
+    Rails.env != "test"
   end
   
   if Rails.env != "test"
@@ -33,7 +37,9 @@ module ApplicationHelper
       "#{ret} <a href='/translations/?key=#{key}&return=#{this_page}'>e</a>"
     end
   end
-  
+  def translate_in_link key  
+    
+  end
   def groups
     ret = []
     I18n.t( "menu").split(" ").each do |g|
