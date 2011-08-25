@@ -6,13 +6,8 @@ fi:
       fact: "100% luonnollisista aineista.<br/>74% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
       header: "Matta päivä- ja yövoide"
       link: matta-paeivae-ja-yoevoide
-      main: |-
-          Kirkastaa, pehmentää ja rauhoittaa ihoa ja antaa sille tasapainoisen, silkinpehmeän mattapinnan.
-          Pellavansiemenuutteet säännöstelevät liiallista talineritystä. Rosmariini, 
-          kultapäivännouto (Rock Rose) ja ruusumyrtti ehkäisevät
-          epäpuhtauksien syntyä. Käytä puhdistuksen ja kasvoveden 
-          jälkeen aamuin illoin. Halutessasi levitä emulsion alle in balance Tasapainottava seerumi. 
-      sub_header: "Tasapainottava kevyt voide rasvaiselle ja epäpuhtaalle iholle"
+      main: "Tasapainottava voide rasvaiselle, epäpuhtaalle tai sekaiholle. Sopii kaikenikäisille. Kirkastaa, tasoittaa, rauhoittaa ja antaa iholle huolitellun, silkinhimmeän mattapinnan. Säännöstelee liiallista talineritystä ja ehkäisee tehokkaasti epäpuhtauksien syntyä. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Tarvittaessa voit käyttää emulsion alla in balance Tasapainottavaa seerumia."
+      sub_header: "Tasapainoinen, silkinpehmeä matta"
       tarra: |-
           RY Tasapainottava voide rasvaiselle, epäpuhtaalle tai sekaiholle. Sopii kaikenikäisille. Kirkastaa, tasoittaa, rauhoittaa ja antaa iholle huolitellun, silkinhimmeän mattapinnan. Säännöstelee liiallista talineritystä ja ehkäisee tehokkaasti epäpuhtauksien syntyä. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Tarvittaessa voit käyttää emulsion alla in balance Tasapainottavaa seerumia. 
           100% luonnollisista aineista.
@@ -23,48 +18,36 @@ fi:
           100% luonnollisista aineista.<br/>98% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
       header: "Puhdistusnaamio epäpuhtauksien hoitoon"
       link: puhdistusnaamio-epaepuhtauksien-hoitoon
-      main: |-
-          Puhdistaa, kirkastaa ja raikastaa ihoa sisältämiensä greipin, rosmariinin ja sitruunan ansiosta. 
-          Poistaa hellästi kuivuneet, irronneet ihonosat. Erinomainen pohja hoitavien tuotteiden imeytymiselle.
-          Käytä 1-2 kertaa viikossa puhdistetulle iholle, anna vaikuttaa 10-15 minuuttia ja huuhtele runsaalla vedellä.
-          Sen jälkeen levitä iholle in balance Tasapainottava, tasoittava emulsio. 
-      sub_header: "Kirkastava ja raikastava kasvonaamio"
+      main: "Tehokas, kaikenikäisille sopiva kasvonaamio rasvaiselle, epäpuhtaalle ja sekaiholle. Sisältää greippiä, rosmariinia ja sitruunaa, jotka puhdistavat, kirkastavat ja raikastavat ihoa. Kasvonaamio poistaa hellävaraisesti kuivuneet ihosolut. Käytä 1-2 kertaa viikossa puhdistetulle iholle, anna vaikuttaa 10-15 minuuttia ja huuhtele runsaalla vedellä. Jos sinulla on sekaiho, voit käyttää naamiota täsmähoitona esim. T-alueelle. Antaa erinomaisen pohjan feel beautiful -sarjan hoitavien tuotteiden imeytymiselle. Naamion jälkeen levitä iholle in balance Matta päivä- ja yövoide."
+      sub_header: "Tehokas ja hellävarainen kasvonaamio"
       tarra: |-
-          RTehokas kasvonaamio rasvaiselle, epäpuhtaalle ja sekaiholle. Sopii kaikenikäisille. Puhdistaa, kirkastaa ja raikastaa ihoa ja poistaa hellävaraisesti kuivuneet ihosolut. Käytä 1-2 kertaa viikossa puhdistetulle iholle, anna vaikuttaa 10-15 minuuttia ja huuhtele runsaalla vedellä. Jos sinulla on sekaiho, voit käyttää naamiota täsmähoitona esim. T-alueelle. Naamion jälkeen levitä iholle in balance Matta päivä- ja yövoide. 
+          RY Tehokas kasvonaamio rasvaiselle, epäpuhtaalle ja sekaiholle. Sopii kaikenikäisille. Puhdistaa, kirkastaa ja raikastaa ihoa ja poistaa hellävaraisesti kuivuneet ihosolut. Käytä 1-2 kertaa viikossa puhdistetulle iholle, anna vaikuttaa 10-15 minuuttia ja huuhtele runsaalla vedellä. Jos sinulla on sekaiho, voit käyttää naamiota täsmähoitona esim. T-alueelle. Naamion jälkeen levitä iholle in balance Matta päivä- ja yövoide. 
           100% luonnollisista aineista. 98% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
     ib_serum: 
       fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
       header: "Tehoseerumi epäpuhtauksien hoitoon"
       link: tehoseerumi-epaepuhtauksien-hoitoon
-      main: |-
-          Kirkastaa, tasoittaa ja rauhoittaa ihoa tehokkaasti. Pellavansiemenuutteet vähentävät selvästi ihon
-          talineritystä. Rosmariini, kultapäivännouto (Rock Rose) ja ruusumyrtti estävät 
-          näppylöiden ja mustapäiden syntyä.
-          Käytä 2-3 kertaa viikossa puhdistuksen jälkeen. Jos ihosi epäpuhtaudet vaativat erityistä huolenpitoa, 
-          voit käyttää seerumia päivittäin. 
-          Seerumin jälkeen levitä iholle in balance Tasapainottava, tasoittava emulsio. 
-      sub_header: "Tasapainottava ja kirkastava tehohoito"
+      main: "Tehokasta hoitoa ihon epäpuhtauksiin. Sopii kaikenikäisille. Kirkastaa, tasoittaa ja rauhoittaa ihoa. Seerumi vähentää selvästi ihon talineritystä ja estää näppylöiden ja mustapäiden syntyä. Käytä puhdistuksen jälkeen 2-3 kertaa viikossa tai tarvittaessa päivittäin. Sopii myös tehokkaaksi ja hellävaraiseksi täsmähoidoksi esim. T -alueelle tai suoraan finnin tai näppylän päälle. Seerumin jälkeen levitä iholle in balance Matta päivä- ja yövoide."
+      sub_header: "Tasapainottavaa täsmähoitoa"
       tarra: |-
-          RTehokasta hoitoa ihon epäpuhtauksiin. Sopii kaikenikäisille. Kirkastaa, tasoittaa ja rauhoittaa ihoa. Vähentää selvästi ihon talineritystä ja estää näppylöiden ja mustapäiden syntyä. Käytä puhdistuksen jälkeen 2-3 kertaa viikossa tai tarvittaessa päivittäin. Sopii myös tehokkaaksi ja hellävaraiseksi täsmähoidoksi suoraan finnin tai näppylän päälle. Seerumin jälkeen levitä iholle in balance Matta päivä- ja yövoide.
+          RY Tehokasta hoitoa ihon epäpuhtauksiin. Sopii kaikenikäisille. Kirkastaa, tasoittaa ja rauhoittaa ihoa. Vähentää selvästi ihon talineritystä ja estää näppylöiden ja mustapäiden syntyä. Käytä puhdistuksen jälkeen 2-3 kertaa viikossa tai tarvittaessa päivittäin. Sopii myös tehokkaaksi ja hellävaraiseksi täsmähoidoksi suoraan finnin tai näppylän päälle. Seerumin jälkeen levitä iholle in balance Matta päivä- ja yövoide.
           100% luonnollisista aineista. 95% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
     list: |-
-        1. Selvästi havaittava puhdistava ja raikastava vaikutus. <br/>
-        2. Luonnollista ja tehokasta tasapainoa talineritykseen.<br/>
-        3. Tasaisempi, silkkisen matta, pehmeä iho.<br/>
+        1. Selvä puhdistava ja kirkastava vaikutus.<br/>
+        2. Luonnollista tasapainoa talineritykseen.<br/>
+        3. Lopputuloksena huoliteltu, sametinpehmeän matta iho.<br/>
     main: |-
         <em>Pellavansiemenuute </em><br/>
-        Fantastinen luomulaatuinen kasviuute, joka tasapainottaa rasvaista ihoa ja tekee kasvojen ihosta 
-        näkyvästi raikkaamman ja kirkkaamman. Testit osoittivat ihon talintuotannon tasapainottuneen ja 
-        pienten ihovaurioiden tasaantuneen.<br/><br/>
+        Luomulaatuinen kasviuute, joka tasapainottaa rasvaista ja/tai epäpuhdasta ihoa ja jättää iholle puhtaan, raikkaan ja kirkkaan vaikutelman. Testitulokset osoittavat ihon talintuotannon vähentyneen ja 
+        lievien ihovaurioiden tasaantuneen.<br/><br/>
         <em>Hamamelisuute </em><br/>
-        Luomulaatuinen kasviuute, jolla on ihohuokosia puhdistava ja miedosti tulehduksia ehkäisevä vaikutus, 
-        kirkastaa rasvaista ihoa.<br/><br/>
+        Luomulaatuinen kasviuute, jolla on ihohuokosia puhdistava ja miedosti tulehduksia ehkäisevä vaikutus.  
+        Kirkastaa epäpuhdasta ihoa.<br/><br/>
         <em>Aloe Vera </em><br/>
-        Aloe Vera kosteuttaa ja edistää solujen uusiutumista.<br/><br/>
+        Luomulaatuinen, aloe vera –kasvin lehdistä saatava raikas kasviuute. Aloe vera sisältää runsaasti mineraaleja, entsyymejä, hivenaineita ja vitamiineja. Se edistää solujen uusiutumista ja kosteuttaa ihoa. Tästä seuraa, että ihosta tulee kiinteämpi, ja rypyt ja juonteet vähenevät ja pehmenevät.<br/><br/>
         <em>Luonnolliset, syvävaikutteiset eteeriset öljyt </em><br/>
-        Valikoitujen eteeristen öljyjen yhdistelmä (luomucistus, -ruusumyrtti, -rosmariini ja -salvia) 
-        ehkäisee epäpuhtauksien syntyä. Vaikutus ulottuu syvälle, iho tulee pitkävaikutteisesti 
-        puhdistetuksi ja talineritys tasapainottuu. 
-    main_header: "Tehokkaat, vaikuttavat aineosat"
+        Tarkoin valikoitujen eteeristen öljyjen yhdistelmä - luomucistus, -ruusumyrtti (manuka), -rosmariini ja -salvia -  
+        ehkäisee tehokkaasti epäpuhtauksien syntyä. Vaikutus ulottuu syvälle. Sen vuoksi iho puhdistuu ja talineritys tasapainottuu pitkävaikutteisesti.
+    main_header: "Innovatiiviset, vaikuttavat ainesosat"
     products: "ib_fluid ib_maske ib_serum"
-    sub_header: "tasapainoinen iho - tehokasta apua epäpuhtauksien hoitoon"
+    sub_header: "Tasapainoinen iho. Tehokasta apua epäpuhtauksien hoitoon - kaikenikäisille."

@@ -2,6 +2,7 @@
 fi: 
   amberstone: 
     amberstone_cream: 
+      fact: "100% luonnollisista aineista. 95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille."
       header: Meripihkavoide
       inci: |-
           Aqua, Helianthus Annuus Seed Oil*, Simmondsia Chinensis Seed Oil*,  Aloe Barbadensis Leaf Juice*, 
@@ -12,63 +13,49 @@ fi:
           Tocopherol, Citric Acid, Ascorbic Acid, Benzyl Benzoate**, Citral**, Coumarine**, 
           Farnesol**,  Geraniol**, Linalool**, Limonene**. 
       link: meripihkavoide
-      main: |
-          Tämä kaikille ihotyypeille sopiva kosteusvoide ravitsee ihoasi. 
-          Se saa ihosi tuntumaan sileältä ja silkinpehmeältä. 
-          Meripihkavoide myös suojaa ihoa vahvistaen ihon omaa suojakerrosta ja sen luontaisia 
-          suojamekanismeja. Voide auttaa ihoa säilyttämään sekä palauttamaan sen luontaisen 
-          kosteustasapainon sekä säteilyn.
-          Käyttö: suojaava ihonhoito, päivä ja yö.
-          Ei sisällä synteettisiä värejä, tuoksuja, säilöntäaineita,
-          PEG-yhdisteitä tai parafiinia. Ilman eläinkokeita.
-      sub_header: "Suojaa ja pehmeyttä"
+      main: "Tämä kosteusvoide sopii kaikille ihotyypeille sekä yö- että päivävoiteeksi. Se energisoi, tekee ihosi säteileväksi ja suojaa ympäristön haitallisilta vaikutuksilta. Meripihkavoide aktivoi ihon pintaverenkiertoa ja tuo hehkua kalpeallekin iholle. Siksi se on erinomainen apu ihollesi esim. talvikuukausina."
+      sub_header: "Energiaa ja heleyttä"
       tarra: |-
           RY Tämä kosteusvoide sopii kaikille ihotyypeille sekä yö- että päivävoiteeksi. 
           Se energisoi, tekee ihosi säteileväksi ja suojaa ympäristön haitallisilta vaikutuksilta. Meripihkavoide aktivoi ihon pintaverenkiertoa ja tuo hehkua kalpeallekin iholle.
           Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia. 
            95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille.
     amberstone_fraiche: 
+      fact: "100% luonnollisista aineista. 95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille."
       header: "Meripihka Eau Fraîche"
       inci: |-
           Alcohol*, Citrus Aurantium Amara Flower Water*, Parfum (Natural Essential Oils), 
           Benzyl Benzoate**,  Benzyl Cinnamate**, Citral**, Coumarine**, Farnesol**, Geraniol**, 
           Linalool**, Limonene**.
       link: meripihka-eau-fraiche
-      main: |-
-          Tämä hedelmäinen ja pehmeä luomu- Eau Fraîche on todellinen valon tuoja. 
-          Meripihka ja bergamotti yhdistävät valoa puoleensavetävät energiansa benzoen ja mandariinin 
-          tarjotessa lempeän taustan.  Käyttö: parfyymina, energisoivana ja – esimerkiksi 
-          huoneessa – harmonisoivana spraynä. 
-      sub_header: "Lempeää energiaa"
+      main: "Tämä eau fraîche tuo iloa ja energiaa elämääsi. Voit suihkauttaa sitä joko ihollesi tai huoneeseen tunnelman kohottamiseksi. Valmistettu energisoivista ja aurinkoisista bergamotin, ambran, benzoen ja mandariinin eteerisistä öljyistä."
+      sub_header: "Iloa ja energiaa"
       tarra: |-
           RY Tämä eau fraîche tuo iloa ja energiaa elämääsi. 
           Voit suihkauttaa sitä joko ihollesi tai huoneeseen tunnelman kohottamiseksi. 
           Valmistettu  energisoivista ja aurinkoisista bergamotin, ambran, benzoen ja mandariinin eteerisistä öljyistä.
           100% luonnollisista aineista, 95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille.
     amberstone_oil: 
+      fact: "100% luonnollisista aineista. 98% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille."
       header: Meripihkaöljy
       inci: |-
           Simondsia Chinensis*, Parfum (Natural Essential Oils), Benzyl Benzoate**,  
           Citral**, Geraniol**, Linalol**, Limonene**.
       link: meripihkaoeljy
-      main: |-
-          Lämmittävä öljy joka tuo energiaa ja herättää aurinkoisia ajatuksia. 
-          Eteeriset benzoe- ja mandariiniöljyt tekevät ihosta silkinpehmeän ja säteilevän. 
-          Meripihkaöljyä voidaan käyttää kasvoille, iholle, hierontaan tai kylpyöljynä. 
-          Hiero kevyesti kasvoille tai vartalolle. 80 ml.
-      sub_header: "Lämpöä ja valoa!"
+      main: "Tämä öljy tuo iloa ja energiaa päivääsi. Voit käyttää sitä kasvo-, iho-, hieronta- tai kylpyöljynä. Tekee ihosi silkinpehmeäksi ja säteileväksi. Mandariinin ja benzoen eteeriset öljyt tuovat kepeyttä ja valoisuutta elämääsi hedelmäisillä tuoksuillaan. Jokaisessa pullossa on pieni meripihkahippunen."
+      sub_header: "Silkinpehmeyttä, kepeyttä ja valoisuutta"
       tarra: |-
           RY Tämä öljy tuo iloa ja energiaa päivääsi. 
           Voit käyttää sitä kasvo-, iho-, hieronta- tai kylpyöljynä. 
           Tekee ihosi silkinpehmeäksi ja säteileväksi. 
           Mandariinin ja benzoen eteeriset öljyt tuovat  kepeyttä ja valoisuutta elämääsi hedelmäisillä  tuoksuillaan.
           Jokaisessa pullossa on pieni meripihkahippunen. 
-           95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille.
+          98% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille.
     amberstone_set: 
       header: Meripihkasetti
       main: |-
-          Tämä ihana setti sisältää Meripihkaöljyn, -ihovoiteen ja Eau Fraichen. 
-          Tutustu Meripihka -sarjaan, anna lahjaksi tai ota mukaan matkalle. 3 x 20 ml.
+          Matkasetti sisältää kätevät pikkupakkaukset Meripihkaöljyä, -voidetta ja Eau Fraîchea. 
+          Voit tutustua setin avulla Meripihka -sarjaan, antaa sen lahjaksi tai ottaa mukaan matkalle. 3 x 20 ml.
     header: Meripihka
     list: |-
         Farfallan Meripihka -sarja on kehitetty tuomaan sekä ihollesi että sinulle uutta 

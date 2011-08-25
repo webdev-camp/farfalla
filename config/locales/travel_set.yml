@@ -6,13 +6,13 @@ fi:
     main: |-
         Huolella valittu setti sisältää kätevän kokoiset näytepakkaukset olennaisimmista kosmetiikkatuotteista. 
         Tuotteet antavat ihollesi parhaan mahdollisen huolenpidon esim. viikonloppumatkalla. 
-        Voit myös käyttää matkapakkausta apunasi kotona, kun tutustut tehokkaasti vaikuttaviin luomutuotteisiimme.
+        Voit myös tutustua pakkauksen avulla tuotteisiimme kotonasi.
     main_header: "Vietetään viikonloppu yhdessä!"
     products: travel_set
     sub_header: "Kokeile ja tutustu!"
     travel_set: 
       header: "Setti sisältää:"
-      link: "setti-sisaeltaeae"
+      link: setti-sisaeltaeae
       main: |-
           <p><strong>daily refresh </strong><br/> 
           Puhdistusemulsio, 10 ml</p> <p> <strong>intense moisture </strong><br/> 

@@ -3,15 +3,12 @@ fi:
   crystal_balance: 
     header: "Crystal Balance"
     list: |-
-        Farfallan Crystal Balance -sarjassa luomukosmetiikka ylellisine eteerisine tuoksuöljyineen yhdistetään 
-        joko Turmaliinin tai Meripihkan ainutlaatuisiin ominaisuuksiin. <br> 
-        Sarjan tuotteissa tuoksuvat hurmaavat ruusu ja iiris tai virkistävät mandariini ja bergamotti. 
-        Myös kivien elävöittävät ja tasapainottavat vaikutukset pääsevät oikeuksiinsa sarjan 
-        hienovaraisissa ja korkealuokkaisissa tuotteissa. 
-        Kiviin kautta aikain yhdistetyt parantavat ja tasapainottavat ominaisuudet saadaan 
-        Farfallan Crystal balance -sarjassa palvelemaan ihonhoitoa erityisen liuotuksen kautta. <br> 
-        Crystal balance -tuotteista löydät niin Eau de Fraîche –sprayt, voiteet kuin hurmaavat öljyt, 
-        joilla hemmottelet sekä ihoasi että aistejasi!
+        Farfallan Crystal Balance -sarjassa korkealaatuinen luomukosmetiikka yhdistyy 
+        turmaliinin ja meripihkan ainutlaatuisiin ominaisuuksiin. <br> 
+        Kiviin on kautta aikain yhdistetty parantavia ja tasapainottavia ominaisuuksia. 
+        Turmaliini ja Meripihka -sarjat ovat saaneet inspiraationsa niistä.<br>
+        Turmaliini -sarjan tuotteissa tuoksuvat upeat ruusu ja iiris, Meripihka -sarjassa taas virkistävät mandariini ja bergamotti.<br>  
+        Crystal balance -sarjasta löydät fantastiset Eau de Fraîchet, voiteet ja ihoöljyt, jotka hemmottelevat sekä ihoasi että aistejasi!
     main: ""
     products: ~
     sub_header: ""
