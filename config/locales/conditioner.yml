@@ -14,7 +14,7 @@ fi:
           Käyttöohje: hiero pesun jälkeen pähkinän kokoinen nokare  hoitoainetta kosteisiin hiuksiin, 
           anna vaikuttaa 1-3 min. ja huuhtele huolellisesti.
       sub_header: "Täydellinen hoitoaine!"
-      tarra: "RY Villiruusu hoitoaine on täydellinen hoitoaine, joka tekee hiukset silkinpehmeiksi, helposti kammattaviksi ja kauniin kiiltäviksi. Pesun jälkeen hiero  kosteisiin hiuksiin pähkinänkokoinen annos hoitoainetta, anna vaikuttaa 1-3 min. ja huuhtele huolellisesti. Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, PEG-yhdisteitä eikä silikonia."
+      tarra: "RY Villiruusu -hoitoaine on täydellinen hoitoaine, joka tekee hiukset silkinpehmeiksi, helposti kammattaviksi ja kauniin kiiltäviksi. Sisältää luomulaatuista aloe veraa ja macadamiansiemenöljyä. Pesun jälkeen hiero  kosteisiin hiuksiin pähkinänkokoinen annos hoitoainetta, anna vaikuttaa 1-3 min. ja huuhtele huolellisesti. Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, PEG-yhdisteitä eikä silikonia."
     co_mask: 
       header: "Deep recovery hair mask"
       main: |-
@@ -49,9 +49,9 @@ fi:
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, PEG-yhdisteitä eikä silikonia.
     header: "Hiustenhoitotuotteet "
     list: |-
-        Pesun jälkeen hiukset tarvitsevat oikeanlaista hiuksia vahvistavaa ja ravitsevaa hoitoainetta. 
-        Tehokkaat hiustenhoitoaineet ovat valvottua korkealuokkaista
-        luomukosmetiikkaa luonnon omista vaikuttavista raaka-aineista. 
-        Hiuksista tulee helposti kammattavat ja terveennäköiset. 
+        Pesun jälkeen hiukset tarvitsevat oikeanlaisen vahvistavan ja ravitsevan hoitoaineen. 
+        Farfallan hiustenhoitoaineet ovat valvottua korkealaatuista
+        luomukosmetiikkaa. Ne on valmistettu luonnon omista, tehokkaasti vaikuttavista raaka-aineista. 
+        Hiuksista tulee terveet ja helposti kammattavat.
     products: "co_conditioner co_mousse"
     sub_header: "Luonnollista hoitoa hiuksille \n"

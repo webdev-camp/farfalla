@@ -1,7 +1,7 @@
 --- 
 fi: 
   parfumes: 
-    header: "Luomu parfyymit"
+    header: Luomuparfyymit
     list: |-
         Farfallan korkealaatuiset parfyymit ovat upeita tuoksuluomuksia nykynaiselle.
         Luonnollisen tuoksun huomaa ainoastaan henkilön välittömässä läheisyydessä.

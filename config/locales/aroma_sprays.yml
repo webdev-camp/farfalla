@@ -3,25 +3,18 @@ fi:
   aroma_sprays: 
     ambiance: 
       header: "Huonespray Ambiance – Tunnelmaa"
-      link: "huonespray-ambiance-tunnelmaa"
-      main: |-
-          Tämä raikas ja piristävä tuoksu tuo rauhallisen ilmapiirin.
-          Sopii hyvin kotiin, toimistoihin ja odotushuoneisiin.<br/>
-          Sisältää: bergamotin, appelsiinin, sitruunan, pelargonin ja piparmintun eteerisiä öljyjä
+      link: huonespray-ambiance-tunnelmaa
+      main: "Tämä ilahduttavan raikas ja piristävä, luonnollinen huonetuoksu, luo rauhallisen ja hyvän ilmapiirin. Ambiance huonetuoksu sopii hyvän tunnelman tuojaksi  kotiin, toimistoihin, odotushuoneisiin tai kylpyhuoneeseen.<br/> Sisältää bergamotin, appelsiinin, sitruunan, pelargonin ja piparmintun 100% luonnollisia eteerisiä öljyjä ja alkoholia."
       tarra: |-
           RY Tämä raikas ja piristävä luonnollinen huonetuoksu luo rauhallisen  ja hyvän ilmapiirin. 
           Sopii hyvin kotiin, toimistoihin, odotushuoneisiin tai wc:hen. 
           Sisältää bergamotin, appelsiinin, sitruunan, pelargonin ja piparmintun 100% luonnollisia eteerisiä öljyjä. Valmistusaineet: alkoholi, luonnolliset eteeriset öljyt.
     fresh: 
       header: "Huonespray Fresh – Raikkautta"
-      link: "huonespray-fresh-raikkautta"
+      link: huonespray-fresh-raikkautta
       main: |-
-          Raikas, piristävä tuoksu, joka tuo virkeyttä ja auttaa keskittymään. 
-          Ajon aikana se pitää sinut hereillä piristävällä tuoksullaan. 
-          Kuumana kesäpäivänä se vilvoittaa ihanasti.
-          Matkustaessa se tuo raikkautta, vaikkapa hotellihuoneeseen
-          Fresh sopii myös olohuoneen tunnelman tuojaksi.<br/>
-          Sisältää: bergamotin, veriappelsiinin, mandariinin ja piparmintun eteerisiä öljyjä.
+          Raikas ja piristävä huonetuoksu, joka tuo virkeyttä ja keskittymiskykyä. Käytä Fresh -huonesprayta, kun kaipaat raikastusta olohuoneessa, kylpyhuoneessa tai  hotellihuoneessa. Ajon aikana se pitää sinut hereillä: suihkaus ilmaan ja keskittymiskykysi on taas parempi. <br/>
+          Sisältää bergamotin, veriappelsiinin, mandariinin ja piparmintun 100% luonnollisia eteerisiä öljyjä.
       tarra: |-
           RY Raikas ja  piristävä huonetuoksu, joka tuo virkeyttä ja keskittymiskykyä.
           Käytä Fresh -huonesprayta, kun kaipaat raikastusta olohuoneessa, wc:ssä tai matkalla hotellihuoneessa.
@@ -30,12 +23,10 @@ fi:
     header: Huonetuoksut
     joy: 
       header: "Joy of Life – Iloa elämään!"
-      link: "joy-of-life-iloa-elaemaeaen"
+      link: joy-of-life-iloa-elaemaeaen
       main: |-
-          Tämä lempeä hedelmäinen tuoksu tuo iloisen tunnelman mukanaan. 
-          Jos tarvitset tunnelman kohottajaa, niin suihkaus tätä
-          elämäniloa huokuvaa spraytä luo iloisemman ilmapiirin.<br/>
-          Sisältää: pelargonin, bergamotin ja salvian eteerisiä öljyjä.
+          Tämä ihana, piristävän raikas ja lempeä tuoksu tuo iloisen tunnelman mukanaan. Jos tarvitset tunnelman kohottajaa, suihkaus tätä elämäniloa huokuvaa spraytä luo iloisemman ilmapiirin. Sopii käytettäväksi kotona tai matkoilla-kaikkialla missä kaipaat iloisempaa ja kepempää tunnelmaa! <br/>
+          Sisältää pelargonin, bergamotin ja salvian 100% luonnollisia eteerisiä öljyjä ja alkoholia.
       tarra: |-
           RY Tämä lempeä ja  hedelmäinen tuoksu tuo iloisen tunnelman mukanaan. 
           Jos tarvitset tunnelman kohottajaa, suihkaus tätä elämäniloa huokuvaa spraytä luo iloisemman ilmapiirin.
@@ -44,15 +35,15 @@ fi:
     list: |-
         Huoneprayt sopivat hyvin ilman raikastamisen huoneessa, neutraloimaan epämiellyttäviä hajuja tai 
         luomaan miellyttävän tuoksuvan tunnelman huoneeseen tai tilaan.
-        Huonesprayt sisältävät luonnollisia eteerisiä öljyjä ja ovat siksi luonnollisia, mutta tehokkaita.
-        Niitä voi käyttää kotona, wc:ssä, toimistoissa, autossa, hoitohuoneissa tai sairaaloissa.
+        Huonesprayt sisältävät luonnollisia eteerisiä öljyjä. Siksi ne ovat luonnollisia mutta tehokkaita.
+        Sopivat hyvin käytettäviksi kotona, wc:ssä, toimistoissa, autossa, hoitohuoneissa tai sairaaloissa.
     products: "fresh ambiance joy security"
     security: 
       header: "Security – Turvallisuuden tunne"
-      link: "security-turvallisuuden-tunne"
+      link: security-turvallisuuden-tunne
       main: |-
-          Lämmin, pehmeä ja hedelmäinen tuoksu, joka tuo lempeän ja pehmeän ilmapiirin tilaan. Tilassa olijat voivat tuntea, kuinka heistä pidetään hyvä huoli.<br/>
-          Sisältää: vaniljan, santelipuun, kaakaon, tonkapavun ja appelsiinin eteerisiä öljyjä
+          Lämmin, pehmeä ja hedelmäinen tuoksu, joka tuo huoneeseen lempeän ilmapiirin. Tilassa olijat voivat tuntea, kuinka heistä pidetään hyvä huoli. <br/>
+          Sisältää vaniljan, santelipuun, kaakaon, tonkapavun ja appelsiinin 100% luonnollisia eteerisiä öljyjä. Valmistusaineet: alkoholi, luonnolliset eteeriset öljyt.
       tarra: |-
           RY Lämmin, pehmeä ja hedelmäinen tuoksu, joka tuo huoneeseen lempeän ilmapiirin. 
           Tilassa olijat voivat tuntea, kuinka heistä pidetään hyvä huoli.

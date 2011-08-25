@@ -2,30 +2,25 @@
 fi: 
   womans_parfumes: 
     anima: 
+      fact: "100% luonnollisista aineista. 98% sertifioitavista  ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä."
       header: Anima
       link: anima
-      main: |-
-          Anima
-          Luomuparfyymi, joka tuo esille olemuksesi kätketyn hymyn! Syvällinen ja dynaaminen, mutta samalla hedelmäisen raikas greipin, mandariinin ja appelsiinin vivahteineen. Sydäntuoksu sisältää mimosan ja appelsiininkukkien aurinkoista hehkua pyöristettynä metsäisillä tuoksuilla ja benzoella. Farfallan luomuparfyymit ovat aitoja ja luonnollisia, ja niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. 98% ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä. e
-      sub_header: ""
+      main: "Luomuparfyymi, joka tuo esille olemuksesi kätketyn hymyn! Syvällinen ja dynaaminen, mutta samalla hedelmäisen raikas greipin, mandariinin ja appelsiinin vivahteineen. Sydäntuoksu sisältää mimosan ja appelsiininkukkien aurinkoista hehkua pyöristettynä metsäisillä tuoksuilla ja benzoella."
+      sub_header: "Syvällinen, dynaaminen ja raikas"
       tarra: |-
           RY Luomuparfyymi, joka tuo esille olemuksesi kätketyn hymyn! Syvällinen ja dynaaminen, mutta samalla hedelmäisen raikas greipin, mandariinin ja appelsiinin vivahteineen. Sydäntuoksu sisältää mimosan ja appelsiininkukkien aurinkoista hehkua  
           pyöristettynä metsäisillä tuoksuilla ja benzoella. Farfallan luomuparfyymit ovat aitoja ja luonnollisia, ja niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. 98% ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä.
     header: "Eau de Parfum"
     list: |-
-        Farfallan luomuparfyymit ovat aitoja, luonnollisia ja korkealaatuisia. Ne
-        ovat saaneet BDIH sertifikaatin. Nämä tuotteet ovat vieläkin korkealaatuisempia kuin 
-        luomusertifikaatti vaatii: 98% aineesta on luomutuotannosta. 
-        Parfyymien pohjana Farfalla käyttää luomualkoholia ja luomukukkaisvesiä. 
-        Tuotteita ei ole testattu eläimillä.
+        Farfallan luomuparfyymit ovat aitoja, luonnollisia ja korkealaatuisia. Niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. Farfallan luomuparfyymeilla on BDIH -sertifikaatti (luonnonkosmetiikkaa luomuainesosin). Farfalla on kuitenkin tehnyt parfyymeista vielä korkealaatuisempia kuin sertifikaatti vaatii:  98% sertifioitavista aineista on luomua. 
+        Tuotteita ei ole testattu eläimillä. Sopii vegaaneille.
     main: ~
     nuvola: 
+      fact: "100% luonnollisista aineista. 98% sertifioitavista ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä."
       header: Nuvola
       link: nuvola
-      main: |-
-          Nuvola
-          Luomuparfyymi, jonka tuoksu on raikas ja modernin naisellinen. Neroli, bergamotti, ylang ylang, vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia. Saat miesten päät kääntymään! Farfallan luomuparfyymit ovat aitoja ja luonnollisia, ja niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. 98% ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä. e
-      sub_header: ""
+      main: "Luomuparfyymi, jonka tuoksu on raikas ja modernin naisellinen. Neroli ja  bergamotti tuovat tuovat raikkautta ja elämäniloa, kun taas ylang ylang, vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia, naisellisella pehmeydellään. Saat miesten päät kääntymään!"
+      sub_header: "Raikas ja modernin naisellinen"
       tarra: "RY Luomuparfyymi, jonka tuoksu on raikas ja modernin naisellinen. Neroli, bergamotti, ylang ylang, vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia. Saat miesten päät kääntymään! Farfallan luomuparfyymit ovat aitoja ja luonnollisia, ja niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. 98% ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä."
     products: "anima nuvola"
-    sub_header: "Luomu parfyymi naisille/ women's natural parfumes"
+    sub_header: "Luomuparfyymit naisille"
