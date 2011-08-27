@@ -16,8 +16,6 @@ test:
   timeout: 5000
 
 production:
-  adapter: mysql
-  encoding: utf8
-  username: dancing_kauppa
-  password: aurinko
-  database: dancing_aurinko
+  adapter: sqlite3
+  database: db/production.sqlite3
+

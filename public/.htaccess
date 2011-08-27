@@ -1,2 +1,4 @@
 RailsBaseURI /
-PassengerAppRoot /home/dancing/farfalla
+PassengerAppRoot /var/www/vhosts/rubydesign.fi/farfalla
+Options -MultiViews
+
