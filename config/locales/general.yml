@@ -24,7 +24,7 @@ fi:
   menu: "face_care body_care hair_care parfumes aroma_sprays crystal_balance men"
   menu_bar: "index quality standards  tukku"
   parfumes: 
-    menu_text: "Luomu parfyymit"
+    menu_text: "Luomuparfyymit"
     sub_menu: "womans_parfumes body_sprays"
   quality: 
     header: Laatu
