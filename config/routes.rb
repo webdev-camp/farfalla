@@ -1,4 +1,4 @@
-Farfalla::Application.routes.draw do |map|
+Farfalla::Application.routes.draw do 
 
   resources :translations
   
