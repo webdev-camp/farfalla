@@ -1,7 +1,9 @@
 Farfalla::Application.routes.draw do 
 
   resources :translations do
-    get :files
+    collection do
+       get :files
+     end
   end
   
   get '/:page.html',

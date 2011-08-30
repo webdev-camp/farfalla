@@ -1,15 +1,25 @@
 class TranslationsController < ApplicationController
   @@keys = {}
+  layout :false
   
   def index
     @page =  "index"
   end
 
+  def files
+    @page = "quality"
+    root = File.join(Rails.root , "config" , "locales")
+    @fis = Dir.glob(File.join(root,"**" , "*.yml")).collect {|f| f.sub!("#{root}/","")}
+    render :template => "translations/files"
+  end
+  
   def show
     
   end
-  def files
-    
+  def ffiles
+    Dir["#{Rails.root}/config/locales/*.yml"].each do |f|
+      flatten_keys(YAML.load_file(f)["fi"] , "fi").each {|k| @@keys[k] = f } 
+    end
   end
   def create
     key = params["key"] 
