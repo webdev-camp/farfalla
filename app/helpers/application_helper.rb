@@ -33,12 +33,12 @@ module ApplicationHelper
   
   if Rails.env != "test"
     def t( key  )
-      "#{I18n.t(key)} #{translate_link(key)}"
+      "#{I18n.t(key)}#{translate_link(key)}"
     end
   end
   def translate_link key  
     return "" unless edit_mode
-    "<a href='/translations/?key=#{key}&return=#{this_page}'>e</a>"
+    " <a href='/translations/?key=#{key}&return=#{this_page}'>e</a>"
   end
   def groups
     ret = []

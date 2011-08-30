@@ -1,48 +1,17 @@
 --- 
 fi: 
   basic: 
-    bb_cream: 
-      fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista ainesosista luomua."
-      header: "Bliss Cream"
-      main: |
-          Ainutlaatuinen, hieno voide vaativiin tilanteisiin, joissa tahdot 
-          olla parhaimmillasi. 
-          Sisältää Orinoco –pähkinää ja brasilialaista pippuripuuta, 
-          joilla on “onnellisuushormoni” dopamiinin erittymistä edistävä vaikutus. 
-          Kun sinun on hyvä olla, säteilet sitä myös ulospäin, ja olet kaunis. 
-          Luonnonmineraaleista saadut hohtohiukkaset peittävät pieniä epäpuhtauksia, ryppyjä ja juonteita.<br/>
-          Ihanteellinen voide käytettäväksi illalla ennen ulos lähtöä, mutta myös kiireiseen elämänrytmiin, 
-          haastaviin tilanteisiin, mukaan matkalle jne, koska tahansa kun tahdot 
-          säteillä hyvää oloa ja kauneutta!
-      tarra: |-
-          Farfalla Basic care Deo Roll-on<br/>
-          Luonnollinen deodorantti – pehmeää raikkautta ihollesi. Tahraamaton, miedon ja miellyttävän tuoksuinen deo roll-on päivittäiseen käyttöön. Sisältää luomulaatuista amerikantaikapähkinäuutetta (Hamamelis virginiana) ja luomuruusuvettä. Sopii herkälle iholle. Ei sisällä alumiinia.<br/>
-          Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.<br/>
-          <br/>
-          Farfalla Basic care Käsivoide<br/>
-          Luomulaatuinen, hellä ja hyväntuoksuinen käsivoide päivittäiseen käyttöön. Suojaa, ravitsee ja raikastaa ihoa. Luomujojobaöljy, -kamomillavesi ja -centella asiatica (gotu kola) hoitavat ja kosteuttavat. Greipin ja nerolin eteeriset öljyt saavat herkät ja rasittuneet kädet pehmeiksi. Mieto ja raikas tuoksu - sopii herkällekin iholle. <br/>
-          Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.<br/>  
-          <br/>
-          Farfalla Basic care Jalkavoide<br/>
-          Luomulaatuinen, ihanantuntuinen voide jalkojen päivittäiseen hoitoon. Huolella valitut eteeriset öljyt (sypressi, salvia, kamomilla ja mänty) virkistävät ja elvyttävät. Avokado-, manteli- ja kuismaöljy hoitavat laiminlyötyjä jalkoja ja pitävät ne suloisen pehmeinä. Mieto ja raikas tuoksu - sopii herkällekin iholle.<br/>
-          Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+    deo: 
+      fact: Facts
+      header: Deo
+      main: "Main text"
+    foot: 
+      fact: ""
+      header: "Foot Cream"
+    hand: 
+      fact: ""
+      header: "Hand Cream"
     header: "Basic Care"
-    list: |-
-        1. antaa kasvojen iholle “vastarakastuneen” hehkun <br/>
-        2. elvyttää ihoa stressaavissa tilanteissa <br/>
-        3. suojaa ympäristön vaikutuksilta <br/>
-        4. hohtavat mineraalihiukkaset peittävät pieniä epäpuhtauksia ja juonteita
-    main: |-
-        <em>Orinoco -pähkinä ja brasilialainen pippuripuu </em><br/>
-        Orinoco –pähkinässä on runsaasti hyvälaatuisia Omega-3 –rasvahappoja. 
-        Sillä ja brasilialaisella pippuripuulla on onnellisuushormoni dopamiinin erittymistä edistävä vaikutus. 
-        Muiden hyvien vaikutustensa lisäksi dopamiini parantaa verenkiertoa –näytät hehkeältä ja 
-        vastarakastuneelta! Loistava apu silloin kun ihosi tarvitsee erityistä huolenpitoa: 
-        esiintymistilanteisiin, stressaaviin hetkiin kiireisen työrupeaman keskellä, matkoille. <br/> <br/>
-        <em>Hohtavat mineraalihiukkaset </em><br/>
-        Luonnonmineraaleista saadut hohtohiukkaset peittävät pieniä epäpuhtauksia ja juonteita. <br/> <br/>
-        <em>Luonnolliset, syvävaikutteiset eteeriset öljyt  </em><br/>
-        Vaniljan, kookoksen ja bergamotin eteeriset öljyt edistävät tehokkaiden ainesosien vaikutuksia ja "onnellisuusefektiä".
-    main_header: "Tehokkaat, vaikuttavat aineosat"
-    products: bb_cream
-    sub_header: "olet kaunis – hyvän olon tuotteet"
+    list: More
+    products: "deo hand foot"
+    sub_header: Header

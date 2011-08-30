@@ -5,6 +5,12 @@ class TranslationsController < ApplicationController
     @page =  "index"
   end
 
+  def show
+    
+  end
+  def files
+    
+  end
   def create
     key = params["key"] 
     value = params["value"] 
