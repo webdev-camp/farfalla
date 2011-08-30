@@ -38,7 +38,7 @@ module ApplicationHelper
   end
   def translate_link key  
     return "" unless edit_mode
-    " <a href='/translations/?key=#{key}&return=#{this_page}'>e</a>"
+    " <a href='/translations/#{key}/edit?return=#{this_page}'>e</a>"
   end
   def groups
     ret = []

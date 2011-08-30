@@ -2,11 +2,11 @@
 
 <%= form_tag translations_path do %>
 <input type="hidden" name="return" value="<%=params[:return]%>" /> 
-<input type="hidden" name="key" value="<%=params[:key]%>" /> 
-    <h3> <%= params[ :key ].gsub('.',' ').humanize %> </h3>  
+<input type="hidden" name="id" value="<%=params[:id]%>" /> 
+    <h3> <%= params[ :id ].gsub('.',' ').humanize %> </h3>  
   <p>
     Teksti: <br />
-   <textarea rows="20" cols="80" name="value" id="value" ><%= params[:value] ? params[:value] : I18n.t(params[ :key ])%></textarea>  
+   <textarea rows="20" cols="80" name="value" id="value" ><%= params[:value] ? params[:value] : I18n.t(params[ :id ])%></textarea>  
   </p>
   <p><%= submit_tag "Lähetä" %></p>
   <p> <a href="<%=params[:return]%>"> Peru </p>

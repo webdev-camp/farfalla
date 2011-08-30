@@ -1,6 +1,5 @@
 class TranslationsController < ApplicationController
   @@keys = {}
-  layout :false
   
   def index
     @page =  "index"
@@ -13,6 +12,10 @@ class TranslationsController < ApplicationController
     render :template => "translations/files"
   end
   
+  def edit
+    @page =  "index"
+    render :template => "translations/index"
+  end
   def show
     
   end
@@ -22,12 +25,12 @@ class TranslationsController < ApplicationController
     end
   end
   def create
-    key = params["key"] 
-    value = params["value"] 
+    key = params[:id] 
+    value = params[:value] 
     value = value.strip if value 
     unless key && value
       flash[:error] = "Internal error. Didn't find key #{key}"
-      redirect_to redirect_to params["return"] || "/index.html"
+      redirect_to params["return"] || "/index.html"
       return
     end
     unless file = get_file
@@ -78,7 +81,7 @@ class TranslationsController < ApplicationController
   end
   
   def get_file 
-    key = params[:key]
+    key = params[:id]
     if @@keys.empty?
       Dir["#{Rails.root}/config/locales/*.yml"].each do |f|
         flatten_keys(YAML.load_file(f)["fi"] , "fi").each {|k| @@keys[k] = f } 
@@ -93,7 +96,7 @@ class TranslationsController < ApplicationController
       #puts "HIT #{k}  to #{key}" if k.start_with? key
       return v if k.start_with? key
     end
-    fash[:error] = "Internal error: File not found for key #{params[:key]}"
+    fash[:error] = "Internal error: File not found for key #{params[:id]}"
     return nil
   end
   
