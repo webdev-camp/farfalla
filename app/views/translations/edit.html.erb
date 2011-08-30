@@ -9,6 +9,7 @@
    <textarea rows="20" cols="80" name="value" id="value" ><%= params[:value] ? params[:value] : I18n.t(params[ :id ])%></textarea>  
   </p>
   <p><%= submit_tag "Lähetä" %></p>
-  <p> <a href="<%=params[:return]%>"> Peru </p>
+  <p> <a href="<%=params[:return]%>"> Peru </a></p>
 <% end %>
 
+<%= link_to "All Translations" , translations_url %>

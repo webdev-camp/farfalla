@@ -14,7 +14,6 @@ class TranslationsController < ApplicationController
   
   def edit
     @page =  "index"
-    render :template => "translations/index"
   end
   def show
     
