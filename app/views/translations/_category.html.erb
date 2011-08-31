@@ -1,0 +1,8 @@
+<tr>
+  <td> <%= object.tag %> </td>
+  <td> <%= object.file %> </td>
+  <td>  </td>
+</tr>
+<% object.children.each do |kid| %>
+  <%= render :partial => kid.class.name.downcase , :locals => { :object => kid }%>
+<%end%>

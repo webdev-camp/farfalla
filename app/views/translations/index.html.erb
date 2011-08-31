@@ -1,0 +1,20 @@
+<table border="0" cellspacing="5" cellpadding="5">
+  <tr><th>Roots</th>
+    <td>    
+      <% @roots.each do |f| %>
+        <%=link_to f , translation_url( :id => f ) %>
+      <%end%>
+      </td>
+  </tr>
+</table>
+<table>
+  <tr><th>Files</th><th>and they're roots</th></tr>
+  <% @files.each do |file , keys | %>
+  <tr>    <td><%=file%> </td>
+      <td> <% keys.each do |key|%>
+        <%=link_to key , translation_url(:id=>key , :file => file ) %>
+      <%end%>
+    </td>
+  </tr>
+  <%end%>
+</table>

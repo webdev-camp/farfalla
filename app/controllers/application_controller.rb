@@ -6,6 +6,7 @@ class ApplicationController < ActionController::Base
   
   def locale
     I18n.locale = :fi
+    @page =  params[:page] || "index"
   end
 
 end

@@ -2,18 +2,25 @@ class TranslationsController < ApplicationController
   @@keys = {}
   
   def index
-    @page =  "index"
+    filenames = all_files
+    @files = []
+    @roots = []
+    filenames.each do |f|
+      hash =  YAML.load_file("#{Rails.root}/config/locales/#{f}")
+      @files << [ f , hash.keys ]
+      @roots << hash.keys
+    end
+    @roots.flatten!
+    @roots.uniq!
   end
 
   def files
-    @page = "quality"
-    root = File.join(Rails.root , "config" , "locales")
-    @fis = Dir.glob(File.join(root,"**" , "*.yml")).collect {|f| f.sub!("#{root}/","")}
+    @fis = all_files
     render :template => "translations/files"
   end
   
   def edit
-    @page =  "index"
+
   end
   def show
     
@@ -54,6 +61,11 @@ class TranslationsController < ApplicationController
 
   protected
 
+  def all_files
+    root = File.join(Rails.root , "config" , "locales")
+    Dir.glob(File.join(root,"**" , "*.yml")).collect {|f| f.sub!("#{root}/","")}
+  end
+  
   def check_write key , value
     hasch = { key => value }
     file = StringIO.new
