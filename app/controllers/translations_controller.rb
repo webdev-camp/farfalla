@@ -23,7 +23,34 @@ class TranslationsController < ApplicationController
 
   end
   def show
-    
+    files = params[:file] ? [ params[:file] ] : all_files
+    @translations = load_translations files
+    prefix_filter @translations , params[:id]
+  end
+  
+  def prefix_filter all , prefix 
+    all.delete_if { |key , val| !key.starts_with?(prefix) }
+  end
+  
+  def load_translations files
+    all = {}
+    files.each do |file|
+      hash =  YAML.load_file("#{Rails.root}/config/locales/#{file}")
+      hash.each do |root , these|
+        add_to all , root , these
+      end
+    end
+    all
+  end
+  
+  def add_to all , root , these
+    these.each do |sub , more |
+      if more.class == Hash
+        add_to all , "#{root}.#{sub}" , more
+      else
+        all["#{root}.#{sub}"] = more
+      end
+    end
   end
   def ffiles
     Dir["#{Rails.root}/config/locales/*.yml"].each do |f|

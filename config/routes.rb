@@ -1,6 +1,6 @@
 Farfalla::Application.routes.draw do 
 
-  resources :translations ,  :constraints => { :id => /\w{2,}(\.\w{2,})?/ } do
+  resources :translations ,  :constraints => { :id => /.*/ } do
     collection do
        get :files
      end
