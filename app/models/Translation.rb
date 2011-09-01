@@ -1,10 +1,9 @@
-class Translation
+class Translation < Category
   
-  attr_accessor :tag , :file , :text  
+  attr_accessor  :text  
   
   def initialize tag , file  , text 
-    @tag = tag
-    @file = file
+    super( tag , file )
     @text = text || ""
   end
 

@@ -1,10 +1,7 @@
 Farfalla::Application.routes.draw do 
 
-  resources :translations ,  :constraints => { :id => /.*/ } do
-    collection do
-       get :files
-     end
-  end
+  match "translations/file/:file" , :to => "translations#file" , :as => "file" ,  :constraints => { :file => /.*/ } 
+  resources :translations ,  :constraints => { :id => /.*/ } 
   
   get '/:page.html',
         :to => 'page#index',

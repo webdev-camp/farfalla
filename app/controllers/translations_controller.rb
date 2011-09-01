@@ -1,77 +1,50 @@
 class TranslationsController < ApplicationController
-  @@keys = {}
   
   def index
-    filenames = all_files
-    @files = []
-    @roots = []
-    filenames.each do |f|
-      hash =  YAML.load_file("#{Rails.root}/config/locales/#{f}")
-      @files << [ f , hash.keys ]
-      @roots << hash.keys
-    end
-    @roots.flatten!
-    @roots.uniq!
+    @files = all_files
+    load_all_translations
+    depth_filter 2
   end
 
-  def files
-    @fis = all_files
-    render :template => "translations/files"
+  def file
+    @file = params[:file] 
+    load_translation @file
+    category_filter
   end
   
   def edit
-
+    @key = params[:id]
+    locale = @key[0,2]
+    key = @key[3  .. -1 ]
+    @text = I18n.t( key , :locale => locale )
+#    params[:value] ? params[:value] : I18n.t(params[ :id ]
   end
   def show
-    files = params[:file] ? [ params[:file] ] : all_files
-    @translations = load_translations files
-    prefix_filter @translations , params[:id]
+    load_all_translations
+    category_filter
+    puts "trans #{@translations.keys[0,10].join('--')}"
+    prefix_filter params["id"]
+    puts "filter #{params[:id]}"
   end
   
-  def prefix_filter all , prefix 
-    all.delete_if { |key , val| !key.starts_with?(prefix) }
-  end
-  
-  def load_translations files
-    all = {}
-    files.each do |file|
-      hash =  YAML.load_file("#{Rails.root}/config/locales/#{file}")
-      hash.each do |root , these|
-        add_to all , root , these
-      end
-    end
-    all
-  end
-  
-  def add_to all , root , these
-    these.each do |sub , more |
-      if more.class == Hash
-        add_to all , "#{root}.#{sub}" , more
-      else
-        all["#{root}.#{sub}"] = more
-      end
-    end
-  end
-  def ffiles
-    Dir["#{Rails.root}/config/locales/*.yml"].each do |f|
-      flatten_keys(YAML.load_file(f)["fi"] , "fi").each {|k| @@keys[k] = f } 
-    end
-  end
   def create
     key = params[:id] 
     value = params[:value] 
     value = value.strip if value 
+    load_all_translations
     unless key && value
       flash[:error] = "Internal error. Didn't find key #{key}"
       redirect_to params["return"] || "/index.html"
       return
     end
-    unless file = get_file
-      redirect_to redirect_to params["return"] || "/index.html"
+    unless trans = @translations[key]
+        flash[:error] = "Internal error: File not found for key #{params[:id]}"
+      redirect_to params["return"] || "/index.html"
       return
     end
+    file = File.join(Rails.root , "config" , "locales" , trans.file)
     hash = YAML.load_file file
-    replace_key hash["fi"] , key , value
+    replace_key hash , key , value
     content = hash.ya2yaml
     begin 
       YAML.load content
@@ -83,11 +56,46 @@ class TranslationsController < ApplicationController
     io = File.open( file , "w" )
     io << content
     io.close
+    flash[:notice] = "Saved the key #{key}"
     redirect_to params["return"] || "/index.html"
   end
 
   protected
 
+  def category_filter 
+    @translations.delete_if { |key , val| val.class == Category }
+  end
+  def prefix_filter  prefix 
+    @translations.delete_if { |key , val|  !(prefix == key[0,prefix.length]) }
+  end
+  def depth_filter max
+    @translations.delete_if { |key,val| key.split(".").length > max }
+  end
+  
+  def load_all_translations  
+    @translations = {}
+    all_files.each do |file|
+     load_translation file 
+    end
+  end
+  def load_translation file 
+    hash =  YAML.load_file("#{Rails.root}/config/locales/#{file}")
+    @translations = {} unless @translations
+    hash.each do |root , these|
+      add_children file , root , these
+    end
+  end
+  def add_children file , root , these
+    these.each do |sub , more |
+      tag = "#{root}.#{sub}"
+      if more.class == Hash
+        add_children file , tag , more
+        @translations[tag] = Category.new tag , file 
+      else
+        @translations[tag] = Translation.new tag , file , more
+      end
+    end
+  end
   def all_files
     root = File.join(Rails.root , "config" , "locales")
     Dir.glob(File.join(root,"**" , "*.yml")).collect {|f| f.sub!("#{root}/","")}
@@ -117,27 +125,7 @@ class TranslationsController < ApplicationController
     end
     rep[last] = value
   end
-  
-  def get_file 
-    key = params[:id]
-    if @@keys.empty?
-      Dir["#{Rails.root}/config/locales/*.yml"].each do |f|
-        flatten_keys(YAML.load_file(f)["fi"] , "fi").each {|k| @@keys[k] = f } 
-      end
-    end
-    k = @@keys["fi.#{key}"]
-    return k if k
-    ks = key.split(".")
-    ks.pop
-    key = "fi." + ks.join(".")
-    @@keys.each do | k , v |
-      #puts "HIT #{k}  to #{key}" if k.start_with? key
-      return v if k.start_with? key
-    end
-    fash[:error] = "Internal error: File not found for key #{params[:id]}"
-    return nil
-  end
-  
+    
   def flatten_keys(hash , prefix )
     ret = []
     hash.each do |key, value|
