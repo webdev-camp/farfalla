@@ -6,7 +6,7 @@ class TranslationsController < ApplicationController
     depth_filter 2
   end
   def missing
-    locale = params[:locale]
+    locale = params[:id]
     load_all_translations
     current = I18n.locale.to_s
     @id = locale
@@ -30,16 +30,17 @@ class TranslationsController < ApplicationController
     render :template => "translations/show"
   end
   def file
-    @file = params[:file] 
+    @file = params[:id] 
     load_translation @file
     category_filter
+    @id = @translations.first[0][0,2] #TODO assumes one root
   end
   
   def edit
     @key = params[:id]
-    locale = @key[0,2]
-    key = @key[3  .. @key.length ]
-    @text = I18n.t( key , :locale => locale )
+    load_all_translations
+    t = @translations[@key] 
+    @text = t ? t.text : "MISSING" 
 #    params[:value] ? params[:value] : I18n.t(params[ :id ]
   end
   def show
@@ -92,13 +93,19 @@ class TranslationsController < ApplicationController
   def category_filter 
     @translations.delete_if { |key , val| val.class == Category }
   end
-  def prefix_filter  prefix 
-    @translations.delete_if { |key , val|  prefix != key[0 .. prefix.length-1]  }
+  def prefix_filter  prefixes
+    prefixes = [prefixes] if prefixes.class == String 
+    @translations.each_key do |key| 
+      del = true
+      prefixes.each do |prefix| # all this because of a bug(?!) in starts_with
+        del = false if prefix == key[0 .. prefix.length-1]  
+      end
+      @translations.delete(key) if del
+    end
   end
   def depth_filter max
     @translations.delete_if { |key,val| key.split(".").length > max }
   end
-  
   def load_all_translations  
     @translations = {}
     all_files.each do |file|

@@ -12,10 +12,8 @@ module TranslationsHelper
   end
   def keys_with_prefix from , pre
     return [] unless from
-    puts "From #{from}"
     from = from[ (pre.length + 1 ) .. from.length]
     pre = "#{pre}."
-    puts "From #{from}"
     all = from.split(".").reverse
     ret = [[prefix = all.pop , "#{pre}#{prefix}" ]]
     all.reverse.each do |k|
