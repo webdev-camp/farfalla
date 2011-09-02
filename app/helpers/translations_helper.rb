@@ -12,4 +12,14 @@ module TranslationsHelper
     ret
   end
 
+  if Rails.env != "test"
+    def t( key  )
+      translate_link(key)
+    end
+  end
+  def translate_link key  
+    return "" if Rails.env == "test"
+    I18n.t(key ) + link_to( " e" , edit_translation_url( "#{I18n.locale}.#{key}" , :return => request.fullpath))
+  end
+
 end

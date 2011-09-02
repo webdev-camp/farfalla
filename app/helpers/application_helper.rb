@@ -31,15 +31,6 @@ module ApplicationHelper
     Rails.env != "test"
   end
   
-  if Rails.env != "test"
-    def t( key  )
-      "#{I18n.t(key)}#{translate_link(key)}"
-    end
-  end
-  def translate_link key  
-    return "" unless edit_mode
-    " <a href='/translations/#{key}/edit?return=#{this_page}'>e</a>"
-  end
   def groups
     ret = []
     I18n.t( "menu").split(" ").each do |g|
