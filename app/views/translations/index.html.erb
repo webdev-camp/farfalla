@@ -2,7 +2,7 @@
   <tr><th>Roots</th><th>first</th><th>two</th><th>levels</th></tr>
   <tr>
       <% i = 0 %>
-      <% @translations.each do |tag , val | %>
+      <% @translations.sort{|key,value| key<=>value}.each do |tag , val | %>
         <td>
         <%=link_to tag , translation_url( tag ) %>
         </td>
