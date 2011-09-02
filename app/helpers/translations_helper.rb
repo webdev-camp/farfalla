@@ -1,10 +1,21 @@
 module TranslationsHelper
 
-  def keys from , pre = nil
+  def keys from 
     return [] unless from
-    puts "From - #{from}"
-    from = (pre == nil) ? from : from[ (pre.length + 1 ) , from.length]
-    pre = (pre == nil ) ? "" : "#{pre}."
+    all = from.split(".").reverse
+    ret = [[prefix = all.pop , prefix ]]
+    all.reverse.each do |k|
+      prefix =  "#{prefix}.#{k}"
+      ret << [k , "#{prefix}"]
+    end
+    ret
+  end
+  def keys_with_prefix from , pre
+    return [] unless from
+    puts "From #{from}"
+    from = from[ (pre.length + 1 ) .. from.length]
+    pre = "#{pre}."
+    puts "From #{from}"
     all = from.split(".").reverse
     ret = [[prefix = all.pop , "#{pre}#{prefix}" ]]
     all.reverse.each do |k|

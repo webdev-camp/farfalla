@@ -8,7 +8,7 @@
   <% @translations.each do |f , trans| %>
   <tr>
     <td>    
-      <% all = keys(f , @id )
+      <% all = keys_with_prefix(f , @id )
         last = all.pop
         all.each do |base, full| %>
         <%=link_to base , translation_url( :id => full ) %>

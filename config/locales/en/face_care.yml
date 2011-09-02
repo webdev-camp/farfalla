@@ -2,35 +2,37 @@ en:
   face_care:
     header: Organic Face Care 
     sub_header: feel beautiful
-    list:   <strong> Organic Cosmetics with Active Ingredients </strong><br/>
-              visibly effective. noticeably gentle. naturally innovative.<br/><br/>
-              <em>"For an individual, holistic skin care 
-              regimen, I combine the productsto suit my personal needs." </em>
-               
+    list: |-
+      <strong> Organic Cosmetics with Active Ingredients </strong><br/>
+      visibly effective. noticeably gentle. naturally innovative.<br/><br/>
+      <em>"For an individual, holistic skin care 
+      regimen, I combine the productsto suit my personal needs." </em>
     header: Modular care system
-    main: These organic cosmetics with active ingredients have been specifically designed 
-        to suit a modular system. From the various product lines, you can choose the
-        cleansing and care products that best suit your skin. Depending on the amount 
-        of oil, moisture and special care your skin needs, you may choose from
-    effective:
-          Effective – thanks to innovative plant ingredients <br/>
-            These sophisticated formulas are based on innovative, active plant ingredients,
-            all of which have been thoroughly tested for their effectiveness. Wherever possible, 
-            only ingredients of certified organic origin are used. This highly-developed 
-            product range offers a solution for the individual care needs of every type and 
-            property of skin. <br/>
-          <br/>
-          Effective – thanks to organic vegetable oils <br/>
-            Highly valuable, cold-pressed and unadulterated vegetable oils of the very best 
-            organic quality are rich in natural active ingredients. Thanks to the smooth interplay 
-            of a diversity of components, the skin is cared for in a holistic way. <br/>
-          <br/>
-          Effective – thanks to mountain spring water and floral waters. <br/>
-          Instead of tap-water, our products contain floral waters of organic quality and 
-            mountain spring water drawn from a certified mineral spring, situated at 2470 
-            metres above sea level in the Swiss Alps.<br/>
-      natrue:   All products are certified in accordance with the NaTrue certification of organic 
-            and natural cosmetics, i.e. either as “Certified Organic Cosmetics” or 
-            as “Natural Cosmetics with a Portion of Organic Ingredients”. <br/>
+    main: |-
+      These organic cosmetics with active ingredients have been specifically designed 
+      to suit a modular system. From the various product lines, you can choose the
+      cleansing and care products that best suit your skin. Depending on the amount 
+      of oil, moisture and special care your skin needs, you may choose from
+    effective: |-
+      Effective – thanks to innovative plant ingredients <br/>
+      These sophisticated formulas are based on innovative, active plant ingredients,
+      all of which have been thoroughly tested for their effectiveness. Wherever possible, 
+      only ingredients of certified organic origin are used. This highly-developed 
+      product range offers a solution for the individual care needs of every type and 
+      property of skin. <br/>
+      <br/>
+      Effective – thanks to organic vegetable oils <br/>
+      Highly valuable, cold-pressed and unadulterated vegetable oils of the very best 
+      organic quality are rich in natural active ingredients. Thanks to the smooth interplay 
+      of a diversity of components, the skin is cared for in a holistic way. <br/>
+      <br/>
+      Effective – thanks to mountain spring water and floral waters. <br/>
+      Instead of tap-water, our products contain floral waters of organic quality and 
+      mountain spring water drawn from a certified mineral spring, situated at 2470 
+      metres above sea level in the Swiss Alps.<br/>
+    natrue: |-
+      All products are certified in accordance with the NaTrue certification of organic 
+      and natural cosmetics, i.e. either as “Certified Organic Cosmetics” or 
+      as “Natural Cosmetics with a Portion of Organic Ingredients”. <br/>
       
     

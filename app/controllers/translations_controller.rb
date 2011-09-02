@@ -5,7 +5,30 @@ class TranslationsController < ApplicationController
     load_all_translations
     depth_filter 2
   end
-
+  def missing
+    locale = params[:locale]
+    load_all_translations
+    current = I18n.locale.to_s
+    @id = locale
+    others = @translations.keys.dup.delete_if {|local| local.length != 2 } - [current]
+    puts "LOCS #{others.join('-')}"
+    category_filter
+    @translations.each do | key , val |
+      next unless key.starts_with? current
+      other_key = key.sub( current , locale)
+      if other_val = @translations[other_key]
+        if other_val.text == val.text  #flag copied text
+          other_val.text = "Same as default"
+        else # all ok  so remove
+          @translations.delete other_key
+        end
+      else # flag as completely missing
+        @translations[other_key] = Translation.new( other_key , "" , "missing")
+      end
+    end
+    prefix_filter locale 
+    render :template => "translations/show"
+  end
   def file
     @file = params[:file] 
     load_translation @file
@@ -15,7 +38,7 @@ class TranslationsController < ApplicationController
   def edit
     @key = params[:id]
     locale = @key[0,2]
-    key = @key[3  .. -1 ]
+    key = @key[3  .. @key.length ]
     @text = I18n.t( key , :locale => locale )
 #    params[:value] ? params[:value] : I18n.t(params[ :id ]
   end
@@ -27,7 +50,6 @@ class TranslationsController < ApplicationController
     prefix_filter params["id"]
     puts "filter #{params[:id]}"
   end
-  
   def create
     key = params[:id] 
     value = params[:value] 
@@ -71,7 +93,7 @@ class TranslationsController < ApplicationController
     @translations.delete_if { |key , val| val.class == Category }
   end
   def prefix_filter  prefix 
-    @translations.delete_if { |key , val|  !(prefix == key[0,prefix.length]) }
+    @translations.delete_if { |key , val|  prefix != key[0 .. prefix.length-1]  }
   end
   def depth_filter max
     @translations.delete_if { |key,val| key.split(".").length > max }

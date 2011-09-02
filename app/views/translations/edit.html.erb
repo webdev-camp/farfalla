@@ -1,9 +1,10 @@
 <h2>Käännökset   </h2> 
 
+<h3> <%= render :partial => "link" , :locals => {:key => @key }%></h3>  
+
 <%= form_tag translations_url   do %>
 <input type="hidden" name="return" value="<%=params[:return] ? params[:return] : request.referer%>" /> 
 <input type="hidden" name="id" value="<%=@key%>" /> 
-    <h3> <%= @key.gsub('.',' ').humanize %> </h3>  
   <p>
     Teksti: <br />
    <textarea rows="20" cols="80" name="value" id="value" ><%= @text %></textarea>  
