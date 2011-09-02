@@ -39,18 +39,22 @@ class TranslationsController < ApplicationController
     end
     unless trans = @translations[key]
         flash[:error] = "Internal error: File not found for key #{params[:id]}"
-      redirect_to params["return"] || "/index.html"
-      return
+        redirect_to params["return"] || "/index.html"
+        return
     end
     file = File.join(Rails.root , "config" , "locales" , trans.file)
     hash = YAML.load_file file
-    replace_key hash , key , value
+    if error = replace_key( hash , key , value)
+      flash[:error] = error
+      redirect_to params["return"] || "/index.html"
+      return
+    end
     content = hash.ya2yaml
     begin 
       YAML.load content
     rescue
       flash[:error] = "Could not save the value"
-      redirect_to :action => 'index' , :key => key , :value => value , :return => params[:return]
+      redirect_to :action => 'edit' , :id => key , :value => value , :return => params[:return]
       return
     end    
     io = File.open( file , "w" )
@@ -119,11 +123,12 @@ class TranslationsController < ApplicationController
     last = keys.pop
     rep = hash
     keys.each do |k|
-      #puts "REP #{rep != nil}"
-      #puts "K #{k}"
       rep = rep[ k ]
+      return "No category #{rep} found" unless rep
+      return "Category has text (but shouldn't): #{rep}" if rep.class == String
     end
     rep[last] = value
+    return nil
   end
     
   def flatten_keys(hash , prefix )
