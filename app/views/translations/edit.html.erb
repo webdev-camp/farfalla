@@ -1,7 +1,7 @@
 <h2>Käännökset   </h2> 
 
 <%= form_tag translations_url   do %>
-<input type="hidden" name="return" value="<%=params[:return]%>" /> 
+<input type="hidden" name="return" value="<%=params[:return] ? params[:return] : request.referer%>" /> 
 <input type="hidden" name="id" value="<%=@key%>" /> 
     <h3> <%= @key.gsub('.',' ').humanize %> </h3>  
   <p>
@@ -9,7 +9,7 @@
    <textarea rows="20" cols="80" name="value" id="value" ><%= @text %></textarea>  
   </p>
   <p><%= submit_tag "Lähetä" %></p>
-  <p> <a href="<%=params[:return]%>"> Peru </a></p>
+  <p> <a href="<%=params[:return] ? params[:return] : request.referer%>"> Peru </a></p>
 <% end %>
 
-<%= link_to "All Translations" , translations_url %>
+<%= render :partial => "footer"%>

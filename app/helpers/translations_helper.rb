@@ -1,6 +1,8 @@
 module TranslationsHelper
 
   def keys from , pre = nil
+    return [] unless from
+    puts "From - #{from}"
     from = (pre == nil) ? from : from[ (pre.length + 1 ) , from.length]
     pre = (pre == nil ) ? "" : "#{pre}."
     all = from.split(".").reverse

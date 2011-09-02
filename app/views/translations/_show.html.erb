@@ -1,14 +1,14 @@
 <table>
   
   <tr><th>Browse Roots <%=@translations.length%> 
-    <% keys( params[:id] ).each do |base, full| %>
+    <% keys( @id ).each do |base, full| %>
       <%=link_to base , translation_url( :id => full ) %>
     <%end%>
     </th> <th> Edit Test</th></tr>
   <% @translations.each do |f , trans| %>
   <tr>
     <td>    
-      <% all = keys(f , params[:id] )
+      <% all = keys(f , @id )
         last = all.pop
         all.each do |base, full| %>
         <%=link_to base , translation_url( :id => full ) %>
@@ -23,3 +23,5 @@
     <%end%>
   </tr>
 </table>
+
+<%= render :partial => "footer"%>

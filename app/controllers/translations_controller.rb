@@ -20,6 +20,7 @@ class TranslationsController < ApplicationController
 #    params[:value] ? params[:value] : I18n.t(params[ :id ]
   end
   def show
+    @id = params[:id]
     load_all_translations
     category_filter
     puts "trans #{@translations.keys[0,10].join('--')}"
@@ -83,7 +84,7 @@ class TranslationsController < ApplicationController
     end
   end
   def load_translation file 
-    hash =  YAML.load_file("#{Rails.root}/config/locales/#{file}")
+    hash =  YAML.load_file(File.join(Rails.root , "config" , "locales" , file))
     @translations = {} unless @translations
     hash.each do |root , these|
       add_children file , root , these

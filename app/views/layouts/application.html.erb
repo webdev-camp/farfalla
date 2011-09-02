@@ -33,7 +33,7 @@
       <div id="slogan"><%==t("slogan")%></div>
       <ul id="menu_bar">
         <% I18n.t("menu_bar").split.each do |menu| %>
-        <li><a href="<%=menu%>.html"><%= I18n.t(menu+'.menu_text')%></a></li>
+        <li><a href="/<%=menu%>.html"><%= I18n.t(menu+'.menu_text')%></a></li>
         <%end%>
       </ul>
   </div>
