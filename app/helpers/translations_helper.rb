@@ -12,6 +12,7 @@ module TranslationsHelper
   end
   def keys_with_prefix from , pre
     return [] unless from
+    return keys(from) if from.length <= pre.length
     from = from[ (pre.length + 1 ) .. from.length]
     pre = "#{pre}."
     all = from.split(".").reverse

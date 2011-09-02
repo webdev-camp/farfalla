@@ -43,13 +43,16 @@ class TranslationsController < ApplicationController
     @text = t ? t.text : "MISSING" 
 #    params[:value] ? params[:value] : I18n.t(params[ :id ]
   end
+  def search
+    show
+    contains_filter params[:search]
+    render "translations/show"
+  end
   def show
     @id = params[:id]
     load_all_translations
     category_filter
-    puts "trans #{@translations.keys[0,10].join('--')}"
     prefix_filter params["id"]
-    puts "filter #{params[:id]}"
   end
   def create
     key = params[:id] 
@@ -105,6 +108,9 @@ class TranslationsController < ApplicationController
   end
   def depth_filter max
     @translations.delete_if { |key,val| key.split(".").length > max }
+  end
+  def contains_filter word
+    @translations.delete_if { |key,val| key.index(word) == nil }
   end
   def load_all_translations  
     @translations = {}
