@@ -2,6 +2,7 @@
 fi: 
   conditioner: 
     co_conditioner: 
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
       header: "Villiruusu Hiustenhoitoaine"
       ingredients: |-
           Vesi, soijaöljy, alkoholi, oliivinlehtiuute, kasviemulgointiaine, kasviglyseriini, macadamia-, 
@@ -33,6 +34,7 @@ fi:
           For split ends, massage directly into hair tips, do not rinse. 
           No synthetic aroma, color or preservatives.
     co_mousse: 
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
       header: "Muotoileva Hoitovaahto"
       ingredients: |-
           Vesi, oliivinlehtiuute, kasviglyseriini, alkoholi, kasvisaippua, granaattiomenauute, 

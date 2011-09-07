@@ -2,7 +2,7 @@
 fi: 
   frangipani: 
     fp_body_butter: 
-      fact: "Sisältää luomulaatuista sheavoita, luomukasviöljyjä ja -uutteita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
+      fact: "Sisältää luomulaatuista sheavoita, luomukasviöljyjä ja -uutteita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: "Frangipani Vartalovoi"
       inci: |-
           Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, alcohol *, citrus aurantium
@@ -22,7 +22,7 @@ fi:
       sub_header: "Syväkosteuttava ja ravitseva "
       tarra: "RY Silkinpehmeä, ravitseva vartalovoi, jossa on ihanan raikas ja hienostunut trooppisten kukkien tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon  ravitsevaan tehohoitoon. Saa ihosi tuntumaan ja tuoksumaan ihanalta! Sisältää luomulaatuista sheavoita, luomukasviöljyjä ja -uutteita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     fp_bodylotion: 
-      fact: "Sisältää luomulaatuisia kasviöljyjä ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
+      fact: "Sisältää luomulaatuisia kasviöljyjä ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita , ei parafiinia eikä parabeeneja."
       header: "Frangipani Kosteusvoide"
       inci: |-
           Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, Rosa Damascena
@@ -41,7 +41,7 @@ fi:
       sub_header: "Päivittäiseen ihonhoitoon"
       tarra: "RY Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Raikas ja hienostunut trooppisten kukkien tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomulaatuisia kasviöljyjä ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     fp_eau_fraiche: 
-      fact: "Valmistettu luomualkoholista, luonnollisista eteerisistä öljyistä ja luomuruusuvedestä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
+      fact: "Valmistettu luomualkoholista, luonnollisista eteerisistä öljyistä ja luomuruusuvedestä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ,ei parafiinia eikä parabeeneja."
       header: "Frangipani Eau Fraîche"
       inci: |-
           Alcohol *, perfume (natural essential oils), Rosa Damascena flower water *, limonene *, linalool *, Citral
@@ -57,12 +57,13 @@ fi:
           RY 
           Luonnollinen, hienostunut eau de toilette päivittäiseen käyttöön. Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä. Ihana trooppisen frangipanin kukan vivahde. Suihkauta ihanaa ja naisellista tuoksua koko päivääsi tai illalla ennen ulos lähtöä! Valmistettu luomualkoholista, luonnollisista eteerisistä öljyistä ja luomuruusuvedestä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     fp_lotion_small: 
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
       header: "Frangipani Bodylotion"
       main: "Matkasetti "
       sub_header: "Päivittäiseen ihonhoitoon "
       tarra: matkasetti
     fp_shower: 
-      fact: "Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
+      fact: "Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei parafiinia eikä parabeeneja."
       header: "Frangipani Suihkuvoide"
       inci: |-
           Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
@@ -82,8 +83,9 @@ fi:
           Raikas ja hienostunut trooppisten kukkien tuoksu.
           Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä.
           Sertifioitua luonnonkosmetikkaa (BDIH). 
-          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
     fp_shower_small: 
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
       header: "Frangipani Shower cream"
       main: Matkasetti
       sub_header: "Hoitava, ihastuttava "
