@@ -2,7 +2,7 @@
 fi: 
   amberstone: 
     amberstone_cream: 
-      fact: "100% luonnollisista aineista. 95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille."
+      fact: "100% luonnollisista aineista. 95% sertifioitavissa olevista aineista luomua (NaTrue) Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja. Sopii vegaaneille"
       header: Meripihkavoide
       inci: |-
           Aqua, Helianthus Annuus Seed Oil*, Simmondsia Chinensis Seed Oil*,  Aloe Barbadensis Leaf Juice*, 
@@ -18,10 +18,10 @@ fi:
       tarra: |-
           RY Tämä kosteusvoide sopii kaikille ihotyypeille sekä yö- että päivävoiteeksi. 
           Se energisoi, tekee ihosi säteileväksi ja suojaa ympäristön haitallisilta vaikutuksilta. Meripihkavoide aktivoi ihon pintaverenkiertoa ja tuo hehkua kalpeallekin iholle.
-          Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parafiinia. 
+          Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita eikä parabeeneja. 
            95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille.
     amberstone_fraiche: 
-      fact: "100% luonnollisista aineista. 95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille."
+      fact: "100% luonnollisista aineista. 95% sertifioitavissa olevista aineista luomua (NaTrue). Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja Sopii vegaaneille."
       header: "Meripihka Eau Fraîche"
       inci: |-
           Alcohol*, Citrus Aurantium Amara Flower Water*, Parfum (Natural Essential Oils), 
@@ -36,7 +36,7 @@ fi:
           Valmistettu  energisoivista ja aurinkoisista bergamotin, ambran, benzoen ja mandariinin eteerisistä öljyistä.
           100% luonnollisista aineista, 95% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille.
     amberstone_oil: 
-      fact: "100% luonnollisista aineista. 98% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille."
+      fact: "100% luonnollisista aineista. 98% sertifioitavissa olevista aineista luomua (NaTrue).  Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
       header: Meripihkaöljy
       inci: |-
           Simondsia Chinensis*, Parfum (Natural Essential Oils), Benzyl Benzoate**,  
@@ -59,7 +59,7 @@ fi:
     header: Meripihka
     list: |-
         Farfallan Meripihka -sarja on kehitetty tuomaan sekä ihollesi että sinulle uutta 
-        säteilyä ja hyvinvointia. Ne tuovat energiaa ja auttavat väsynyttä ihoa lisäämällä sen verenkiertoa. 
+        säteilyä ja hyvinvointia. Sarjan tuotteet antavat energiaa ja auttavat väsynyttä ihoa lisäämällä sen verenkiertoa. 
         Eteeristen öljyjen sekoitus raikkaista ja hedelmäisistä bergamotista ja mandariinista yhdistettynä 
         lämmittäviin benzoen, inkiväärin ja vaniljan sydäntuoksuihin lisäävät turvallisuuden tunnetta 
         ja avaavat sydäntä. Voit tuntea itsesi energisemmäksi ja asiat näyttävät valoisammilta.

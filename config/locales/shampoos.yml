@@ -8,6 +8,7 @@ fi:
         Miedosti tuoksuvia shampoita on ilo käyttää ja ne tekevät hiuksista silkkisen kiiltävät.
     products: "sh_frangipani_silk sh_wild_rose sh_pomegranate sh_neem_rhassoul sh_jojoba_aloe"
     sh_frangipani_silk: 
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
       header: "Kiilto ja volyymi – Frangipani -shampoo"
       ingredients: |-
           Vesi, kasvipohjainen saippua, alkoholi, kasviglyseriini, eteeriset öljyt, xantaanikumi, maitohappo,
@@ -17,6 +18,7 @@ fi:
       sub_header: "Vahvat, terveet hiukset"
       tarra: "RY Kiiltoa ja volyymia - luonnollinen shampoo hennoille ja normaaleille hiuksille. Silkkiproteiinit tuovat upeaa, luonnollista kiiltoa ja kestävää runsautta. Frangipanin kukkien mieto ja hienostunut tuoksu. Täydennä uusi runsaus Farfallan Hoitavalla muotovaahdolla. Valmistettu luonnollisista raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä. Ei sisällä synteettisiä hajusteita, silikonia, väri- tai säilöntäaineita."
     sh_jojoba_aloe: 
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
       header: "Korjaava – Jojoba-Aloe shampoo"
       inci: |-
           Aqua, Coco-Glucoside, Alcohol, Glycerin, Disodium Cocoyl Glutamate, Glyceryl Oleate, Parfum, Glyceryl
@@ -39,12 +41,14 @@ fi:
           shine. With the precious scent of melissa.
       sub_header: "For greasy hair"
     sh_neem_rhassoul: 
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
       header: "Tasapainottava – Neem-Rhassoul shampoo"
       link: tasapainottava-neem-rhassoul-shampoo
       main: "Tasapainottava shampoo hilsettä vastaan. Neem -uutteen ja rhassoul -saven puhdistavat ominaisuudet auttavat päänahan hilseilyyn ja hoitavat hiuksia. Katajan, timjamin ja rosmariinin eteeriset öljyt tehostavat shampoon hoitavaa vaikutusta ja antavat raikkaan tuoksun."
       sub_header: "Hilsettä vastaan"
       tarra: "RY Tasapainottava shampoo hilsettä vastaan. Neem -uutteen ja rhassoul -saven puhdistavat ominaisuudet auttavat päänahan hilseilyyn ja hoitavat hiuksia. Katajan, timjamin ja rosmariinin eteeriset öljyt tehostavat shampoon hoitavaa vaikutusta ja antavat raikkaan tuoksun. Valmistettu luonnollisista raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä. Ei sisällä synteettisiä hajusteita, silikonia, väri- tai säilöntäaineita."
     sh_pomegranate: 
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
       header: "Päivittäin – Granaattiomenashampoo"
       inci: |-
           Aqua, Coco-Glucoside, Alcohol, Glycerin, Disodium Cocoyl Glutamate, Glyceryl Oleate, Parfum, Glyceryl
@@ -58,6 +62,7 @@ fi:
       sub_header: "Usein toistuvaan pesuun"
       tarra: "RY Ihanteellinen shampoo usein toistuvaan pesuun. Luomuviljellyn granaattiomenan tehoaineet suojaavat hiuksia kuivumiselta.  Shampoo tekee hiuksista luonnollisen kiiltävät ja säilyttää niiden kosteustasapainon - jopa päivittäisessä käytössä. Hiukset tuntuvat terveiltä ja helppohoitoisilta. Valmistettu luonnollisista raaka-aineista, kasvien pesevistä ainesosista ja eteerisistä öljyistä. Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, PEG-yhdisteitä, silikonia eikä SLS:a."
     sh_wild_rose: 
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
       header: "Hellävarainen – Villiruusushampoo"
       ingredients: |-
           Vesi, kasvipohjainen saippua, alkoholi, kasviglyseriini, xantaanikumi, luomuruusun kukkien uute,
