@@ -3,14 +3,14 @@ fi:
   aroma_sprays: 
     menu_text: Huonetuoksut
   body_care: 
-    menu_text: "Vartalonhoito"
+    menu_text: Vartalonhoito
     sub_menu: "fresh_lime ambra frangipani basic"
   crystal_balance: 
     menu_text: "Crystal Balance"
     sub_menu: "tourmaline amberstone"
   face_care: 
     main_header: " "
-    menu_text: "Kasvojenhoito"
+    menu_text: Kasvojenhoito
     sub_menu: "daily_refresh in_balance intense_moisture age_miracle pure_sensitive be_beautiful aloe_shea travel_set"
   hair_care: 
     header: Hiustenhoito
@@ -19,12 +19,15 @@ fi:
   index: 
     header: "Farfalla Essentials"
     menu_text: Farfalla
+  link: 
+    server: "http://www.auringostaitaan.fi/products/"
+    text: "Tarkista hinta"
   men: 
     menu_text: Miehille
   menu: "face_care body_care hair_care parfumes aroma_sprays crystal_balance men"
   menu_bar: "index quality standards  tukku"
   parfumes: 
-    menu_text: "Luomuparfyymit"
+    menu_text: Luomuparfyymit
     sub_menu: "womans_parfumes body_sprays"
   quality: 
     header: Laatu
@@ -36,6 +39,3 @@ fi:
   tukku: 
     header: Maahantuonti
     menu_text: Yhteystiedot
-  link:
-    server: "http://www.auringostaitaan.fi/products/"
-    text: "Tarkista hinta"
