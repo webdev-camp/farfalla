@@ -2,7 +2,7 @@
 fi: 
   womans_parfumes: 
     anima: 
-      fact: "100% luonnollisista aineista. 98% sertifioitavista  ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä."
+      fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. Tuotteita ei ole testattu eläimillä."
       header: Anima
       link: anima
       main: "Luomuparfyymi, joka tuo esille olemuksesi kätketyn hymyn! Syvällinen ja dynaaminen, mutta samalla hedelmäisen raikas greipin, mandariinin ja appelsiinin vivahteineen. Sydäntuoksu sisältää mimosan ja appelsiininkukkien aurinkoista hehkua pyöristettynä metsäisillä tuoksuilla ja benzoella."
@@ -12,11 +12,11 @@ fi:
           pyöristettynä metsäisillä tuoksuilla ja benzoella. Farfallan luomuparfyymit ovat aitoja ja luonnollisia, ja niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. 98% ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä.
     header: "Eau de Parfum"
     list: |-
-        Farfallan luomuparfyymit ovat aitoja, luonnollisia ja korkealaatuisia. Niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. Farfallan luomuparfyymeilla on BDIH -sertifikaatti (luonnonkosmetiikkaa luomuainesosin). Farfalla on kuitenkin tehnyt parfyymeista vielä korkealaatuisempia kuin sertifikaatti vaatii:  98% sertifioitavista aineista on luomua. 
+        Farfallan luomuparfyymit ovat aitoja, luonnollisia ja korkealaatuisia. Niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. Farfallan luomuparfyymeilla on NaTrue -sertifikaatti (luonnonkosmetiikkaa luomuainesosin). Farfalla on kuitenkin tehnyt parfyymeista vielä korkealaatuisempia kuin sertifikaatti vaatii. Sertifioitavista aineista 70% luomua, kaikista aineista luomuprosentti on 98%.
         Tuotteita ei ole testattu eläimillä. Sopii vegaaneille.
     main: ~
     nuvola: 
-      fact: "100% luonnollisista aineista. 98% sertifioitavista ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä."
+      fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. Tuotteita ei ole testattu eläimillä."
       header: Nuvola
       link: nuvola
       main: "Luomuparfyymi, jonka tuoksu on raikas ja modernin naisellinen. Neroli ja  bergamotti tuovat tuovat raikkautta ja elämäniloa, kun taas ylang ylang, vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia, naisellisella pehmeydellään. Saat miesten päät kääntymään!"
