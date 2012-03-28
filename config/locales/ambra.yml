@@ -21,7 +21,7 @@ fi:
       sub_header: "Elvyttävä ja hoitava"
       tarra: "RY Pehmeä ja ravitseva vartalovoi. Hienostunut, aistillinen, hieman itämainen tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon hellään ja ravitsevaan tehohoitoon. Ihosi tuntuu ja tuoksuu ihanalta! Sisältää luomukasviöljyjä ja -kukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja."
     am_bodylotion: 
-      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei  parafiinia, eikä parabeeneja."
+      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, ei  parafiinia eikä parabeeneja."
       header: "Ambra Kosteusvoide"
       inci: |-
           Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, 
@@ -42,7 +42,7 @@ fi:
       sub_header: "Kosteuttava ja hoitava"
       tarra: "RY Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Ylellinen ja aistillinen tuoksu, jossa on hienostunut itämainen vivahde. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomukasviöljyjä ja -kukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja."
     am_eau_fraiche: 
-      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei parafiinia, eikä parabeeneja."
+      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: "Ambra Eau Fraîche"
       inci: |-
           Alcohol*, perfume (natural essential oils), Rosa Damascena flower water*, limonene*, linalool*, 
@@ -60,13 +60,13 @@ fi:
           Tuoksu on aistillinen ja hieman mausteinen. Siinä on sekoitus santelipuuta, 
           Attar -ruusua ja vaniljaa. Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.Sertifioitua luonnonkosmetikkaa (BDIH)
     am_lotion_small: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: "Ambra Bodylotion"
       main: Matkasetti
       sub_header: "Kosteuttava ja hoitava "
       tarra: Matkasetti
     am_shower: 
-      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei  parafiinia, eikä parabeeneja."
+      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, ei  parafiinia eikä parabeeneja."
       header: "Ambra Suihkuvoide"
       inci: |-
           Aqua, Coco glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, 
@@ -80,7 +80,7 @@ fi:
       sub_header: "Hellävaraisesti puhdistava "
       tarra: "RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Viehättävä, aistillinen tuoksu, jossa on ripaus itämaista sävyä. Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja kukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja."
     am_shower_small: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: "Ambra Shower cream"
       main: Matkasetti
       sub_header: "Hellävaraisesti puhdistava "
@@ -88,8 +88,8 @@ fi:
     header: Ambra
     list: |-
         Ylellinen vartalonhoitosarja, joka rauhoittaa, tasapainoittaa ja hoitaa. 
-        Sen tuoksu on lämmin ja itämainen. Suurin osa raaka-aineista on luomulaatua. 
-        Suo itsellesi ihana hemmotteluhetki! 
+        Sen tuoksu on lämmin ja itämainen. Suuri osa raaka-aineista on luomulaatua. 
+        Suo itsellesi ihana hemmotteluhetki!
     main: " "
     products: "am_shower am_bodylotion am_eau_fraiche am_body_butter am_shower_small am_lotion_small"
     sub_header: "<b>aistillinen vartalonhoitosarja</b>"

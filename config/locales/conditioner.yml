@@ -2,7 +2,7 @@
 fi: 
   conditioner: 
     co_conditioner: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
       header: "Villiruusu Hiustenhoitoaine"
       ingredients: |-
           Vesi, soijaöljy, alkoholi, oliivinlehtiuute, kasviemulgointiaine, kasviglyseriini, macadamia-, 
@@ -34,7 +34,7 @@ fi:
           For split ends, massage directly into hair tips, do not rinse. 
           No synthetic aroma, color or preservatives.
     co_mousse: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
       header: "Muotoileva Hoitovaahto"
       ingredients: |-
           Vesi, oliivinlehtiuute, kasviglyseriini, alkoholi, kasvisaippua, granaattiomenauute, 
@@ -42,7 +42,7 @@ fi:
       link: muotoileva-hoitovaahto
       main: |-
           Hiuksiin jätettävä muotoileva hoitovaahto antaa hiuksille runsautta ja volyymia sekä loistavan kiillon  tekemättä niitä raskaan tuntuisiksi. 
-          Suositellaan myös hennoille hiuksille!  
+          Suositellaan myös hennoille ja käsitellyille hiuksille. 
           Käyttöohje: Hiero pyyhekuiviin hiuksiin pesun jälkeen, ei huuhtelua. Muotoile tavalliseen tapaan.
       sub_header: "Volyymiä ja runsautta!"
       tarra: |-
@@ -51,8 +51,7 @@ fi:
     header: "Hiustenhoitotuotteet "
     list: |-
         Pesun jälkeen hiukset tarvitsevat oikeanlaisen vahvistavan ja ravitsevan hoitoaineen. 
-        Farfallan hiustenhoitoaineet ovat valvottua korkealaatuista
-        luomukosmetiikkaa. Ne on valmistettu luonnon omista, tehokkaasti vaikuttavista raaka-aineista. 
-        Hiuksista tulee terveet ja helposti kammattavat.
+        Farfallan hiustenhoitoaineet ovat korkealaatuista, sertifioitua 
+        luonnonkosmetiikkaa. Tarkoin valitut kasvipohjaiset vahat ja eteeriset öljyt tuovat hiuksiin kauniin, luonnollisen ja upean kiillon. Säännöllisesti käytettynä Farfallan hiustenhoitotuotteet saavat hiukset pysymään terveinä, ja aiemmin karheakin rakenne muuttuu luonnollisen sileäksi ja kiiltäväksi.
     products: "co_conditioner co_mousse"
     sub_header: "Luonnollista hoitoa hiuksille \n"
