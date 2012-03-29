@@ -2,7 +2,7 @@
 fi: 
   fresh_lime: 
     fl_body_butter: 
-      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei parafiinia eikä parabeeneja."
+      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: "Fresh Lime Vartalovoi"
       inci: |-
           Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, 
@@ -18,11 +18,11 @@ fi:
           fatty alcohol, mix natural essential oils, Phytosqualan, auringonkukkaöljy, mehiläisvaha, triglycerides,
           glyceryl stearate, luonnoll. vit. E, xantaanikumi, greipinsiemenöljy, merisuolauute. * from kontr. Organic
       link: fresh-lime-vartalovoi
-      main: "Silkinpehmeä ja ravitseva vartalovoi. Raikas ja virkistävä tuoreen limettisitruunan tuoksu. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon hellään ja ravitsevaan tehohoitoon. Ihosi tuntuu ja tuoksuu ihanalta! Fresh Lime vartalovoi imeytyy hyvin iholle. Sisältää luomulaatuista aloe veraa, -karitevoita ja luomukukkaisvesiä. 50 ml"
+      main: "Silkinpehmeä ja ravitseva vartalovoi. Raikas ja virkistävä tuoreen limesitruunan tuoksu. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon hellään ja ravitsevaan tehohoitoon. Ihosi tuntuu ja tuoksuu ihanalta! Fresh Lime vartalovoi imeytyy hyvin iholle. Sisältää luomulaatuista aloe veraa, -karitevoita ja luomukukkaisvesiä. 50 ml"
       sub_header: "Tehokkaasti ravitseva"
       tarra: "RY Silkinpehmeä ja ravitseva vartalovoi. Raikas ja virkistävä tuoreen limettisitruunan tuoksu.  Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon hellään ja ravitsevaan tehohoitoon. Ihosi tuntuu ja tuoksuu ihanalta! Fresh Lime vartalovoi imeytyy hyvin iholle. Sisältää luomulaatuista aloe veraa, -sheavoita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     fl_bodylotion: 
-      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei parafiinia eikä parabeeneja."
+      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: "Fresh Lime Kosteusvoide"
       inci: |-
           Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, citrus aurantium flower water
@@ -37,11 +37,11 @@ fi:
           stearate, porkkanauute, glyceryl stearate, luonnoll. vit. E, merileväuute, xantaanikumi, sitruunahappo,
           glyceryl stearate, natural essential oils mixture. * from kontr. Organic
       link: fresh-lime-kosteusvoide
-      main: "Hoitava ja ravitseva kevyt kosteusvoide ihon päivittäiseen hoitoon. Raikas ja virkistävä tuoreen limettisitruunan tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomulaatuista karitevoita ja -kasviöljyjä. 150 ml"
+      main: "Hoitava ja ravitseva kevyt kosteusvoide ihon päivittäiseen hoitoon. Raikas ja virkistävä tuoreen limesitruunan tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomulaatuista karitevoita ja -kasviöljyjä. 150 ml"
       sub_header: "Kosteuttava ja virkistävä "
       tarra: "RY Hoitava ja ravitseva kevyt kosteusvoide ihon päivittäiseen hoitoon. Raikas ja virkistävä tuoreen limettisitruunan tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomulaatuista sheavoita ja -kasviöljyjä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     fl_eau_fraiche: 
-      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei  parafiinia eikä parabeeneja."
+      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, ei  parafiinia eikä parabeeneja."
       header: "Fresh Lime Eau Fraîche"
       inci: |-
           Alcohol *, perfume (natural essential oils), citrus aurantium flower water *, limonene *, linalool *,
@@ -49,7 +49,7 @@ fi:
       ingredients: "alkoholi, natural essential oils mixture, appelsiininkukkavesi"
       link: fresh-lime-eau-fraiche
       main: |-
-          Luonnollinen, hienovarainen eau de toilette päivittäiseen käyttöön. Limettisitruunan raikas, hedelmäinen ja iloinen tuoksu, johon iiris ja vanilja tuovat pehmeyttä. Tuoksuluomus, joka ilahduttaa sinua koko päivän! 
+          Luonnollinen, hienovarainen eau de toilette päivittäiseen käyttöön. Limesitruunan raikas, hedelmäinen ja iloinen tuoksu, johon iiris ja vanilja tuovat pehmeyttä. Tuoksuluomus, joka ilahduttaa sinua koko päivän! 
           50 ml
       sub_header: "Iloinen, raikas tuoksu päivittäiseen käyttöön"
       tarra: "RY Luonnollinen, hienovarainen eau de toilette päivittäiseen käyttöön. Limettisitruunan raikas, hedelmäinen ja  iloinen tuoksu, johon iiris ja vanilja tuovat pehmeyttä. Tuoksuluomus, joka ilahduttaa sinua koko päivän! Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
@@ -60,7 +60,7 @@ fi:
       sub_header: "Kosteuttava ja virkistävä "
       tarra: matkasetti
     fl_shower: 
-      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei parafiinia eikä parabeeneja."
+      fact: "Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: "Fresh Lime Suihkuvoide"
       inci: |-
           Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
@@ -71,7 +71,7 @@ fi:
           kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo, natural
           essential oils mixture
       link: fresh-lime-suihkuvoide
-      main: "Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja piristävä tuoreen limettisitruunan tuoksu. Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä saat suihkuvoiteen vaahtoamaan enemmän. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä. 200ml"
+      main: "Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja piristävä tuoreen limesitruunan tuoksu. Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä saat suihkuvoiteen vaahtoamaan enemmän. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä. 200ml"
       sub_header: "Raikas ja silkinpehmeä"
       tarra: "RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja piristävä tuoreen limettisitruunan tuoksu. Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä saat suihkuvoiteen vaahtoamaan enemmän. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     fl_shower_small: 

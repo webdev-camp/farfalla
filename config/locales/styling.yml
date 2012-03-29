@@ -3,7 +3,7 @@ fi:
   styling: 
     header: "Hiusten muotoilutuotteet"
     list: |-
-        Hiusten muotoilu käy erinomaisesti luomulaatuisilla tuotteilla, jotka antavat ryhtiä hiuksiin, 
+        Hiusten muotoilu käy erinomaisesti Farfallan sertifioiduilla luonnonkosmetiikkatuotteilla. Ne antavat hiuksiin ryhtiä, 
         auttavat kampauksen muotoilussa ja viimeistelyssä sekä suojaavat hiusta hoitavilla luonnon eliksiireillä.
     products: "st_mousse st_spray"
     st_gel: 
@@ -13,7 +13,7 @@ fi:
           combing out. No synthetic aroma, colour or preservatives. No PEGs or silicone.
       sub_header: "Long-lasting hold"
     st_mousse: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
       header: "Volyymi Muotovaahto"
       inci: |-
           Aqua, Olea europaea leaf extract *, sorbitol, alcohol, Coco-glucoside, beer, sodium Cocoyl glutamate,
@@ -30,7 +30,7 @@ fi:
       sub_header: "Volyymiä ja kiiltoa!"
       tarra: "Pitoa, volyymia ja kiiltoa. Farfalla Muotovaahto tuo kampaukseesi hellävaraista mutta voimakasta ja kestävää tukea sekä luonnollista kiiltoa. Tuoksu on luonnollinen ja ihanan raikas. Sisältää luomulaatuista aloe veraa. Hiero pesun jälkeen pyyhekuiviin hiuksiin. Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita, PEG -yhdisteitä eikä silikonia."
     st_spray: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
       header: Hiuskiinne
       inci: |-
           Alcohol, shellac, Aqua, Olea europaea leaf extract *, sorbitol, beer, Simmondsia chinensis seed oil *,

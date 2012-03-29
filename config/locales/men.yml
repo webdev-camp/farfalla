@@ -21,14 +21,14 @@ fi:
     products: "sw_after_shave sw_deo sw_shower_gel"
     sub_header: "Eksoottisten puiden raikas ja miellyttävä tuoksu"
     sw_after_shave: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: "Santelipuu After Shave Balsami"
       link: santelipuu-after-shave-balsami
-      main: "Luomulaatuinen santelipuubalsami rauhoittaa ja hoitaa ihoa jokaisen parranajon jälkeen ja estää kirvelyn. Hoitavaa vaikutusta tehostavat luomu aloe vera,- hamamelis ja- kamomillauutteet sekä luonnolliset eteeriset öljyt. Hienovarainen ja miellyttävä mutta hyvin maskuliininen tuoksu. Kallisarvoisen itäintialaisen santelipuun tuoksua tukevat seetri, iiris ja patsuli."
+      main: "Luonnollinen santelipuubalsami rauhoittaa ja hoitaa ihoa jokaisen parranajon jälkeen ja estää kirvelyn. Hoitavaa vaikutusta tehostavat luomulaatuiset aloe vera,- hamamelis- ja kamomillauutteet sekä luonnolliset eteeriset öljyt. Hienovarainen ja miellyttävä mutta hyvin maskuliininen tuoksu. Kallisarvoisen itäintialaisen santelipuun tuoksua tukevat seetri, iiris ja patsuli."
       sub_header: "Hoitavaa ja rauhoittavaa suojaa jokaisen parranajon jälkeen"
       tarra: "Santelipuubalsami rauhoittaa ja hoitaa ihoa jokaisen parranajon jälkeen ja estää kirvelyn. Hoitavaa vaikutusta tehostavat aloe vera-, hassel- ja kamomillauutteet sekä luonnolliset eteeriset öljyt. Hienovarainen mutta maskuliininen tuoksu, jossa kallisarvoisen itäintialaisen santelipuun tuulahdusta tukevat seetri, iiris ja patsuli."
     sw_deo: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: "Santelipuu Roll-on deodorantti"
       link: santelipuu-roll-on-deodorantti
       main: "Mieto tahraamaton roll-on -deodorantti päivittäiseen käyttöön. Miellyttävässä ja maskuliinisessa tuoksussa santelia ja seetriä. Ehkäisee hienhajun luonnollisen tehokkaasti. pH-neutraali. Sisältää luomulaatuista oliiviuutetta ja -aloe veraa. Ei sisällä alumiinisuoloja."
@@ -38,10 +38,10 @@ fi:
           Miellyttävässä ja maskuliinisessa tuoksussa santelia ja seetriä. 
           Ehkäisee hienhajun luonnollisen tehokkaasti. pH-neutraali. Ei sisällä alumiinisuoloja.
     sw_shower_gel: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, PEG -yhdisteitä, SLS:aa, parafiinia eikä parabeeneja."
       header: "Santelipuu Suihkugeeli"
       link: santelipuu-suihkugeeli
-      main: "Hyvin mieto suihkugeeli vartalolle ja hiuksille. Santelipuun ja seetrin raikas, miellyttävä, aavistuksen kirpeä tuoksu. Sisältää vehnäproteiineja. Päivittäiseen käyttöön. Ei sisällä synteettisiä väriaineita, keinotekoisia tuoksu- tai säilöntäaineita eikä PEG-yhdisteitä."
+      main: "Hyvin mieto suihkugeeli vartalolle ja hiuksille. Santelipuun ja seetrin raikas, miellyttävä, aavistuksen kirpeä tuoksu. Sisältää vehnäproteiineja. Päivittäiseen käyttöön."
       sub_header: "Pehmeä, virkistävä suihkugeeli vartalolle ja hiuksille"
       tarra: |-
           Mieto suihkugeeli vartalolle ja hiuksille. 

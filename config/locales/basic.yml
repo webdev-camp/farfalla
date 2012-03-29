@@ -2,21 +2,21 @@
 fi: 
   basic: 
     deo: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: "Deo roll-on"
-      main: "Luonnollinen deodorantti – pehmeää raikkautta ihollesi. Tahraamaton, miedon ja miellyttävän tuoksuinen deo roll-on päivittäiseen käyttöön. Sisältää luomuoliiviuutetta, -aloe veraa ja jojobaöljyä. Sopii herkälle iholle. Ei sisällä alumiinisuoloja."
+      main: "Luonnollinen deodorantti – pehmeää raikkautta ihollesi. Tahraamaton, miedon ja miellyttävän tuoksuinen deo roll-on päivittäiseen käyttöön. Sisältää luomuoliiviuutetta, -aloe veraa ja -jojobaöljyä. Sopii herkälle iholle. Ei sisällä alumiinisuoloja."
       sub_header: "Koko päivän kestävä teho"
       tarra: |-
           Basic Care Deo roll-on
           Luonnollinen deodorantti – pehmeää raikkautta ihollesi. Tahraamaton, miedon ja miellyttävän tuoksuinen deo roll-on päivittäiseen käyttöön. Sisältää luomuoliiviuutetta, -aloe veraa ja jojobaöljyä. Sopii herkälle iholle. Ei sisällä alumiinisuoloja. Sertifioitua luonnonkosmetikkaa (BDIH). Ei alumiinia, synteettisiä väri-, tuoksu-, säilöntäaineita eikä parabeenejä.
     foot: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: Jalkavoide
       main: "Luomulaatuinen, ihanantuntuinen voide jalkojen päivittäiseen hoitoon. Huolella valitut eteeriset öljyt (sypressi, salvia, kamomilla ja mänty) virkistävät ja elvyttävät. Avokado-, manteli- ja kuismaöljy hoitavat  jalkoja ja pitävät ne suloisen pehmeinä. Mieto ja raikas tuoksu – sopii herkällekin iholle."
       sub_header: "Ravitseva ja raikastava"
       tarra: "Luomulaatuinen, ihanantuntuinen voide jalkojen päivittäiseen hoitoon. Huolella valitut eteeriset öljyt (sypressi, salvia, kamomilla ja mänty) virkistävät ja elvyttävät. Avokado-, manteli- ja kuismaöljy hoitavat  jalkoja ja pitävät ne suloisen pehmeinä. Mieto ja raikas tuoksu – sopii herkällekin iholle. Sertifioitua luonnonkosmetikkaa (BDIH). Ei synteettisiä väri-, tuoksu- tai säilöntäaineita ei parafiinia, eikä parabeenejä."
     hand: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: Käsivoide
       main: "Luomulaatuinen, hellä ja hyväntuoksuinen käsivoide päivittäiseen käyttöön. Suojaa, ravitsee ja raikastaa ihoa. Luomujojobaöljy, -kamomillavesi ja -centella asiatica (gotu kola) hoitavat ja kosteuttavat. Greipin ja nerolin eteeriset öljyt saavat herkät ja rasittuneet kädet pehmeiksi. Mieto ja raikas tuoksu – sopii herkällekin iholle."
       sub_header: "Ravitseva ja hoitava"
