@@ -1,15 +1,15 @@
 <%= render :partial => "group_header" , :locals => {:group => "body_care" }%>
 <div class="one">
   <% I18n.t("body_care.sub_menu").split.each_with_index do |line , ind| %>
-    <% pic = I18n.t(line+".products").split.first %>
-    <div class="two">
+    <% pic = I18n.t(line+".logo").split.first %>
+    <div class="four">
       <a href="/<%=line%>.html">
-        <img src='<%="/images/#{line}/#{pic}"%>.jpg' alt="<%=line.humanize%>" />
+        <img src='<%="/images/#{line}/"%>logo.jpg' alt="<%=line.humanize%>" width="180" height="180"/>
         <p><strong><%== t("#{line}.header")%> </strong></p>
       </a>
       <p><em><%== t("#{line}.sub_header")%> </em></p>
-      <p><%== t("#{line}.list")%> </p>
+      <p><%== t("#{line}.main")%> </p>
     </div>
-    <%== "</div>  <div class='one'>" if (ind == 1) %>
+    <% "</div>  <div class='one'>" if (ind == 1) %>
   <%end%>
 </div>

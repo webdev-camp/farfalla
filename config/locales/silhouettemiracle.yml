@@ -18,7 +18,7 @@ fi:
         <br/>
         Inkivääriuute<br/>
         Inkivääri aktivoi verenkiertoa ja ihon aineenvaihduntaa. Se nopeuttaa rasvan palamista ja tehostaa solujen uusiutumista.<br/>
-    main: ~
+    main: "describe the miracle"
     products: "sm_shower_gel sm_bodylotion sm_body_scrub sm_body_gel sm_matkasetti"
     sm_body_gel: 
       fact: "100% luonnollisista aineista, 96% sertifioitavissa olevista ainesosista luomua.  Sopii vegaaneille."

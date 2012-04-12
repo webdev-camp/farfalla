@@ -165,6 +165,6 @@ fi:
         <br/>
         Tuoksut aidoista eteerisistä öljyistä<br/>
         Hienostunut, parfyyminomainen yhdistelmä appelsiinia, sitruunaa, vaniljaa, mandariinia ja muita valikoituja eteerisiä öljyjä tukee ihon luonnollista toimintaa. Se tuo koko vartalonhoitosarjaan ihanan, raikkaan ja aurinkoisen tuoksun.<br/>
-    main: ~
+    main: "descrbe the pleasure"
     products: "dp_shower_gel dp_shower_peeling dp_shower_cream dp_bodylotion dp_eau_fraiche dp_body_butter dp_matkasetti dp_deo_spray"
     sub_header: "Raikas ja energisoiva vartalonhoitosarja"
