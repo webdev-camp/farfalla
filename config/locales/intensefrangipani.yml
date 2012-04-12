@@ -1,9 +1,10 @@
 --- 
 fi: 
   intensefrangipani: 
+    header: "intense frangipani"
     if_body_butter: 
-      fact: "Sisältää luomulaatuista karitevoita, luomukasviöljyjä ja -uutteita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
-      header: "intensefrangipani Vartalovoi"
+      fact: "100% luonnollisista aineista, 96% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
+      header: "intense frangipani Vartalovoi"
       inci: |-
           Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, alcohol *, citrus aurantium
           flower water *, Aloe barbadensis extract *, Cera Alba, Heliantus Annuus seed oil *, Cocos Nucifera oil *,
@@ -18,12 +19,12 @@ fi:
           porkkanauute, glyceryl stearate, luonnoll. vit. E, merileväuute, 
           xantaanikumi, sitruunahappo, glyceryl stearate
       link: intensefrangipani-vartalovoi
-      main: "Silkinpehmeä, ravitseva vartalovoi, jossa on ihanan raikas ja hienostunut trooppisten kukkien tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon ravitsevaan tehohoitoon. Saa ihosi tuntumaan ja tuoksumaan ihanalta!  150 ml"
-      sub_header: "Syväkosteuttava ja ravitseva "
+      main: "Ihanaa silkinpehmeyttä ihollesi! Täyteläinen, kuivaa ihoa tehokkaasti hoitava vartalovoi. Samettinen koostumus, imeytyy nopeasti ja tekee ihosta ihanan pehmeän. Sisältää tamanuöljyä, luomulaatuista karitevoita ja Tahitin monoi –kukkaa, Frangipanin, tuberosan ja champacan trooppiset tuoksut kietovat sinut suloisiin ja mieltä kohottaviin tunnelmiin."
+      sub_header: "Ravitseva ja hoitava"
       tarra: "RY Silkinpehmeä, ravitseva vartalovoi, jossa on ihanan raikas ja hienostunut trooppisten kukkien tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon  ravitsevaan tehohoitoon. Saa ihosi tuntumaan ja tuoksumaan ihanalta! Sisältää luomulaatuista sheavoita, luomukasviöljyjä ja -uutteita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     if_bodylotion: 
-      fact: "Sisältää luomulaatuisia kasviöljyjä ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita , ei parafiinia eikä parabeeneja."
-      header: "intensefrangipani Kosteusvoide"
+      fact: "100% luonnollisista aineista, 96% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille. ."
+      header: "intense frangipani Kosteusvoide"
       inci: |-
           Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, Rosa Damascena
           flower water *, Cocos Nucifera oil *, Cetearyl alcohol, Cetearyl wheat bran Glucosides, perfume (natural
@@ -37,87 +38,100 @@ fi:
           oils, Phytosqualan, auringonkukkaöljy, mehiläisvaha, triglycerides, glyceryl stearate, luonnoll. vit. E,
           xantaanikumi, greipinsiemenöljy, merisuolauute. sitruunahappo * from kontr. Organic
       link: intensefrangipani-kosteusvoide
-      main: "Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Raikas ja hienostunut trooppisten kukkien tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! <br/>50 ml"
-      sub_header: "Päivittäiseen ihonhoitoon"
+      main: "Ravitseva, kosteuttava ja hoitava vartalovoide. Frangipanista, Tahitin monoi –kukasta ja tamanuöljystä erotetut tehokkaasti kosteuttavat ainesosat hoitavat ihoasi hellästi. Trooppiset frangipani ja champaca  tuovat voiteeseen hienovaraisen hedelmäisen ja virkistävän tuoksun. Ihosi tuoksuu ihanalta ja tuntuu aistillisen sametinpehmeältä."
+      sub_header: "Hoitava ja ravitseva"
       tarra: "RY Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Raikas ja hienostunut trooppisten kukkien tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomulaatuisia kasviöljyjä ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
+    if_deo_roll: 
+      fact: "100% luonnollisista aineista, 97% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
+      header: "intense frangipani Deo Roll-on"
+      main: "Tehokas, hellävarainen roll-on deodorantti. Lempeä, ihanantuoksuinen, tehokas deo roll-on, joka antaa luotettava ja pitkäkestoisen suojan. Aloe vera ja oliiviuute hoitavat ja suojaavat herkkää ihoa. Koska deodorantti ei sisällä alumiinisuoloja eikä alkoholia, se on hyvin hellävarainen ihollesi."
+      sub_header: "Tehokas ja hellävarainen"
+      tarra: matkasetti
     if_eau_fraiche: 
-      fact: "Valmistettu luomualkoholista, luonnollisista eteerisistä öljyistä ja luomuruusuvedestä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ,ei parafiinia eikä parabeeneja."
-      header: "intensefrangipani Eau Fraîche"
+      fact: "100% luonnollisista aineista, 96% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
+      header: "intense frangipani Eau Fraîche"
       inci: |-
           Alcohol *, perfume (natural essential oils), Rosa Damascena flower water *, limonene *, linalool *, Citral
           *, benzyl benzoates *, benzyl alcohol *, benzyl Cinnamate *, Farnesol *, Geraniol *, benzyl salicylates *,
           Citronellol *. * certified organic. * from natural essential oils
       ingredients: "alkoholi, natural essential oils mixture, ruusuvesi"
       link: intensefrangipani-eau-fraiche
-      main: |-
-          Luonnollinen, hienostunut eau de toilette päivittäiseen käyttöön. Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä. Ihana trooppisen intensefrangipanin kukan vivahde. Suihkauta ihanaa ja naisellista tuoksua koko päivääsi tai illalla ennen ulos lähtöä!
-          <br/>50 ml
-      sub_header: "Kevyt, luonnollinen kukkaistuoksu"
+      main: "Kevyt, hienostunut kukkaistuoksu. Hienovaraisen aistillinen eau fraîche, jossa voi tuntea aurinkoisia ja hedelmäisiä frangipanin ja champacan kukkien tuoksuja. Pehmeä säväys vaniljaa ja bentsoeta pyöristää kokonaisuuden ja tuo etelämerten rantojen suloisimmat tuoksut ihollesi."
+      sub_header: "Hienostunut ja aistillinen"
       tarra: |-
           RY 
           Luonnollinen, hienostunut eau de toilette päivittäiseen käyttöön. Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä. Ihana trooppisen intensefrangipanin kukan vivahde. Suihkauta ihanaa ja naisellista tuoksua koko päivääsi tai illalla ennen ulos lähtöä! Valmistettu luomualkoholista, luonnollisista eteerisistä öljyistä ja luomuruusuvedestä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
-    if_deo_roll: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
-      header: "intensefrangipani Bodylotion"
-      main: "Matkasetti "
-      sub_header: "Päivittäiseen ihonhoitoon "
-      tarra: matkasetti
-    if_shower: 
-      fact: "Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei parafiinia eikä parabeeneja."
-      header: "intensefrangipani Suihkuvoide"
-      inci: |-
-          Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
-          (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, Ctronellol *, Geraniol *,
-          limonene *, linalool *. * certified organic * part of natural essential oils
-      ingredients: |-
-          vesi, (kasviperäisten raaka-aineiden pinta-aktiivisia aineita), auringonkukkaöljy, alkoholi,
-          kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo, natural
-          essential oils mixture
-      link: intensefrangipani-suihkuvoide
-      main: |-
-          Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja hienostunut trooppisten kukkien tuoksu. Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! 
-          <br/>200 ml
-      sub_header: "Hoitava, ihastuttava"
-      tarra: |-
-          RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. 
-          Raikas ja hienostunut trooppisten kukkien tuoksu.
-          Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä.
-          Sertifioitua luonnonkosmetikkaa (BDIH). 
-          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
-    if_olyj: 
-      fact: "Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei parafiinia eikä parabeeneja."
-      header: "intensefrangipani Suihkuvoide"
-      inci: |-
-          Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
-          (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, Ctronellol *, Geraniol *,
-          limonene *, linalool *. * certified organic * part of natural essential oils
-      ingredients: |-
-          vesi, (kasviperäisten raaka-aineiden pinta-aktiivisia aineita), auringonkukkaöljy, alkoholi,
-          kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo, natural
-          essential oils mixture
-      link: intensefrangipani-suihkuvoide
-      main: |-
-          Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja hienostunut trooppisten kukkien tuoksu. Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! 
-          <br/>200 ml
-      sub_header: "Hoitava, ihastuttava"
-      tarra: |-
-          RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. 
-          Raikas ja hienostunut trooppisten kukkien tuoksu.
-          Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä.
-          Sertifioitua luonnonkosmetikkaa (BDIH). 
-          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
-    
     if_matkasetti: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
-      header: "intensefrangipani Shower cream"
-      main: Matkasetti
-      sub_header: "Hoitava, ihastuttava "
+      fact: "Sertifioitua luomu- ja luonnonkosmetiikkaa (NaTrue)"
+      header: "intense frangipani Matkasetti"
+      main: |-
+          Vartalonhoitosetti kauniissa pikkupussissa. Sopii täydellisesti viikonloppumatkalle, lahjaksi ystävälle tai tuotteiden kokeiuun.
+          Sisältää:<br/>
+          20 ml Suihkuvoide<br/>
+          20 ml Kosteusvoide<br/>
+          20 ml Kauneusöljy<br/>
+          2 ml "frangipani" Eau Fraiche
+      sub_header: "Matkalle tai lahjaksi"
       tarra: matkasetti
-    header: intense frangipani
+    if_olyj: 
+      fact: "100% luonnollisista aineista, 99% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
+      header: "intense frangipani Kauneusöljy"
+      inci: |-
+          Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
+          (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, Ctronellol *, Geraniol *,
+          limonene *, linalool *. * certified organic * part of natural essential oils
+      ingredients: |-
+          vesi, (kasviperäisten raaka-aineiden pinta-aktiivisia aineita), auringonkukkaöljy, alkoholi,
+          kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo, natural
+          essential oils mixture
+      link: intensefrangipani-suihkuvoide
+      main: "Kosteuttava, ihanantuoksuinen kauneusöljy. Hemmottelevan vartaloöljyn pohjana on luomulaatuinen jojobaöljy. Kun levität öljyn kostealle iholle, se imeytyy nopeasti ja tekee ihostasi aistillisen silkinpehmeän. Frangipanin ja champacan hienostuneet, trooppiset tuoksut tuovat juhlaa jokaiseen päivääsi."
+      sub_header: "Hoitava ja hemmotteleva"
+      tarra: |-
+          RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. 
+          Raikas ja hienostunut trooppisten kukkien tuoksu.
+          Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä.
+          Sertifioitua luonnonkosmetikkaa (BDIH). 
+          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
+    if_shower: 
+      fact: "100% luonnollisista aineista, 73% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
+      header: "intense frangipani Suihkuvoide"
+      inci: |-
+          Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
+          (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, Ctronellol *, Geraniol *,
+          limonene *, linalool *. * certified organic * part of natural essential oils
+      ingredients: |-
+          vesi, (kasviperäisten raaka-aineiden pinta-aktiivisia aineita), auringonkukkaöljy, alkoholi,
+          kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo, natural
+          essential oils mixture
+      link: intensefrangipani-suihkuvoide
+      main: "Hoitava ja sametinpehmeä suihkuvoide. Hienostunut trooppisen frangipanin kukkien tuoksu. Sisältämiensä tahitilaisen monoi –kukan uutteen ja tamanuöljyn ansiosta suihkuvoide säilyttää ihon kosteustasapainon suihkun aikana. Siitä johtuu, että ihosi tuntuu suihkun jälkeen silkkisen pehmeältä ja ravitulta. Ihanasti tuoksuvien eteeristen öljyjen yhdistelmä tekee suihkuhetkestäsi mielialaa kohottavan elämyksen!"
+      sub_header: "Silkinpehmeää raikkautta"
+      tarra: |-
+          RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. 
+          Raikas ja hienostunut trooppisten kukkien tuoksu.
+          Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä.
+          Sertifioitua luonnonkosmetikkaa (BDIH). 
+          Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
     list: |-
-        intensefrangipaninkukkaset ja niiden hienostunut ja raikas
-        tuoksu on perusta tälle elvyttävälle ja hoitavalle vartalonhoitosarjalle. 
-        Käytämme parhaimpia luomuraaka-aineita, ja se saa ihmeitä aikaan!  
+        1. Selvästi havaittava kuivaa ihoa uudistava ja rentouttava vaikutus<br/>
+        2. Parantaa huomattavasti ihon kosteustasapainoa<br/>
+        3. Ravitsee ja kaunistaa ihoa<br/>
+        4. Ihastuttavat tuoksut<br/>
+        <br/>
+         Innovatiiviset, vaikuttavat ainesosat<br/>
+        <br/>
+        Luomulaatuinen tamanuöljy<br/>
+        Pähkinäöljy, jolla on erinomaisia ihoa hoitavia ominaisuuksia. Öljy saadaan  madagaskarilaisen tamanupuun (Calophyllum Inophyllum) pähkinöistä. Pähkinöitä kuivatetaan noin kaksi kuukautta, minkä jälkeen niistä erotetaan tamanuöljy kylmäpuristamalla. Tässä hienossa öljyssä on runsaasti sekä tyydyttyneitä että tyydyttymättömiä rasvahappoja. Se sisältää myös ainutlaatuista, arvokasta  calophyllumhappoa.<br/>
+        <br/>
+        Frangipaniuute<br/>
+        Uutteen valmistuksessa on käytetty sekä keltavalkoisia (Plumeria Alba) että punavalkoiisia (Plumeria Rubia) frangipaninkukkia. Frangipaniuutteella on ihoa kosteuttavia ja virkistäviä ominaisuuksia.<br/>
+        <br/>
+        Tahitin monoi –kukan uute<br/>
+        Polynesialaisen gardenian (Gardenia Tahitensis) kukkia uutettuna kookosöljyyn. Monoi –uutteella on kliinisissä tutkimuksissa todettuja ihon kosteustasapainoa parantavia ominaisuuksia.<br/>
+        <br/>
+        Luonnolliset eteeriset öljyt<br/>
+        Huolella valitut, 100% luonnolliset eteeriset öljyt,  mm. frangipani, champaca, luomuvanilja, tuberosa, bergamotti ja bentsoe, tukevat ja aktivoivat ihon luonnollista toimintaa.<br/>
     main: ~
     products: "if_shower if_bodylotion if_eau_fraiche if_body_butter if_matkasetti if_deo_roll if_olyj"
-    sub_header: "<b>hienostunut vartalonhoitosarja</b>"
+    sub_header: "<b>Ravitseva vartalonhoitosarja</b>"

@@ -2,8 +2,8 @@
 fi: 
   dailypleasure: 
     dp_body_butter: 
-      fact: "Sisältää luomulaatuista karitevoita, luomukasviöljyjä ja -uutteita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
-      header: "dailypleasure Vartalovoi"
+      fact: "100% luonnollisista aineista, 98% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
+      header: "daily pleasure Kauneusöljy"
       inci: |-
           Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, alcohol *, citrus aurantium
           flower water *, Aloe barbadensis extract *, Cera Alba, Heliantus Annuus seed oil *, Cocos Nucifera oil *,
@@ -18,12 +18,12 @@ fi:
           porkkanauute, glyceryl stearate, luonnoll. vit. E, merileväuute, 
           xantaanikumi, sitruunahappo, glyceryl stearate
       link: dailypleasure-vartalovoi
-      main: "Silkinpehmeä, ravitseva vartalovoi, jossa on ihanan raikas ja hienostunut trooppisten kukkien tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon ravitsevaan tehohoitoon. Saa ihosi tuntumaan ja tuoksumaan ihanalta!  150 ml"
-      sub_header: "Syväkosteuttava ja ravitseva "
+      main: "Taivaallisen tuoksuinen, hemmotteleva vartaloöljy. Sisältää ihon kosteustasapainoa ylläpitävää luomulaatuista jojobaöljyä. Kun levität öljyn kostealle iholle, se imeytyy nopeasti ja tekee ihosi aistillisen silkinpehmeäksi. Appelsiinin, sitruunan ja mandariinin tuoksut yhdistettynä kevyeen ripaukseen vaniljaa pitävät sinut yhdeksännessä taivaassa aamusta iltaan!"
+      sub_header: "Taivaallisen ihana"
       tarra: "RY Silkinpehmeä, ravitseva vartalovoi, jossa on ihanan raikas ja hienostunut trooppisten kukkien tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon  ravitsevaan tehohoitoon. Saa ihosi tuntumaan ja tuoksumaan ihanalta! Sisältää luomulaatuista sheavoita, luomukasviöljyjä ja -uutteita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     dp_bodylotion: 
-      fact: "Sisältää luomulaatuisia kasviöljyjä ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita , ei parafiinia eikä parabeeneja."
-      header: "dailypleasure Kosteusvoide"
+      fact: "100% luonnollisista aineista, 98% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
+      header: "daily pleasure Kosteusvoide"
       inci: |-
           Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, Rosa Damascena
           flower water *, Cocos Nucifera oil *, Cetearyl alcohol, Cetearyl wheat bran Glucosides, perfume (natural
@@ -37,12 +37,20 @@ fi:
           oils, Phytosqualan, auringonkukkaöljy, mehiläisvaha, triglycerides, glyceryl stearate, luonnoll. vit. E,
           xantaanikumi, greipinsiemenöljy, merisuolauute. sitruunahappo * from kontr. Organic
       link: dailypleasure-kosteusvoide
-      main: "Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Raikas ja hienostunut trooppisten kukkien tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! <br/>50 ml"
-      sub_header: "Päivittäiseen ihonhoitoon"
+      main: |-
+          Pehmeästi ja hellästi hoitava, ihanasti tuoksuva vartalovoide. Afrikkalainen mango, luomulaatuinen karitevoi, luomukirsikankukka ja viikunauute parantavat ihon kosteustasapainoa ja tuovat silkinpehmeän tunnun. Samalla nautit appelsiinin, mandariinin ja vaniljan ihanista, ilahduttavista tuoksuista! 
+          <br/>
+      sub_header: "Tuoksuva ja hoitava"
       tarra: "RY Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Raikas ja hienostunut trooppisten kukkien tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomulaatuisia kasviöljyjä ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
+    dp_deo_spray: 
+      fact: "100% luonnollisista aineista. 98% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
+      header: "daily pleasure Deo Spray"
+      main: "Raikas suihkedeodorantti. Ihastuttava, luotettava, pitkävaikutteinen deospray kätevässä suihkepullossa. Aurinkoinen ja virkistävä tuoksu tehostaa suihkeen ihanan raikastavaa vaikutusta. Ei sisällä alumiinisuoloja."
+      sub_header: "Ihana ja raikas!"
+      tarra: "deo spray"
     dp_eau_fraiche: 
-      fact: "Valmistettu luomualkoholista, luonnollisista eteerisistä öljyistä ja luomuruusuvedestä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ,ei parafiinia eikä parabeeneja."
-      header: "dailypleasure Eau Fraîche"
+      fact: "100% luonnollisista aineista. 97% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
+      header: "daily pleasure Eau Fraîche"
       inci: |-
           Alcohol *, perfume (natural essential oils), Rosa Damascena flower water *, limonene *, linalool *, Citral
           *, benzyl benzoates *, benzyl alcohol *, benzyl Cinnamate *, Farnesol *, Geraniol *, benzyl salicylates *,
@@ -50,21 +58,27 @@ fi:
       ingredients: "alkoholi, natural essential oils mixture, ruusuvesi"
       link: dailypleasure-eau-fraiche
       main: |-
-          Luonnollinen, hienostunut eau de toilette päivittäiseen käyttöön. Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä. Ihana trooppisen dailypleasuren kukan vivahde. Suihkauta ihanaa ja naisellista tuoksua koko päivääsi tai illalla ennen ulos lähtöä!
-          <br/>50 ml
-      sub_header: "Kevyt, luonnollinen kukkaistuoksu"
+          Ihana, iloinen, hedelmäisen raikas eau fraîche! Tuoksu tuo mieleen upean, suloisen, paahteisen päivän Välimeren auringon alla. Cassiksen ja mimosan rehevän hedelmäisiä sävyjä yhdistettynä lempeään, puuterimaiseen tuulahdukseen tuoksuvia puita.
+          <br/>
+      sub_header: "Valloittava ja hienostunut"
       tarra: |-
           RY 
           Luonnollinen, hienostunut eau de toilette päivittäiseen käyttöön. Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä. Ihana trooppisen dailypleasuren kukan vivahde. Suihkauta ihanaa ja naisellista tuoksua koko päivääsi tai illalla ennen ulos lähtöä! Valmistettu luomualkoholista, luonnollisista eteerisistä öljyistä ja luomuruusuvedestä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
-    dp_deo_spray: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
-      header: "dailypleasure deo spray"
-      main: "deo "
-      sub_header: "Päivittäiseen ihonhoitoon "
-      tarra: deo spray
+    dp_matkasetti: 
+      fact: "Sertifioitua luomu- ja luonnonkosmetiikkaa (Na True)"
+      header: "daily pleasure Matkasetti"
+      main: |-
+          Kätevä setti ihastuttavista daily pleasure -vartalonhoitotuotteista kauniissa puuvillapussissa. Sopii hyvin viikonloppumatkalle, lahjaksi ystävälle tai tuotteiden kokeiluun.<br/>
+          Sisältää:<br/>
+          20 ml Kosteusvoide<br/>
+          20 ml Suihkugeeli<br/>
+          20 ml Kauneusöljy<br/>
+          2 ml “pleasure” Eau Fraiche<br/>
+      sub_header: "Matkalle tai lahjaksi"
+      tarra: matkasetti
     dp_shower_cream: 
-      fact: "Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei parafiinia eikä parabeeneja."
-      header: "dailypleasure Suihkuvoide"
+      fact: "100% luonnollisista aineista. 76% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
+      header: "daily pleasure Suihkuvoide"
       inci: |-
           Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
           (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, Ctronellol *, Geraniol *,
@@ -75,9 +89,9 @@ fi:
           essential oils mixture
       link: dailypleasure-suihkuvoide
       main: |-
-          Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja hienostunut trooppisten kukkien tuoksu. Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! 
-          <br/>200 ml
-      sub_header: "Hoitava, ihastuttava"
+          Hellävarainen, ravitseva, ihanantuoksuinen suihkuvoide. Suloisesti vaahtoava, hoitava suihkuvoide, jonka tuoksussa ilahduttavat appelsiini, mandariini, sitruuna ja ripaus vaniljaa. Villimangon voi, luomukirsikankukka, viikunauute ja luomulaatuinen manteliöljy hemmottelevat ja hoitavat hellästi ihoasi. Ihanaa, ylellistä silkintuntua päivittäiseen suihkuhetkeesi!
+          <br/>
+      sub_header: "Hoitava ja silkinpehmeä"
       tarra: |-
           RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. 
           Raikas ja hienostunut trooppisten kukkien tuoksu.
@@ -85,8 +99,8 @@ fi:
           Sertifioitua luonnonkosmetikkaa (BDIH). 
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
     dp_shower_gel: 
-      fact: "Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei parafiinia eikä parabeeneja."
-      header: "dailypleasure Suihkugeeli"
+      fact: "100% luonnollisista aineista. Sertifioitua luonnonkosmetiikkaa (NaTrue). Ei sisällä synteettisiä ainesosia eikä mineraaliöljyjä. Sopii vegaaneille."
+      header: "daily pleasure Suihkugeeli"
       inci: |-
           Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
           (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, Ctronellol *, Geraniol *,
@@ -97,9 +111,9 @@ fi:
           essential oils mixture
       link: dailypleasure-suihkugeeli
       main: |-
-          Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja hienostunut trooppisten kukkien tuoksu. Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! 
-          <br/>200 ml
-      sub_header: "Hoitava, ihastuttava"
+          Ihana, virkistävä suihkugeeli. Raikas ja energinen alku päivällesi! Suihkugeelin silkkinen vaahto ja aurinkoinen limen, sitruunaruohon ja mintun tuoksu takaavat virkistävän suihkuhetken. Sisältää luomukirsikankukkaa ja viikunauutetta. Voit käyttää suihkugeelinä tai lisätä 2-3 rkl kylpyveteen. 
+          <br/>
+      sub_header: "Raikas ja virkistävä"
       tarra: |-
           RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. 
           Raikas ja hienostunut trooppisten kukkien tuoksu.
@@ -107,8 +121,8 @@ fi:
           Sertifioitua luonnonkosmetikkaa (BDIH). 
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
     dp_shower_peeling: 
-      fact: "Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei parafiinia eikä parabeeneja."
-      header: "dailypleasure Suihku peeling"
+      fact: "100% luonnollisista aineista. Sertifioitua luonnonkosmetiikkaa (NaTrue). Ei sisällä synteettisiä ainesosia eikä mineraaliöljyjä. Sopii vegaaneille."
+      header: "daily pleasure Kuorintavoide"
       inci: |-
           Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
           (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, Ctronellol *, Geraniol *,
@@ -119,26 +133,38 @@ fi:
           essential oils mixture
       link: dailypleasure-suihkupeeling
       main: |-
-          Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja hienostunut trooppisten kukkien tuoksu. Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! 
-          <br/>200 ml
-      sub_header: "Hoitava, ihastuttava"
+          Hellä ja ihanantuoksuinen kuorintavoide vartalolle. Hienonhienoksi jauhetut ja hellävaraiset karpalon, luomukirsikankukan ja luomuviikunan hiukkaset tekevät ihostasi kauniin, pehmeän ja silkinsileän. Levitä pieni määrä kostealle iholle, hiero hellästi ja huuhtele. Ihastut samettiseen, aurinkoiseen tuntuun ja virkistävän hedelmäiseen tuoksuun ihollasi! 
+          <br/>
+      sub_header: "Sametinpehmeä iho"
       tarra: |-
           RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. 
           Raikas ja hienostunut trooppisten kukkien tuoksu.
           Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä.
           Sertifioitua luonnonkosmetikkaa (BDIH). 
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
-    dp_matkasetti: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
-      header: "dailypleasure Setti"
-      main: Matkasetti
-      sub_header: "Hoitava, ihastuttava "
-      tarra: matkasetti
-    header: daily pleasure
+    header: "daily pleasure"
     list: |-
-        dailypleasurenkukkaset ja niiden hienostunut ja raikas
-        tuoksu on perusta tälle elvyttävälle ja hoitavalle vartalonhoitosarjalle. 
-        Käytämme parhaimpia luomuraaka-aineita, ja se saa ihmeitä aikaan!  
+        1. Selvästi havaittava ihoa ravitseva ja hoitava vaikutus<br/>
+        2. Parantaa huomattavasti ihon kosteustasapainoa<br/>
+        3. Suojaa ihoa ympäristön haitallisilta vaikutuksilta<br/>
+        <br/>
+        <br/>
+        Innovatiiviset, vaikuttavat ainesosat<br/>
+        <br/>
+        Villimangovoi<br/>
+        Villimangoksi tai afrikkalaiseksi mangoksi kutsutun, mangoa muistuttavan hedelmän (Irvingia gabonensis) siemenistä uutettu hieno ja ravitseva voi. Villimango kasvaa Keski- ja Länsi-Afrikassa. Se sisältää runsaasti erittäin kosteuttavia ainesosia. Villimangovoi saa ihosi tuntumaan ihanan pehmeältä ja todella hellästi ja hyvin hoidetulta.<br/>
+        <br/>
+        Luomulaatuinen kirsikankukkauute<br/>
+        Ihana, mieto ja kosteutta ylläpitävä luomulaatuisten kirsikankukkien uute tuo iholle sametinpehmeän tunnun. Kirsikankukkaa pidetään silkinpehmeyden ja puhtauden vertauskuvana. Sen uutteella on kosteuttavia ja ihon pintaa sileyttäviä/silottavia ominaisuuksia.<br/>
+        <br/>
+        Luomuviikunan uute<br/>
+        Viikuna on yksi kaikkein kuitupitoisimmista hedelmistä, ja se sisältää runsaasti flavonoideja, polyfenoleita, hivenaineita ja vitamiineja. Sen vuoksi viikunauute antaa erinomaisen suojan vapaita radikaaleja vastaan.<br/>
+        <br/>
+        Luomulaatuiset manteliöljy ja karitevoi<br/>
+        Luomulaatuisella manteliöljyllä, joka sisältää poikkeuksellisen laajan valikoiman rasvahappoja, on iholle erityisen silottava ja uudistava vaikutus. Se ravitsee ihoa tehokkaasti ja antaa silkinsileän, sametinpehmeän tunnun.<br/>
+        <br/>
+        Tuoksut aidoista eteerisistä öljyistä<br/>
+        Hienostunut, parfyyminomainen yhdistelmä appelsiinia, sitruunaa, vaniljaa, mandariinia ja muita valikoituja eteerisiä öljyjä tukee ihon luonnollista toimintaa. Se tuo koko vartalonhoitosarjaan ihanan, raikkaan ja aurinkoisen tuoksun.<br/>
     main: ~
     products: "dp_shower_gel dp_shower_peeling dp_shower_cream dp_bodylotion dp_eau_fraiche dp_body_butter dp_matkasetti dp_deo_spray"
-    sub_header: "<b>hienostunut vartalonhoitosarja</b>"
+    sub_header: "Raikas ja energisoiva vartalonhoitosarja"

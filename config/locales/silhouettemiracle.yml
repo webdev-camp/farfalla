@@ -1,9 +1,28 @@
 --- 
 fi: 
   silhouettemiracle: 
+    header: "silhouette miracle"
+    list: |-
+        1. Kiinteyttävä vaikutus on dermatologisesti testattu<br/>
+        2. Ehkäisee selluliitin muodostumista<br/>
+        3. Selvästi havaittava tasoittava vaikutus<br/>
+        4. Virkistää ja raikastaa ihoa<br/>
+        <br/>
+        Innovatiiviset ainesosat<br/>
+        <br/>
+        Longan –hedelmä<br/>
+        Aktiivinen ainesosa, jonka ihoa silottava vaikutus on kliinisesti tutkittu, on erotettu thaimaalaisesta longan –hedelmästä. Siinä on runsaasti polyfenoleja. Ne taas sisältävät tiivistynyttä corilaginia, kasvipohjaista aktiivista ainetta, joka kiinteyttää vartalon linjoja ja hidastaa rasvakeräymien muodostumista.<br/>
+        <br/>
+        Luomulaatuinen koivunmahla<br/>
+        Puhdistavien ominaisuuksiensa vuoksi aito suomalainen koivunmahla tukee täydellisesti silhouette miracle -sarjan tehokkaasti kiinteyttävien ainesosien vaikutusta.<br/>
+        <br/>
+        Inkivääriuute<br/>
+        Inkivääri aktivoi verenkiertoa ja ihon aineenvaihduntaa. Se nopeuttaa rasvan palamista ja tehostaa solujen uusiutumista.<br/>
+    main: ~
+    products: "sm_shower_gel sm_bodylotion sm_body_scrub sm_body_gel sm_matkasetti"
     sm_body_gel: 
-      fact: "Sisältää luomulaatuista karitevoita, luomukasviöljyjä ja -uutteita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
-      header: "silhouettemiracle Vartalo gel"
+      fact: "100% luonnollisista aineista, 96% sertifioitavissa olevista ainesosista luomua.  Sopii vegaaneille."
+      header: "silhouette miracle Kiinteyttävä geeli"
       inci: |-
           Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, alcohol *, citrus aurantium
           flower water *, Aloe barbadensis extract *, Cera Alba, Heliantus Annuus seed oil *, Cocos Nucifera oil *,
@@ -18,12 +37,26 @@ fi:
           porkkanauute, glyceryl stearate, luonnoll. vit. E, merileväuute, 
           xantaanikumi, sitruunahappo, glyceryl stearate
       link: silhouettemiracle-vartalogel
-      main: "Silkinpehmeä, ravitseva vartalovoi, jossa on ihanan raikas ja hienostunut trooppisten kukkien tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon ravitsevaan tehohoitoon. Saa ihosi tuntumaan ja tuoksumaan ihanalta!  150 ml"
-      sub_header: "Syväkosteuttava ja ravitseva "
+      main: "Tehokas, selluliittia ehkäisevä vartalogeeli. Ihanantuntuinen ja –tuoksuinen apu selluliitin muodostumista vastaan! Kiinteyttävät, heleyttävät ja selluliittia ehkäisevät ainesosat, jotka on erotettu  Longan –hedelmästä ja inkivääristä, on yhdistetty koivunmahlan tehoaineisiin. Yhdistelmällä on tutkitusti kiinteyttävä ja rasvakeräymien muodostumista vähentävä vaikutus. Käyttö: levitä hellästi iholle, kiinnitä pakkauksen hierova korkki paikoilleen ja hiero ihoasi niin kauan kuin haluat. Ihosta tulee silminnähden kiinteämpi ja kauniimpi."
+      sub_header: "Tehokkaasti kiinteyttävä"
       tarra: "RY Silkinpehmeä, ravitseva vartalovoi, jossa on ihanan raikas ja hienostunut trooppisten kukkien tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon  ravitsevaan tehohoitoon. Saa ihosi tuntumaan ja tuoksumaan ihanalta! Sisältää luomulaatuista sheavoita, luomukasviöljyjä ja -uutteita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
+    sm_body_scrub: 
+      fact: "100% luonnollisista aineista, 99% sertifioirtaviossa olevista ainesosista luomua (NaTrue). Sopii vegaaaneille."
+      header: "silhouette miracle Kuorintavoide"
+      inci: |-
+          Alcohol *, perfume (natural essential oils), Rosa Damascena flower water *, limonene *, linalool *, Citral
+          *, benzyl benzoates *, benzyl alcohol *, benzyl Cinnamate *, Farnesol *, Geraniol *, benzyl salicylates *,
+          Citronellol *. * certified organic. * from natural essential oils
+      ingredients: "alkoholi, natural essential oils mixture, ruusuvesi"
+      link: silhouettemiracle-eau-fraiche
+      main: "Hellävarainen, ihanantuoksuinen ja -tuntuinen kuorintavoide vartalolle.  Kristallisokerin hellästi kuorivien hiukkasten ansiosta ihostasi tulee kaunis, sileä ja pehmeä. Luomulaatuiset jojoba- ja -kookosöljy tuovat iholle ihanan silkintunnun. Erinomainen pohja hoitavien tuotteiden aktiivisten ainesosien imeytymiselle. Levitä pieni määrä kostealle iholle ja hiero hellästi. Ilahdut ihosi kauneudesta ja samettisesta pehmeydestä!"
+      sub_header: "Sileyttä ja pehmeyttä"
+      tarra: |-
+          RY 
+          Luonnollinen, hienostunut eau de toilette päivittäiseen käyttöön. Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä. Ihana trooppisen silhouettemiraclen kukan vivahde. Suihkauta ihanaa ja naisellista tuoksua koko päivääsi tai illalla ennen ulos lähtöä! Valmistettu luomualkoholista, luonnollisista eteerisistä öljyistä ja luomuruusuvedestä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     sm_bodylotion: 
-      fact: "Sisältää luomulaatuisia kasviöljyjä ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita , ei parafiinia eikä parabeeneja."
-      header: "silhouettemiracle Kosteusvoide bodylotion"
+      fact: "100% luonnollisista aineista, 98% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille."
+      header: "silhouette miracle Kosteusvoide"
       inci: |-
           Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, Rosa Damascena
           flower water *, Cocos Nucifera oil *, Cetearyl alcohol, Cetearyl wheat bran Glucosides, perfume (natural
@@ -37,28 +70,24 @@ fi:
           oils, Phytosqualan, auringonkukkaöljy, mehiläisvaha, triglycerides, glyceryl stearate, luonnoll. vit. E,
           xantaanikumi, greipinsiemenöljy, merisuolauute. sitruunahappo * from kontr. Organic
       link: silhouettemiracle-kosteusvoide
-      main: "Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Raikas ja hienostunut trooppisten kukkien tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! <br/>50 ml"
-      sub_header: "Päivittäiseen ihonhoitoon"
+      main: "Tehokkaasti kiinteyttävä, ihanantuoksuinen vartalovoide. Longan –hedelmästö, inkivääristä ja koivunmahlasta erotetut aktiiviset ainesosat toimivat tehokkaasti ihoa kiinteyttäen ja heleyttäen ja estävät rasvakeräymien syntyä. Sitruunaruohon, katajan, rosmariinin ja salvian eteeriset öljyt tehostavat voiteen sileyttävää ja kiinteyttävää vaikutusta."
+      sub_header: "Kiinteyttävä ja hoitava"
       tarra: "RY Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Raikas ja hienostunut trooppisten kukkien tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomulaatuisia kasviöljyjä ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
-    sm_body_scrub: 
-      fact: "Valmistettu luomualkoholista, luonnollisista eteerisistä öljyistä ja luomuruusuvedestä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ,ei parafiinia eikä parabeeneja."
-      header: "silhouettemiracle Eau Fraîche"
-      inci: |-
-          Alcohol *, perfume (natural essential oils), Rosa Damascena flower water *, limonene *, linalool *, Citral
-          *, benzyl benzoates *, benzyl alcohol *, benzyl Cinnamate *, Farnesol *, Geraniol *, benzyl salicylates *,
-          Citronellol *. * certified organic. * from natural essential oils
-      ingredients: "alkoholi, natural essential oils mixture, ruusuvesi"
-      link: silhouettemiracle-eau-fraiche
+    sm_matkasetti: 
+      fact: "Sertifioitua luomu- ja luonnonkosmetiikkaa (NaTrue)."
+      header: "silhouette miracle Matkasetti"
       main: |-
-          Luonnollinen, hienostunut eau de toilette päivittäiseen käyttöön. Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä. Ihana trooppisen silhouettemiraclen kukan vivahde. Suihkauta ihanaa ja naisellista tuoksua koko päivääsi tai illalla ennen ulos lähtöä!
-          <br/>50 ml
-      sub_header: "Kevyt, luonnollinen kukkaistuoksu"
-      tarra: |-
-          RY 
-          Luonnollinen, hienostunut eau de toilette päivittäiseen käyttöön. Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä. Ihana trooppisen silhouettemiraclen kukan vivahde. Suihkauta ihanaa ja naisellista tuoksua koko päivääsi tai illalla ennen ulos lähtöä! Valmistettu luomualkoholista, luonnollisista eteerisistä öljyistä ja luomuruusuvedestä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
+          Vartalonhoitosetti kauniissa pikkupussissa. Sopii täydellisesti viikonloppumatkalle, lahjaksi ystävälle tai tuotteiden kokeiluun.<br/>
+          Sisältää:<br/>
+          20ml Kiinteyttävä geeli<br/>
+          20 ml Kosteusvoide<br/>
+          20 ml Suihkugeeli<br/>
+          2 ml “Anima” Eau de Toilette<br/>
+      sub_header: "Matkalle tai lahjaksi"
+      tarra: matkasetti
     sm_shower_gel: 
-      fact: "Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita ei parafiinia eikä parabeeneja."
-      header: "silhouettemiracle Suihku geeli"
+      fact: "100% luonnollisista aineista. Ei synteettisiä ainesosia eikä mineraaliöljyjä. Sertifioitua luonnonkosmetiikkaa (NaTrue). Sopii vegaaneille."
+      header: "silhouette miracle Suihkugeeli"
       inci: |-
           Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
           (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, Ctronellol *, Geraniol *,
@@ -68,27 +97,12 @@ fi:
           kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo, natural
           essential oils mixture
       link: silhouettemiracle-suihkuvoide
-      main: |-
-          Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. Raikas ja hienostunut trooppisten kukkien tuoksu. Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! 
-          <br/>200 ml
-      sub_header: "Hoitava, ihastuttava"
+      main: "Raikas, piristävä ja tehokkaasti kiinteyttävä suihkugeeli. Ihana pirskahteleva raikkaus virkistää mieltäsi ja jokaista soluasi! Koivunmahlan ja inkiväärin tehoaineet tekevät suihkugeelistä energisoisoivan ja ihanan käyttää. Voit tehostaa vaikutusta hieromalla geelin suihkussa lempeästi ihollesi. Käsittely antaa erinomaisen pohjan kiinteyttävien hoitotuotteiden imeytymiselle."
+      sub_header: "Kiinteyttä ja raikkautta"
       tarra: |-
           RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. 
           Raikas ja hienostunut trooppisten kukkien tuoksu.
           Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä.
           Sertifioitua luonnonkosmetikkaa (BDIH). 
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
-    sm_matkasetti: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja"
-      header: "silhouettemiracle Setti"
-      main: Matkasetti
-      sub_header: "Hoitava, ihastuttava "
-      tarra: matkasetti
-    header: silhouette miracle
-    list: |-
-        silhouettemiraclenkukkaset ja niiden hienostunut ja raikas
-        tuoksu on perusta tälle elvyttävälle ja hoitavalle vartalonhoitosarjalle. 
-        Käytämme parhaimpia luomuraaka-aineita, ja se saa ihmeitä aikaan!  
-    main: ~
-    products: "sm_shower_gel sm_bodylotion sm_body_scrub sm_body_gel sm_matkasetti"
-    sub_header: "<b>hienostunut vartalonhoitosarja</b>"
+    sub_header: "<b>Kiinteyttävä vartalonhoitosarja kaikenikäisille</b>"
