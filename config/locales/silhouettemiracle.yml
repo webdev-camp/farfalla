@@ -5,7 +5,7 @@ fi:
     list: |-
         1. Kiinteyttävä vaikutus on dermatologisesti testattu<br/>
         2. Ehkäisee selluliitin muodostumista<br/>
-        3. Selvästi havaittava tasoittava vaikutus<br/>
+        3. Selvästi havaittava silottava vaikutus<br/>
         4. Virkistää ja raikastaa ihoa<br/>
         <br/>
         Innovatiiviset ainesosat<br/>
@@ -37,11 +37,11 @@ fi:
           porkkanauute, glyceryl stearate, luonnoll. vit. E, merileväuute, 
           xantaanikumi, sitruunahappo, glyceryl stearate
       link: silhouettemiracle-vartalogel
-      main: "Tehokas, selluliittia ehkäisevä vartalogeeli. Ihanantuntuinen ja –tuoksuinen apu selluliitin muodostumista vastaan! Kiinteyttävät, heleyttävät ja selluliittia ehkäisevät ainesosat, jotka on erotettu  Longan –hedelmästä ja inkivääristä, on yhdistetty koivunmahlan tehoaineisiin. Yhdistelmällä on tutkitusti kiinteyttävä ja rasvakeräymien muodostumista vähentävä vaikutus. Käyttö: levitä hellästi iholle, kiinnitä pakkauksen hierova korkki paikoilleen ja hiero ihoasi niin kauan kuin haluat. Ihosta tulee silminnähden kiinteämpi ja kauniimpi."
+      main: "Tehokas, selluliittia ehkäisevä vartalogeeli. Ihanantuntuinen ja –tuoksuinen apu selluliitin muodostumista vastaan! Kiinteyttävät, silottavat ja selluliittia ehkäisevät ainesosat, jotka on erotettu  Longan –hedelmästä ja inkivääristä, on yhdistetty koivunmahlan tehoaineisiin. Yhdistelmällä on tutkitusti kiinteyttävä ja rasvakeräymien muodostumista vähentävä vaikutus. Käyttö: levitä hellästi iholle, kiinnitä pakkauksen hierova korkki paikoilleen ja hiero ihoasi niin kauan kuin haluat. Ihosta tulee silminnähden kiinteämpi ja kauniimpi."
       sub_header: "Tehokkaasti kiinteyttävä"
       tarra: "RY Silkinpehmeä, ravitseva vartalovoi, jossa on ihanan raikas ja hienostunut trooppisten kukkien tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon  ravitsevaan tehohoitoon. Saa ihosi tuntumaan ja tuoksumaan ihanalta! Sisältää luomulaatuista sheavoita, luomukasviöljyjä ja -uutteita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     sm_body_scrub: 
-      fact: "100% luonnollisista aineista, 99% sertifioirtaviossa olevista ainesosista luomua (NaTrue). Sopii vegaaaneille."
+      fact: "100% luonnollisista aineista, 99% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
       header: "silhouette miracle Kuorintavoide"
       inci: |-
           Alcohol *, perfume (natural essential oils), Rosa Damascena flower water *, limonene *, linalool *, Citral
@@ -70,7 +70,9 @@ fi:
           oils, Phytosqualan, auringonkukkaöljy, mehiläisvaha, triglycerides, glyceryl stearate, luonnoll. vit. E,
           xantaanikumi, greipinsiemenöljy, merisuolauute. sitruunahappo * from kontr. Organic
       link: silhouettemiracle-kosteusvoide
-      main: "Tehokkaasti kiinteyttävä, ihanantuoksuinen vartalovoide. Longan –hedelmästö, inkivääristä ja koivunmahlasta erotetut aktiiviset ainesosat toimivat tehokkaasti ihoa kiinteyttäen ja heleyttäen ja estävät rasvakeräymien syntyä. Sitruunaruohon, katajan, rosmariinin ja salvian eteeriset öljyt tehostavat voiteen sileyttävää ja kiinteyttävää vaikutusta."
+      main: |-
+          Tehokkaasti kiinteyttävä, ihanan raikas vartalovoide. Longan –hedelmän, inkiväärin ja koivunmahlan aktiiviset kiinteyttävät ja silottavat ainesosat toimivat tehokkaasti yhdessä ja  estävät rasvakeräymien syntyä. Selvästi havaittava silottava ja kiinteyttävä vaikutus on dermatologisesti tutkittu. Huomaat tehon heti ensimmäisen käyttökerran jälkeen: iho tuntuu ihanan sileänpehmeältä ja raikkaalta! Sitruunaruohon, katajan, rosmariinin ja salvian eteeriset öljyt tehostavat voiteen sileyttävää ja kiinteyttävää vaikutusta.
+          @@@@@@@@
       sub_header: "Kiinteyttävä ja hoitava"
       tarra: "RY Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Raikas ja hienostunut trooppisten kukkien tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomulaatuisia kasviöljyjä ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     sm_matkasetti: 
@@ -97,7 +99,9 @@ fi:
           kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo, natural
           essential oils mixture
       link: silhouettemiracle-suihkuvoide
-      main: "Raikas, piristävä ja tehokkaasti kiinteyttävä suihkugeeli. Ihana pirskahteleva raikkaus virkistää mieltäsi ja jokaista soluasi! Koivunmahlan ja inkiväärin tehoaineet tekevät suihkugeelistä energisoisoivan ja ihanan käyttää. Voit tehostaa vaikutusta hieromalla geelin suihkussa lempeästi ihollesi. Käsittely antaa erinomaisen pohjan kiinteyttävien hoitotuotteiden imeytymiselle."
+      main: |-
+          Tehokkaasti kiinteyttävä, raikas ja piristävä suihkugeeli. Koivunmahlan ja inkiväärin tehoaineet tekevät suihkugeelistä energisoivan, ja sen pirskahteleva raikkaus virkistää jokaista soluasi! Voit tehostaa vaikutusta hieromalla geelin suihkussa hellästi ihollesi. Suihkugeeli antaa erinomaisen pohjan kiinteyttävien hoitotuotteiden imeytymiselle.
+          @@@@@@@
       sub_header: "Kiinteyttä ja raikkautta"
       tarra: |-
           RY Sametinpehmeä ja ravitseva suihkuvoide ihon päivittäiseen pesuun. 
