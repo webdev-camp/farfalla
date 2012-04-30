@@ -7,24 +7,23 @@ fi:
         2. Parantaa selvästi ihon kosteustasapainoa<br/>
         3. Dermatologisesti testattu<br/>
         <br/>
+        <b>Uudistavat, vaikuttavat ainesosat</b><br/>
         <br/>
-        Uudistavat, vaikuttavat ainesosat<br/>
-        <br/>
-        Luomulaatuinen manteliöljy<br/>
+        <strong>Luomulaatuinen manteliöljy</strong><br/>
         Luomulaatuisella manteliöljyllä, joka sisältää poikkeuksellisen laajan valikoiman rasvahappoja, on iholle erityisen silottava ja uudistava vaikutus. Se ravitsee ihoa tehokkaasti ja antaa silkinsileän, sametinpehmeän tunnun.<br/>
         <br/>
-        Luomulaatuinen auringonkukkaöljy<br/>
+        <strong>Luomulaatuinen auringonkukkaöljy</strong><br/>
         Ihana öljy, joka sisältää runsaasti linolihappoa. On myös esitetty, että auringon energiaa varastoituu tehokkaasti juuri luomuauringonkukkaöljyyn. Erinomainen öljy herkän tai ärtyneen ihon hoitoon. Edistää ihosolujen uusiutumista.<br/>
         <br/>
-        Luomulaatuinen aloe vera<br/>
+        <strong>Luomulaatuinen aloe vera</strong><br/>
         Luomulaatuinen, aloe vera –kasvin lehdistä saatava raikas kasviuute. Aloe vera sisältää runsaasti mineraaleja, entsyymejä, hivenaineita ja vitamiineja. Se edistää solujen uusiutumista ja kosteuttaa ihoa. Tästä seuraa, että ihosta tulee kiinteämpi, ja rypyt ja juonteet vähenevät ja pehmenevät.<br/>
         <br/>
-        Luomulaatuinen limenkukkauute<br/>
+        <strong>Luomulaatuinen limenkukkauute</strong><br/>
         Jo keskiajalla valmistettiin kauneustuotteita miedon ja suloisen tuoksuisista limen kukista. Uute sisältää pääasiassa flavonoideja, eteerisiä öljyjä, kasvihappoja, saponiineja ja glykosideja. Limen kukat rauhoittavat ja rentouttavat ihoa ja jättävät sille ihanan raikkaan tunnun.
     main: |-
         Herkkäihoisille ja tuoksuherkille. 
         Luomulaatuiset manteli- ja auringonkukkaöljy, aloe vera ja limenkukkauute rauhoittavat ja tekevät ihosta suloisenpehmeän.
-    products: "ps_shower ps_bodylotion ps_deo_roll ps_hand_cream"
+    products: "ps_bodylotion ps_deo_roll ps_hand_cream ps_shower"
     ps_bodylotion: 
       fact: "100% luonnollisista aineista, 99% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
       header: Kosteusvoide
