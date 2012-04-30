@@ -4,7 +4,7 @@ fi:
     header: "intense frangipani"
     if_body_butter: 
       fact: "100% luonnollisista aineista, 96% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
-      header: "intense frangipani Vartalovoi"
+      header: Vartalovoi
       inci: |-
           Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, alcohol *, citrus aurantium
           flower water *, Aloe barbadensis extract *, Cera Alba, Heliantus Annuus seed oil *, Cocos Nucifera oil *,
@@ -23,8 +23,8 @@ fi:
       sub_header: "Ravitseva ja hoitava"
       tarra: "RY Silkinpehmeä, ravitseva vartalovoi, jossa on ihanan raikas ja hienostunut trooppisten kukkien tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon  ravitsevaan tehohoitoon. Saa ihosi tuntumaan ja tuoksumaan ihanalta! Sisältää luomulaatuista sheavoita, luomukasviöljyjä ja -uutteita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     if_bodylotion: 
-      fact: "100% luonnollisista aineista, 96% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille. ."
-      header: "intense frangipani Kosteusvoide"
+      fact: "100% luonnollisista aineista, 96% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
+      header: Kosteusvoide
       inci: |-
           Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, Rosa Damascena
           flower water *, Cocos Nucifera oil *, Cetearyl alcohol, Cetearyl wheat bran Glucosides, perfume (natural
@@ -43,27 +43,29 @@ fi:
       tarra: "RY Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Raikas ja hienostunut trooppisten kukkien tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomulaatuisia kasviöljyjä ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     if_deo_roll: 
       fact: "100% luonnollisista aineista, 97% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
-      header: "intense frangipani Deo Roll-on"
+      header: "Deo Roll-on"
+      link: intensefrangipani-deo-roll-on
       main: "Tehokas, hellävarainen roll-on deodorantti. Lempeä, ihanantuoksuinen, tehokas deo roll-on, joka antaa luotettavan ja pitkäkestoisen suojan. Aloe vera ja oliiviuute hoitavat ja suojaavat herkkää ihoa. Koska deodorantti ei sisällä alumiinisuoloja eikä alkoholia, se on hyvin hellävarainen iholle."
       sub_header: "Tehokas ja hellävarainen"
       tarra: matkasetti
     if_eau_fraiche: 
       fact: "100% luonnollisista aineista, 96% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
-      header: "intense frangipani Eau Fraîche"
+      header: "Eau Fraîche"
       inci: |-
           Alcohol *, perfume (natural essential oils), Rosa Damascena flower water *, limonene *, linalool *, Citral
           *, benzyl benzoates *, benzyl alcohol *, benzyl Cinnamate *, Farnesol *, Geraniol *, benzyl salicylates *,
           Citronellol *. * certified organic. * from natural essential oils
       ingredients: "alkoholi, natural essential oils mixture, ruusuvesi"
       link: intensefrangipani-eau-fraiche
-      main: "Kevyt, hienostunut kukkaistuoksu. Hienovaraisen aistillinen eau fraîche, jossa voi tuntea aurinkoisia ja hedelmäisiä frangipanin ja champacan kukkien tuoksuja. Pehmeä säväys vaniljaa ja bentsoeta pyöristää kokonaisuuden ja tuo etelämerten rantojen suloisimmat tuoksut ihollesi."
+      main: "Kevyt, hienostunut kukkaistuoksu. Hienovaraisen aistillinen eau fraîche, jossa voi tuntea aurinkoisia ja hedelmäisiä frangipanin ja champacan kukkien tuoksuja. Pehmeä säväys vaniljaa ja bentsoeta pyöristää kokonaisuuden ja tuo etelämerten rantojen suloiset tuulahdukset ihollesi."
       sub_header: "Hienostunut ja aistillinen"
       tarra: |-
           RY 
           Luonnollinen, hienostunut eau de toilette päivittäiseen käyttöön. Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä. Ihana trooppisen intensefrangipanin kukan vivahde. Suihkauta ihanaa ja naisellista tuoksua koko päivääsi tai illalla ennen ulos lähtöä! Valmistettu luomualkoholista, luonnollisista eteerisistä öljyistä ja luomuruusuvedestä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     if_matkasetti: 
       fact: "Sertifioitua luomu- ja luonnonkosmetiikkaa (NaTrue)"
-      header: "intense frangipani Matkasetti"
+      header: Matkasetti
+      link: intensefrangipani-matkasetti
       main: |-
           Vartalonhoitosetti kauniissa pikkupussissa. Sopii täydellisesti viikonloppumatkalle, lahjaksi ystävälle tai tuotteiden kokeiuun.
           Sisältää:<br/>
@@ -75,7 +77,7 @@ fi:
       tarra: matkasetti
     if_olyj: 
       fact: "100% luonnollisista aineista, 99% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
-      header: "intense frangipani Kauneusöljy"
+      header: Kauneusöljy
       inci: |-
           Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
           (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, Ctronellol *, Geraniol *,
@@ -95,7 +97,7 @@ fi:
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
     if_shower: 
       fact: "100% luonnollisista aineista, 73% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
-      header: "intense frangipani Suihkuvoide"
+      header: Suihkuvoide
       inci: |-
           Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
           (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, Ctronellol *, Geraniol *,
@@ -132,6 +134,6 @@ fi:
         <br/>
         Luonnolliset eteeriset öljyt<br/>
         Huolella valitut, 100% luonnolliset eteeriset öljyt,  mm. frangipani, champaca, luomuvanilja, tuberosa, bergamotti ja bentsoe, tukevat ja aktivoivat ihon luonnollista toimintaa.<br/>
-    main: "Shortly frangipani"
+    main: "Luomulaatuinen tamanuöljy, frangipanin ja tahitin monoi -kukan uutteet uudistavat, rentouttavat ja kaunistavat kuivaa ihoa. Hienostuneet, ihanat tuoksut!"
     products: "if_shower if_bodylotion if_eau_fraiche if_body_butter if_matkasetti if_deo_roll if_olyj"
     sub_header: "<b>Ravitseva vartalonhoitosarja</b>"

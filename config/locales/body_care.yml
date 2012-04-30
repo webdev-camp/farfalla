@@ -1,11 +1,13 @@
 --- 
 fi: 
   body_care: 
-    header: "Vartalonhoito "
+    header: "Täydellinen vartalonhoito-ohjelma"
     list: |-
-        Näissä sarjoissa yhdistyvät luonnonmukaisuus, selkeävaikutteiset raaka-aineet sekä tieteellinen kehitys. 
-        Nämä ominaisuudet takaavat kokonaisvaltaisen hyvän olon jokapäiväisessä vartalonhoidossa. 
-        Tuotteet eivät sisällä synteettisiä tuoksuja, väri- tai säilöntäaineita. 
+        Farfallan luomukosmetiikka - tehokkaat, vaikuttavat ainesosat.<br/>
+        <br/>
         
-         FARFALLA LOGOKaikki Farfallan luonnonmukaiset vartalonhoitohoitotuotteet ovat läpikäyneet kansainvälisen NaTrue -luomukosmetiikkasertifioinnin. Suurin osa tuotteista on tiukassa NaTrue -järjestelmässä tasoa 3, jolloin vähintään 95% raaka-aineista on luomua. Myös kauniissa ja käytännöllisissä pakkauksissa on huomioitu sekä esteettiset että ekologiset näkökohdat.
-    sub_header: "Kolme ihanaa vartalonhoitosarjaa sertifioitua luonnonkosmetiikkaa!"
+        Kaikki Farfallan luonnonmukaiset vartalonhoitohoitotuotteet ovat läpikäyneet kansainvälisen NaTrue -luomukosmetiikkasertifioinnin. Suurin osa tuotteista on tiukassa NaTrue -järjestelmässä tasoa 3, jolloin vähintään 95% raaka-aineista on luomua. Myös kauniissa ja käytännöllisissä pakkauksissa on huomioitu sekä esteettiset että ekologiset näkökohdat.<br/>
+        <br/>
+        
+        Farfallan feel beautiful -vartalonhoitosarja on suunniteltu kokonaisvaltaiseen ihonhoitoon. Valitse eri tuotelinjoista puhdistavat ja hoitavat tuotteet, jotka sopivat juuri sinun ihotyypillesi. Riippuen ihosi rasvan, kosteuden ja erityishoidon tarpeesta voit valita seuraavista tuoteryhmistä.
+    sub_header: "feel beautiful"
