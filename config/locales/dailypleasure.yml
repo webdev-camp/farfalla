@@ -122,6 +122,22 @@ fi:
           Riittoisaa: vaahdota helmenkokoinen pisara suihkuvoidetta käsissäsi ja levitä se  kostealle ihollesi. Käyttäessäsi pesusientä saat enemmän vaahtoa. Huuhtele ja tunne ihana silkinpehmeys ihollasi! Sisältää luomulaatuisia kasviöljyjä ja luonnollisia eteerisiä öljyjä.
           Sertifioitua luonnonkosmetikkaa (BDIH). 
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
+    dp_hand_cream:
+      fact: "100% luonnollisista aineista. Sertifioitua luonnonkosmetiikkaa (NaTrue). Ei sisällä synteettisiä ainesosia eikä mineraaliöljyjä. Sopii vegaaneille."
+      header: Hand cream
+      inci: |-
+          Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
+          (natural essential oils), xanthan gum, Asparagopsis Armata extract, Citrix acid, Ctronellol *, Geraniol *,
+          limonene *, linalool *. * certified organic * part of natural essential oils
+      ingredients: |-
+          vesi, (kasviperäisten raaka-aineiden pinta-aktiivisia aineita), auringonkukkaöljy, alkoholi,
+          kasviglyseriini, natural essential oils mixture, xantaanikumi, merileväuute, sitruunahappo, natural
+          essential oils mixture
+      link: dailypleasure-kasivoide
+      main: |-
+          Hellä ja ihanantuoksuinen kuorintavoide vartalolle. Hienonhienoksi jauhetut ja hellävaraiset karpalon, luomukirsikankukan ja luomuviikunan hiukkaset tekevät ihostasi kauniin, pehmeän ja silkinsileän. Levitä pieni määrä kostealle iholle, hiero hellästi ja huuhtele. Ihastut samettiseen, aurinkoiseen tuntuun ja virkistävän hedelmäiseen tuoksuun ihollasi! 
+          <br/>
+    
     dp_shower_peeling: 
       fact: "100% luonnollisista aineista. Sertifioitua luonnonkosmetiikkaa (NaTrue). Ei sisällä synteettisiä ainesosia eikä mineraaliöljyjä. Sopii vegaaneille."
       header: Kuorintavoide
@@ -168,5 +184,5 @@ fi:
         Tuoksut aidoista eteerisistä öljyistä<br/>
         Hienostunut, parfyyminomainen yhdistelmä appelsiinia, sitruunaa, vaniljaa, mandariinia ja muita valikoituja eteerisiä öljyjä tukee ihon luonnollista toimintaa. Se tuo koko vartalonhoitosarjaan ihanan, raikkaan ja aurinkoisen tuoksun.<br/>
     main: "Vaikuttavat ainesosat villimangovoi, luomulaatuiset kirsikankukan ja viikunan uutteet, karitevoi ja manteliöljy. Tuoksuna valloittava eteeristen öljyjen sekoitus!"
-    products: "dp_shower_gel dp_shower_peeling dp_shower_cream dp_bodylotion dp_eau_fraiche dp_body_butter dp_matkasetti dp_deo_spray"
-    sub_header: "Raikas ja energisoiva vartalonhoitosarja"
+    products: "dp_bodylotion dp_shower_cream dp_deo_spray dp_shower_gel dp_shower_peeling dp_eau_fraiche dp_body_butter dp_matkasetti"
+    sub_header: "<b>Raikas ja energisoiva vartalonhoitosarja</b>"
