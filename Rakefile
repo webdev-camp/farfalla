@@ -3,17 +3,16 @@
 
 require File.expand_path('../config/application', __FILE__)
 require 'rake'
+require "socket"
 
 Farfalla::Application.load_tasks
 
 desc "Create the static content for upload to server. (to ./farfalla.fi)"
 task :output do
-  require "socket"
   name = Socket.gethostname
   local = "-k" if name.include?("local")
   dir = "./farfalla.fi/"
-  require 'ftools'
-  File.makedirs dir
+  FileUtils.makedirs dir
   system "cp -R public/* #{dir}"
   system "cd #{dir}; wget -nH #{local} -m http://localhost:3000/"
 end
