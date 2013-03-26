@@ -5,13 +5,7 @@ fi:
     list: |-
         Hiusten muotoilu käy erinomaisesti Farfallan sertifioiduilla luonnonkosmetiikkatuotteilla. Ne antavat hiuksiin ryhtiä, 
         auttavat kampauksen muotoilussa ja viimeistelyssä sekä suojaavat hiusta hoitavilla luonnon eliksiireillä.
-    products: "st_mousse st_spray"
-    st_gel: 
-      header: "Styling Gel"
-      main: |-
-          The styling gel. Our styling gel for expert modelling and creative styling. Non-sticky, residue-free
-          combing out. No synthetic aroma, colour or preservatives. No PEGs or silicone.
-      sub_header: "Long-lasting hold"
+    products: "st_mousse st_spray st_gel"
     st_mousse: 
       fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
       header: "Volyymi Muotovaahto"
@@ -47,3 +41,14 @@ fi:
       sub_header: "Luonnollista suojaa hiuksille!"
       tarra: "Hellävarainen hiuskiinne antaa luonnollisen ja joustavan tuen koko päiväksi. Sopii kaikille hiustyypeille ja kampauksille. Hienojakoinen hiuskiinne on helppo harjata pois, eikä se vaurioita hauraitakaan hiuksia. Ei sisällä ponneaineita."
     sub_header: "Tyylikkäät, kauniit hiukset "
+    st_gel: 
+      header: Muotoiluvoide
+      main: |-
+          Pitävä, toimiva hiusvoide vaativienkin kampausten muotoiluun. Mieto, hyvä ja luonnollinen tuoksu ja miellyttävä rakenne: ei tunnu     tahmealta. Helppo kammata pois. Sisältää luomulaatuista aloe veraa.
+      sub_header: "Long-lasting hold"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
+      link: muotoiluvoide
+      sub_header: "Pitoa ja tukea muotoiluun!"
+      
+      
+      
