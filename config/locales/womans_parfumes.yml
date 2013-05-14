@@ -1,26 +1,66 @@
 --- 
 fi: 
   womans_parfumes: 
-    anima: 
-      fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. Tuotteita ei ole testattu eläimillä."
-      header: Anima
-      link: anima
-      main: "Luomuparfyymi, joka tuo esille olemuksesi kätketyn hymyn! Syvällinen ja dynaaminen, mutta samalla hedelmäisen raikas greipin, mandariinin ja appelsiinin vivahteineen. Sydäntuoksu sisältää mimosan ja appelsiininkukkien aurinkoista hehkua pyöristettynä metsäisillä tuoksuilla ja benzoella."
-      sub_header: "Syvällinen, dynaaminen ja raikas"
-      tarra: |-
-          RY Luomuparfyymi, joka tuo esille olemuksesi kätketyn hymyn! Syvällinen ja dynaaminen, mutta samalla hedelmäisen raikas greipin, mandariinin ja appelsiinin vivahteineen. Sydäntuoksu sisältää mimosan ja appelsiininkukkien aurinkoista hehkua  
-          pyöristettynä metsäisillä tuoksuilla ja benzoella. Farfallan luomuparfyymit ovat aitoja ja luonnollisia, ja niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. 98% ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä.
+    products: "swan nuvola anima marala nerola shandrani aura"
+    sub_header: "Luomuparfyymit naisille"
     header: "Eau de Parfum"
     list: |-
         Farfallan luomuparfyymit ovat aitoja, luonnollisia ja korkealaatuisia. Niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. Farfallan luomuparfyymeilla on NaTrue -sertifikaatti (luonnonkosmetiikkaa luomuainesosin). Farfalla on kuitenkin tehnyt parfyymeista vielä korkealaatuisempia kuin sertifikaatti vaatii: kaikista aineista luomuprosentti on 98%.
         Tuotteita ei ole testattu eläimillä. Sopii vegaaneille.
     main: ~
+      
+    swan: 
+      fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. Tuotteita ei ole testattu eläimillä."
+      header: Swan
+      link: swan
+      main: "Appelsiininkukat ja valkoiset ruusut aukeavat aamuauringon ensi säteiden herättäminä. Hienostunut, luonnollinen ja naisellinen parfyymi, jossa tuoksuvat upeasti kallisarvoinen ottoruusu ja aurinkoinen bergamotti. Puhdas iiris yhdistettynä kevyeen vivahdukseen Malgasyn vaniljaa ja santelipuun lämpöä hyväilee puuterinpehmeästi ihoasi."
+      sub_header: "Hienostunut, luonnollinen ja naisellinen"
+    
     nuvola: 
       fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. Tuotteita ei ole testattu eläimillä."
       header: Nuvola
       link: nuvola
-      main: "Luomuparfyymi, jonka tuoksu on raikas ja modernin naisellinen. Neroli ja  bergamotti tuovat tuovat raikkautta ja elämäniloa, kun taas ylang ylang, vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia, naisellisella pehmeydellään. Saat miesten päät kääntymään!"
-      sub_header: "Raikas ja modernin naisellinen"
-      tarra: "RY Luomuparfyymi, jonka tuoksu on raikas ja modernin naisellinen. Neroli, bergamotti, ylang ylang, vanilja ja santelipuu korostavat kantajan vetovoimaa ja charmia. Saat miesten päät kääntymään! Farfallan luomuparfyymit ovat aitoja ja luonnollisia, ja niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. 98% ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä."
-    products: "anima nuvola"
-    sub_header: "Luomuparfyymit naisille"
+      main: "Luomuparfyymi, jonka tuoksu on raikas ja modernin naisellinen. Neroli ja  bergamotti tuovat tuovat raikkautta ja elämäniloa, kun taas ylang ylang, vanilja ja santelipuu korostavat naisellisella pehmeydellään kantajan vetovoimaa ja charmia. Saat miesten päät kääntymään!"
+      sub_header: "Upea, modernin naisellinen tuoksu"
+      tarra: "RY Luomuparfyymi, jonka tuoksu on raikas ja modernin naisellinen. Neroli, bergamotti, ylang ylang, vanilja ja santelipuu korostavat naisellisella pehmeydellään kantajan vetovoimaa ja charmia. Saat miesten päät kääntymään! Farfallan luomuparfyymit ovat aitoja ja luonnollisia, ja niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. 98% ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä."
+
+    anima: 
+      fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. Tuotteita ei ole testattu eläimillä."
+      header: Anima
+      link: anima
+      main: "Luomuparfyymi, joka tuo esille olemuksesi kätketyn hymyn! Syvällinen ja dynaaminen, mutta samalla hedelmäisen raikas greipin, mandariinin ja appelsiinin vivahteineen. Sydäntuoksu sisältää mimosan ja appelsiininkukkien aurinkoista hehkua pyöristettynä metsäisillä tuoksuilla ja benzoella."
+      sub_header: "Syvällinen, dynaaminen ja hedelmäisen raikas"
+      tarra: |-
+          RY Luomuparfyymi, joka tuo esille olemuksesi kätketyn hymyn! Syvällinen ja dynaaminen, mutta samalla hedelmäisen raikas greipin, mandariinin ja appelsiinin vivahteineen. Sydäntuoksu sisältää mimosan ja appelsiininkukkien aurinkoista hehkua  
+          pyöristettynä metsäisillä tuoksuilla ja benzoella. Farfallan luomuparfyymit ovat aitoja ja luonnollisia, ja niiden pohjana on käytetty luomualkoholia ja luomukukkaisvesiä. 98% ainesosista luomua (BDIH -sertifikaatti). Tuotteita ei ole testattu eläimillä.
+          
+    marala: 
+      fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. Tuotteita ei ole testattu eläimillä."
+      header: Marala
+      link: marala
+      main: "Taianomainen, luonnollinen parfyymi, jossa on ihastuttava vivahdus Arabian öiden eksotiikkaa. Labnanumin ja cistuksen ambravivahteissa kylpevä unikonkukka kuiskuttelee salaisuuksia yössä kukkivalle tuberosalle.
+        Aistillisten ja kiehtovien tuoksujen harmonia luo hienon, maagisen tuoksukokonaisuuden, joka on täynnä itämaisen yön hienostunutta taikaa ja lupausta. Intialaisen jasmiinin ja palsamin naiselliset sävyt korostavat parfyymin käyttäjän vetovoimaa."
+      sub_header: "Ihastuttava ja taianomainen"
+
+    nerola: 
+      fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. Tuotteita ei ole testattu eläimillä."
+      header: Nerola
+      link: nerola
+      main: "Luomuparfyymi, jonka hedelmäinen tuoksu on täynnä kevään iloa! Ihanan raikas ja kepeä kukkaistuoksu on saanut inspiraationsa Nerolasta, sisilialaisesta prinsessasta, joka rakasti appelsiininkukkien tuoksua yli kaiken. Tuoksulla on virkistävä ja mielialaa kohottava vaikutus.
+          Neroli, melissa, puuterinen iiris ja ottoruusu muodostavat pohjan ihastuttavalle ja naiselliselle tuoksukokonaisuudelle!"
+      sub_header: "Tuoksu täynnä kevään iloa"
+
+    shandrani: 
+      fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. Tuotteita ei ole testattu eläimillä."
+      header: Shandrani
+      link: shandrani
+      main: "Luomuparfyymi, jonka tuoksu on Tuhannen ja yhden yön taruista! Salaperäinen, leikkisä ja aistikas. Hyasintti, itämainen jasmiini ja ottoruusu tekevät parfyymista naisellisen ja lumoavan.
+          Sydäntuoksuina nardus, kardemumma ja mausteneilikka tuovat tuoksuun mausteisen ja syvän vivahteen, mikä huipentuu vaniljan, santelipuun ja osmanthus-kukan lempeyteen ja pehmeyteen.."
+      sub_header: "Naisellinen ja lumoava"
+
+    aura: 
+      fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. Tuotteita ei ole testattu eläimillä."
+      header: Aura
+      link: aura
+      main: "Luomuparfyymi, jonka tuoksu on virkistävä, voimistava ja harmonisoiva. Sitrushedelmien kepeys ja yrttien raikkaus tuovat rohkeutta. Lempeä kamomilla ja vihreä mänty sydäntuoksuina lisäävät turvallisuuden tunnetta ja maadoittavat. Frankinsensin ja väinönputken tasapainoittava vaikutus pyöristää tuoksun kokonaisuudeksi, joka suojelee ja auttaa asettamaan täsmällisemmät rajat."
+      sub_header: "Virkistävä, voimistava ja harmonisoiva"
