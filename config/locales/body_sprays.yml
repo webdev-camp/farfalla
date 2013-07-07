@@ -1,55 +1,47 @@
 --- 
 fi: 
   body_sprays: 
-    freshen_up: 
-      fact: "Valmistettu luomualkoholista, -sitruunamelissasta ja luonnollisista eteerisistä öljyistä. Sertifioitua luonnonkosmetiikkaa (BDIH)."
-      header: "Freshen Up –<br/>Raikastusta!"
-      link: freshen-up-raikastusta
-      main: |-
-          <strong>Ihanan raikas spray, joka tuo virkistystä ja raikastusta päivääsi.</strong> 
-          Tarvittaessa voit suihkuttaa spraytä useita kertoja päivässä suoraan iholle, kaulalle, ranteisiin. Pieni pullo on kätevä pitää mukana.
-          <em>Kuumana kesäpäivänä voit virkistää väsyneitä jalkojasi suihkauttamalla niille raikasta sprayta!</em>
-      sub_header: "Hedelmäisen raikas spray, joka viilentää ja virkistää!"
-      tarra: "RY Ihanan raikas spray, joka tuo virkistystä ja raikastusta päivääsi. Tarvittaessa voit suihkauttaa spraytä useita kertoja päivässä suoraan iholle, kaulalle tai ranteisiin. Pieni pullo on kätevä pitää mukana. Valmistettu luomualkoholista, -sitruunamelissasta ja luonnollisista eteerisistä öljyistä. Sertifioitua luonnonkosmetiikkaa (BDIH)."
-    header: "Body Sprayt"
-    list: |-
-        Mahtavia tuoksuja pienessä pullossa. 
-        Kätevät spraypullot mahtuvat käsilaukkuun ja voit suihkauttaa niitä  tarvittaessa.
-        Neljä tuoksuluomusta erilaisiin tilanteisiin. Suihkuta tuoksua kaulalle, kasvoille, niskaan tai ranteisiisi. 
-        Halutessasi voit suihkauttaa niitä myös hiuksiisi tai vaatteisiisi, sillä niistä ei jää tahroja. 
-        Voit myös virkistäytyä suihkauttamalla sprayta ilmaan ja nuuhkaista ihania tuoksuja.
-        Body sprayt sisältävät luomukukkaisvesiä, luomualkoholia ja eteeristen luomuöljyjen sekoituksia.
-        Saatavana 20 ml pulloissa.
-    main: " "
-    on_he_move: 
-      fact: "Valmistettu luomualkoholista, luomumintusta ja luonnollisista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (BDIH)."
-      header: "On the Move –<br/> Aina mukana"
-      link: on-the-move-aina-mukana
-      main: |-
-          <strong>Raikas spray, joka pitää sinut virkeänä koko päivän. Auttaa pysymään hereillä esim. autoa ajaessa.</strong> 
-          Voidaan suihkauttaa suoraan iholle, vaatteisiin, hiuksiin tai ilmaan. Pikku pullo on helppo pitää mukana ja suihkauttaa piristystä aina tarvittaessa!
-      sub_header: "Virkistää, raikastaa ja lisää keskittymiskykyä"
-      tarra: "RY Raikkaantuoksuinen spray, joka lisää keskittymiskykyä ja auttaa pysymään hereillä esim. autoa ajaessa. Voidaan suihkauttaa suoraan iholle, vaatteisiin, hiuksiin tai ilmaan. Pikku pullo on helppo pitää mukana ja suihkauttaa piristystä aina tarvittaessa! Valmistettu luomualkoholista, luomumintusta ja luonnollisista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (BDIH)."
-    products: "freshen_up on_he_move three_roses wellbeing"
+
+    products: "instant_rescue refresh relax wellbeing"
     sub_header: " "
-    three_roses: 
-      fact: "Valmistettu luomuruusuvedestä, luomualkoholista ja luonnollisista eteerisistä öljyistä. Sertifioitua luonnonkosmetiikkaa (BDIH)."
-      header: "Three Roses –<br/> Kolme ruusua"
-      link: three-roses-ruusutarha
+
+    header: "Aromasprayt ja -roll-onit"
+    list: |-
+        <strong>Mahtavia tuoksuja pienessä pullossa. </strong>Kätevät spraypullot ja -roll-onit mahtuvat käsilaukkuun ja voit käyttää niitä aina tarvittaessa. Neljä aromaterapeuttista tuoksuluomusta erilaisiin tilanteisiin. <br/>Suihkauta sprayta kaulalle, kasvoille, niskaan tai ranteisiisi. Halutessasi voit suihkauttaa niitä myös hiuksiisi tai vaatteisiisi, sillä niistä ei jää tahroja. Voit myös virkistäytyä suihkauttamalla sprayta ilmaan ja nuuhkaisemalla ihania tuoksuja. <br/>Kätevä roll-on mahtuu vaikka taskuun ja voit pyöräyttää sitä helposti ranteisiisi tai kaulalle. Aromasprayt ja -roll-onit sisältävät luomukukkaisvesiä, luomualkoholia ja luomulaatuisten eteeristen öljyjen sekoituksia. Aromasprayt 20 ml:n pullossa, roll onit 10ml.
+    main: " "
+
+    instant_rescue: 
+      header: "Aromaspray <br/>ja -roll-on <br/>Instant Rescue"
+      sub_header: "Nopea apu haastavissa tilanteissa!"
       main: |-
-          <strong>Herkkä ja ihastuttava kukkaistuoksu.</strong> 
-          Luonnollinen, ruusuntuoksuinen body spray, jota voi suihkuttaa suoraan iholle, kaulalle, kasvoihin tai ranteisiin. Ihana ruusuntuoksu rauhoittaa, rentouttaa ja tuo harmoniaa. Spray ei tahraa, voit käyttää sitä myös hiuksiin tai vaatteisiin.
-      sub_header: "Rauhoittaa, rentouttaa ja tuo harmoniaa"
-      tarra: "RY Luonnollinen, ruusuntuoksuinen body spray, jota voi suihkuttaa suoraan iholle, kaulalle, kasvoihin tai ranteisiin. Ihana ruusuntuoksu rauhoittaa, rentouttaa ja tuo harmoniaa. Spray ei tahraa, voit käyttää sitä myös hiuksiin tai vaatteisiin. Valmistettu luomuruusuvedestä, luomualkoholista ja luonnollisista eteerisistä öljyistä. Sertifioitua luonnonkosmetiikkaa (BDIH)."
+          <strong>Virkistävä, raikas aromaspray ja -roll-on, joista on hyötyä ja iloa monessa tilanteessa.</strong> 
+          Sisältää luomulaventelin, luomuteepuun ja kamomillan eteerisiä öljyjä. Voit suihkauttaa sprayta tai pyöräyttää roll-onia suoraan iholle, kaulalle tai ranteisiin. 
+      fact: "Valmistettu kukkaisvesistä, luomualkoholista ja aidoista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue)."
+      link: aromaspray-instant-rescue
+
+    refresh: 
+      header: "Aromaspray <br/>ja -roll-on <br/>Refresh"
+      sub_header: "Raikastusta!<br/>"
+      main: |-
+          <strong>Pirteä ja virkistävä aromaspray ja -roll on. Pidä aina mukana!</strong> 
+          Sisältää luomumelissan, mandariinin ja greipin eteerisiä öljyjä. Raikastaa oloa ja selkeyttää ajatukset. Voit suihkauttaa spraytä tai pyöräyttää roll-onia suoraan iholle, kaulalle tai ranteisiin.
+      fact: "Valmistettu kukkaisvesistä, luomualkoholista ja aidoista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue)."
+      link: aromaspray-refresh
+
+    relax: 
+      header: "Aromaspray <br/>ja -roll-on <br/>Relax"
+      sub_header: "Auttaa rentoutumaan!<br/>"
+      main: |-
+          <strong>Luomulaatuinen, ihana aromaspray ja -roll on, joka auttaa rentoutumaan ja nukkumaan hyvät ja rauhalliset yöunet. </strong> 
+          Sisältää luomulaventelin, -sitruunamelissan ja ruusun eteerisiä öljyjä. Voit suihkauttaa spraytä tai pyöräyttää roll-onia suoraan iholle, kaulalle tai ranteisiin. 
+      fact: "Valmistettu kukkaisvesistä, luomualkoholista ja aidoista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue)."
+      link: aromaspray-relax
+
     wellbeing: 
-      fact: "Valmistettu luomualkoholista, luomuruusuvedestä ja luonnollisista eteerisistä öljyistä. Sertifioitua luonnonkosmetiikkaa (BDIH)."
-      header: "Wellbeing –<br/> Hyvinvointia elämään!"
-      link: wellbeing-hyvinvointia-elaemaeaen
+      header: "Aromaspray <br/>ja -roll-on <br/>Wellbeing"
+      sub_header: "Hyvinvointia elämään!<br/>"
       main: |-
-          <strong>Tämä spray tuo iloa ja harmoniaa kiireiseenkin päivään.</strong> 
-          Voit hemmotella itseäsi suihkuttamalla sitä kaulallesi, kasvoillesi tai ranteisiisi. Suihkaus tyynylle edistää hyvää ja rauhallista unta. Sopii hyvin myös lapsille.
-      sub_header: "Iloa, rauhaa ja harmoniaa kiireenkin keskelle"
-      tarra: |-
-          RY Wellbeing - hyvinvointia elämään! Tämä spray tuo iloa ja harmoniaa kiireiseenkin päivään. 
-          Voit hemmotella itseäsi suihkuttamalla sitä kaulallesi, kasvoillesi tai ranteisiisi.
-          Suihkaus tyynylle edistää hyvää ja rauhallista unta. Sopii hyvin myös lapsille. Valmistettu luomualkoholista, luomuruusuvedestä ja luonnollisista eteerisistä öljyistä. Sertifioitua luonnonkosmetiikkaa (BDIH).
+          <strong>Ilahduttava raikkaiden kukkaistuoksujen yhdistelmä.</strong> 
+          Erityisen hyvä apu haastaviin tilanteisiin ja stressaaviin hetkiin. Voit suihkauttaa spraytä tai pyöräyttää roll-onia suoraan iholle, kaulalle tai ranteisiin. 
+      fact: "Valmistettu kukkaisvesistä, luomualkoholista ja aidoista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue)."
+      link: aromaspray-wellbeing
