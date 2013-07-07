@@ -289,6 +289,13 @@ width:  50%;
 float: left;	
 }
 
+.twoo {
+width:  50%;
+float: left;
+margin-bottom: 10px;
+	
+}
+
 .two-right {
 width:  50%;
 float: right;	
@@ -299,6 +306,7 @@ width:  100%;
 float: left;
 	margin-bottom: 10px;
 }
+
 
 .three {
 width: 30%;
