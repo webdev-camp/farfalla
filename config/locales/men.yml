@@ -1,49 +1,60 @@
 --- 
 fi: 
   men: 
-    header: "Santelipuu - Luonnonkosmetiikkaa miehille"
-    list: "Uusi, erityisesti miesten ihonhoitoon suunniteltu anti age -vaikutteinen kosmetiikkasarja. Raikas, hivenen kirpeä santelipuun ja seetrin tuoksu."
-    main: |-
-        <em>Pellavansiemenuute </em><br/>
-        Fantastinen luomulaatuinen kasviuute, joka tasapainottaa rasvaista ihoa ja tekee kasvojen 
-        ihosta näkyvästi raikkaamman ja kirkkaamman. 
-        Testit osoittivat ihon talintuotannon tasapainottuneen ja pienten ihovaurioiden tasaantuneen.<br/><br/>
-        <em>Hamamelisuute </em><br/>
-        Luomulaatuinen kasviuute, jolla on ihohuokosia puhdistava ja miedosti tulehduksia ehkäisevä vaikutus, 
-        kirkastaa rasvaista ihoa.<br/><br/>
-        <em>Aloe Vera </em><br/>
-        Aloe Vera kosteuttaa ja edistää solujen uusiutumista.<br/><br/>
-        <em>Luonnolliset, syvävaikutteiset eteeriset öljyt </em><br/>
-        Valikoitujen eteeristen öljyjen yhdistelmä (luomucistus, -ruusumyrtti, -rosmariini ja -salvia) 
-        ehkäisee epäpuhtauksien syntyä. Vaikutus ulottuu syvälle, iho tulee pitkävaikutteisesti 
-        puhdistetuksi ja talineritys tasapainottuu. 
-    main_header: "Tehokkaat, vaikuttavat aineosat"
-    products: "sw_after_shave sw_deo sw_shower_gel"
+    header: "Feel Great Men - luonnonkosmetiikkaa miehille"
+    list: "Uusi, erityisesti miesten ihonhoitoon suunniteltu anti age -vaikutteinen kosmetiikkasarja. Raikas, hivenen kirpeä tuoksu."
+    products: "men_deo men_fluid sw_after_shave men_shower men_lotion men_augen uomo"
     sub_header: "Eksoottisten puiden raikas ja miellyttävä tuoksu"
+
     sw_after_shave: 
       fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: "Santelipuu After Shave Balsami"
       link: santelipuu-after-shave-balsami
       main: "Luonnollinen santelipuubalsami rauhoittaa ja hoitaa ihoa jokaisen parranajon jälkeen ja estää kirvelyn. Hoitavaa vaikutusta tehostavat luomulaatuiset aloe vera,- hamamelis- ja kamomillauutteet sekä luonnolliset eteeriset öljyt. Hienovarainen ja miellyttävä mutta hyvin maskuliininen tuoksu. Kallisarvoisen itäintialaisen santelipuun tuoksua tukevat seetri, iiris ja patsuli."
       sub_header: "Hoitavaa ja rauhoittavaa suojaa jokaisen parranajon jälkeen"
-      tarra: "Santelipuubalsami rauhoittaa ja hoitaa ihoa jokaisen parranajon jälkeen ja estää kirvelyn. Hoitavaa vaikutusta tehostavat aloe vera-, hassel- ja kamomillauutteet sekä luonnolliset eteeriset öljyt. Hienovarainen mutta maskuliininen tuoksu, jossa kallisarvoisen itäintialaisen santelipuun tuulahdusta tukevat seetri, iiris ja patsuli."
-    sw_deo: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
-      header: "Santelipuu Roll-on deodorantti"
-      link: santelipuu-roll-on-deodorantti
-      main: "Mieto tahraamaton roll-on -deodorantti päivittäiseen käyttöön. Miellyttävässä ja maskuliinisessa tuoksussa santelia ja seetriä. Ehkäisee hienhajun luonnollisen tehokkaasti. pH-neutraali. Sisältää luomulaatuista oliiviuutetta ja -aloe veraa. Ei sisällä alumiinisuoloja."
-      sub_header: "Raikkautta koko päiväksi – herkällekin iholle!"
-      tarra: |-
-          Mieto tahraamaton roll-on -deodorantti päivittäiseen käyttöön. 
-          Miellyttävässä ja maskuliinisessa tuoksussa santelia ja seetriä. 
-          Ehkäisee hienhajun luonnollisen tehokkaasti. pH-neutraali. Ei sisällä alumiinisuoloja.
-    sw_shower_gel: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, PEG -yhdisteitä, SLS:aa, parafiinia eikä parabeeneja."
-      header: "Santelipuu Suihkugeeli"
-      link: santelipuu-suihkugeeli
-      main: "Hyvin mieto suihkugeeli vartalolle ja hiuksille. Santelipuun ja seetrin raikas, miellyttävä, aavistuksen kirpeä tuoksu. Sisältää vehnäproteiineja. Päivittäiseen käyttöön."
-      sub_header: "Pehmeä, virkistävä suihkugeeli vartalolle ja hiuksille"
-      tarra: |-
-          Mieto suihkugeeli vartalolle ja hiuksille. 
-          Santelipuun ja seetrin raikas, miellyttävä, hedelmäisen kirpeä tuoksu. 
-          Sisältää vehnäproteiineja. Ei sisällä synteettisiä väriaineita, keinotekoisia tuoksu- tai säilöntäaineita eikä PEG-yhdisteitä.
+
+    men_lotion: 
+      fact: "100% luonnollisista ainesosista, sertifioitua luomukosmetiikkaa (NaTrue)."
+      header: "Feel Great Men Kosteusvoide"
+      link: farfalla-men-kosteusvoide
+      main: "Ravitseva, raikas ja energisoiva vartalovoide miehelle. Imeytyy nopeasti ja saa ihon tuntumaan hyvältä ja virkistyneeltä. Villimangovoi, luomulaatuinen karitevoi ja luomuviikunauute suojaavat ihoa kuivumiselta ja ympäristön haitallisilta vaikutuksilta. Greipin, roseepippurin, seetrin ja piristävän piparmintun luonnolliset eteeriset öljyt tehostavat verenkiertoa ja tuovat energiaa päivään."
+      sub_header: " "
+      
+
+    men_shower: 
+      header: "Feel Great Men SuihkuShampoo"
+      main: "Raikas, hellävarainen suihkugeeli ja shampoo miehelle. Ravitseva ja virkistävä suihkushampoo pesee ihon ja hiukset tehokkaasti mutta kuivattamatta. Luomulaatuiset macadamiaöljy, appelsiiniuute ja greipin, bergamotin ja mintun eteeriset öljyt tuovat uuteen päivään energiaa ja hyvää tuulta!"
+      fact: "100% luonnollisista ainesosista, sertifioitua luonnonkosmetiikkaa (NaTrue)."
+      link: farfalla-men-suihkushampoo
+      sub_header: " "
+
+    men_deo: 
+      header: "Feel Great Men Deo roll on"
+      main: "Tehokas, miellyttävä ja raikas deo roll on miehelle. Innovatiivinen koostumus: mukana ensimmäinen kliinisesti testattu 24h -deodoroiva vaikuttaja-aine luonnonkosmetiikassa. Ei sisällä alumiinisuoloja eikä alkoholia."
+      fact: "100% luonnollisista ainesosista, sertifioitua luonnonkosmetiikkaa (NaTrue)."
+      link: farfalla-men-deo-roll-on
+      sub_header: " "
+
+    men_fluid: 
+      header: "Feel Great Men Kiinteyttävä kosteusemulsio"
+      main: "Energiaa, kiinteyttä ja kosteutta. Nopeasti imeytyvä, tehokkaasti kiinteyttävä ja vahvistava kosteusvoide kasvoille. Sopii erittäin hyvin after shave -voiteeksi ja jättää iholle miellyttävän, huolitellun tunnun.
+        Sisältää perulaista maca -juurta, jolla on dermatologisesti tutkittu anti-age -vaikutus, ja tehokkaasti kosteuttavan Hyalurosmooth -ainesosayhdistelmän. Sisältää luomulaatuisia greipin, bergamotin ja ja mintun eteerisiä öljyjä, jotka parantavat verenkiertoa ja tuovat energiaa ja potkua päivään!"
+      fact: "100% luonnollisista ainesosista, 95% luomua (NaTrue)."
+      link: farfalla-men-kiinteyttava-kosteusemulsio
+      sub_header: " "
+
+    men_augen: 
+      fact: "100% luonnollisista aineista, 95% luomua (NaTrue)."
+      header: "Feel Great Men Silmänympärysseerumi"
+      link: farfalla-men-silmanymparysseerumi
+      main: "Virkistävä, ravitseva ja kiinteyttävä teho -roll on silmänympäryksille. Kosteuttaa ja elvyttää ihoa. Vähentää tutkitusti tummia silmänalusia, turvotusta ja pieniä ryppyjä silmien ympärillä. Pyöräytä roll-onia iholle aamuisin tai tarpeen mukaan."
+      sub_header: " "
+
+    uomo: 
+      header: "Uomo luonnollinen eau fraîche"
+      main: "Ainutlaatuinen ekspressiivinen tuoksu täynnä elämää ja seikkailua. Yrttien ja kypsien sitrushedelmien raikkautta ja ripaus minttua yhdistettynä aistillisiin pohjasävyihin."
+      fact: "Valmistusaineet: luomualkoholi, luonnolliset eteeriset öljyt. Sertifioitua luonnonkosmetiikkaa (BDIH)."
+      link: farfalla-men-deo-roll-on
+      sub_header: " "
+        
+     
