@@ -14,22 +14,22 @@ fi:
       sub_header: "Hoitavaa ja rauhoittavaa suojaa jokaisen parranajon jälkeen"
 
     men_lotion: 
-      fact: "100% luonnollisista ainesosista, sertifioitua luomukosmetiikkaa (NaTrue)."
-      header: "Feel Great Men Kosteusvoide"
+      header: "Feel Great Men Kosteusvoide<br>"
       link: farfalla-men-kosteusvoide
       main: "Ravitseva, raikas ja energisoiva vartalovoide miehelle. Imeytyy nopeasti ja saa ihon tuntumaan hyvältä ja virkistyneeltä. Villimangovoi, luomulaatuinen karitevoi ja luomuviikunauute suojaavat ihoa kuivumiselta ja ympäristön haitallisilta vaikutuksilta. Greipin, roseepippurin, seetrin ja piristävän piparmintun luonnolliset eteeriset öljyt tehostavat verenkiertoa ja tuovat energiaa päivään."
+      fact: "100% luonnollisista ainesosista, sertifioitua luomukosmetiikkaa (NaTrue)."
       sub_header: " "
       
 
     men_shower: 
-      header: "Feel Great Men SuihkuShampoo"
+      header: "Feel Great Men SuihkuShampoo<br>"
       main: "Raikas, hellävarainen suihkugeeli ja shampoo miehelle. Ravitseva ja virkistävä suihkushampoo pesee ihon ja hiukset tehokkaasti mutta kuivattamatta. Luomulaatuiset macadamiaöljy, appelsiiniuute ja greipin, bergamotin ja mintun eteeriset öljyt tuovat uuteen päivään energiaa ja hyvää tuulta!"
       fact: "100% luonnollisista ainesosista, sertifioitua luonnonkosmetiikkaa (NaTrue)."
       link: farfalla-men-suihkushampoo
       sub_header: " "
 
     men_deo: 
-      header: "Feel Great Men Deo roll on"
+      header: "Feel Great Men Deo roll on <br>"
       main: "Tehokas, miellyttävä ja raikas deo roll on miehelle. Innovatiivinen koostumus: mukana ensimmäinen kliinisesti testattu 24h -deodoroiva vaikuttaja-aine luonnonkosmetiikassa. Ei sisällä alumiinisuoloja eikä alkoholia."
       fact: "100% luonnollisista ainesosista, sertifioitua luonnonkosmetiikkaa (NaTrue)."
       link: farfalla-men-deo-roll-on
