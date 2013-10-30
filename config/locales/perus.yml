@@ -1,0 +1,50 @@
+--- 
+fi: 
+  perus: 
+    header: Perusöljyt
+    list: |-
+       Farfallalla on laaja valikoima 100% luomulaatuisia perusöljyjä. 
+    products: "Argan Jojoba Macadamia Johannis Calendula"
+    sub_header: ""
+    
+    Argan: 
+      header: "Luomu Arganöljy"
+      sub_header: " "
+      main: "Hieno luomulaatuinen ihoöljy, joka suojaa, hoitaa  ja tasapainottaa. Kallisarvoinen, väritön öljy valmistetaan luomuviljellyn marokkolaisen arganpuun pähkinöistä. Anti-age -vaikutteinen, sopii erityisen hyvin ikääntyvän ihon suojaamiseen ja hoitoon. Öljyn E-vitamiini torjuu vapaita radikaaleja, estää ihon ennenaikaista vanhenemista ja edistää ihosolujen uusiutumista. Sisältää laajan ja tasapainoisen valikoiman rasvahappoja, erinomainen myös ongelmaihon ja akneihon hoitoon ja tasapainottamiseen. "
+      fact: "Valmistusaineet: Luomuviljelty arganöljy. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+      link: luomu-arganoljy
+
+    Johannis: 
+      header: "Luomu Mäkikuismaöljy"
+      sub_header: " "
+      main: "Ravitseva, ilahduttava, mielialaa kohottava luomuöljy. Uudistava ihoöljy, jolla on lämmittävä ja mieltä keventävä vaikutus. Mäkikuismaöljy tunnetaan suotuisista vaikutuksistaan mielialan ailahteluihin sekä depression ja alakulon oireisiin, ja se tasapainottaa myös iho-ongelmia, erityisen hyvin kuivaa ihoa. Valmistettu uuttamalla mäkikuisman kukkia luomulaatuiseen oliiviöljyyn. Huom. Valoherkkä - ei käytettäväksi suorassa auringonpaisteessa. "
+      fact: "Valmistusaineet: kylmäpuristettu luomulaatuinen oliiviöljy, mäkikuisman kukat. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+    link: luomu-makikuismaoljy
+
+    Jojoba: 
+      header: "Luomu Jojobaaöljy"
+      sub_header: " "
+      main: "Hieno, kosteuttava ja hoitava ihoöljy. Jojobaöljy on nestemäisessä muodossa oleva kasvivaha, joka imeytyy hyvin ja suojelee tehokkaasti ihon kosteustasapainoa. Erinomainen kuivalle ja herkälle iholle sekä hiusten ja päänahan hoitoon. Jojobaöljy lisää ihon joustavuutta ja sopii erittäin hyvin myös ikääntyvän ihon hoitoon. Muuttuu jähmeäksi alle 22°C lämmössä. Pidä pulloa hetki lämpimän veden alla ennen käyttöä. "
+      fact: "Valmistusaine: luomujojobaöljy. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+      link: luomu-jojobaoljy
+
+    Macadamia: 
+      header: "Luomu Macadamiaöljy"
+      sub_header: " "
+      main: "Ravitseva, ihoa uudistava luomuöljy. Sisältää poikkeuksellisen monipuolisen valikoiman rasvahappoja, mm. palmitoleiinihappoa. Levittyy helposti ja sopii sen vuoksi erityisen hyvin hierontaan. Silottava, anti-age -vaikutteinen öljy, joka tekee ihosta pehmeän kuin vauvan peppu! 
+      Erinomainen myös hauraiden ja kuivien hiusten hoitoon.  "
+      fact: "Valmistusaineet: luomumacadamiaöljy (Macadamia Ternifolia). Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+      link: luomu-macadamiaoljy
+
+    Calendula: 
+      header: "Luomu Calendulaöljy"
+      sub_header: " "
+      main: "Calendula- eli kehäkukkaöljy on ravitseva, hoitava ja suojaava luomulaatuinen ihoöljy. Sopii erityisen hyvin herkän ja kuivan ihon hoitoon ja vauvoille. Vahvistaa ihon omaa suojautumiskykyä ja rauhoittaa ärtynyttä ihoa. Valmistettu uuttamalla kehäkukan terälehtien öljy luomulaatuiseen auringonkukkaöljyyn. "
+      fact: "Valmistusaineet: luomulaatuinen auringonkukkaöljy, kehäkukan terälehdet. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+      link: luomu-Calendulaoljy
+
+
+
+
+      
+      

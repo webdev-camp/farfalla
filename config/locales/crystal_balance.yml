@@ -1,14 +1,9 @@
 --- 
 fi: 
   crystal_balance: 
-    header: "Crystal Balance"
+    header: "Farfallan öljyt"
     list: |-
-        Farfallan Crystal Balance -sarjassa korkealaatuinen luomukosmetiikka yhdistyy 
-        turmaliinin ja meripihkan ainutlaatuisiin ominaisuuksiin. <br> 
-        Kiviin on kautta aikain yhdistetty parantavia ja tasapainottavia ominaisuuksia. 
-        Turmaliini ja Meripihka -sarjat ovat saaneet inspiraationsa niistä.<br>
-        Turmaliini -sarjan tuotteissa tuoksuvat upeat ruusu ja iiris, Meripihka -sarjassa taas virkistävät mandariini ja bergamotti.<br>  
-        Crystal balance -sarjasta löydät fantastiset Eau Fraîchet, voiteet ja ihoöljyt, jotka hemmottelevat sekä ihoasi että aistejasi!
+        <strong>Farfalla on luomulaatuisten öljyjen asiantuntija.</strong> Laajasta valikoimasta löydät tuoksuttomat luomulaatuiset perusöljyt ihon ja hiusten hoitoon, ihanat, miedosti tuoksuvat öljyseokset kasvoille, vartalolle ja hierontaan sekä fantastiset jalokiviöljyt. <br>Kaikilla Farfallan öljyillä on kolmen tähden NaTrue -sertifikaatti (100% luonnollisista aineista, joista vähintään 98% sertifioitua luomua). 
     main: ""
     products: ~
     sub_header: ""

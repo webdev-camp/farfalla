@@ -1,58 +1,60 @@
 --- 
 fi: 
-  tourmaline: 
-    header: Turmaliini
-    list: "Crystal Balance -sarjan Turmaliini on kehitetty tuomaan sinulle harmoniaa ja lisää energiaa. Sarjan tuotteissa on ihanien eteeristen öljyjen sekoitus: ruusua ja iiristä, jotka on raikastettu virkistävällä bergamotilla ja nerolilla. Jokaisessa tuotteessa on mukana myös turmaliinia. Turmaliinin sanotaan avaavan energiakanavia ja lisäävän keskittymiskykyä. Se saa ihmisen myös säteilemään elämäniloa."
-    products: "tourmaline_oil tourmaline_cream tourmaline_fraiche tourmaline_gel"
-    sub_header: "Voimaa ja energiaa"
-    tourmaline_cream: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa.95% sertifioitavista ainesosista luomua Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
-      header: "Turmaliini Kosteusvoide"
-      link: turmaliini-kosteusvoide
-      main: "Turmaliini -kosteusvoide sopii kaikille ihotyypeille päivä- tai yövoiteeksi. Tuo iholle uutta energiaa. Se myös harmonisoi ja ravitsee sekä ihoasi että koko olemustasi. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Voit käyttää Turmaliinivoidetta kasvojesi ja koko vartalosi kosteuttamiseen."
-      sub_header: "Ravitseva, harmonisoiva voide"
-      tarra: |-
-          Turmaliini -kosteusvoide sopii kaikille ihotyypeille päivä- tai yövoiteeksi. 
-          Tuo iholle uutta energiaa. Se myös harmonisoi ja ravitsee sekä ihoasi että koko olemustasi. 
-          Voit käyttää sitä kasvojesi ja koko vartalosi kosteuttamiseen. 
-          95% sertifioitavissa olevista ainesosista luomua (sertifioitu NaTrue -luomustandardien mukaisesti).
-    tourmaline_fraiche: 
-      fact: "100% luonnollisista aineista. 95% sertifioitavissa olevista ainesosista luomua (sertifioitu NaTrue -luomustandardien mukaisesti). Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
-      header: "Turmaliini Eau Fraîche"
-      link: turmaliini-eau-fraiche
-      main: "Turmaliini Eau Fraiche tuo harmoniaa ja energiaa elämääsi. Voit suihkauttaa sitä joko ihollesi tai huoneeseen halutessasi vahvistaa energiaa ja harmoniaa."
-      sub_header: "Energisoiva, harmonisoiva spray"
-      tarra: |-
-          Turmaliini Eau Fraiche tuo harmoniaa ja energiaa elämääsi. 
-          Voit suihkauttaa sitä joko ihollesi tai huoneeseen  halutessasi vahvistaa energiaa ja harmoniaa. 
-          95% sertifioitavissa olevista ainesosista luomua (sertifioitu NaTrue -luomustandardien mukaisesti).
-    tourmaline_gel: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
-      header: "Turmaliini Puhdistusgeeli"
-      link: turmaliini-puhdistusgeeli
-      main: |-
-          Hoitavaa puhtautta kasvoille ja vartalolle. 
-          Turmaliini -puhdistusgeeli vahvistaa ja suojaa ihoasi monella eri tasolla. 
-          Ihollesi jää suloinen ruusun ja iiriksen tuoksu raikastettuna bergamotilla ja nerolilla. 
-          Puhdistusgeelissä on mukana myös ametistia, jolla on puhdistava vaikutus, sekä mustaa turmaliinia, 
-          jolla sanotaan olevan sekä vahvistavia että suojaavia ominaisuuksia.<br/>
-          Käyttö: Levitä puhdistettavalle alueelle ja anna vaikuttaa lyhyesti, huuhtele pois vedellä. 
-          Voit suoda itsellesi myös rauhoittavan kylpyhetken lisäämällä tilkan puhdistusgeeliä kylpyveteen. 
-          Sopii kaikille ihotyypeille.
-      sub_header: "Puhdistaa, hoitaa ja vahvistaa"
-      tarra: |-
-          Hoitavaa puhtautta kasvoille ja vartalolle. 
-          Turmaliini -puhdistusgeeli vahvistaa ja suojaa ihoasi monella eri tasolla. 
-          Ihollesi jää suloinen ruusun ja iiriksen tuoksu raikastettuna bergamotilla ja nerolilla. Puhdistusgeelissä on mukana myös ametistia, jolla on puhdistava vaikutus, sekä mustaa turmaliinia, jolla sanotaan olevan sekä vahvistavia että suojaavia ominaisuuksia.<br/>
-          Käyttö: Levitä puhdistettavalle alueelle ja anna vaikuttaa lyhyesti, huuhtele pois vedellä. Voit suoda itsellesi myös rauhoittavan kylpyhetken lisäämällä tilkan puhdistusgeeliä kylpyveteen. 
-          Sopii kaikille ihotyypeille.
-    tourmaline_oil: 
-      fact: "100% luonnollisista aineista. 98% sertifioitavissa olevista ainesosista luomua.BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
-      header: Turmaliiniöljy
-      link: turmaliinioeljy
-      main: "Tämä öljy tuo harmoniaa ja energiaa päivääsi. Voit käyttää sitä iho-, hieronta- tai kylpyöljynä. Tekee ihosi silkinpehmeäksi ja säteileväksi. Turmaliinin sanotaan myös lisäävän luovuutta. Valmistettu luomujojobaöljystä ja luomulaatuisista eteerisistä öljyistä, mm. ruususta ja iiriksestä. Tuoksu on upea ja ihana! Jokaisessa pullossa on pieni turmaliinikide."
-      sub_header: "Harmoniaa, energiaa ja luovuutta"
-      tarra: |-
-          Tämä öljy tuo harmoniaa ja energiaa päivääsi. 
-          Voit käyttää sitä iho-, hieronta- tai kylpyöljynä. 
-          Tekee ihosi silkinpehmeäksi ja säteileväksi. Turmaliinin sanotaan myös lisäävän luovuutta. Valmistettu luomujojobaöljystä ja luomulaatuisista eteerisistä öljyistä. Jokaisessa pullossa on pieni turmaliinikide. 98% sertifioitavissa olevista ainesosista luomua.
+  jalokivi: 
+    header: Jalokiviöljyt
+    list: "<strong>Farfallan ainutlaatuiset Crystal Balance -ihoöljyt perustuvat jalokivien tasapainottaviin ominaisuuksiin ja tarkoin valittuihin eteerisiiin öljyihin. </strong>Jalokiviöljyjen pohjana on ravitseva luomulaatuinen jojobaöljy. <br>Jokaisessa pullossa on mukana pieni jalokivi. Käyttö: Kasvo-, vartalo- ja hierontaöljynä. "
+    products: "Joy_of_life Security Serenity Fountain Positive Antistress Regeneration"
+    sub_header: ""
+
+    Joy_of_life: 
+      header: "Crystal Balance -jalokiviöljy Elämänilo"
+      sub_header: "Granaatti, rubiini ja ruusukvartsi"
+      main: "Hieno, ilahduttava ihoöljy, joka auttaa elämään rohkeasti, ilolla ja kaikki aistit avoinna, vastoinkäymistenkin keskellä. Jokaisessa pullossa on mukana pieni ruusukvartsi. Pohjana luomujojobaöljy. Eteeriset öljyt: luomuruusu, luomuruusugeranium ja luomubergamotti. "
+      fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
+      link: crystal-balance-ihooeljy-elaemaenilo
+
+    Security: 
+      header: "Crystal Balance -ihoöljy Turvallisuuden tunne"
+      sub_header: "Akaatti, nefriitti, serpentiini"
+      main: "Ihana, korkealaatuinen luomuöljy, joka tuo tyyneyttä ja malttia! Vahvistaa sisäistä tasapainoa, antaa itseluottamusta ja auttaa vapautumaan peloista. Lisää tietoisuutta ja luovuutta. Jokaisessa pullossa on mukana pieni jalokivi.<br> Eteeriset öljyt: luomuvanilja, -santelipuu ja -bentsoe."
+      fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
+      link: ihooljy-turvallisuudentunne
+
+    Serenity: 
+      header: "Crystal Balance -ihoöljy Tyyneys"
+      sub_header: "Magnesiitti, sininen kvartsi, dumortieriitti"
+      main: "Ihana, ilahduttava ihoöljy avuksi haastavan elämänmenon keskellä. Auttaa rentoutumaan, rauhoittaa levottoman mielen ja saa näkemää elämän oikeassa perspektiivissä. Erinomainen öljy käytettäväksi stressaavan päivän jälkeen: elämä näyttää taas posiitiiviset ja valoisat puolensa!<br> Eteeriset öljyt: luomulaventeli, ruusupuu, mandariini, jalosauramo (roomalainen kamomilla)."
+      fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
+      link: crystal-balance-ihooeljy-tyyneys
+      
+    Fountain: 
+      header: "Crystal Balance -ihoöljy Nuoruudenlähde"
+      sub_header: "Vihreä fluoriitti, krysopraasi, peridootti"
+      main: "Elämänvoimaa ja hyvää oloa! Nuoruuden­lähde -jalokiviöljy auttaa mieltä vapautumaan ja ihoa puhdistumaan kuona-aineista. Hieno vaikuttavien jalokivien ja eteeristen öljyjen yhdistelmä auttaa pääsemään eroon turhautumisesta, huolista ja negatiivisista asenteista. Jokaisessa pullossa on mukana pieni fluoriittisiru.<br> Eteeriset öljyt: luomukataja, -fenkoli ja -sitruuna. "
+      fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
+      link: crystal-balance-ihooeljy-nuoruudenlaehde
+
+    Positive: 
+      header: "Crystal Balance -ihoöljy Positive Flow – elämän virrassa"
+      sub_header: "Sodaliitti, kalsedoni, meripihka"
+      main: "Hieno, ihanantuoksuinen, korkealaatuinen luomuöljy, joka antaa positiivista energiaa, vapauttaa jännityksistä ja rentouttaa sekä kehoa että mieltä. Luo tyyneyttä ja sisäistä rauhaa ja tuo suloisen, huojentuneen olon. <br> Eteeriset öljyt: luomugeranium, -palmarosa ja -harmaapihta."
+      fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
+      link: crystal-balance-ihooeljy-positive-flow
+
+    Antistress: 
+      header: "Crystal Balance -ihoöljy Anti-stress"
+      sub_header: "Aventuriinikvartsi, magnesiitti, savukvartsi"
+      main: "Hieno, luomulaatuinen ihoöljy, joka antaa tyyneyttä, voimia ja kestävyyttä kiireisen ja joskus stressaavan elämänmenon keskelle. Jokaisessa pullossa on mukana pieni aventuriini.  <br> Eteeriset öljyt: luomuappelsiini, -ruusupuu, -laventeli ja 
+        -ylang ylang."
+      fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
+      link: crystal-balance-ihooeljy-anti-stress
+
+    Regeneration: 
+      header: "Crystal Balance -ihoöljy uudistuminen"
+      sub_header: "Epidootti, meriagaatti ja zoisiitti-rubiini"
+      main: "Hieno, ihanantuoksuinen ja korkealaatuinen luomuöljy, joka uudistaa ja herättää sekä kehoa että mieltä. Energisoi, rohkaisee ja lisää luovuutta.  <br> Eteeriset öljyt: luomuravintsara ja -mirha. "
+      fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
+      link: crystal-balance-ihooeljy-anti-stress
+      
+      
+      
