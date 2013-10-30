@@ -4,10 +4,10 @@ fi:
     header: Ihoöljyt
     list: |-
         <strong>Ihastuttavia ihoöljyjä, jotka on valmistettu luomulaatuisesta jojobaöljystä ja tarkoin valituista eteerisistä öljyistä.</strong> Huolellisen valmistuksen ansiosta kaikki tärkeät hyvälaatuiset rasvahapot ja vitamiinit ovat niissä tallella. Käyttö: Kasvo-, vartalo- ja hieronraöljynä. 
-    products: "3roses Orange Romantic "
+    products: "3roses orange romantic "
     sub_header: ""
 
-    Romantic: 
+    romantic: 
       header: "Ihoöljy Romanttinen ilta"
       sub_header: " "
       main: "Lumoava, ihastuttavan tuoksuinen ihoöljy. Aistillinen, ilahduttava ja virkistävä luomulaatuinen öljy, jossa tuoksuvat luomulaatuiset ylang ylangin, appelsiinin ja mandariinin sekä jasmiinin, tuberosan ja santelipuun aidot eteeriset öljyt. "
@@ -21,7 +21,7 @@ fi:
       fact: "Valmistettu luomujojobaöljystä ja 100% luonnollisista eteerisistä öljyistä. 98% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille."
       link: ihooljy-kolme-ruusua
       
-    Orange: 
+    orange: 
       header: "Ihoöljy Appelsiinilehto"
       sub_header: " "
       main: "Ihastuttava, rentouttava luomulaatuinen iho- ja hierontaöljy. Appelsiininkukkien raikas tuoksu piristää ja kohottaa oloasi. Illalla käytettynä saat rauhallisen ja hyvän yöunen. Sisältää nerolin, luomuappelsiinin ja -petitgrainin eteerisiä öljyjä. "

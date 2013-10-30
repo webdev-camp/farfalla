@@ -3,45 +3,45 @@ fi:
   jalokivi: 
     header: Jalokiviöljyt
     list: "<strong>Farfallan ainutlaatuiset Crystal Balance -ihoöljyt perustuvat jalokivien tasapainottaviin ominaisuuksiin ja tarkoin valittuihin eteerisiiin öljyihin. </strong>Jalokiviöljyjen pohjana on ravitseva luomulaatuinen jojobaöljy. <br>Jokaisessa pullossa on mukana pieni jalokivi. Käyttö: Kasvo-, vartalo- ja hierontaöljynä. "
-    products: "Joy_of_life Security Serenity Fountain Positive Antistress Regeneration"
+    products: "joy_of_life security serenity fountain positive antistress regeneration"
     sub_header: ""
 
-    Joy_of_life: 
+    joy_of_life: 
       header: "Crystal Balance -jalokiviöljy Elämänilo"
       sub_header: "Granaatti, rubiini ja ruusukvartsi"
       main: "Hieno, ilahduttava ihoöljy, joka auttaa elämään rohkeasti, ilolla ja kaikki aistit avoinna, vastoinkäymistenkin keskellä. Jokaisessa pullossa on mukana pieni ruusukvartsi. Pohjana luomujojobaöljy. Eteeriset öljyt: luomuruusu, luomuruusugeranium ja luomubergamotti. "
       fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
       link: crystal-balance-ihooeljy-elaemaenilo
 
-    Security: 
+    security: 
       header: "Crystal Balance -ihoöljy Turvallisuuden tunne"
       sub_header: "Akaatti, nefriitti, serpentiini"
       main: "Ihana, korkealaatuinen luomuöljy, joka tuo tyyneyttä ja malttia! Vahvistaa sisäistä tasapainoa, antaa itseluottamusta ja auttaa vapautumaan peloista. Lisää tietoisuutta ja luovuutta. Jokaisessa pullossa on mukana pieni jalokivi.<br> Eteeriset öljyt: luomuvanilja, -santelipuu ja -bentsoe."
       fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
       link: ihooljy-turvallisuudentunne
 
-    Serenity: 
+    serenity: 
       header: "Crystal Balance -ihoöljy Tyyneys"
       sub_header: "Magnesiitti, sininen kvartsi, dumortieriitti"
       main: "Ihana, ilahduttava ihoöljy avuksi haastavan elämänmenon keskellä. Auttaa rentoutumaan, rauhoittaa levottoman mielen ja saa näkemää elämän oikeassa perspektiivissä. Erinomainen öljy käytettäväksi stressaavan päivän jälkeen: elämä näyttää taas posiitiiviset ja valoisat puolensa!<br> Eteeriset öljyt: luomulaventeli, ruusupuu, mandariini, jalosauramo (roomalainen kamomilla)."
       fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
       link: crystal-balance-ihooeljy-tyyneys
       
-    Fountain: 
+    fountain: 
       header: "Crystal Balance -ihoöljy Nuoruudenlähde"
       sub_header: "Vihreä fluoriitti, krysopraasi, peridootti"
       main: "Elämänvoimaa ja hyvää oloa! Nuoruuden­lähde -jalokiviöljy auttaa mieltä vapautumaan ja ihoa puhdistumaan kuona-aineista. Hieno vaikuttavien jalokivien ja eteeristen öljyjen yhdistelmä auttaa pääsemään eroon turhautumisesta, huolista ja negatiivisista asenteista. Jokaisessa pullossa on mukana pieni fluoriittisiru.<br> Eteeriset öljyt: luomukataja, -fenkoli ja -sitruuna. "
       fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
       link: crystal-balance-ihooeljy-nuoruudenlaehde
 
-    Positive: 
+    positive: 
       header: "Crystal Balance -ihoöljy Positive Flow – elämän virrassa"
       sub_header: "Sodaliitti, kalsedoni, meripihka"
       main: "Hieno, ihanantuoksuinen, korkealaatuinen luomuöljy, joka antaa positiivista energiaa, vapauttaa jännityksistä ja rentouttaa sekä kehoa että mieltä. Luo tyyneyttä ja sisäistä rauhaa ja tuo suloisen, huojentuneen olon. <br> Eteeriset öljyt: luomugeranium, -palmarosa ja -harmaapihta."
       fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
       link: crystal-balance-ihooeljy-positive-flow
 
-    Antistress: 
+    antistress: 
       header: "Crystal Balance -ihoöljy Anti-stress"
       sub_header: "Aventuriinikvartsi, magnesiitti, savukvartsi"
       main: "Hieno, luomulaatuinen ihoöljy, joka antaa tyyneyttä, voimia ja kestävyyttä kiireisen ja joskus stressaavan elämänmenon keskelle. Jokaisessa pullossa on mukana pieni aventuriini.  <br> Eteeriset öljyt: luomuappelsiini, -ruusupuu, -laventeli ja 
@@ -49,7 +49,7 @@ fi:
       fact: "100% luonnollisista aineista, <br> 98% ainesosista luomua (NaTrue). <br> Sopii vegaaneille."
       link: crystal-balance-ihooeljy-anti-stress
 
-    Regeneration: 
+    regeneration: 
       header: "Crystal Balance -ihoöljy uudistuminen"
       sub_header: "Epidootti, meriagaatti ja zoisiitti-rubiini"
       main: "Hieno, ihanantuoksuinen ja korkealaatuinen luomuöljy, joka uudistaa ja herättää sekä kehoa että mieltä. Energisoi, rohkaisee ja lisää luovuutta.  <br> Eteeriset öljyt: luomuravintsara ja -mirha. "
