@@ -2,7 +2,9 @@
 
 <% ["jalokivi" , "amberstone" , "perus"].each do |group| %>
 <div class="one">
-  <h2> <%== t("#{group}.header")%> </h2>
+  <a href="/<%=group%>.html">
+    <h2> <%== t("#{group}.header")%> </h2>
+  </a>
   <div class="four">
     <a href="/<%=group%>.html">
       <img alt="logo <%=group.humanize%>" src="/images/<%=group%>/logo.jpg">
