@@ -1,28 +1,4 @@
 <%= render :partial => "group_header" , :locals => {:group => "aroma_sprays" }%>
 
-
-<div class="one">
-  <div class="sixty">
-    <h3><%== t('aroma_sprays.fresh.header')%></h3>
-    <p> <%== t('aroma_sprays.fresh.main')%>
-    </p>
-    <%= render :partial => "link" , :locals => {:link => "aroma_sprays.fresh.link" }%>
-    <h3><%== t('aroma_sprays.ambiance.header')%></h3>
-    <p> <%== t('aroma_sprays.ambiance.main')%>
-      <%= render :partial => "link" , :locals => {:link => "aroma_sprays.ambiance.link" }%>
-  </div>
-  <div class="logo_right">
-        <img src="/images/aroma_sprays/aromaspray_gruppe.jpg" alt="logo" >
-  </div>
-</div>
-
-<div class="one">
-  <h3><%== t('aroma_sprays.joy.header')%></h3>
-  <p> <%== t('aroma_sprays.joy.main')%>  </p>
-  <%= render :partial => "link" , :locals => {:link => "aroma_sprays.joy.link" }%>
-  <h3><%== t('aroma_sprays.security.header')%></h3>
-  <p> <%== t('aroma_sprays.security.main')%>  </p>
-  <%= render :partial => "link" , :locals => {:link => "aroma_sprays.security.link" }%>
-</div>
-
+<%= render :partial => "three_list" , :locals => {:group => "aroma_sprays" }%>
 

@@ -27,7 +27,7 @@ a
   padding: 0;
   width: 100%;
   position: relative;
-  top: 68px;
+  top: 220px;
   left: 200px;
 }
 
@@ -66,10 +66,10 @@ color: #50514D;
 #header
 {
 width: 1080px;
-height: 140px;
+height: 260px;
 background-color: #ffffff;
 color: #ffffff;
-background:  url('/images/site/top_perfumes.jpg') no-repeat;;
+background:  url('/images/site/header.jpg') no-repeat;;
 }
 
 
@@ -78,7 +78,7 @@ background:  url('/images/site/top_perfumes.jpg') no-repeat;;
 width: 240px;
 float: right;
 position: relative;
-top: 57px;
+top: 220px;
 font-size: 20px;
 color: rgb(0, 132, 149);
 text-align: left;
@@ -180,6 +180,7 @@ h2
 {
 color: #50514D;
 font-size: 20px;
+margin-top: 0px;
 }
 
 
@@ -339,3 +340,7 @@ width: 60%;
 .taul {text-align: left;  font: .7em/1.0 Georgia, Serif; margin:auto;}
 .ots {vertical-align: top; width: 95px; border-top: 1px solid #000000; font-weight:bold;}
 .solu {border-top: 1px dotted #000000;}
+
+small {
+font-size: .8em;
+}

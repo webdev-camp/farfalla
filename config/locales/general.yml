@@ -1,7 +1,7 @@
 --- 
 fi: 
   aroma_sprays: 
-    menu_text: Huonetuoksut
+    menu_text: Luomu huonesprayt
   body_care: 
     menu_text: Vartalonhoito
     sub_menu: "silhouettemiracle intensefrangipani dailypleasure puresensitive"
@@ -27,13 +27,13 @@ fi:
   men: 
     menu_text: Miehille
   menu: "face_care body_care hair_care parfumes aroma_sprays oljyt men"
-  menu_bar: "index quality standards  tukku"
+  menu_bar: "index quality standards tukku resellers"
   parfumes: 
     menu_text: Luomuparfyymit
     sub_menu: "womans_parfumes body_sprays"
   quality: 
-    header: Laatu
-    menu_text: Laatu
+    header: Laatu ja eettisyys
+    menu_text: Laatu ja eettisyys
   slogan: "laadukasta luomukosmetiikkaa"
   standards: 
     header: Luomukosmetiikka
@@ -41,3 +41,6 @@ fi:
   tukku: 
     header: Yhteystiedot
     menu_text: Yhteystiedot
+  resellers: 
+    header: Jälleenmyyjät
+    menu_text: Jälleenmyyjät
