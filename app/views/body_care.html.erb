@@ -5,10 +5,10 @@
     <div class="four">
       <a href="/<%=line%>.html">
         <img src='<%="/images/#{line}/"%>logo.jpg' alt="<%=line.humanize%>" width="180" height="180"/>
-        <p><strong><%== t("#{line}.header")%> </strong></p>
+        <p><strong><%= raw  t("#{line}.header")%> </strong></p>
       </a>
-      <p><em><%== t("#{line}.sub_header")%> </em></p>
-      <p><%== t("#{line}.main")%> </p>
+      <p><em><%= raw  t("#{line}.sub_header")%> </em></p>
+      <p><%= raw  t("#{line}.main")%> </p>
     </div>
     <% "</div>  <div class='one'>" if (ind == 1) %>
   <%end%>

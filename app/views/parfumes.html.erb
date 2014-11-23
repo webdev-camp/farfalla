@@ -2,14 +2,14 @@
 
 <% ["womans_parfumes" , "body_sprays"].each do |group| %>
 <div class="one">
-  <h2> <%== t("#{group}.header")%> </h2>
+  <h2> <%= raw  t("#{group}.header")%> </h2>
   <div class="four">
     <a href="/<%=group%>.html">
       <img alt="logo <%=group.humanize%>" src="/images/<%=group%>/logo.jpg">
     </a>
   </div>
   <div class="sixty">
-    <%== t("#{group}.list")%>
+    <%= raw  t("#{group}.list")%>
   </div>
 </div>
 <br/>

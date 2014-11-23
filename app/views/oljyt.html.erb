@@ -3,7 +3,7 @@
 <% ["jalokivi" , "amberstone" , "perus"].each do |group| %>
 <div class="one">
   <a href="/<%=group%>.html">
-    <h2> <%== t("#{group}.header")%> </h2>
+    <h2> <%= raw  t("#{group}.header")%> </h2>
   </a>
   <div class="four">
     <a href="/<%=group%>.html">
@@ -11,7 +11,7 @@
     </a>
   </div>
   <div class="sixty">
-    <%== t("#{group}.list")%>
+    <%= raw  t("#{group}.list")%>
   </div>
 </div>
 <br/>

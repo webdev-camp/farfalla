@@ -39,7 +39,7 @@
     <div id="menu">
       <ul>
         <% I18n.t("menu").split(" ").each do |p| %>
-          <li class="menu <%== ' active' if params[:page] == p %>">
+          <li class="menu <%= raw  ' active' if params[:page] == p %>">
             <%= link_to  I18n.t(p+'.menu_text') , "/#{p}.html" %>
           </li>
           <% if (I18n.t(p+'.sub_menu').index("missing") == nil) and (p == @page or

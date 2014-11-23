@@ -7,10 +7,10 @@
     <div class="three">
       <a href="/<%=line%>.html">
         <img src='<%="/images/#{line}/#{pic}"%>.jpg' alt="<%=line.humanize%>" />
-        <p><strong><%== t("#{line}.header")%> </strong></p>
+        <p><strong><%= raw  t("#{line}.header")%> </strong></p>
       </a>
-      <p><em><%== t("#{line}.sub_header")%> </em></p>
-      <p><%== t("#{line}.list")%> </p>
+      <p><em><%= raw  t("#{line}.sub_header")%> </em></p>
+      <p><%= raw  t("#{line}.list")%> </p>
     </div>
   <%end%>
 </div>

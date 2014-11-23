@@ -3,11 +3,11 @@
 
 <div class="one">
   <div class="sixty">
-    <h3><%== t('be_beautiful.bb_cream.header')%></h3>
-     <%== t('be_beautiful.bb_cream.main')%> <br/>
+    <h3><%= raw  t('be_beautiful.bb_cream.header')%></h3>
+     <%= raw  t('be_beautiful.bb_cream.main')%> <br/>
      <% if has_sub(fact = "be_beautiful.bb_cream.fact") %>
        <div class="fact">
-         <%== t( fact )%> 
+         <%= raw  t( fact )%> 
        </div>
      <%end%>
      <%= render :partial => "link" , :locals => {:link => "be_beautiful.bb_cream.link" }%>

@@ -3,9 +3,9 @@
   <div class="one">
     <% line.each do |product| %>
       <div class="three">
-        <p><strong><%== t("#{group}.#{product}.header")%> </strong></p>
+        <p><strong><%= raw  t("#{group}.#{product}.header")%> </strong></p>
         <% if has_sub(sub = "#{group}.#{product}.sub_header") %>
-          <p><em><%== t(sub)%> </em></p>
+          <p><em><%= raw  t(sub)%> </em></p>
         <%end%>
         <div class="bottom">
           <img src='<%="images/#{group}/#{product}"%>.jpg' alt="<%=group.humanize%> <%=product.humanize%>" />
@@ -16,10 +16,10 @@
   <div class="one">
     <% line.each do |product| %>
       <div class="three">
-        <p><%== t("#{group}.#{product}.main")%> </p>
+        <p><%= raw  t("#{group}.#{product}.main")%> </p>
         <% if has_sub(fact = "#{group}.#{product}.fact") %>
           <div class="fact">
-            <%== t( fact )%> 
+            <%= raw  t( fact )%> 
           </div>
         <%end%>
         <%= render :partial => "link" , :locals => {:link => "#{group}.#{product}.link" }%>

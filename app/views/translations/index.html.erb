@@ -6,7 +6,7 @@
         <td>
         <%=link_to tag , translation_url( tag ) %>
         </td>
-        <%==  ((i+=1) % 4) == 0 ?  "</tr><tr>" : ""%>
+        <%= raw   ((i+=1) % 4) == 0 ?  "</tr><tr>" : ""%>
       <%end%>
   </tr>
 </table>
@@ -16,7 +16,7 @@
   <% i = 0 %>
   <%    @files.each do |file , keys | %>
     <td><%=link_to file , file_translation_url(file) %>     </td>
-    <%==  ((i+=1) % 4) == 0 ?  "</tr><tr>" : ""%>
+    <%= raw   ((i+=1) % 4) == 0 ?  "</tr><tr>" : ""%>
   <%end%>
 </table>
 
