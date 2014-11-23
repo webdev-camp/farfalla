@@ -110,7 +110,7 @@ hr {
 	margin-top: 3px;
 }
 
-.link
+.link, .vegan
 { 
   	font: 12px "Lucida Sans Unicode", Verdana, Helvetica, sans-serif;
 	line-height:120%;
@@ -118,6 +118,11 @@ hr {
 	border-top: 1px dotted #008495;
 	padding-top: 3px;
 	margin-top: 3px;
+}
+
+.vegan img{
+	top: 3px;
+	position: relative;
 }
 
 .logo_right {

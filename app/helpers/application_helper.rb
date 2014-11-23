@@ -23,7 +23,7 @@ module ApplicationHelper
   def has_sub key
     return true if edit_mode
     ret = t(key)
-    return false if ret.index "missing"
+    return false if (ret != true) and ret.index "missing"
     ! key.strip.empty?
   end
   

@@ -1,0 +1,23 @@
+--- 
+fi: 
+  kukkaisvedet: 
+    header: Kukkaisvedet
+    list: |-
+       <b>Farfallan puhtaat, huippulaatuiset kukkaisvedet on valmistettu luomuviljellyistä kukkasista höyrytislaamalla.</b> Monipuoliset kukkaisvedet sopivat kasvojen- ja hiustenhoitoon, virkistäytymiseen, huonetuoksuiksi jne. <br><br>Kaikki voivat löytää juuri omalle iholleen sopivan, ihastuttavan kasvoveden: valikoimassa on mm. anti age -vaikuttavia, raikastavia, kosteuttavia, epäpuhtauksia tasapainottavia ja kirkastavia kukkaisvesiä.
+    products: "ruusu neroli"
+    sub_header: ""
+    
+    ruusu: 
+      header: "Luomu Ruusukukkaisvesi"
+      sub_header: " "
+      main: "Luomulaatuinen, mieto, ihanasti tuoksuva kukkaisvesi. Valmistettu höyrytislaamalla luomuviljeltyjen ruusujen terälehdistä. Harmonisoi, kohottaa mielialaa ja lievittää jännityksiä ja stressiä. Ruusukukkaisvedellä on puhdistava, virkistävä, ihohuokosia supistava ja tasapainottava vaikutus. <br>Se myös uudistaa ihoa, hidastaa ikääntymisen vaikutuksia ja tasapainottaa herkkää päänahkaa. Erinomainen myös vauvan ihonhoidossa: rauhoittaa ärtynyttä pepun ihoa. Väsyneille ja ärtyneille silmille suositellaan ruusukukkaisvesihaudetta."
+      fact: "Käyttö: päivittäiseen ihonhoitoon kaikille ihotyypeille, huonetuoksuna, kompresseihin, tuoksusekoitusten, partavesien ja hiustenhoitotuotteiden valmistukseen. <br>Valmistusaineet: luomuviljelty damaskoksenruusu, merileväuute.<br>
+      Natrue -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
+      link: ruusukukkaisvesi
+      
+    neroli: 
+      header: "Luomu Appelsiininkukkavesi"
+      sub_header: " "
+      main: "Luomulaatuinen, raikas, ihanantuoksuinen kukkaisvesi. Valmistettu vastapoimituista luomuviljellyistä appelsiininkukista (Citrus Aurantium). Appesiininkukkavesi virkistää ja puhdistaa kasvojen ihoa ja tasapainottaa kuivaa ihoa. Raikastava, rentouttava kukkaisvesi, joka sopii kasvovedeksi erityisesti kuivalle tai ikääntyvälle iholle, virkistäytymiseen esimerkiksi matkustaessa, rauhoittaviin hauteisiin ja keväänraikkaisiin tuoksusekoituksiin. "
+      fact: "NaTrue -sertifioitua luonnonkosmetiikkaa. Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
+      link: appelsiininkukkavesi  

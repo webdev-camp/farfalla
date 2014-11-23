@@ -22,7 +22,7 @@
             <%= raw  t( fact )%> 
           </div>
         <%end%>
-        <%= render :partial => "link" , :locals => {:link => "#{group}.#{product}.link" }%>
+        <%= render :partial => "link" , :locals => {:link => "#{group}.#{product}.link" , :vegan => "#{group}.#{product}.vegan"}%>
       </div>
       <% all.delete(product) %>
     <%end%>
