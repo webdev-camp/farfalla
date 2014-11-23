@@ -1,0 +1,44 @@
+--- 
+fi: 
+  essential: 
+    header: Eteeriset öljyt
+    list: |-
+       Farfalla on aromaterapian ja eteeristen öljyjen asiantuntija. Farfallan eteeriset öljyt ovat puhtaita ja korkealaatuisia, ja useimmat niistä ovat luomua.
+    products: "lavendel lavandin neroli mandarin"
+    sub_header: ""
+    
+    lavendel: 
+      header: "Villi vuorilaventeli"
+      sub_header: " "
+      main: "Villi vuorilaventeli on harvinainen aarre ja Farfallan erikoisuus (sitä on saatavilla vain rajattu erä). Villi laventeli kasvaa 900 - 1800m korkeudessa ja on varsin pikkuruinen kasvi verrattuna viljeltyyn sisareensa. Mutta siitä saadaan vahvinta ja parasta eteeristä öljyä! Villin vuorilaventelin eteerinen öljy on yksinkertaisesti parasta!"
+      fact: "5ml"
+      link: villi-vuorilaventeli
+      vegan: true
+
+    lavandin: 
+      header: "Luomu Lavandin <br>(Lavandin Super Bio)"
+      sub_header: " "
+      main: "Lavandin on kahden eri korkeuksilla kasvavan laventelin luonnollinen risteytyminen. Luomu-lavandinin kukat ovat suurempia kuin laventelin, ja tuoksu on sävyltään hivenen voimakkaampi. Suuri kamferipitoisuus tekee lavandinista hieman enemmän aktivoivan kuin tavallinen laventeli."
+      fact: "10ml"
+      link: luomu-lavandin
+      vegan: true
+
+    neroli: 
+      header: "Neroli 10% <br> (Appelsiininkukka)"
+      sub_header: " "
+      main: "Kävely kukkivassa sitruslehdossa on unohtumaton kokemus. On melkein taianomaista kuinka voimakas kukkien tuoksu täyttää kaikki aistit. Neroli, appelsiininkukkien eteerinen öljy, auttaa rentoutumaan, vapautumaan peloista ja rauhoittaa. Se on erinomainen eteerinen öljy mm. kuivan ja herkän ihon hoitoon"
+      fact: "5ml"
+      link: neroli-eteerinen-oeljy
+      vegan: true
+
+    mandarin: 
+      header: "Mandariini Luomu Punainen <br>(Bio Demeter) "
+      sub_header: " "
+      main: "Tämä Farfallan mandariini eteerinen öljy on biodynaamisesti viljelty. Punainen mandariini on iloa tuova, stressiä ja hermostuneisuutta lievittävä eteerinen öljy. Auttaa levottomien ja jännittyneiden lasten rauhoittamiseen."
+      fact: "10ml"
+      link: luomu-mandariini-eteerinen-oeljy
+      vegan: true
+      
+      
+      
+      
