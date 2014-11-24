@@ -5,8 +5,10 @@ Farfalla::Application.configure do
   # test suite.  You never need to work with it otherwise.  Remember that
   # your test database is "scratch space" for the test suite and is wiped
   # and recreated between test runs.  Don't rely on the data there!
-  config.cache_classes = true
-
+  config.cache_classes = false
+  config.eager_load = false
+  config.log_level = :debug
+  
   # Log error messages when you accidentally call methods on nil.
   config.whiny_nils = true
 
@@ -29,6 +31,7 @@ Farfalla::Application.configure do
   # This is necessary if your schema can't be completely dumped by the schema dumper,
   # like if you have constraints or database-specific column types
   # config.active_record.schema_format = :sql
+  config.logger = Logger.new(STDOUT)
 
   # Print deprecation notices to the stderr
   config.active_support.deprecation = :stderr
