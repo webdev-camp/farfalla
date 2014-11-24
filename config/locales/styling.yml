@@ -26,6 +26,7 @@ fi:
     st_spray: 
       fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
       header: Hiuskiinne
+      vegan: not
       inci: |-
           Alcohol, shellac, Aqua, Olea europaea leaf extract *, sorbitol, beer, Simmondsia chinensis seed oil *,
           citrus aurantium Amara flower water *, Aloe barbadensis leaf extract *, sodium PCA, glycerin, Parfum,
@@ -43,6 +44,7 @@ fi:
     sub_header: "Tyylikkäät, kauniit hiukset "
     st_gel: 
       header: Muotoiluvoide
+      vegan: not
       main: |-
           Pitävä, toimiva hiusvoide vaativienkin kampausten muotoiluun. Mieto, hyvä ja luonnollinen tuoksu ja miellyttävä rakenne: ei tunnu     tahmealta. Helppo kammata pois. Sisältää luomulaatuista aloe veraa.
       sub_header: "Long-lasting hold"

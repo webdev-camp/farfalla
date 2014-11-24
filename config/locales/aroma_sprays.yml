@@ -61,6 +61,7 @@ fi:
           Lempeä ja valoisa huonespray, jonka tuoksussa ja tunnelmassa on helppo viettää ihana hetki kynttilöiden loisteessa ja hyvässä seurassa. Valmistukseen käytetty aitoja, mm. appelsiinin, santelipuun, benzoen ja vaniljan, 100% luonnollisia eteerisiä öljyjä ja mehiläisvahaa.  
       fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
       link: luomu-huonespray-valon-hohde
+      vegan: not
 
     vanilla: 
       header: "Luomu Huonespray Vanilja-mandariini"

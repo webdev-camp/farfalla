@@ -5,7 +5,7 @@
   </div>
 <%end%>
 
-<% if has_sub(vegan) %>
+<% unless defined?(vegan) and true == has_sub(vegan) %>
   <div class="vegan">
     <img src="images/site/vegan.gif" alt="Vegan" /> Vegan
   </div>
