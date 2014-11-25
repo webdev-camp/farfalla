@@ -2,7 +2,7 @@
 fi: 
   daily_refresh: 
     dr_fluid: 
-      fact: "100% luonnollisista aineista.<br/>95% sertifikoitavissa olevista ainesosista luomua. Sopii vegaaneille."
+      fact: "100% luonnollisista aineista.<br/>95% sertifikoitavissa olevista ainesosista luomua. "
       header: Puhdistusemulsio
       link: puhdistusemulsio
       main: "Ihanan pehmeä puhdistusmaito kaikille ihotyypeille. Puhdistaa myös herkän ja kuivan ihon hellävaraisen tehokkaasti. Sisältää kosteuttavaa aloe veraa ja greipin, sitruunan ja douglaskuusen virkistäviä ja elvyttäviä eteerisiä öljyjä. Mieto, raikas, miellyttävä tuoksu. Levitä puhdistusemulsiota aamuin illoin kostealle iholle, hiero kevyesti ja huuhtele runsaalla vedellä. Sopii myös meikin poistoon."
@@ -18,20 +18,20 @@ fi:
       tarra: |-
         Kuorintavoide, joka tekee ihostasi silkinpehmeän! Riisin ja bambun kuorivat hiukkaset poistavat hellästi kuolleita ihosoluja ja elävöittävät ihoa. Antaa erinomaisen pohjan feel beautiful -sarjan hoitavien tuotteiden tehokkaalle imeytymiselle. Hiero puhtaalle, kostealle iholle ja huuhtele huolellisesti runsaalla vedellä.
         100% luonnollisista aineista.
-        80% sertifioitavissa olevista aineista luomua (NaTrue). Sopii vegaaneille.
+        80% sertifioitavissa olevista aineista luomua (NaTrue). 
     dr_schaum: 
-      fact: "100% luonnollisista aineista. Sopii vegaaneille."
+      fact: "100% luonnollisista aineista. "
       header: Puhdistusvaahto
       link: puhdistusvaahto
       main: "Syväpuhdistaa ja kirkastaa normaalin ja rasvaisen ihon kuivattamatta. Luomulaatuisen Quillaja –puun saponiini antaa iholle ihanan ja raikkaan puhtauden tunnun. Eteeriset öljyt greippi, sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. Levitä aamuin illoin kostealle iholle ja hiero kevyesti. Huuhtele runsaalla vedellä."
       sub_header: "Kirkastava syväpuhdistus"
       tarra: |-
           Syväpuhdistaa ja kirkastaa normaalin ja rasvaisen ihon kuivattamatta. Iholle jää ihana ja raikas puhtauden tuntu. Eteeriset öljyt greippi, sitruuna ja douglaskuusi virkistävät ja elvyttävät ihoa. Levitä aamuin illoin kostealle iholle ja hiero kevyesti. Huuhtele runsaalla vedellä. 
-          100% luonnollisista aineista. Sopii vegaaneille.
+          100% luonnollisista aineista. 
     dr_tonicF: 
       fact: |-
           100% luonnollisista raaka-aineista, <br>
-          72% sertifioitavissa olevista ainesosista luomua. Sopii vegaaneille.
+          72% sertifioitavissa olevista ainesosista luomua. 
       header: "Kirkastava kasvovesi"
       link: kirkastava-kasvovesi
       main: "Kasvovesi, joka sopii kaikille ihotyypeille. Kirkastaa ja raikastaa normaalin, rasvaisen ja sekaihon ja poistaa mahdolliset meikin jäänteet. Hamamelisuute ja rosmariinin, cistuksen ja ruusumyrtin (manuka) eteeriset öljyt tekevät kasvovedestä miedosti desinfioivan. Puhdistuksen jälkeen ota kasvovettä kostealle pumpulille ja pyyhi sillä kasvojen iho hellästi. Iho on nyt valmis ottamaan vastaan feel beautiful -sarjan omalle ihotyypillesi tarkoitettujen hoitotuotteiden tehokkaat vaikutukset."
@@ -39,14 +39,14 @@ fi:
       tarra: |-
           Kasvovesi, joka sopii kaikille ihotyypeille. Kirkastaa ja raikastaa normaalin, rasvaisen ja sekaihon ja poistaa mahdolliset meikin jäänteet. Hamamelisuute ja rosmariinin, cistuksen ja ruusumyrtin (manuka) eteeriset öljyt tekevät kasvovedestä miedosti desinfioivan. Puhdistuksen jälkeen ota kasvovettä kostealle pumpulille ja pyyhi hellästi kasvojen iho. Valmistaa ihon feel beautiful -sarjan hoitotuotteiden tehokkaille vaikutuksille.
           100% luonnollisista raaka-aineista.
-          72% sertifioitavissa olevista ainesosista luomua (NaTrue). Sopii vegaaneille.
+          72% sertifioitavissa olevista ainesosista luomua (NaTrue). 
     dr_tonicK: 
-      fact: "100% luonnollisista aineista.<br/>70% sertifioitavissa olevista aineosista luomua. Sopii vegaaneille."
+      fact: "100% luonnollisista aineista.<br/>70% sertifioitavissa olevista aineosista luomua. "
       header: "Kosteuttava kasvovesi"
       link: kosteuttava-kasvovesi
       main: "Kasvovesi, joka sopii kaikille ihotyypeille. Raikastaa ja rauhoittaa herkkää ihoa ja poistaa mahdolliset meikin jäänteet. Aloe vera ja Centella asiatica (Gotu kola) -uutteet ylläpitävät ja vahvistavat ihon luonnollista kosteustasapainoa. Puhdistuksen jälkeen ota kasvovettä kosteaan pumpuliin ja pyyhi kasvojen iho hellästi. Iho on nyt valmis ottaman vastaan feel beautiful -sarjan omalle ihotyypillesi tarkoitettujen hoitotuotteiden tehokkaat vaikutukset."
       sub_header: "Raikkautta ja kosteutta"
-      tarra: "Kasvovesi, joka sopii kaikille ihotyypeille. Raikastaa ja rauhoittaa herkkää ihoa ja poistaa mahdolliset meikin jäänteet. Ylläpitää ja vahvistaa ihon luonnollista kosteustasapainoa. Puhdistuksen jälkeen ota kasvovettä kosteaan pumpuliin ja pyyhi kasvojen iho hellästi. Valmistaa ihon feel beautiful -sarjan hoitotuotteiden tehokkaille vaikutuksille. 100% luonnollisista aineista. 70% sertifioitavissa olevista aineosista luomua (NaTrue). Sopii vegaaneille."
+      tarra: "Kasvovesi, joka sopii kaikille ihotyypeille. Raikastaa ja rauhoittaa herkkää ihoa ja poistaa mahdolliset meikin jäänteet. Ylläpitää ja vahvistaa ihon luonnollista kosteustasapainoa. Puhdistuksen jälkeen ota kasvovettä kosteaan pumpuliin ja pyyhi kasvojen iho hellästi. Valmistaa ihon feel beautiful -sarjan hoitotuotteiden tehokkaille vaikutuksille. 100% luonnollisista aineista. 70% sertifioitavissa olevista aineosista luomua (NaTrue). "
     header: "daily refresh"
     list: |-
         1. Tehokas, hellävarainen puhdistus.<br>        
