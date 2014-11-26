@@ -18,3 +18,4 @@ task :output do
 end
 
 
+Rails.application.load_tasks
