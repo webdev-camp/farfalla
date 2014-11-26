@@ -1,0 +1,11 @@
+= render :partial => "group_header" , :locals => {:group => "pure_sensitive" }
+= render :partial => "one_header" , :locals => {:group => "pure_sensitive" }
+.one
+  .sixty
+    %h3= raw  t('pure_sensitive.ps_cream.header')
+    %p
+      = raw  t('pure_sensitive.ps_cream.main')
+    = render :partial => "link" , :locals => {:link => "pure_sensitive.ps_cream.link" }
+  .logo_right
+    %p
+      %img{:alt => "pure sensitive cream", :height => "283", :src => "/images/pure_sensitive/ps_cream.jpg", :width => "250"}/

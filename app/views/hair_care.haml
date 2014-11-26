@@ -1,0 +1,15 @@
+= render :partial => "group_header" , :locals => {:group => "hair_care" }
+.one
+  - ["shampoos" , "conditioner" , "styling"].each do |line|
+    - pic = t(line+".products").split.first
+    .three
+      %a{:href => "/#{line}.html"}
+        %img{:alt => line.humanize, :src => "#{"/images/#{line}/#{pic}"}.jpg"}/
+      %p
+        %strong
+          = raw  t("#{line}.header")
+      %p
+        %em
+          = raw  t("#{line}.sub_header")
+      %p
+        = raw  t("#{line}.list")

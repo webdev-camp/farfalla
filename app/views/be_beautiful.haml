@@ -1,0 +1,14 @@
+= render :partial => "group_header" , :locals => {:group => "be_beautiful" }
+= render :partial => "one_header" , :locals => {:group => "be_beautiful" }
+.one
+  .sixty
+    %h3= raw  t('be_beautiful.bb_cream.header')
+    = raw  t('be_beautiful.bb_cream.main')
+    %br/
+    - if has_sub(fact = "be_beautiful.bb_cream.fact")
+      .fact
+        = raw  t( fact )
+    = render :partial => "link" , :locals => {:link => "be_beautiful.bb_cream.link" }
+  .logo_right
+    %p
+      %img{:alt => "be beautiful cream", :height => "283", :src => "/images/be_beautiful/bb_cream.jpg", :width => "250"}/

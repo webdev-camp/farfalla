@@ -1,0 +1,9 @@
+- if has_sub(link)
+  .link
+    %a{:href => "#{raw I18n.t('link.server')}#{raw I18n.t(link)}"}
+      = raw I18n.t("link.text")
+    = raw  translate_link(link)
+- unless defined?(vegan) and true == has_sub(vegan)
+  .vegan
+    %img{:alt => "Vegan", :src => "images/site/vegan.gif"}/
+    Vegan

@@ -1,0 +1,16 @@
+= render :partial => "group_header" , :locals => {:group => "body_care" }
+.one
+  - I18n.t("body_care.sub_menu").split.each_with_index do |line , ind|
+    - pic = I18n.t(line+".logo").split.first
+    .four
+      %a{:href => "/#{line}.html"}
+        %img{:alt => line.humanize, :height => "180", :src => "#{"/images/#{line}/"}logo.jpg", :width => "180"}/
+      %p
+        %strong
+          = raw  t("#{line}.header")
+      %p
+        %em
+          = raw  t("#{line}.sub_header")
+      %p
+        = raw  t("#{line}.main")
+    - "</div>  <div class='one'>" if (ind == 1)

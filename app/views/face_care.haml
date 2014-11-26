@@ -1,0 +1,27 @@
+= render :partial => "group_header" , :locals => {:group => "face_care" }
+.one
+  - ["daily_refresh","in_balance","intense_moisture"].each do |line|
+    .three
+      %a{:href => "#{line}.html"}
+        %img{:alt => "logo #{line.humanize}", :src => "images/#{line}/logo.jpg"}/
+        %br/
+        = I18n.t(line+'.sub_header')
+      %br/
+      %br/
+.one
+  - ["age_miracle","pure_sensitive","be_beautiful"].each do |line|
+    .three
+      %a{:href => "#{line}.html"}
+        %img{:alt => "logo #{line.humanize}", :src => "images/#{line}/logo.jpg"}/
+        %br/
+        = I18n.t(line+'.sub_header')
+      %br/
+      %br/
+.one
+  %br/
+  .six
+    %img{:alt => "natrue", :height => "50", :src => "images/NATRUE.gif", :width => "50"}/
+  %div
+    = raw  t('face_care.natrue')
+%br/
+= raw  t('face_care.effective')

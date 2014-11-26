@@ -1,0 +1,17 @@
+%h1 Tarrat
+- if flash.notice
+  .flash.notice= flash.notice
+- if flash[:error]
+  .flash.errors= flash[:error]
+- groups.each do |group|
+  - I18n.t("#{group}.products").split.each do |product|
+    .one
+      .three
+        = I18n.t("#{group}.header")
+        %br/
+        %strong
+          = I18n.t("#{group}.#{product}.header")
+      .sixty
+        %p
+          %em
+            = raw  t("#{group}.#{product}.tarra")
