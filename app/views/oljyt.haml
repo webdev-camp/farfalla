@@ -5,8 +5,8 @@
     %h2
       = raw  t("#{group}.header")
     .four
-      %a{:href => "/#{group}.html"}
-        %img{:alt => "logo #{group.humanize}", :src => "/images/#{group}/logo.jpg"}/
+      =link_to "/#{group}.html" do
+        =image_tag "#{group}/logo.jpg"
     .sixty
       = raw  t("#{group}.list")
   %br/

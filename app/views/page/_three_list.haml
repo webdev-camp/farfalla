@@ -11,7 +11,7 @@
             %em
               = raw  t(sub)
         .bottom
-          %img{:alt => "#{group.humanize} #{product.humanize}", :src => "#{"images/#{group}/#{product}"}.jpg"}/
+          =image_tag "#{group}/#{product}.jpg"
   .one
     - line.each do |product|
       .three

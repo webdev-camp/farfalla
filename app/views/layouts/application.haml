@@ -1,7 +1,7 @@
 !!! Strict
 %html{:xmlns => "http://www.w3.org/1999/xhtml"}
   %head
-    %link{:href => "/stylesheets/stylesheet.css", :media => "screen", :rel => "stylesheet", :type => "text/css"}/
+    =stylesheet_link_tag    'application', media: 'screen'
     %link{:href => "/favicon.ico", :rel => "shortcut icon", :type => "image/vnd.microsoft.icon"}/
     %meta{:content => "Farfalla", :name => "keywords"}/
     %meta{:content => "Farfalla : #{I18n.t('slogan') + ' ' + I18n.t("#{@page}.header")}", :name => "description"}/
@@ -45,7 +45,7 @@
         .divider
       #footer
         .kolmas
-          %img{:alt => "Farfalla", :src => "/images/site/farfalla-logo.gif"}
+          =image_tag  "site/farfalla-logo.gif"
           .link
             %b> Farfalla
             n toiminta on todellisesti eettistä.

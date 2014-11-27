@@ -3,8 +3,8 @@
   - ["shampoos" , "conditioner" , "styling"].each do |line|
     - pic = t(line+".products").split.first
     .three
-      %a{:href => "/#{line}.html"}
-        %img{:alt => line.humanize, :src => "#{"/images/#{line}/#{pic}"}.jpg"}/
+      =link_to "#{line}.html" do
+        =image_tag  "#{line}/#{pic}.jpg"
       %p
         %strong
           = raw  t("#{line}.header")

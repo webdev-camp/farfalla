@@ -2,8 +2,8 @@
 .one
   - ["daily_refresh","in_balance","intense_moisture"].each do |line|
     .three
-      %a{:href => "#{line}.html"}
-        %img{:alt => "logo #{line.humanize}", :src => "images/#{line}/logo.jpg"}/
+      = link_to "#{line}.html" do
+        =image_tag "#{line}/logo.jpg"
         %br/
         = I18n.t(line+'.sub_header')
       %br/
@@ -11,8 +11,8 @@
 .one
   - ["age_miracle","pure_sensitive","be_beautiful"].each do |line|
     .three
-      %a{:href => "#{line}.html"}
-        %img{:alt => "logo #{line.humanize}", :src => "images/#{line}/logo.jpg"}/
+      =link_to "#{line}.html" do
+        =image_tag "#{line}/logo.jpg"
         %br/
         = I18n.t(line+'.sub_header')
       %br/
@@ -20,8 +20,8 @@
 .one
   %br/
   .six
-    %img{:alt => "natrue", :height => "50", :src => "images/NATRUE.gif", :width => "50"}/
+    =image_tag "NATRUE.gif", {:alt => "natrue", :height => "50", :width => "50"}
   %div
     = raw  t('face_care.natrue')
-%br/
+%br
 = raw  t('face_care.effective')
