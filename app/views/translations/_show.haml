@@ -1,0 +1,19 @@
+%table
+  %tr
+    %th
+      Browse Roots #{@translations.length}
+      - keys( @id ).each do |base, full|
+        = link_to base , translation_url( :id => full )
+    %th Edit Test
+  - @translations.each do |f , trans|
+    %tr
+      %td
+        - all = keys_with_prefix(f , @id )
+        - last = all.pop
+        - all.each do |base, full|
+          = link_to base , translation_url( :id => full )
+        = last[0]
+      %td
+        = link_to edit_translation_url(:id => f) do
+          = raw   trans.text[0..50]
+= render :partial => "footer"

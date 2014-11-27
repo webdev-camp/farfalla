@@ -1,0 +1,25 @@
+%table
+  %tr
+    %th Roots
+    %th first
+    %th two
+    %th levels
+  %tr
+    - i = 0
+    - @translations.sort{|key,value| key<=>value}.each do |tag , val |
+      %td
+        = link_to tag , translation_url( tag )
+      = raw   ((i+=1) % 4) == 0 ?  "</tr><tr>" : ""
+%table
+  %tr
+    %th Files
+    %th
+    %th
+    %th
+  %tr
+    - i = 0
+    - @files.each do |file , keys |
+      %td
+        = link_to file , file_translation_url(file)
+      = raw   ((i+=1) % 4) == 0 ?  "</tr><tr>" : ""
+= render :partial => "footer"
