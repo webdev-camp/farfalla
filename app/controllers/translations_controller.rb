@@ -13,7 +13,7 @@ class TranslationsController < ApplicationController
     others = @translations.keys.dup.delete_if {|local| local.length != 2 } - [current]
     puts "LOCS #{others.join('-')}"
     category_filter
-    @translations.each do | key , val |
+    @translations.dup.each do | key , val |
       next unless key.starts_with? current
       other_key = key.sub( current , locale)
       if other_val = @translations[other_key]
