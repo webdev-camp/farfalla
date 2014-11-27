@@ -1,7 +1,7 @@
 - if has_sub(link)
   .link
-    %a{:href => "#{raw I18n.t('link.server')}#{raw I18n.t(link)}"}
-      = raw I18n.t("link.text")
+    %a{:href => "#{raw t('link.server')}#{raw t(link)}"}
+      = raw t("link.text")
     = raw  translate_link(link)
 - unless defined?(vegan) and true == has_sub(vegan)
   .vegan

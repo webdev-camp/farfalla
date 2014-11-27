@@ -4,22 +4,10 @@ module ApplicationHelper
      "/#{page}.html"
   end
   
-  def photos
-    dir "photos"
-  end
-  
-  def activities
-    dir "activities"
+  def data key
+    I18n.t(key)
   end
 
-  def news
-    dir "news"
-  end
-  
-  def dir name
-    I18n.t("#{name}.all" , :locale => :en ).split(",").collect do |n| n.strip end
-  end
-  
   def has_sub key
     return true if edit_mode
     ret = t(key)
@@ -28,7 +16,7 @@ module ApplicationHelper
   end
   
   def edit_mode
-    Rails.env != "test"
+    Rails.env != "production"
   end
   
   def groups

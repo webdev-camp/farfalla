@@ -1,7 +1,7 @@
 = render :partial => "group_header" , :locals => {:group => "body_care" }
 .one
-  - I18n.t("body_care.sub_menu").split.each_with_index do |line , ind|
-    - pic = I18n.t(line+".logo").split.first
+  - data("body_care.sub_menu").split.each_with_index do |line , ind|
+    - pic = data(line+".logo").split.first
     .four
       =link_to  "/#{line}.html" do
         =image_tag "#{line}/logo.jpg" , {:alt => line.humanize, :height => "180", :width => "180"}

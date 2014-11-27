@@ -1,4 +1,4 @@
-- all = I18n.t("#{group}.products").split
+- all = data("#{group}.products").split
 - until (line = all[0,4]).empty? do
   .one
     - line.each do |product|

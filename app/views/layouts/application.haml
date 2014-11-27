@@ -4,11 +4,11 @@
     =stylesheet_link_tag    'application', media: 'screen'
     %link{:href => "/favicon.ico", :rel => "shortcut icon", :type => "image/vnd.microsoft.icon"}/
     %meta{:content => "Farfalla", :name => "keywords"}/
-    %meta{:content => "Farfalla : #{I18n.t('slogan') + ' ' + I18n.t("#{@page}.header")}", :name => "description"}/
+    %meta{:content => "Farfalla : #{data('slogan') + ' ' + data("#{@page}.header")}", :name => "description"}/
     %meta{:content => "text/html; charset=utf-8", "http-equiv" => "content-type"}/
     %meta{:content => "fi", "http-equiv" => "Content-Language"}/
     %title
-      Farfalla : #{I18n.t("#{@page}.header")}
+      Farfalla : #{data("#{@page}.header")}
     :javascript
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -21,20 +21,20 @@
     #main
       #header
         %ul#menu_bar
-          - I18n.t("menu_bar").split.each do |menu|
+          - data("menu_bar").split.each do |menu|
             %li
-              %a{:href => "/#{menu}.html"}= I18n.t(menu+'.menu_text')
+              %a{:href => "/#{menu}.html"}= data(menu+'.menu_text')
         %hr/
       #lcol
         #menu
           %ul
-            - I18n.t("menu").split(" ").each do |p|
+            - data("menu").split.each do |p|
               %li{:class => "menu #{raw  ' active' if params[:page] == p}"}
-                = link_to  I18n.t(p+'.menu_text') , "/#{p}.html"
-              - if (I18n.t(p+'.sub_menu').index("missing") == nil) and (p == @page or I18n.t(p+'.sub_menu').index(@page) != nil)
-                - I18n.t(p+'.sub_menu').split.each do |sub|
+                = link_to  data(p+'.menu_text') , "/#{p}.html"
+              - if (data(p+'.sub_menu').index("missing") == nil) and (p == @page or data(p+'.sub_menu').index(@page) != nil)
+                - data(p+'.sub_menu').split.each do |sub|
                   %li{:class => "sub_menu #{'active' if params[:page] == sub}"}
-                    = link_to  I18n.t("#{sub}.header") , "/#{sub}.html"
+                    = link_to  data("#{sub}.header") , "/#{sub}.html"
       #rcol
         #rcontent
           - if flash[:error]
