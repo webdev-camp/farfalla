@@ -1,5 +1,5 @@
 Farfalla::Application.routes.draw do 
-
+  
   resources :translations ,  :constraints => { :id => /.*/ } do
     get "missing" , :on => :member
     get "file" , :on => :member
@@ -11,5 +11,7 @@ Farfalla::Application.routes.draw do
         :defaults => { :page => "index" }
 
   root :to =>  "page#index" , :defaults => { :page => "index" }
+
+  mount OfficeClerk::Engine => "/"
 
 end
