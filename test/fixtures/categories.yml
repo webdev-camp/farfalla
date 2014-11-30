@@ -1,0 +1,73 @@
+--- 
+27: 
+  id: 27
+  link: flower-power
+  category_id: 21
+  name: Flower Power
+33: 
+  id: 33
+  link: miehille
+  category_id: 28
+  name: Miehille
+28: 
+  id: 28
+  link: luomukosmetiikka
+  category_id: 
+  name: Luomukosmetiikka
+34: 
+  id: 34
+  link: ovistopperit
+  category_id: 21
+  name: Ovistopperit
+23: 
+  id: 23
+  link: valaisimet
+  category_id: 21
+  name: Valaisimet
+29: 
+  id: 29
+  link: face-care
+  category_id: 28
+  name: Kasvojenhoito
+35: 
+  id: 35
+  link: oljyt
+  category_id: 28
+  name: !binary |
+    w5Zsanl0
+
+24: 
+  id: 24
+  link: juomat
+  category_id: 21
+  name: Gourmet
+30: 
+  id: 30
+  link: body-care
+  category_id: 28
+  name: Vartalonhoito
+25: 
+  id: 25
+  link: korut
+  category_id: 21
+  name: Korut
+31: 
+  id: 31
+  link: hair-care
+  category_id: 28
+  name: Hiustenhoito
+26: 
+  id: 26
+  link: kivituotteet
+  category_id: 21
+  name: Kivituotteet
+32: 
+  id: 32
+  link: tuoksut
+  category_id: 28
+  name: Tuoksut
+21: 
+  id: 21
+  link: tukku
+  category_id: 
+  name: Tukku
