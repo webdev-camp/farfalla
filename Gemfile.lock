@@ -20,11 +20,6 @@ GIT
       valid_email
       will_paginate-bootstrap (~> 1.0)
 
-PATH
-  remote: ../migrate_spree
-  specs:
-    migrate_spree (1.1)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -177,7 +172,6 @@ DEPENDENCIES
   better_errors
   coffee-rails
   haml
-  migrate_spree!
   office_clerk!
   rails
   sass-rails

@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem "migrate_spree", :path => "../migrate_spree"
 gem "office_clerk" , :github => "rubyclerks/office_clerk"
 gem "spring"
 gem "haml"
