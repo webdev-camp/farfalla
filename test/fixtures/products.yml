@@ -561,6 +561,26 @@
   category_id: 31
   properties: ! '{"Valmistaja":"Farfalla","Tuoteryhm\u00e4":"Shampoo"}'
   online: true
+359:
+  name: Kiilto ja volyymi – Frangipani-shampoo
+  description: <em>Vahvat, terveet hiukset! </em><br/>Luonnollinen shampoo hennoille
+    ja normaaleille hiuksille. Silkkiproteiinit tuovat upeaa, luonnollista kiiltoa,
+    fosfolipidit kestävää runsautta ja volyymia. Frangipanin kukkien mieto ja hienostunut
+    tuoksu. Täydennä uusi runsaus Farfallan Hoitavalla muotovaahdolla.
+  id: 359
+  price: 6.6
+  weight: 
+  ean: ''
+  created_at: 2011-07-14 14:18:22.000000000 Z
+  link: kiiltoa-ja-volyymia-frangipani-silkki-shampoosta
+  scode: ''
+  cost: 4.08
+  inventory: 0
+  tax: 24.0
+  category_id: 31
+  properties: ! '{"Valmistaja":"Farfalla","Tuoteryhm\u00e4":"Shampoo"}'
+  main_picture_file_name: sh_frangipani_silk.jpg
+  online: true
 401:
   name: 50ml
   description: ''
@@ -577,6 +597,27 @@
   tax: 24.0
   category_id: 31
   properties: ! '{"Valmistaja":"Farfalla","Tuoteryhm\u00e4":"Shampoo"}'
+  online: true
+361:
+  name: Päivittäin – Granaattiomenashampoo
+  description: <em>Usein toistuvaan pesuun</em><br/>Ihanteellinen shampoo normaaleille
+    hiuksille ja usein toistuvaan pesuun. Luomuviljellyn granaattiomenan tehoaineet
+    suojaavat hiuksia kuivumiselta. Shampoo tekee hiuksista luonnollisen kiiltävät
+    ja säilyttää niiden kosteustasapainon - jopa päivittäisessä käytössä. Hiukset
+    tuntuvat terveiltä ja helppohoitoisilta.
+  id: 361
+  price: 6.6
+  weight: 
+  ean: ''
+  created_at: 2011-07-14 14:18:23.000000000 Z
+  link: granaattiomenashampoo-paeivittaeiseen-kaeyttoeoen
+  scode: ''
+  cost: 4.08
+  inventory: 12
+  tax: 24.0
+  category_id: 31
+  properties: ! '{"Valmistaja":"Farfalla","Tuoteryhm\u00e4":"Shampoo"}'
+  main_picture_file_name: sh_pomegranate.jpg
   online: true
 425:
   name: Pain d'olives jauhomix
@@ -1126,6 +1167,26 @@
   category_id: 31
   properties: ! '{"Valmistaja":"Farfalla","Tuoteryhm\u00e4":"Shampoo"}'
   online: true
+360:
+  name: Hellävarainen – Villiruusushampoo
+  description: <em>Herkän ihon shampoo!</em><br/>Erittäin mieto herkän ihon shampoo,
+    joka sopii erityisesti hennoille hiuksille ja lapsille. Luomulaatuinen ruusu-uute
+    rauhoittaa ja tasapainoittaa herkkää päänahkaa. Shampoo tekee hiuksista luonnollisen
+    kiiltävät ja terveet - kauniit juurista latvoihin.
+  id: 360
+  price: 6.6
+  weight: 
+  ean: ''
+  created_at: 2011-07-14 14:18:23.000000000 Z
+  link: hellaevarainen-villiruusu-shampoo
+  scode: ''
+  cost: 4.08
+  inventory: 0
+  tax: 24.0
+  category_id: 31
+  properties: ! '{"Valmistaja":"Farfalla","Tuoteryhm\u00e4":"Shampoo"}'
+  main_picture_file_name: sh_wild_rose.jpg
+  online: true
 399:
   name: 50ml
   description: ''
@@ -1143,6 +1204,26 @@
   category_id: 31
   properties: ! '{"Valmistaja":"Farfalla","Tuoteryhm\u00e4":"Shampoo"}'
   online: true
+363:
+  name: Korjaava – Jojoba-Aloe shampoo
+  description: <em>Käsitellyille hiuksille </em><br/>Vahvistava shampoo kuiville,
+    katkeileville ja värjätyille hiuksille. Luomulaatuiset jojoba ja aloe vera kosteuttavat
+    ja ravitsevat hiusta ja sitrushedelmien eteeriset öljyt elvyttävät päänahkaa.
+    Hiukset tulevat elinvoimaisiksi, helposti käsiteltäviksi ja luonnollisen kiiltäviksi.
+  id: 363
+  price: 6.6
+  weight: 
+  ean: ''
+  created_at: 2011-07-14 14:18:24.000000000 Z
+  link: korjaava-jojoba-aloe-shampoo
+  scode: ''
+  cost: 4.08
+  inventory: 8
+  tax: 24.0
+  category_id: 31
+  properties: ! '{"Valmistaja":"Farfalla","Tuoteryhm\u00e4":"Shampoo"}'
+  main_picture_file_name: sh_jojoba_aloe.jpg
+  online: true
 403:
   name: 50ml
   description: ''
@@ -1159,6 +1240,26 @@
   tax: 24.0
   category_id: 31
   properties: ! '{"Valmistaja":"Farfalla","Tuoteryhm\u00e4":"Hiustenhoito"}'
+  online: true
+364:
+  name: Villiruusu Hiustenhoitoaine
+  description: ! '<em>Täydellinen hoitoaine!</em><br/>Myyntimenestys. Hoitoaine tekee
+    hiuksistasi kauniit ja pehmeät, helpottaa kampaamista ja antaa hiuksille kauniin
+    silkin hohteen. Käyttöohje: hiero pesun jälkeen pähkinän kokoinen nokare hoitoainetta
+    kosteisiin hiuksiin, anna vaikuttaa 1-3 min. ja huuhtele huolellisesti.'
+  id: 364
+  price: 9.1
+  weight: 
+  ean: ''
+  created_at: 2011-07-14 14:18:24.000000000 Z
+  link: villiruusu-hiustenhoitobalsami
+  scode: ''
+  cost: 5.6
+  inventory: 0
+  tax: 24.0
+  category_id: 31
+  properties: ! '{"Valmistaja":"Farfalla","Tuoteryhm\u00e4":"Hiustenhoito"}'
+  main_picture_file_name: co_conditioner.jpg
   online: true
 365:
   name: Muotoileva Hoitovaahto
@@ -4352,6 +4453,28 @@
   category_id: 25
   properties: ! '{"Valmistaja":"Bali"}'
   online: true
+19:
+  name: Kaulakoru Marmori
+  description: ! "Näissä koruissa yhdistyvät ihastuttavasti kiven hohto ja puun keveys:
+    puuhelmet on maalattu marmorointitekniikalla. Perusvärin joukossa hehkuu aina
+    muitakin värejä. Marmori -koruissamme on kauniit ja tyylikkäät väriyhdistelmät,
+    jotka sopivat monentyyppisten asujen täydentäjiksi.\r\n\r\nTämä on tyylikäs, näyttävä
+    kaulakoru puuhelmistä. Houkuttelevat väriyhdistelmät tulevat suurissa helmissä
+    hienosti esille."
+  id: 19
+  price: 8.5
+  weight: 0.35
+  ean: ''
+  created_at: 2011-01-11 15:40:32.000000000 Z
+  link: kaulakoru-marmori
+  scode: P-92459
+  cost: 7.5
+  inventory: 0
+  tax: 24.0
+  category_id: 25
+  properties: ! '{"Valmistaja":"Bali"}'
+  main_picture_file_name: kaulakoru_marmori.jpg
+  online: true
 300:
   name: Hopea-kulta
   description: ''
@@ -4385,6 +4508,26 @@
   category_id: 25
   properties: ! '{"Valmistaja":"Bali"}'
   main_picture_file_name: Rannekoru_Marmori-turk.jpg
+  online: true
+75:
+  name: Rannekoru Marmori
+  description: Tyylikäs rannekoru puuhelmistä. Maalattu marmoritekniikalla, jolloin
+    perusvärin seassa hohtaa muitakin värejä. Tämä rannekoru koru tuo piristystä ja
+    uutta ilmettä asuihisi. Se sopii hyvin samanlaisen kaulakorun kanssa.
+  id: 75
+  price: 4.5
+  weight: 0.01
+  ean: ''
+  created_at: 2011-01-11 15:40:32.000000000 Z
+  link: rannekoru-marmori
+  scode: P-92461
+  cost: 4.5
+  inventory: 0
+  tax: 24.0
+  category_id: 25
+  properties: ! '{"Valmistaja":"Bali"}'
+  main_picture_file_name: Rannekoru_Marmori-ruskea.jpg
+  extra_picture_file_name: Rannekoru_Marmori-turk.jpg
   online: true
 82:
   name: Valkoinen
@@ -4420,6 +4563,25 @@
   category_id: 25
   properties: ! '{"Valmistaja":"Bali"}'
   main_picture_file_name: Kaulakoru_Marmori_P-musta-.jpg
+  online: true
+164:
+  name: Kaulakoru Marmori P
+  description: Tyylikäs kaulakoru puuhelmistä. Maalattu marmoritekniikalla, jolloin
+    perusvärin seassa hohtaa muitakin värejä. Tämä kaulakoru tuo piristystä ja uutta
+    ilmettä asuihisi.
+  id: 164
+  price: 9.0
+  weight: 0.2
+  ean: ''
+  created_at: 2011-01-11 15:40:32.000000000 Z
+  link: kaulakoru-marmori-p
+  scode: P-92436
+  inventory: 0
+  tax: 24.0
+  category_id: 25
+  properties: ! '{"Valmistaja":"Bali"}'
+  main_picture_file_name: Kaulakoru_Marmori_P-lime-.jpg
+  extra_picture_file_name: Kaulakoru_Marmori_P-musta-.jpg
   online: true
 168:
   name: Sininen
