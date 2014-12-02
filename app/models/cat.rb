@@ -1,4 +1,4 @@
-class Category
+class Cat
   attr_accessor :tag , :file 
   
   def initialize tag , file 
