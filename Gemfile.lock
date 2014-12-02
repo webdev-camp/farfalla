@@ -90,6 +90,7 @@ GEM
     jquery-ui-rails (5.0.2)
       railties (>= 3.2.16)
     json (1.8.1)
+    json_pure (1.8.1)
     kramdown (1.5.0)
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
@@ -172,6 +173,7 @@ DEPENDENCIES
   better_errors
   coffee-rails
   haml
+  json_pure
   office_clerk!
   rails
   sass-rails
