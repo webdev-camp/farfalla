@@ -10,6 +10,7 @@ gem 'sqlite3'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
+gem "therubyracer"
 
 group :development do
   gem "spring"
