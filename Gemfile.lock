@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rubyclerks/office_clerk.git
-  revision: a38d2a0aba07e18da92952ea9970c116091f3bf3
+  revision: 94ee80f0315c7b66af25c0a8e1449a21f2fa1d26
   specs:
     office_clerk (0.5)
       bcrypt-ruby (~> 3.1)
@@ -87,7 +87,7 @@ GEM
     jquery-rails (3.1.2)
       railties (>= 3.0, < 5.0)
       thor (>= 0.14, < 2.0)
-    jquery-ui-rails (5.0.2)
+    jquery-ui-rails (5.0.3)
       railties (>= 3.2.16)
     json (1.8.1)
     json_pure (1.8.1)

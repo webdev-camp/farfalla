@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 gem "office_clerk" , :github => "rubyclerks/office_clerk"
+#gem "office_clerk", path: "../office_clerk"
+
 gem "json_pure"
 gem "haml"
 gem 'rails'
