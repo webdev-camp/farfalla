@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 
 gem "office_clerk" , :github => "rubyclerks/office_clerk"
 gem "json_pure"
-gem "spring"
 gem "haml"
 gem 'rails'
 gem 'ya2yaml'
@@ -13,5 +12,6 @@ gem 'uglifier'
 gem 'coffee-rails'
 
 group :development do
+  gem "spring"
   gem "better_errors"
 end
