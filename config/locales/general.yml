@@ -22,7 +22,7 @@ fi:
     header: "Farfalla Essentials"
     menu_text: Farfalla
   link: 
-    server: "http://www.auringostaitaan.fi/products/"
+    server: "http://auringostaitaan.fi/prod/"
     text: "Tarkista hinta"
   men: 
     menu_text: Miehille
