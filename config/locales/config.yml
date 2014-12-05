@@ -1,4 +1,5 @@
 config:
+  has_ssl: true
   shipping:
     kotiinkuljetus:
       weight_table: '2 5 15 30'
