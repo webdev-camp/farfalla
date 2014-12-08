@@ -8,9 +8,9 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/office_clerk.git
-  revision: 4e4d6bc472a64daada3c25a1e159e0f1b44df5c2
+  revision: fefb67358c20039689941e9ea87bb6f808cd54fb
   specs:
-    office_clerk (0.6)
+    office_clerk (0.7)
       bcrypt-ruby (~> 3.1)
       best_in_place
       bootstrap-sass (~> 3.1)
