@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/office_clerk.git
-  revision: f934cf82a4b6341b860ca16c0ff8b2d6cc2559b2
+  revision: 65969997d4051ddfb10095aa68c61571f569d707
   specs:
     office_clerk (0.7)
       bcrypt-ruby (~> 3.1)
@@ -94,7 +94,7 @@ GEM
     chunky_png (1.3.3)
     climate_control (0.0.3)
       activesupport (>= 3.0)
-    cocaine (0.5.4)
+    cocaine (0.5.5)
       climate_control (>= 0.0.3, < 1.0)
     coderay (1.1.0)
     coffee-rails (4.1.0)
@@ -131,7 +131,7 @@ GEM
     mime-types (2.4.3)
     minitest (5.4.3)
     multi_json (1.10.1)
-    paperclip (4.2.0)
+    paperclip (4.2.1)
       activemodel (>= 3.0.0)
       activesupport (>= 3.0.0)
       cocaine (~> 0.5.3)
@@ -180,7 +180,6 @@ GEM
       sass (~> 3.2.2)
       sprockets (~> 2.8, < 3.0)
       sprockets-rails (~> 2.0)
-    spring (1.2.0)
     sprockets (2.12.3)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -209,7 +208,6 @@ GEM
     will_paginate (3.0.7)
     will_paginate-bootstrap (1.0.1)
       will_paginate (>= 3.0.3)
-    ya2yaml (0.31)
 
 PLATFORMS
   ruby
@@ -226,8 +224,6 @@ DEPENDENCIES
   quiet_assets
   rails
   sass-rails
-  spring
   sqlite3
   therubyracer
   uglifier
-  ya2yaml
