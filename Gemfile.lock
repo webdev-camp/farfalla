@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/office_clerk.git
-  revision: 65969997d4051ddfb10095aa68c61571f569d707
+  revision: 7c94a4f202cb835e712ba22ae51817fdf3701abe
   specs:
     office_clerk (0.7)
       bcrypt-ruby (~> 3.1)
@@ -80,7 +80,7 @@ GEM
     bcrypt (3.1.9)
     bcrypt-ruby (3.1.5)
       bcrypt (>= 3.1.3)
-    best_in_place (3.0.0)
+    best_in_place (3.0.1)
       actionpack (>= 3.2)
       railties (>= 3.2)
     better_errors (2.0.0)
@@ -104,6 +104,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.8.0)
+    db_fixtures_dump (0.1.1)
     erubis (2.7.0)
     execjs (2.2.2)
     flot-rails (0.0.6)
@@ -145,6 +146,8 @@ GEM
     quiet_assets (1.0.3)
       railties (>= 3.1, < 5.0)
     rack (1.5.2)
+    rack-attack (4.2.0)
+      rack
     rack-test (0.6.2)
       rack (>= 1.0)
     rails (4.1.8)
@@ -216,12 +219,14 @@ DEPENDENCIES
   accountant_clerk!
   better_errors
   coffee-rails
+  db_fixtures_dump
   haml
   json_pure
   office_clerk!
   post_clerk!
   print_clerk!
   quiet_assets
+  rack-attack
   rails
   sass-rails
   sqlite3
