@@ -1,71 +1,153 @@
 ---
-21:
+Category_1:
   id: 21
+  online: false
   name: Tukku
+  description: ''
+  summary: ''
+  position: 1
   link: tukku
-  category_id: 
-23:
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_2:
   id: 23
+  category_id: 21
+  online: false
   name: Valaisimet
+  description: ''
+  summary: ''
+  position: 1
   link: valaisimet
-  category_id: 21
-24:
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_3:
   id: 24
+  category_id: 21
+  online: false
   name: Gourmet
+  description: ''
+  summary: ''
+  position: 1
   link: juomat
-  category_id: 21
-25:
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_4:
   id: 25
+  category_id: 21
+  online: false
   name: Korut
+  description: ''
+  summary: ''
+  position: 1
   link: korut
-  category_id: 21
-26:
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_5:
   id: 26
+  category_id: 21
+  online: false
   name: Kivituotteet
+  description: ''
+  summary: ''
+  position: 1
   link: kivituotteet
-  category_id: 21
-27:
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_6:
   id: 27
+  category_id: 21
+  online: false
   name: Flower Power
+  description: ''
+  summary: ''
+  position: 1
   link: flower-power
-  category_id: 21
-28:
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_7:
   id: 28
+  online: false
   name: Luomukosmetiikka
+  description: ''
+  summary: ''
+  position: 1
   link: luomukosmetiikka
-  category_id: 
-29:
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_8:
   id: 29
+  category_id: 28
+  online: false
   name: Kasvojenhoito
+  description: ''
+  summary: ''
+  position: 1
   link: face-care
-  category_id: 28
-30:
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_9:
   id: 30
+  category_id: 28
+  online: false
   name: Vartalonhoito
+  description: ''
+  summary: ''
+  position: 1
   link: body-care
-  category_id: 28
-31:
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_10:
   id: 31
+  category_id: 28
+  online: false
   name: Hiustenhoito
+  description: ''
+  summary: ''
+  position: 1
   link: hair-care
-  category_id: 28
-32:
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_11:
   id: 32
+  category_id: 28
+  online: false
   name: Tuoksut
+  description: ''
+  summary: ''
+  position: 1
   link: tuoksut
-  category_id: 28
-33:
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_12:
   id: 33
+  category_id: 28
+  online: false
   name: Miehille
+  description: ''
+  summary: ''
+  position: 1
   link: miehille
-  category_id: 28
-34:
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_13:
   id: 34
-  name: Ovistopperit
-  link: ovistopperit
   category_id: 21
-35:
+  online: false
+  name: Ovistopperit
+  description: ''
+  summary: ''
+  position: 1
+  link: ovistopperit
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
+Category_14:
   id: 35
-  name: Öljyt
-  link: oljyt
   category_id: 28
+  online: false
+  name: Öljyt
+  description: ''
+  summary: ''
+  position: 1
+  link: oljyt
+  created_at: 2014-12-02 16:15:07.000000000 Z
+  updated_at: 2014-12-02 16:15:07.000000000 Z
