@@ -26,3 +26,13 @@ group :development do
   gem "quiet_assets"
   gem "better_errors"
 end
+
+group :test do
+  gem 'rspec-rails'
+  gem 'capybara'
+  gem 'database_cleaner'
+  gem "factory_girl_rails"
+  gem 'i18n-spec'
+  gem 'guard'
+  gem 'guard-rspec'
+end
