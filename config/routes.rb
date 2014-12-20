@@ -1,3 +1,11 @@
+OfficeClerk::Engine.routes.append do
+  resources :orders do
+    member do
+      get :rakennus
+    end
+  end
+end
+
 Farfalla::Application.routes.draw do 
   
   resources :translations ,  :constraints => { :id => /.*/ } do
