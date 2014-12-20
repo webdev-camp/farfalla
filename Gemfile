@@ -21,6 +21,9 @@ gem "therubyracer"
 
 #one wishes one would not need it. alas . . .
 gem 'rack-attack'
+group :production do
+  gem 'rack-google-analytics'
+end
 
 group :development do
   gem "quiet_assets"

@@ -44,7 +44,7 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/print_clerk.git
-  revision: 68850d071176a50db69036cd4d35597d51944013
+  revision: 36574307292a8f5b3c6c1864f4eec855ca9c049f
   specs:
     print_clerk (0.4)
       barby
@@ -197,6 +197,9 @@ GEM
     rack (1.5.2)
     rack-attack (4.2.0)
       rack
+    rack-google-analytics (1.2.0)
+      actionpack
+      activesupport
     rack-test (0.6.2)
       rack (>= 1.0)
     rails (4.1.8)
@@ -310,6 +313,7 @@ DEPENDENCIES
   print_clerk!
   quiet_assets
   rack-attack
+  rack-google-analytics
   rails
   rspec-rails
   sass-rails
