@@ -25,7 +25,9 @@ config:
   print_styles: "receipt slip invoice reminder rakennus"
 
 fi:
-  print_rakennus: RR Lasku
+  rakennus: 
+    header: RR Lasku
+    thanks: ""
   order_enough_for_free_shipping: "Tilauksesi ylittää rahtirajan, ilmainen toimitus!"
   kauppa: "Auringosta Itään, Kuusta Länteen"
   tukku: "Auringosta Itään, Kuusta Länteen Tukku"

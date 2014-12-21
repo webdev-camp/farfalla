@@ -44,12 +44,12 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/print_clerk.git
-  revision: 36574307292a8f5b3c6c1864f4eec855ca9c049f
+  revision: d8edbbc7086dc707d4c637ae551e6896680d1c7e
   specs:
     print_clerk (0.4)
       barby
       chunky_png
-      office_clerk (~> 0.4)
+      office_clerk (~> 0.8)
       prawn
 
 GEM

@@ -1,23 +1,15 @@
-!!!
-%html{:xmlns => "http://www.w3.org/1999/xhtml"}
-  %head
-    %meta{:content => "text/html; charset=UTF-8", "http-equiv" => "Content-Type"}
-    = stylesheet_link_tag "print-invoice.css" , :media => "all"
-    %title RR Lasku
-  %body
-    .a4
-      #header
-        = render :partial => "orders/rakennus_header"
-      .address
-        = render :partial => "orders/invoice_address"
-      .wrapper
-        .items
-          = render :partial => "orders/invoice_items"
-        .thanks
-          = render :partial => "orders/invoice_thanks"
-        .spacer
-          \&nbsp;
-        .totals
-          = render :partial => "orders/invoice_totals" 
-      .footer
-        = render :partial => "orders/rakennus_footer"
+.invoice
+  = render :partial => "orders/rakennus_header"
+  = render :partial => "orders/invoice_address"    
+  .row.wrapper
+    .items
+      = render :partial => "orders/invoice_items"
+    .spacer
+      \&nbsp;
+    .row
+      .totals
+        = render :partial => "orders/invoice_totals" unless @slip
+    .thanks
+      = render :partial => "orders/invoice_thanks"
+
+  = render :partial => "orders/rakennus_footer"
