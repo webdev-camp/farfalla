@@ -18,13 +18,12 @@ module Farfalla
 
     # The default locale is :en and all translations from config/locales/*.rb,yml are auto loaded.
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
-    # config.i18n.default_locale = :de
     config.to_prepare do
       Dir.glob("app/**/*_decorator.rb").each do |c|
         load(c)
       end
     end
-    
-    config.middleware.use Rack::GoogleAnalytics, :tracker => ENV["FARFALLA_ID"] unless ENV["FARFALLA_ID"].blank?
+    config.i18n.available_locales = :fi
+    config.i18n.default_locale = :fi
   end
 end
