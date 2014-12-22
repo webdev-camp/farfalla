@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/accountant_clerk.git
-  revision: 287d6c4043f93833299d2fbb6ae7ff6ebb155f27
+  revision: fe58cdbf0bf506d9605e82fbda24d6d1c079fd15
   specs:
     accountant_clerk (0.6)
       flot-rails (~> 0.0.6)
