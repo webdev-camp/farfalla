@@ -14,7 +14,7 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/office_clerk.git
-  revision: 8026dd050beab2b6215ea72300e173cc92b2b9ad
+  revision: c9bc52840edf48456b5c130d1f288d1050008edd
   specs:
     office_clerk (0.8)
       bcrypt-ruby (~> 3.1)
