@@ -3,19 +3,12 @@
 
 require File.expand_path('../config/application', __FILE__)
 require 'rake'
-require "socket"
-
-Farfalla::Application.load_tasks
-
-desc "Create the static content for upload to server. (to ./farfalla.fi)"
-task :output do
-  name = Socket.gethostname
-  local = "-k" if name.include?("local")
-  dir = "./farfalla.fi/"
-  FileUtils.makedirs dir
-  system "cp -R public/* #{dir}"
-  system "cd #{dir}; wget -nH #{local} -m http://localhost:3000/"
-end
-
 
 Rails.application.load_tasks
+
+desc 'Rebuild test and run specs'
+task :full_test do
+  system("rake db:drop db:migrate RAILS_ENV=test && rspec")
+end
+
+task :default => 'full_test'

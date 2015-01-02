@@ -1,0 +1,12 @@
+fi:
+  rakennus: 
+    header: RR Lasku
+    thanks: ""
+  order_enough_for_free_shipping: "Tilauksesi ylittää rahtirajan, ilmainen toimitus!"
+
+  total: Yhteensä
+  item_total: Tuotteet
+
+  thanks: Kiitos tilauksestasi!
+  must_accept: Toimitusehdot on hyväksyttävä ennen tilausta.
+  register: Rekisteröidy
