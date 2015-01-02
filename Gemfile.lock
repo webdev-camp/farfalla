@@ -37,14 +37,14 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/post_clerk.git
-  revision: 4b69bf54c5378383794fa5c9ff5970b41a16464a
+  revision: f250a6a4598b57dbf48844d9d7ca715fde74b3e5
   specs:
     post_clerk (0.4)
-      office_clerk (~> 0.1)
+      office_clerk (~> 0.8)
 
 GIT
   remote: git://github.com/rubyclerks/print_clerk.git
-  revision: 8c93c967367ff08e19ec7c0d92685991c8f1be88
+  revision: 909f39c265f933361d6ba11f6a68e04bc2b14fd4
   specs:
     print_clerk (0.4)
       barby (~> 0.6)
