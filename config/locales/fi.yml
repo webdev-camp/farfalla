@@ -6,6 +6,7 @@ fi:
 
   total: Yhteensä
   item_total: Tuotteet
+  order_total: Tilaus yhteensä
 
   thanks: Kiitos tilauksestasi!
   must_accept: Toimitusehdot on hyväksyttävä ennen tilausta.
