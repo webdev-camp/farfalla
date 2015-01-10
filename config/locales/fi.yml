@@ -11,3 +11,12 @@ fi:
 
   must_accept: Toimitusehdot on hyväksyttävä ennen tilausta.
   register: Rekisteröidy
+  
+  city: Postinumero ja -toimipaikka
+  email: S-posti
+  name: Etu- ja sukunimi
+  password: Salasana
+  password_confirmation: Vahvista salasana
+  phone: Puhelin
+  street: Jakeluosoite
+  

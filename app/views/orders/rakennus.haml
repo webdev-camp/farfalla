@@ -23,6 +23,12 @@
         = render :partial => "orders/invoice_totals"
     .thanks
       = render :partial => "orders/invoice_thanks"
+    
+    .row
+      <% unless @order.shipment_info.blank? %>
+      Postin seurantatunnus on <%=@order.shipment_info%>
+      <%end%>  
+      
 
   .row.footer
     .col-xs-4
