@@ -1,7 +1,7 @@
 --- 
 fi: 
   dailypleasure: 
-    dp_body_butter: 
+    dp_oljy: 
       fact: "100% luonnollisista aineista, 98% sertifioitavissa olevista ainesosista luomua (NaTrue). "
       header: Kauneusöljy
       inci: |-
@@ -183,5 +183,5 @@ fi:
         <strong>Tuoksut aidoista eteerisistä öljyistä</strong><br/>
         Hienostunut, parfyyminomainen yhdistelmä appelsiinia, sitruunaa, vaniljaa, mandariinia ja muita valikoituja eteerisiä öljyjä tukee ihon luonnollista toimintaa. Se tuo koko vartalonhoitosarjaan ihanan, raikkaan ja aurinkoisen tuoksun.<br/>
     main: "Vaikuttavat ainesosat villimangovoi, luomulaatuiset kirsikankukan ja viikunan uutteet, karitevoi ja manteliöljy. Tuoksuna valloittava eteeristen öljyjen sekoitus!"
-    products: "dp_bodylotion dp_shower_cream dp_deo_spray dp_shower_gel dp_shower_peeling dp_eau_fraiche dp_body_butter dp_hand_cream dp_matkasetti"
+    products: "dp_bodylotion dp_shower_cream dp_deo_spray dp_shower_gel dp_shower_peeling dp_eau_fraiche dp_oljy dp_hand_cream dp_matkasetti"
     sub_header: "<b>Raikas ja energisoiva vartalonhoitosarja</b>"

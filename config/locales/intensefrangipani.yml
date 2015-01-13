@@ -75,7 +75,7 @@ fi:
           2 ml "frangipani" Eau Fraiche
       sub_header: "Matkalle tai lahjaksi"
       tarra: matkasetti
-    if_olyj: 
+    if_oljy: 
       fact: "100% luonnollisista aineista, 99% sertifioitavissa olevista ainesosista luomua (NaTrue). "
       header: Kauneusöljy
       inci: |-
@@ -135,5 +135,5 @@ fi:
         <strong>Luonnolliset eteeriset öljyt</strong><br/>
         Huolella valitut, 100% luonnolliset eteeriset öljyt,  mm. frangipani, champaca, luomuvanilja, tuberosa, bergamotti ja bentsoe, tukevat ja aktivoivat ihon luonnollista toimintaa.<br/>
     main: "Luomulaatuinen tamanuöljy, frangipanin ja tahitin monoi -kukan uutteet uudistavat, rentouttavat ja kaunistavat kuivaa ihoa. Hienostuneet, ihanat tuoksut!"
-    products: "if_bodylotion if_body_butter if_deo_roll if_shower if_eau_fraiche if_olyj if_matkasetti"
+    products: "if_bodylotion if_body_butter if_deo_roll if_shower if_eau_fraiche if_oljy if_matkasetti"
     sub_header: "<b>Ravitseva vartalonhoitosarja</b>"
