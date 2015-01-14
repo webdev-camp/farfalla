@@ -14,7 +14,7 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/office_clerk.git
-  revision: 0decdddb3fbe74f80f683a8cc84ab56662f16112
+  revision: 11f7fa5b1e3dec56138cdff65e2c5c4e6e0a2e45
   specs:
     office_clerk (0.8)
       bcrypt-ruby (~> 3.1)
@@ -159,7 +159,7 @@ GEM
       thor (>= 0.14, < 2.0)
     jquery-ui-rails (5.0.3)
       railties (>= 3.2.16)
-    json (1.8.1)
+    json (1.8.2)
     json_pure (1.8.1)
     kramdown (1.5.0)
     libv8 (3.16.14.7)
@@ -173,7 +173,7 @@ GEM
     method_source (0.8.2)
     mime-types (2.4.3)
     mini_portile (0.6.1)
-    minitest (5.5.0)
+    minitest (5.5.1)
     multi_json (1.10.1)
     nokogiri (1.6.5)
       mini_portile (~> 0.6.0)
@@ -197,7 +197,7 @@ GEM
     rack (1.5.2)
     rack-attack (4.2.0)
       rack
-    rack-test (0.6.2)
+    rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.1.9)
       actionmailer (= 4.1.9)
@@ -218,7 +218,7 @@ GEM
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
     rake (10.4.2)
-    ransack (1.5.1)
+    ransack (1.6.2)
       actionpack (>= 3.0)
       activerecord (>= 3.0)
       activesupport (>= 3.0)
