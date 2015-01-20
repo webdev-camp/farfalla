@@ -3,6 +3,10 @@
     %td.cel1.bold
       Yhteensä alv 0:
     %td.cel2.bold{:align => "right"}= number_to_currency(@order.total_price - @order.total_tax)
+  %tr
+    %td.cel1.bold
+      = t(:shipment_price) + "sis alv: "
+    %td.cel2.bold{:align => "right"}= euros(@order.shipment_price)
   -#%tr
     %td.cel1.bold
       = t(:item_total)
