@@ -1,37 +1,37 @@
 config:
   has_ssl: true
   shipping:
-    kotiinkuljetus:
-      weight_table: '1 2 5 10 15 20 30'
+    Business_14:
+      weight_table: '1 5 10 15 20 30 40'
       price_table: '11.28 12 12.7 13.9 15.1 16.4 18.85'
       name: Business 14 -paketti
       class: "OfficeClerk::Post"
       max_price: 620
     mps:
-      weight_table: '1 2 5 10 15 20 30'
+      weight_table: '1 5 10 15 20 30 40'
       price_table: '17.1 17.3 18.1 19.3 20.5 21.7 24.2'
       name: Monipaketti
       class: "OfficeClerk::Post"
       max_price: 620
-    post:
-      weight_table: '1 2 5 10 15 20 30'
+    Economy:
+      weight_table: '1 5 10 15 20 30 40'
       price_table: '8 8.3 9 10.2 11.5 12.7 15.1'
       name: Economy-paketti
       class: "OfficeClerk::Post"
       max_price: 620
     maksikirje:
-      weight_table: '0.5 1 1.5 2'
+      weight_table: '0.1 0.5 1 1.5 2'
       price_table: '4.3 6.6 8.5 10.4'
       name: Maksikirje 2 lk
       class: "OfficeClerk::Post"
       max_price: 620
     kirje:
-      weight_table: '0.5 1 1.5'
+      weight_table: '0.1 0.5 1 1.5'
       price_table: '2.38 4.28 6.17'
       name: Kirje 2 lk
       class: "OfficeClerk::Post"
       max_price: 620
-    pickup:
+    Nouto:
       class: "OfficeClerk::Pickup"
       name: Nouto
   defaults:
