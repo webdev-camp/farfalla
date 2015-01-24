@@ -5,8 +5,8 @@
     %td.cel2.bold{:align => "right"}= number_to_currency(@order.total_price - @order.total_tax)
   %tr
     %td.cel1.bold
-      = t(:shipment_price) + " sis alv: "
-    %td.cel2.bold{:align => "right"}= euros(@order.shipment_price)
+      = t(:shipment_price) + " : "
+    %td.cel2{:align => "right"}= euros(@order.shipment_price)
   -#%tr
     %td.cel1.bold
       = t(:item_total)
@@ -22,4 +22,4 @@
         = "#{t(:order_total)}:"
     %td.cel2.cell{:align => "right"}
       %strong
-        %span#summary-order-total= number_to_currency @order.total_price
+        %span#summary-order-total= number_to_currency @order.total_price       

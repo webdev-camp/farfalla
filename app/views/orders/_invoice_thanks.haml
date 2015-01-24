@@ -1,0 +1,11 @@
+- unless @order.shipment_info.blank? 
+  =@order.shipment_info
+%br
+%br
+- base = @order.number[1 .. -1]
+- viite = open("http://www1.nordea.fi/P636V/H636VTXT.asp?action=tekstiLista&lkm=1&alkuViite=#{base}&L=1").read[/\d+ \d+/]
+- unless @slip
+  Maksaessasi käytä viitenumeroa: #{viite}
+%br
+%b
+  = raw t("#{@template}.thanks" )
