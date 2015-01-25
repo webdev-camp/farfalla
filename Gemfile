@@ -12,19 +12,19 @@ gem 'post_clerk' ,  github: "rubyclerks/post_clerk"
 gem 'db_fixtures_dump'  , github: "dancinglightning/db_fixtures_dump" #backup
 
 gem "json_pure"
-gem "haml"
-gem 'rails'
 gem 'sqlite3'
-
-gem 'sass-rails'
-gem 'uglifier'
-gem 'coffee-rails'
-gem "therubyracer"
 
 #one wishes one would not need it. alas . . .
 gem 'rack-attack'
 
 gem 'rails-i18n', '~> 4.0.0'
+
+group  :production do
+  gem "therubyracer" 
+  gem "libv8" 
+  gem 'uglifier', '>= 1.3.0'
+  gem "lograge"
+end
 
 group :development do
   gem "quiet_assets"
