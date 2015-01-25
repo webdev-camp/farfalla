@@ -20,13 +20,13 @@ config:
       class: "OfficeClerk::Post"
       max_price: 620
     maksikirje:
-      weight_table: '0.1 0.5 1 1.5 2'
+      weight_table: '0.5 1 1.5 2'
       price_table: '4.3 6.6 8.5 10.4'
       name: Maksikirje 2 lk
       class: "OfficeClerk::Post"
       max_price: 620
     kirje:
-      weight_table: '0.1 0.5 1 1.5'
+      weight_table: '0.5 1 1.5'
       price_table: '2.38 4.28 6.17'
       name: Kirje 2 lk
       class: "OfficeClerk::Post"
