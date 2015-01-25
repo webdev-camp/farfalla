@@ -14,5 +14,8 @@ class PageController < ApplicationController
     end
   end
   
+  def error_404
+    render status: 404 , :text => "move along"
+  end
 
 end
