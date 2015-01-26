@@ -23,6 +23,7 @@ module Farfalla
         load(c)
       end
     end
+    config.middleware.use Rack::Attack
     config.i18n.available_locales = :fi
     config.i18n.default_locale = :fi
   end
