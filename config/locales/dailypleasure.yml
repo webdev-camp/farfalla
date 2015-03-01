@@ -2,7 +2,7 @@
 fi: 
   dailypleasure: 
     dp_oljy: 
-      fact: "100% luonnollisista aineista, 98% sertifioitavissa olevista ainesosista luomua (NaTrue). "
+      fact: "100% luonnollisista aineista, 98% sertifioitavissa olevista ainesosista luomua (NaTrue). 80 ml"
       header: Kauneusöljy
       inci: |-
           Butyrospermum Parkii butter *, Aqua, glycerin, Caprylic/Capric triglyceride, alcohol *, citrus aurantium
@@ -18,11 +18,11 @@ fi:
           porkkanauute, glyceryl stearate, luonnoll. vit. E, merileväuute, 
           xantaanikumi, sitruunahappo, glyceryl stearate
       link: dailypleasure-kauneusoljy
-      main: "Taivaallisen tuoksuinen, hemmotteleva vartaloöljy. Sisältää ihon kosteustasapainoa ylläpitävää luomulaatuista jojobaöljyä. Kun levität öljyn kostealle iholle, se imeytyy nopeasti ja tekee ihosi aistillisen silkinpehmeäksi. Appelsiinin, sitruunan ja mandariinin tuoksut yhdistettynä kevyeen ripaukseen vaniljaa pitävät sinut yhdeksännessä taivaassa aamusta iltaan!"
+      main: "Ihastuttava, hoitava ja hemmotteleva öljy kasvoille, vartalolle ja hiuksille. Luomulaatuiseen jojobaöljyyn on lisätty hyvin miedontuoksuinen, tarkoin valikoitu eteeristen öljyjen yhdistelmä (mm. appelsiini, sitruuna ja mandariini), joka sekä tehostaa jojobaöljyn hoitavia ominaisuuksia että tuo ripauksen taivaallista ylellisyyttä jokaiseen päivääsi! Imeytyy nopeasti ja jättää ihosi aistillisen sametinpehmeäksi."
       sub_header: "Taivaallisen ihana"
       tarra: "RY Silkinpehmeä, ravitseva vartalovoi, jossa on ihanan raikas ja hienostunut trooppisten kukkien tuoksu. Imeytyy hyvin iholle. Sopii hyvin käytettäväksi koko keholle, mutta on erinomainen myös esimerkiksi jalkapohjien tai kyynärpäiden kuivan ihon  ravitsevaan tehohoitoon. Saa ihosi tuntumaan ja tuoksumaan ihanalta! Sisältää luomulaatuista sheavoita, luomukasviöljyjä ja -uutteita ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     dp_bodylotion: 
-      fact: "100% luonnollisista aineista, 98% sertifioitavissa olevista ainesosista luomua (NaTrue). "
+      fact: "100% luonnollisista aineista, 98% sertifioitavissa olevista ainesosista luomua (NaTrue). 150 ml"
       header: Kosteusvoide
       inci: |-
           Aqua, glycerin, Butyrospermum Parkii butter *, alcohol *, Caprylic/Capric triglycerides, Rosa Damascena
@@ -38,19 +38,19 @@ fi:
           xantaanikumi, greipinsiemenöljy, merisuolauute. sitruunahappo * from kontr. Organic
       link: dailypleasure-kosteusvoide
       main: |-
-          Pehmeästi ja hellästi hoitava, ihanasti tuoksuva vartalovoide. Afrikkalainen mango, luomulaatuinen karitevoi, luomukirsikankukka ja viikunauute parantavat ihon kosteustasapainoa ja tuovat silkinpehmeän tunnun. Samalla nautit appelsiinin, mandariinin ja vaniljan ihanista, ilahduttavista tuoksuista! 
+          Pehmeästi ja hellästi hoitava, ihanasti mutta miedosti tuoksuva vartalovoide. Villimangon voi, luomulaatuinen karitevoi, luomukirsikankukka ja viikunauute parantavat ihon kosteustasapainoa ja tuovat iholle silkinpehmeän tunnun. Samalla ilahdut appelsiinin, mandariinin ja vaniljan suloisen virkistävistä tuoksuista! 
           <br/>
       sub_header: "Hoitava ja ihanan tuoksuinen"
       tarra: "RY Kevyt ja ravitseva kosteusvoide ihon päivittäiseen hoitoon. Raikas ja hienostunut trooppisten kukkien tuoksu. Ihosi tuntuu sametinpehmeältä ja tuoksuu ihanalta! Sisältää luomulaatuisia kasviöljyjä ja luomukukkaisvesiä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia."
     dp_deo_spray: 
-      fact: "100% luonnollisista aineista. 98% sertifioitavissa olevista ainesosista luomua (NaTrue). "
+      fact: "100% luonnollisista aineista. 98% sertifioitavissa olevista ainesosista luomua (NaTrue). 100 ml"
       header: "Deo Spray"
       link: dailypleasure-deo-spray
-      main: "Raikas suihkedeodorantti. Ihastuttava, luotettava, pitkävaikutteinen deospray kätevässä suihkepullossa. Aurinkoinen ja virkistävä tuoksu tehostaa suihkeen ihanan raikastavaa vaikutusta. Ei sisällä alumiinisuoloja."
+      main: "Raikas suihkedeodorantti. Luotettava, pitkävaikutteinen deospray kätevässä suihkepullossa. Ihanan virkistävä tuoksu. Ei sisällä alumiinisuoloja."
       sub_header: "Ihana ja raikas!"
       tarra: "deo spray"
     dp_eau_fraiche: 
-      fact: "100% luonnollisista aineista, 97% sertifioitavissa olevista ainesosista luomua (NaTrue). "
+      fact: "100% luonnollisista aineista, 97% sertifioitavissa olevista ainesosista luomua (NaTrue). 50 ml"
       header: "Eau Fraîche"
       inci: |-
           Alcohol *, perfume (natural essential oils), Rosa Damascena flower water *, limonene *, linalool *, Citral
@@ -59,14 +59,14 @@ fi:
       ingredients: "alkoholi, natural essential oils mixture, ruusuvesi"
       link: dailypleasure-eau-fraiche
       main: |-
-          Ihana, iloinen, hedelmäisen raikas eau fraîche! Tuoksu tuo mieleen upean, suloisen, paahteisen päivän Välimeren auringon alla. Cassiksen ja mimosan rehevän hedelmäisiä sävyjä yhdistettynä lempeään, puuterimaiseen tuulahdukseen tuoksuvia puita.
+          Valloittava, hedelmäisen raikas ja keveä eau fraîche. Cassiksen ja mimosan rehevän hedelmäisiä sävyjä yhdistettynä lempeään, puuterimaiseen juurituoksuun. Lämmin ja ihastuttava tuoksu, joka tuo iloa ja raikkautta päivääsi!  
           <br/>
       sub_header: "Valloittava ja hienostunut"
       tarra: |-
           RY 
           Luonnollinen, hienostunut eau de toilette päivittäiseen käyttöön. Latvatuoksu on hedelmäinen, sydäntuoksu pehmeä ja herkkä. Ihana trooppisen dailypleasuren kukan vivahde. Suihkauta ihanaa ja naisellista tuoksua koko päivääsi tai illalla ennen ulos lähtöä! Valmistettu luomualkoholista, luonnollisista eteerisistä öljyistä ja luomuruusuvedestä. Sertifioitua luonnonkosmetikkaa (BDIH). Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parafiinia.
     dp_hand_cream: 
-      fact: "100% luonnollisista aineista, 99% sertifioitavissa olevista ainesosista luomua (NaTrue). Ei sisällä synteettisiä ainesosia eikä mineraaliöljyjä. "
+      fact: "100% luonnollisista aineista, 99% sertifioitavissa olevista ainesosista luomua (NaTrue). Ei sisällä synteettisiä ainesosia eikä mineraaliöljyjä. 50 ml"
       header: Käsivoide
       inci: |-
           Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
@@ -78,7 +78,7 @@ fi:
           essential oils mixture
       link: dailypleasure-kasivoide
       main: |-
-          Ihana, hyväntuoksuinen ja ravitseva käsivoide. Täydellistä suojaa ja  hoitoa käsien herkälle iholle! Karitevoi, luomulaatuinen auringonkukkaöljy ja kirsikankukan uute ravitsevat ja suojaavat ihoa kuivumiselta .  Kätesi tulevat ihanan pehmeiksi ja raikkaantuoksuisiksi. 
+          Ihana, raikas ja ravitseva käsivoide. Täydellistä suojaa ja hoitoa käsien herkälle iholle. Karitevoi, luomulaatuinen auringonkukkaöljy ja kirsikankukan uute kosteuttavat tehokkaasti ja suojaavat ihoa kuivumiselta. Hyvin mieto, ihana tuoksu. Kätesi ovat silkinpehmeät ja huolitellut.  
           <br/>
       sub_header: "Ravitseva ja hoitava"
     dp_matkasetti: 
@@ -95,7 +95,7 @@ fi:
       sub_header: "Matkalle tai lahjaksi"
       tarra: matkasetti
     dp_shower_cream: 
-      fact: "100% luonnollisista aineista, 76% sertifioitavissa olevista ainesosista luomua (NaTrue). "
+      fact: "100% luonnollisista aineista, 76% sertifioitavissa olevista ainesosista luomua (NaTrue). 150"
       header: Suihkuvoide
       inci: |-
           Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
@@ -107,7 +107,7 @@ fi:
           essential oils mixture
       link: dailypleasure-suihkuvoide
       main: |-
-          Hellävarainen, ravitseva, ihanantuoksuinen suihkuvoide. Suloisesti vaahtoava, hoitava suihkuvoide, jonka tuoksussa ilahduttavat appelsiini, mandariini, sitruuna ja ripaus vaniljaa. Villimangon voi, luomukirsikankukka, viikunauute ja luomulaatuinen manteliöljy hemmottelevat ja hoitavat hellästi ihoasi. Ihanaa, ylellistä silkintuntua päivittäiseen suihkuhetkeesi!
+          Hellävarainen, pehmeästi vaahtoava suihkuvoide, joka pesee säilyttäen samalla ihon kosteustasapainon. Villimangon voi, luomukirsikankukka, viikunauute ja luomulaatuinen manteliöljy hemmottelevat ihoasi. Tuoksussa ilahduttavat appelsiini, mandariini, sitruuna ja ripaus vaniljaa. Suihkuvoide tuo silkinpehmeää ja tuoksuvaa ylellisyyttä jokaiseen päivääsi! 
           <br/>
       sub_header: "Hoitava ja silkinpehmeä"
       tarra: |-
@@ -117,7 +117,7 @@ fi:
           Sertifioitua luonnonkosmetikkaa (BDIH). 
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
     dp_shower_gel: 
-      fact: "100% luonnollisista aineista. Sertifioitua luonnonkosmetiikkaa (NaTrue). Ei sisällä synteettisiä ainesosia eikä mineraaliöljyjä. "
+      fact: "100% luonnollisista aineista. Sertifioitua luonnonkosmetiikkaa (NaTrue). Ei sisällä synteettisiä ainesosia eikä mineraaliöljyjä. 150 ml"
       header: Suihkugeeli
       inci: |-
           Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
@@ -129,7 +129,7 @@ fi:
           essential oils mixture
       link: dailypleasure-suihkugeeli
       main: |-
-          Ihana, virkistävä suihkugeeli. Raikas ja energinen alku päivällesi! Suihkugeelin silkkinen vaahto ja aurinkoinen limen, sitruunaruohon ja mintun tuoksu takaavat virkistävän suihkuhetken. Sisältää luomukirsikankukkaa ja viikunauutetta. Voit käyttää suihkugeelinä tai lisätä 2-3 rkl kylpyveteen. 
+          Raikas ja energisoiva, ihanan virkistävä suihkugeeli. Silkkinen vaahto ja aurinkoinen limen, sitruunaruohon ja mintun tuoksu tekevät suihkussa käynnistä ilon! Voit käyttää suihkugeelinä tai lisätä 2–3 rkl kylpyveteen.  
           <br/>
       sub_header: "Raikas ja virkistävä"
       tarra: |-
@@ -139,7 +139,7 @@ fi:
           Sertifioitua luonnonkosmetikkaa (BDIH). 
           Ei sisällä synteettisiä väri-, tuoksu- tai säilöntäaineita eikä parabeeneja.
     dp_shower_peeling: 
-      fact: "100% luonnollisista aineista. Sertifioitua luonnonkosmetiikkaa (NaTrue). Ei sisällä synteettisiä ainesosia eikä mineraaliöljyjä. "
+      fact: "100% luonnollisista aineista. Sertifioitua luonnonkosmetiikkaa (NaTrue). Ei sisällä synteettisiä ainesosia eikä mineraaliöljyjä. 150 ml"
       header: Suihkukuorinta
       inci: |-
           Aqua, Coco-glucoside, sodium Cocoyl glutamate, Heliantus Annuus seed oil *, alcohol *, glycerin, fragrance
@@ -151,7 +151,7 @@ fi:
           essential oils mixture
       link: dailypleasure-suihkukuorinta
       main: |-
-          Hellä ja ihanantuoksuinen kuorintavoide vartalolle. Hienonhienoksi jauhetut ja hellävaraiset karpalon, luomukirsikankukan ja luomuviikunan hiukkaset tekevät ihostasi kauniin, pehmeän ja silkinsileän. Levitä pieni määrä kostealle iholle, hiero hellästi ja huuhtele. Ihastut samettiseen, aurinkoiseen tuntuun ja virkistävän hedelmäiseen tuoksuun ihollasi! 
+          Suihkugeeli ja kuorinta samassa tuotteessa! Hienoksi jauhetut karpalon, luomukirsikankukan ja luomuviikunan hiukkaset kuorivat tehokkaasti ja hellävaraisesti. Levitä suihkussa pieni määrä kostealle iholle, hiero hellästi ja huuhtele. Ihastut samettiseen tuntuun ja aurinkoisen hedelmäiseen tuoksuun ihollasi! 
           <br/>
       sub_header: "Sametinpehmeä iho"
       tarra: |-

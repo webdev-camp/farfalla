@@ -10,7 +10,7 @@ fi:
     products: "sh_frangipani_silk sh_wild_rose sh_pomegranate sh_neem_rhassoul sh_jojoba_aloe sh_melissa_seaweed"
 
     sh_frangipani_silk: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 200 ml"
       header: "Kiilto ja volyymi <br>– Frangipani -shampoo"
       ingredients: |-
           Vesi, kasvipohjainen saippua, alkoholi, kasviglyseriini, eteeriset öljyt, xantaanikumi, maitohappo,
@@ -21,7 +21,7 @@ fi:
       vegan: not
 
     sh_jojoba_aloe: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 200 ml"
       header: "Korjaava <br>– Jojoba-Aloe shampoo"
       inci: |-
           Aqua, Coco-Glucoside, Alcohol, Glycerin, Disodium Cocoyl Glutamate, Glyceryl Oleate, Parfum, Glyceryl
@@ -39,22 +39,22 @@ fi:
     sh_melissa_seaweed: 
       header: "Rasvoittuville hiuksille <br>– Melissa-merilevä Shampoo"
       main: |-
-          Luonnollinen shampoo rasvoittuville hiuksille. Valmistuksessa on käytetty bretagnelaista Fucus vesiculosus -merilevää, joka estää tehokkaasti hiuksia rasvoittumasta. Hiukset tuntuvat keveiltä, näyttävät huolitelluilta ja saavat upean silkinkiillon. Shampoo tuoksuu ihanasti sitruunamelissalle. 
+          Luonnollinen shampoo rasvoittuville hiuksille. Valmistuksessa on käytetty bretagnelaista Fucus vesiculosus -merilevää, joka estää tehokkaasti hiuksia rasvoittumasta. Hiukset tuntuvat keveiltä, näyttävät huolitelluilta ja saavat upean silkinkiillon. Shampoo tuoksuu ihanasti sitruunamelissalle.  
       sub_header: "Rasvoittuville hiuksille"
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 200 ml"
       link: rasvoittuville-hiuksille-melissa-merilevae-shampoo
       
 
 
     sh_neem_rhassoul: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 200 ml"
       header: "Tasapainottava <br>– Neem-Rhassoul shampoo"
       link: tasapainottava-neem-rhassoul-shampoo
-      main: "Tasapainottava shampoo hilsettä vastaan. Neem -uutteen ja rhassoul -saven puhdistavat ominaisuudet auttavat päänahan hilseilyyn ja hoitavat hiuksia. Katajan, timjamin ja rosmariinin eteeriset öljyt tehostavat shampoon hoitavaa vaikutusta ja antavat raikkaan tuoksun."
+      main: "Neem-uutteen ja rhassoul-saven puhdistavat ominaisuudet auttavat päänahan hilseilyyn ja hoitavat hiuksia. Katajan, timjamin ja rosmariinin eteeriset öljyt tehostavat shampoon hoitavaa vaikutusta ja antavat raikkaan tuoksun."
       sub_header: "Hilsettä vastaan"
 
     sh_pomegranate: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 200 ml"
       header: "Päivittäin – Granaattiomenashampoo"
       inci: |-
           Aqua, Coco-Glucoside, Alcohol, Glycerin, Disodium Cocoyl Glutamate, Glyceryl Oleate, Parfum, Glyceryl
@@ -64,16 +64,16 @@ fi:
           Vesi, kasvisaippua, alkoholi, kasviglyseriini, eteeriset öljyt, xantaanikumi, granaattiomenauute*,
           maitohappo, kasviproteiini *valvottua luomutuotantoa
       link: paeivittaein-granaattiomena-shampoo
-      main: "Ihanteellinen shampoo normaaleille hiuksille ja usein toistuvaan pesuun. Luomuviljellyn granaattiomenan tehoaineet suojaavat hiuksia kuivumiselta. Shampoo tekee hiuksista luonnollisen kiiltävät ja säilyttää niiden kosteustasapainon - jopa päivittäisessä käytössä. Hiukset tuntuvat terveiltä ja helppohoitoisilta."
+      main: "Ihanteellinen shampoo normaaleille hiuksille ja usein toistuvaan pesuun. Luomuviljellyn granaattiomenan tehoaineet suojaavat hiuksia kuivumiselta. Shampoo tekee hiuksista luonnollisen kiiltävät ja säilyttää niiden kosteustasapainon – jopa päivittäisessä käytössä. Hiukset tuntuvat terveiltä ja helppohoitoisilta."
       sub_header: "Usein toistuvaan pesuun"
 
     sh_wild_rose: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja."
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 200 ml"
       header: "Hellävarainen – Villiruusushampoo"
       ingredients: |-
           Vesi, kasvipohjainen saippua, alkoholi, kasviglyseriini, xantaanikumi, luomuruusun kukkien uute,
           maitohappo, kasviproteiinit
       link: hellaevarainen-villiruusu-shampoo
-      main: "Erittäin mieto herkän ihon shampoo, joka sopii erityisesti hennoille hiuksille ja lapsille. Luomulaatuinen ruusu-uute rauhoittaa ja tasapainoittaa herkkää päänahkaa. Shampoo tekee hiuksista luonnollisen kiiltävät ja terveet - kauniit juurista latvoihin."
+      main: "Erittäin mieto shampoo, joka sopii erityisesti hennoille hiuksille ja lapsille. Luomulaatuinen ruusu-uute rauhoittaa ja tasapainoittaa herkkää päänahkaa. Shampoo tekee hiuksista luonnollisen kiiltävät ja terveet - kauniit juurista latvoihin."
       sub_header: "Herkän ihon shampoo!"
 
