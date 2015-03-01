@@ -4,7 +4,7 @@ fi:
     header: Luomu huonesprayt
     sub_header: "Farfallan luomulaatuiset huonesprayt sopivat käytettäväksi kotona, työpaikoilla, wc:issä ja kylpyhuoneissa, autossa, hoitotiloissa jne."
     
-    products: "aura atmosphere fresh good_night joy vanilla winter security kertzen"
+    products: "atmosphere fresh joy vanilla good_night security aura winter kertzen"
     list: |-
         Spraypullosta on helppoa ja nopeaa suihkauttaa ihanaa ja luonnollista raikkautta. Yhdeksän tuoksua erilaisiin tilanteisiin: huoneilman ja ilmapiirin raikastamiseen, tunnelman kohottajaksi, rentoutumiseen, keskittymiskyvyn parantamiseen jne.<br>
         <b>Ihastuttava huonespray on myös hyvä lahjaidea!</b>
@@ -14,15 +14,14 @@ fi:
       sub_header: "Raikas, hieman yrttinen huonetuoksu<br><br>"
       main: |-
           Tässä raikkaassa ja yrttisessä huonetuoksussa tuoksuvat väinönputki (Angelica archangelica), geranium, kuusi, neroli ja frankincense. Käytettäväksi silloin, kun elämässä on tilapäisenä teemana selkeys, suojautuminen ja puhdistuminen. Aura -huonetuoksu tuo selkeyttä elämääsi ja puhdistaa ympäröivän tilan. <br>
-          Valmistusaineet: luonnolliset eteeriset öljyt, luomualkoholi.
-          fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
       link: luomu_huonespray_aura
 
     atmosphere: 
       header: "Luomu Huonespray Atmosphère"
       sub_header: "Raikas, harmonisoiva, piristävä huonetuoksu.<br>"
       main: |-
-          Miellyttävä ja monipuolinen Atmosphere sopii asuntojen, saniteettitilojen, toimistojen, hoitoloiden, liikuntatilojen jne. raikastamiseen ja neutraloimaan epämiellyttävät (esim. ruoanvalmistuksen aiheuttamat) tuoksut. 
+          Miellyttävä ja monipuolinen Atmosphere sopii asuntojen, saniteettitilojen, toimistojen, hoitoloiden, liikuntatilojen jne. raikastamiseen ja neutraloimaan epämiellyttävät (esim. ruoan-valmistuksen aiheuttamat) tuoksut. 
           <br>Sisältää mm. sitruunaruohon, eukalyptyksen, sitruunan ja frankincensen eteerisiä öljyjä. 
       fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
       link: luomu-huonespray-atmosphere
@@ -33,8 +32,8 @@ fi:
       main: |-
           Käytä Fresh -huonesprayta, kun kaipaat raikastusta olohuoneessa, kylpyhuoneessa tai matkalla hotellihuoneessa. Ajon aikana se pitää sinut hereillä: suihkaus ilmaan ja keskittymiskykysi on taas parempi.
           <br> Sisältää bergamotin, veriappelsiinin, mandariinin ja piparmintun 100% luonnollisia eteerisiä öljyjä. 
-          fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
-      link: uomu-huonespray-fresh-raikkautta
+      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+      link: luomu-huonespray-fresh-raikkautta
 
     good_night: 
       header: "Luomu Huonespray Good night"
@@ -42,7 +41,7 @@ fi:
       main: |-
           Ihana huonetuoksu, joka auttaa sinua rauhoittumaan ja nukkumaan hyvät ja rauhalliset yöunet. 
           <br>Sisältää mm. laventelin, nerolin, ruusun ja sitruunamelissan 100% aitoja eteerisiä öljyjä.  
-          fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
       link: luomu-huonespray-good-night
 
     joy: 
@@ -51,7 +50,7 @@ fi:
       main: |-
           Jos tarvitset tunnelman kohottajaa, suihkaus tätä elämäniloa huokuvaa spraytä luo iloisemman ilmapiirin. Sopii käytettäväksi kotona tai matkoilla - kaikkialla missä kaipaat iloisempaa ja kepeämpää tunnelmaa! 
           <br> Sisältää pelargonin, bergamotin ja salvian 100% luonnollisia eteerisiä öljyjä. 
-          fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
       link: luomu-joy-of-life-iloa-elaemaeaen
 
     kertzen: 
