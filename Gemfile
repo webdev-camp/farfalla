@@ -7,6 +7,7 @@ gem 'accountant_clerk' , github: "rubyclerks/accountant_clerk"
 #gem 'accountant_clerk' , path: "../accountant_clerk"
 
 gem 'print_clerk' , github: "rubyclerks/print_clerk"
+#gem 'print_clerk' , path: "../print_clerk"
 gem 'post_clerk' ,  github: "rubyclerks/post_clerk"
 
 gem 'db_fixtures_dump'  , github: "dancinglightning/db_fixtures_dump" #backup
