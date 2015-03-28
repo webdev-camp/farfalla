@@ -2,36 +2,6 @@
 fi: 
   in_balance: 
     header: "in balance"
-    ib_fluid: 
-      fact: "100% luonnollisista aineista.<br/>74% sertifioitavissa olevista ainesosista luomua. "
-      header: "Matta päivä- ja yövoide"
-      link: matta-paeivae-ja-yoevoide
-      main: "Tasapainottava voide rasvaiselle, epäpuhtaalle tai sekaiholle. Sopii kaikenikäisille. Kirkastaa, tasoittaa, rauhoittaa ja antaa iholle huolitellun, silkinhimmeän mattapinnan. Säännöstelee liiallista talineritystä ja ehkäisee tehokkaasti epäpuhtauksien syntyä. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Tarvittaessa voit käyttää emulsion alla in balance Tasapainottavaa seerumia."
-      sub_header: "Tasapainoinen, silkinpehmeä matta"
-      tarra: |-
-          RY Tasapainottava voide rasvaiselle, epäpuhtaalle tai sekaiholle. Sopii kaikenikäisille. Kirkastaa, tasoittaa, rauhoittaa ja antaa iholle huolitellun, silkinhimmeän mattapinnan. Säännöstelee liiallista talineritystä ja ehkäisee tehokkaasti epäpuhtauksien syntyä. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Tarvittaessa voit käyttää emulsion alla in balance Tasapainottavaa seerumia. 
-          100% luonnollisista aineista.
-          74% sertifioitavissa olevista ainesosista luomua (NaTrue). 
-    ib_maske: 
-      fact: |-
-          
-          100% luonnollisista aineista.<br/>98% sertifioitavissa olevista ainesosista luomua. 
-      header: "Puhdistusnaamio epäpuhtauksien hoitoon"
-      link: puhdistusnaamio-epaepuhtauksien-hoitoon
-      main: "Tehokas, kaikenikäisille sopiva kasvonaamio rasvaiselle, epäpuhtaalle ja sekaiholle. Sisältää greippiä, rosmariinia ja sitruunaa, jotka puhdistavat, kirkastavat ja raikastavat ihoa. Kasvonaamio poistaa hellävaraisesti kuivuneet ihosolut. Käytä 1-2 kertaa viikossa puhdistetulle iholle, anna vaikuttaa 10-15 minuuttia ja huuhtele runsaalla vedellä. Jos sinulla on sekaiho, voit käyttää naamiota täsmähoitona esim. T-alueelle. Antaa erinomaisen pohjan feel beautiful -sarjan hoitavien tuotteiden imeytymiselle. Naamion jälkeen levitä iholle in balance Matta päivä- ja yövoide."
-      sub_header: "Tehokas ja hellävarainen kasvonaamio"
-      tarra: |-
-          RY Tehokas kasvonaamio rasvaiselle, epäpuhtaalle ja sekaiholle. Sopii kaikenikäisille. Puhdistaa, kirkastaa ja raikastaa ihoa ja poistaa hellävaraisesti kuivuneet ihosolut. Käytä 1-2 kertaa viikossa puhdistetulle iholle, anna vaikuttaa 10-15 minuuttia ja huuhtele runsaalla vedellä. Jos sinulla on sekaiho, voit käyttää naamiota täsmähoitona esim. T-alueelle. Naamion jälkeen levitä iholle in balance Matta päivä- ja yövoide. 
-          100% luonnollisista aineista. 98% sertifioitavissa olevista ainesosista luomua (NaTrue). 
-    ib_serum: 
-      fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista ainesosista luomua. "
-      header: "Tehoseerumi epäpuhtauksien hoitoon"
-      link: tehoseerumi-epaepuhtauksien-hoitoon
-      main: "Tehokasta hoitoa ihon epäpuhtauksiin. Sopii kaikenikäisille. Kirkastaa, tasoittaa ja rauhoittaa ihoa. Seerumi vähentää selvästi ihon talineritystä ja estää näppylöiden ja mustapäiden syntyä. Käytä puhdistuksen jälkeen 2-3 kertaa viikossa tai tarvittaessa päivittäin. Sopii myös tehokkaaksi ja hellävaraiseksi täsmähoidoksi esim. T -alueelle tai suoraan finnin tai näppylän päälle. Seerumin jälkeen levitä iholle in balance Matta päivä- ja yövoide."
-      sub_header: "Tasapainottavaa täsmähoitoa"
-      tarra: |-
-          RY Tehokasta hoitoa ihon epäpuhtauksiin. Sopii kaikenikäisille. Kirkastaa, tasoittaa ja rauhoittaa ihoa. Vähentää selvästi ihon talineritystä ja estää näppylöiden ja mustapäiden syntyä. Käytä puhdistuksen jälkeen 2-3 kertaa viikossa tai tarvittaessa päivittäin. Sopii myös tehokkaaksi ja hellävaraiseksi täsmähoidoksi suoraan finnin tai näppylän päälle. Seerumin jälkeen levitä iholle in balance Matta päivä- ja yövoide.
-          100% luonnollisista aineista. 95% sertifioitavissa olevista ainesosista luomua (NaTrue). 
     list: |-
         1. Selvä puhdistava ja kirkastava vaikutus.<br/>
         2. Luonnollista tasapainoa talineritykseen.<br/>
@@ -51,3 +21,29 @@ fi:
     main_header: "Innovatiiviset, vaikuttavat ainesosat"
     products: "ib_fluid ib_maske ib_serum"
     sub_header: "Apu ihon epäpuhtauksiin - kaikenikäisille"
+    
+
+    ib_fluid: 
+      header: "Matta päivä- ja yövoide"
+      sub_header: "Tasapainoinen, silkinpehmeä matta"
+      main: "Tasapainottava voide rasvaiselle, epäpuhtaalle tai sekaiholle. Sopii kaikenikäisille. Kirkastaa, tasoittaa, rauhoittaa ja antaa iholle huolitellun, silkinhimmeän mattapinnan. Säännöstelee liiallista talineritystä ja ehkäisee tehokkaasti epäpuhtauksien syntyä. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Tarvittaessa voit käyttää emulsion alla <em>in balance</em> Tasapainottavaa seerumia."
+      fact: "100% luonnollisista aineista.<br/>74% sertifioitavissa olevista ainesosista luomua. 30 ml"
+      link: matta-paeivae-ja-yoevoide
+
+    ib_maske: 
+      fact: |-
+          
+          100% luonnollisista aineista.<br/>98% sertifioitavissa olevista ainesosista luomua. 30 ml
+      header: "Puhdistusnaamio epäpuhtauksien hoitoon"
+      link: puhdistusnaamio-epaepuhtauksien-hoitoon
+      main: "Tehokas, kaikenikäisille sopiva kasvonaamio rasvaiselle, epäpuhtaalle ja sekaiholle. Sisältää greippiä, rosmariinia ja sitruunaa, jotka puhdistavat, kirkastavat ja raikastavat ihoa. Kasvonaamio poistaa hellävaraisesti kuivuneet ihosolut.  
+Käytä 1–2 kertaa viikossa puhdistetulle iholle, anna vaikuttaa 10–15 minuuttia ja huuhtele runsaalla vedellä. Jos sinulla on sekaiho, voit käyttää naamiota täsmähoitona esim. T-alueelle. Antaa erinomaisen pohjan <em>feel beautiful</em> -sarjan hoitavien tuotteiden imeytymiselle. Naamion jälkeen levitä iholle <em>in balance</em> Matta päivä- ja yövoide. "
+      sub_header: "Tehokas ja hellävarainen kasvonaamio"
+      
+    ib_serum: 
+      fact: "100% luonnollisista aineista.<br/>95% sertifioitavissa olevista ainesosista luomua. 15 ml"
+      header: "Tehoseerumi epäpuhtauksien hoitoon"
+      link: tehoseerumi-epaepuhtauksien-hoitoon
+      main: "Tehokasta hoitoa ihon epäpuhtauksiin. Sopii kaikenikäisille. Kirkastaa, tasoittaa ja rauhoittaa ihoa. Seerumi vähentää selvästi ihon talineritystä ja estää näppylöiden ja mustapäiden syntyä. Käytä puhdistuksen jälkeen 2–3 kertaa viikossa tai tarvittaessa päivittäin. Sopii myös tehokkaaksi ja hellävaraiseksi täsmähoidoksi esim. T -alueelle tai suoraan finnin tai näppylän päälle. Seerumin jälkeen levitä iholle <em>in balance</em> Matta päivä- ja yövoide."
+      sub_header: "Tasapainottavaa täsmähoitoa"
+      

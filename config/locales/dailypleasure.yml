@@ -33,7 +33,7 @@ fi:
       fact: "100% luonnollisista aineista, 98% sertifioitavissa olevista ainesosista luomua (NaTrue). 80 ml"
       header: Kauneusöljy
       link: dailypleasure-kauneusoljy
-      main: "Ihastuttava, hoitava ja hemmotteleva öljy kasvoille, vartalolle ja hiuksille. Luomulaatuiseen jojobaöljyyn on lisätty hyvin miedontuoksuinen, tarkoin valikoitu eteeristen öljyjen yhdistelmä (mm. appelsiini, sitruuna ja mandariini), joka sekä tehostaa jojobaöljyn hoitavia ominaisuuksia että tuo ripauksen taivaallista ylellisyyttä jokaiseen päivääsi! Imeytyy nopeasti ja jättää ihosi aistillisen sametinpehmeäksi."
+      main: "Taivaallisen ihana, tehokkaasti hoitava öljy kasvoille, vartalolle ja hiuksille. Luomulaatuiseen jojobaöljyyn on lisätty hyvin miedontuoksuinen, tarkoin valikoitu eteeristen öljyjen yhdistelmä (mm. appelsiini, sitruuna ja mandariini), joka sekä tehostaa jojobaöljyn hoitavia ominaisuuksia että tuo ripauksen taivaallista ylellisyyttä jokaiseen päivääsi! Imeytyy nopeasti ja jättää ihosi aistillisen sametinpehmeäksi."
       sub_header: "Taivaallisen ihana"
 
     dp_bodylotion: 
@@ -43,13 +43,13 @@ fi:
       main: |-
           Pehmeästi ja hellästi hoitava, ihanasti mutta miedosti tuoksuva vartalovoide. Villimangon voi, luomulaatuinen karitevoi, luomukirsikankukka ja viikunauute parantavat ihon kosteustasapainoa ja tuovat iholle silkinpehmeän tunnun. Samalla ilahdut appelsiinin, mandariinin ja vaniljan suloisen virkistävistä tuoksuista! 
           <br/>
-      sub_header: "Hoitava ja ihanan tuoksuinen"
+      sub_header: "Hoitava ja hurmaavan tuoksuinen"
 
     dp_deo_spray: 
       fact: "100% luonnollisista aineista. 98% sertifioitavissa olevista ainesosista luomua (NaTrue). 100 ml"
       header: "Deo Spray"
       link: dailypleasure-deo-spray
-      main: "Raikas suihkedeodorantti. Luotettava, pitkävaikutteinen deospray kätevässä suihkepullossa. Ihanan virkistävä tuoksu. Ei sisällä alumiinisuoloja."
+      main: "Raikas ja tehokas suihkedeodorantti. Luotettava, pitkävaikutteinen deospray kätevässä suihkepullossa. <br>Ihanan virkistävä tuoksu. <br>Ei sisällä alumiinisuoloja."
       sub_header: "Ihana ja raikas!"
       tarra: "deo spray"
 
@@ -60,7 +60,7 @@ fi:
       main: |-
           Valloittava, hedelmäisen raikas ja keveä eau fraîche. Cassiksen ja mimosan rehevän hedelmäisiä sävyjä yhdistettynä lempeään, puuterimaiseen juurituoksuun. Lämmin ja ihastuttava tuoksu, joka tuo iloa ja raikkautta päivääsi!  
           <br/>
-      sub_header: "Valloittava ja hienostunut"
+      sub_header: "Valloittava ja aurinkoinen"
 
     dp_hand_cream: 
       fact: "100% luonnollisista aineista, 99% sertifioitavissa olevista ainesosista luomua (NaTrue). Ei sisällä synteettisiä ainesosia eikä mineraaliöljyjä. 50 ml"
@@ -81,11 +81,11 @@ fi:
           20 ml Kosteusvoide<br/>
           20 ml Suihkugeeli<br/>
           20 ml Kauneusöljy<br/>
-          2 ml “pleasure” Eau Fraiche<br/>
+          2 ml daily pleasure Eau Fraîche<br/>
       sub_header: "Matkalle tai lahjaksi"
 
     dp_shower_cream: 
-      fact: "100% luonnollisista aineista, 76% sertifioitavissa olevista ainesosista luomua (NaTrue). 150"
+      fact: "100% luonnollisista aineista, 76% sertifioitavissa olevista ainesosista luomua (NaTrue). 150 ml"
       header: Suihkuvoide
       link: dailypleasure-suihkuvoide
       main: |-
@@ -109,13 +109,13 @@ fi:
       main: |-
           Suihkugeeli ja kuorinta samassa tuotteessa! Hienoksi jauhetut karpalon, luomukirsikankukan ja luomuviikunan hiukkaset kuorivat tehokkaasti ja hellävaraisesti. Levitä suihkussa pieni määrä kostealle iholle, hiero hellästi ja huuhtele. Ihastut samettiseen tuntuun ja aurinkoisen hedelmäiseen tuoksuun ihollasi! 
           <br/>
-      sub_header: "Sametinpehmeä iho"
+      sub_header: "Nopea ja energisoiva"
       
     dp_seife: 
       header: Nestesaippua
-      sub_header: "Raikas ja hellävarainen."
+      sub_header: "Raikas ja hellävarainen"
       main: |-
-          Ihanan raikas ja hellävarainen nestesaippua kätevässä pumppupullossa. Miedontuoksuinen, miellyttävä saippua, joka pesee kädet raikkaan puhtaiksi esim. kylpyhuoneessa, keittiössä, hoitotiloissa jne. Saippua on valmistettu luomulaatuisista oliivi- ja kookosöljystä. Hyvin mieto tuoksu on yhdistelmä luomuappelsiinin, -mandariinin, -vaniljan ja sukaattisitruunan 100% luonnollisia eteerisiä öljyjä.  
+          Ihanan raikas ja hellävarainen nestesaippua kätevässä pumppupullossa. Miedontuoksuinen, miellyttävä saippua, joka pesee kädet raikkaan puhtaiksi esim. kylpyhuoneessa, keittiössä, hoitotiloissa jne. Saippua on valmistettu luomulaatuisista oliivi- ja kookosöljyistä. Hyvin mieto tuoksu on yhdistelmä luomuappelsiinin, -mandariinin, -vaniljan ja sukaattisitruunan 100% luonnollisia eteerisiä öljyjä.  
           <br/>
       fact: "100% luonnollisista aineista, yli 95% sertifioitavissa olevista ainesosista luomua (NaTrue). Ei sisällä synteettisiä ainesosia eikä mineraaliöljyjä. 300 ml"
       link: daily-pleasure-nestesaippua
