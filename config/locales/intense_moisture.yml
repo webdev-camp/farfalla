@@ -2,34 +2,7 @@
 fi: 
   intense_moisture: 
     header: "intense moisture"
-    im_cream: 
-      fact: "100% luonnollisista aineista.<br/>97% sertifioitavissa olevista ainesosista luomua. "
-      header: "Ravitseva voide"
-      link: ravitseva-voide
-      main: "Tehokkaasti kosteuttava kuivan ihon päivä- ja yövoide. Ravitsee, uudistaa ja rentouttaa ihoa. Voiteen sisältämä jerikonruusu-uute parantaa ihon omia suojamekanismeja. Gotu kola (Centella asiatica) edistää ihon omaa, luonnollista kollageenintuotantoa. Luomulaatuiset macadamiaöljy ja karitevoi saavat ihon tuntumaan joustavalta, rentoutuneelta ja silkinpehmeältä. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Halutessasi voit käyttää voiteen alla intense moisture Kevyttä kosteusvoidetta."
-      sub_header: "Uudistavaa silkinpehmeyttä"
-      tarra: |-
-          RY Tehokkaasti kosteuttava kuivan ihon päivä- ja yövoide. Ravitsee, uudistaa ja rentouttaa ihoa. Parantaa ihon omia suojamekanismeja ja edistää ihon luonnollista kollageenintuotantoa. Iho tuntuu joustavalta, rentoutuneelta ja silkinpehmeältä. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Halutessasi voit käyttää voiteen alla intense moisture Kevyttä kosteusvoidetta.
-          100% luonnollisista aineista, 97% sertifioitavissa olevista ainesosista luomua (NaTrue). 
-    im_fluid: 
-      fact: "100% luonnollisista aineista.<br/>97% sertifioitavissa olevista ainesosista luomua. "
-      header: "Kevyt kosteusvoide"
-      link: kevyt-kosteusvoide
-      main: "Kevyt päivä- ja yövoide kaikille ihotyypeille. Ihosi saa tehoannoksen kosteutta ja tuntuu ihanan pehmeältä! Hyaluronihappo parantaa ihon kosteustasapainoa ja jerikonruusu-uute ihon luonnollista suojautumiskykyä. Gotu kola (Centella asiatica) aktivoi ihon omaa kollageenintuotantoa. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Halutessasi voit sen jälkeen lisätä iholle vielä omalle ihotyypillesi tarkoitetun feel beautiful -sarjan ravitsevan voiteen."
-      sub_header: "Tehokasta kosteutta"
-      tarra: |-
-          RY Tehokkaasti kosteuttava  päivä- ja yövoide kaikille ihotyypeille. Parantaa ihon luonnollista suojautumiskykyä ja aktivoi ihon omaa kollageenintuotantoa.
-          Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Halutessasi voit sen jälkeen lisätä iholle vielä omalle ihotyypillesi tarkoitetun ravitsevan voiteen.
-          100% luonnollisista aineista, 97% sertifioitavissa olevista ainesosista luomua (NaTrue). 
-    im_maske: 
-      fact: "100% luonnollisista aineista.<br>99% sertifioitavissa olevista ainesosista luomua. "
-      header: "Ravitseva kasvonaamio"
-      link: ravitseva-kasvonaamio
-      main: "Kasvonaamio, joka tekee ihostasi silkinpehmeän. Manteli-, jojoba- ja macadamiaöljyt kosteuttavat ja hoitavat ihoa tehokkaasti. Käytä 1-2 krt viikossa puhtaalle iholle ja anna vaikuttaa 15 min. Naamio on helppo poistaa: huuhtele huolellisesti runsaalla lämpimällä vedellä."
-      sub_header: "Hoitavaa silkinpehmeyttä"
-      tarra: |-
-          RY Kasvonaamio, joka tekee ihostasi silkinpehmeän. Manteli-, jojoba- ja macadamiaöljyt kosteuttavat ja hoitavat ihoa tehokkaasti. Käytä 1-2 krt viikossa puhtaalle iholle ja anna vaikuttaa 15 min. Naamio on helppo poistaa: huuhtele huolellisesti runsaalla lämpimällä vedellä. 
-          100% luonnollisista aineista, 99% sertifioitavissa olevista ainesosista luomua (NaTrue). 
+
     list: |-
         1. Dermatologisesti testattu: parantaa ihon kosteustasapainoa 25%:lla. <br/> 
         2. Edistää ihon omaa luonnollista kollageenintuotantoa.<br/> 
@@ -54,3 +27,26 @@ fi:
     main_header: "Tehokkaat, vaikuttavat aineosat"
     products: "im_cream im_fluid im_maske"
     sub_header: "Vahvistaa ihon kosteustasapainoa"
+
+
+    im_cream: 
+      header: "Ravitseva voide"
+      sub_header: "Uudistavaa silkinpehmeyttä"
+      main: "Tehokkaasti kosteuttava kuivan ihon päivä- ja yövoide. Ravitsee, uudistaa ja rentouttaa ihoa. Voiteen sisältämä jerikonruusu-uute parantaa ihon omia suojamekanismeja. Gotu kola (Centella asiatica) edistää ihon omaa, luonnollista kollageenintuotantoa. Luomulaatuiset macadamiaöljy ja karitevoi saavat ihon tuntumaan joustavalta, rentoutuneelta ja silkinpehmeältä. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Halutessasi voit käyttää voiteen alla intense moisture Kevyttä kosteusvoidetta."
+      fact: "100% luonnollisista aineista.<br/>97% sertifioitavissa olevista ainesosista luomua. 30 ml"
+      link: ravitseva-voide
+
+    im_fluid: 
+      header: "Kevyt kosteusvoide"
+      main: "Kevyt päivä- ja yövoide kaikille ihotyypeille. Ihosi saa tehoannoksen kosteutta ja tuntuu ihanan pehmeältä! Hyaluronihappo parantaa ihon kosteustasapainoa ja jerikonruusu-uute ihon luonnollista suojautumiskykyä. Gotu kola (Centella asiatica) aktivoi ihon omaa kollageenintuotantoa. Käytä puhdistuksen ja kasvoveden jälkeen aamuin illoin. Halutessasi voit sen jälkeen lisätä iholle vielä omalle ihotyypillesi tarkoitetun feel beautiful -sarjan ravitsevan voiteen."
+      sub_header: "Tehokasta kosteutta"
+      fact: "100% luonnollisista aineista.<br/>97% sertifioitavissa olevista ainesosista luomua. 50 ml"
+      link: kevyt-kosteusvoide
+
+    im_maske: 
+      header: "Ravitseva kasvonaamio"
+      sub_header: "Hoitavaa silkinpehmeyttä"
+      main: "Kasvonaamio, joka tekee ihostasi silkinpehmeän. Erinomainen apu kuivalle iholle ja couperosaiholle. Manteli-, jojoba- ja macadamiaöljyt kosteuttavat ja hoitavat ihoa tehokkaasti. Käytä 1–2 krt viikossa puhtaalle iholle ja anna vaikuttaa 15 min. Naamio on helppo poistaa: huuhtele runsaalla lämpimällä vedellä. Voit tarvittaessa käyttää naamiota myös extra-kosteuttavana yövoiteena: levitä illalla kasvoille ja anna imeytyä. Talvella ainutlaatuinen apu ihon kosteutukseen!!!"
+      fact: "100% luonnollisista aineista.<br>99% sertifioitavissa olevista ainesosista luomua. 30 ml"
+      link: ravitseva-kasvonaamio
+

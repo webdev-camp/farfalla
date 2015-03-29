@@ -16,16 +16,16 @@ fi:
       main: |-
           <strong>Virkistävä, raikas aromaspray ja -roll-on, joista on hyötyä ja iloa monessa tilanteessa.</strong> 
           Sisältää luomulaventelin, luomuteepuun ja kamomillan eteerisiä öljyjä. Voit käyttää aromasprayta ja -roll-onia suoraan iholle, kaulalle tai ranteisiin. 
-      fact: "Valmistettu kukkaisvesistä, luomualkoholista ja aidoista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue)."
+      fact: "Valmistettu kukkaisvesistä, luomualkoholista ja aidoista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue). 20 ml / 10 ml"
       link: aromaspray-instant-rescue
 
     refresh: 
       header: "Aromaspray <br/>ja -roll-on <br/>Refresh"
       sub_header: "Raikastusta!<br/>"
       main: |-
-          <strong>Pirteä ja virkistävä tuoksu. Pidä aina mukana!</strong> 
-          Sisältää luomumelissan, mandariinin ja greipin eteerisiä öljyjä. Raikastaa oloa ja selkeyttää ajatukset. Voit käyttää aromasprayta ja -roll-onia suoraan iholle, kaulalle tai ranteisiin.
-      fact: "Valmistettu kukkaisvesistä, luomualkoholista ja aidoista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue)."
+          <strong>Pirteät ja virkistävät tuoksut. Pidä aina mukana!</strong> 
+          Aromaspray sisältää luomumelissan, mandariinin ja greipin eteerisiä öljyjä, roll-onissa puolestaan tuoksuvat ravensaran, piparmintun, litsea cubeban ja palsamipihdan eteeriset öljyt sekä piparminttukukkaisvesi. Raikastavat oloa ja kirkastavat ajatukset. Voit käyttää aromasprayta ja -roll-onia suoraan iholle, kaulalle tai ranteisiin.
+      fact: "Valmistettu kukkaisvesistä, luomualkoholista ja aidoista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue). 20 ml / 10 ml"
       link: aromaspray-refresh
 
     relax: 
@@ -34,7 +34,7 @@ fi:
       main: |-
           <strong>Luomulaatuinen, ihana aromaspray ja -roll on, joka auttaa rentoutumaan ja nukkumaan hyvät ja rauhalliset yöunet. </strong> 
           Sisältää luomulaventelin, -sitruunamelissan ja ruusun eteerisiä öljyjä. Voit käyttää aromasprayta ja -roll-onia suoraan iholle, kaulalle tai ranteisiin. 
-      fact: "Valmistettu kukkaisvesistä, luomualkoholista ja aidoista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue)."
+      fact: "Valmistettu kukkaisvesistä, luomualkoholista ja aidoista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue). 20 ml / 10 ml"
       link: aromaspray-relax
 
     wellbeing: 
@@ -43,5 +43,5 @@ fi:
       main: |-
           <strong>Ilahduttava raikkaiden kukkaistuoksujen yhdistelmä.</strong> 
           Erityisen hyvä apu haastaviin tilanteisiin ja stressaaviin hetkiin. Voit käyttää aromasprayta ja -roll-onia suoraan iholle, kaulalle tai ranteisiin. 
-      fact: "Valmistettu kukkaisvesistä, luomualkoholista ja aidoista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue)."
+      fact: "Valmistettu kukkaisvesistä, luomualkoholista ja aidoista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue). 20 ml / 10 ml"
       link: aromaspray-wellbeing

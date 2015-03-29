@@ -11,7 +11,7 @@ fi:
 
     aura: 
       header: "Luomu Huonespray Aura"
-      sub_header: "Raikas, hieman yrttinen huonetuoksu<br><br>"
+      sub_header: "Raikas, hieman yrttinen huonetuoksu<br><br><br><br>"
       main: |-
           Tässä raikkaassa ja yrttisessä huonetuoksussa tuoksuvat väinönputki (Angelica archangelica), geranium, kuusi, neroli ja frankincense. Käytettäväksi silloin, kun elämässä on tilapäisenä teemana selkeys, suojautuminen ja puhdistuminen. Aura -huonetuoksu tuo selkeyttä elämääsi ja puhdistaa ympäröivän tilan. <br>
       fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
@@ -19,24 +19,22 @@ fi:
 
     atmosphere: 
       header: "Luomu Huonespray Atmosphère"
-      sub_header: "Raikas, harmonisoiva, piristävä huonetuoksu.<br>"
+      sub_header: "Raikas, harmonisoiva, piristävä huonetuoksu.<br><br><br>"
       main: |-
-          Miellyttävä ja monipuolinen Atmosphere sopii asuntojen, saniteettitilojen, toimistojen, hoitoloiden, liikuntatilojen jne. raikastamiseen ja neutraloimaan epämiellyttävät (esim. ruoan-valmistuksen aiheuttamat) tuoksut. 
-          <br>Sisältää mm. sitruunaruohon, eukalyptyksen, sitruunan ja frankincensen eteerisiä öljyjä. 
-      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+          Miellyttävä ja monipuolinen Atmosphere sopii asuntojen, saniteettitilojen, toimistojen, hoitoloiden, liikuntatilojen jne. raikastamiseen ja neutraloimaan epämiellyttävät (esim. ruoanvalmistuksen aiheuttamat) tuoksut. Sisältää mm. sitruunaruohon, eukalyptyksen, sitruunan ja frankincensen eteerisiä öljyjä. 
+      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita. 80 ml"
       link: luomu-huonespray-atmosphere
 
     fresh: 
-      header: "Luomu Huonespray Fresh – Raikkautta"
-      sub_header: "Raikas ja piristävä huonetuoksu, joka tuo virkeyttä ja keskittymiskykyä."
+      header: "Luomu Huonespray <br>Fresh – Raikkautta"
+      sub_header: "Raikas ja piristävä huonetuoksu, joka tuo virkeyttä ja keskittymiskykyä.<br><br>"
       main: |-
-          Käytä Fresh -huonesprayta, kun kaipaat raikastusta olohuoneessa, kylpyhuoneessa tai matkalla hotellihuoneessa. Ajon aikana se pitää sinut hereillä: suihkaus ilmaan ja keskittymiskykysi on taas parempi.
-          <br> Sisältää bergamotin, veriappelsiinin, mandariinin ja piparmintun 100% luonnollisia eteerisiä öljyjä. 
-      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+          Raikas ja piristävä huonetuoksu, joka tuo virkeyttä ja keskittymiskykyä. Käytä Fresh -huonesprayta, kun kaipaat raikastusta olohuoneessa, kylpyhuoneessa tai matkalla hotellihuoneessa. Ajon aikana se pitää sinut hereillä: suihkaus ilmaan ja keskittymiskykysi on taas parempi. Sisältää bergamotin, veriappelsiinin, mandariinin ja piparmintun 100% luonnollisia eteerisiä öljyjä
+      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita. 80 ml"
       link: luomu-huonespray-fresh-raikkautta
 
     good_night: 
-      header: "Luomu Huonespray Good night"
+      header: "Luomu Huonespray <br>Good night"
       sub_header: "Hyväntuoksuinen, raikas ja rentouttava huonespray.<br><br> "
       main: |-
           Ihana huonetuoksu, joka auttaa sinua rauhoittumaan ja nukkumaan hyvät ja rauhalliset yöunet. 
@@ -45,7 +43,7 @@ fi:
       link: luomu-huonespray-good-night
 
     joy: 
-      header: "Luomu Huonespray Joy of Life – Iloa elämään!"
+      header: "Luomu Huonespray <br>Joy of Life – Iloa elämään!"
       sub_header: "Tämä ihana, piristävän raikas ja lempeä tuoksu tuo iloisen tunnelman mukanaan. "
       main: |-
           Jos tarvitset tunnelman kohottajaa, suihkaus tätä elämäniloa huokuvaa spraytä luo iloisemman ilmapiirin. Sopii käytettäväksi kotona tai matkoilla - kaikkialla missä kaipaat iloisempaa ja kepeämpää tunnelmaa! 
@@ -54,7 +52,7 @@ fi:
       link: luomu-joy-of-life-iloa-elaemaeaen
 
     kertzen: 
-      header: "Luomu Huonespray Valon hohde"
+      header: "Luomu Huonespray <br>Valon hohde"
       sub_header: "Lempeä ja valoisa huonespray<br><br><br>"
       main: |-
           Lempeä ja valoisa huonespray, jonka tuoksussa ja tunnelmassa on helppo viettää ihana hetki kynttilöiden loisteessa ja hyvässä seurassa. Valmistukseen käytetty aitoja, mm. appelsiinin, santelipuun, benzoen ja vaniljan, 100% luonnollisia eteerisiä öljyjä ja mehiläisvahaa.  
@@ -63,7 +61,7 @@ fi:
       vegan: not
 
     vanilla: 
-      header: "Luomu Huonespray Vanilja-mandariini"
+      header: "Luomu Huonespray <br>Vanilja-mandariini"
       sub_header: "Raikas, lempeä huonetuoksu, joka ilahduttaa, virkistää ja huojentaa mieltä."
       main: |-
           Ihana ja monipuolinen Vanilja-Mandariini sopii käytettäväksi missä vain: kotona, lastenhuoneessa, matkoilla jne.
@@ -71,7 +69,7 @@ fi:
       link: luomu-huonespray-vanilja-mandariini
 
     winter: 
-      header: "Luomu Huonespray Talvi-ilo"
+      header: "Luomu Huonespray <br>Talvi-ilo"
       sub_header: "Runollinen, tunnelmallinen tuoksu, joka luo iloista ja sydämellistä juhlatunnelmaa.<br> "
       main: |-
           Sopii erinomaisesti jouluun ja talviajan iloksi. Valmistuksessa on käytetty mm. mandariinin, appelsiinin ja kanelin aitoja, eteerisiä öljyjä. 
@@ -79,7 +77,7 @@ fi:
       link: luomu-huonespray-talvi-ilo
 
     security: 
-      header: "Luomu huonespray Turvallisuuden tunne"
+      header: "Luomu huonespray <br>Turvallisuuden tunne"
       sub_header: "Lämmin, pehmeä ja hedelmäinen tuoksu, joka tuo huoneeseen lempeän ilmapiirin.  "
       main: |-
           Tilassa olijat voivat tuntea, kuinka heistä pidetään hyvä huoli. Sisältää vaniljan, benzoen, kaakaon, tonkapavun ja appelsiinin eteerisiä öljyjä.  
