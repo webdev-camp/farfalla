@@ -3,36 +3,36 @@ fi:
   amberstone: 
     header: Ihoöljyt
     list: |-
-        <strong>Ihastuttavia ihoöljyjä, jotka on valmistettu luomulaatuisesta jojobaöljystä ja tarkoin valituista eteerisistä öljyistä.</strong> Huolellisen valmistuksen ansiosta kaikki tärkeät hyvälaatuiset rasvahapot ja vitamiinit ovat niissä tallella. Käyttö: Kasvo-, vartalo- ja hierontaöljynä. 
+        <strong>Ihastuttavia ihoöljyjä, jotka on valmistettu luomulaatuisesta jojobaöljystä ja tarkoin valituista eteerisistä öljyistä.</strong> Huolellisen valmistuksen ansiosta kaikki tärkeät hyvälaatuiset rasvahapot ja vitamiinit ovat niissä tallella. <br>Käyttö: Kasvo-, vartalo- ja hierontaöljynä. 
     products: "3roses queen romantic kuschel"
     sub_header: ""
 
     romantic: 
       header: "Ihoöljy Romanttinen ilta"
-      sub_header: " "
+      sub_header: "<br><br><br> "
       main: "Lumoava, ihastuttavan tuoksuinen ihoöljy. Aistillinen, ilahduttava ja virkistävä luomulaatuinen öljy, jossa tuoksuvat luomulaatuiset ylang ylangin, appelsiinin ja mandariinin sekä jasmiinin, tuberosan ja santelipuun aidot eteeriset öljyt. "
-      fact: "Valmistettu luomujojobaöljystä ja <br>100% luonnollisista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue). 80 ml"
+      fact: "Valmistettu luomujojobaöljystä ja 100% luonnollisista eteerisistä öljyistä. Sertifioitua luomukosmetiikkaa (NaTrue). 80 ml"
       link: ihooljy-romanttinen-ilta
 
     3roses: 
       header: "Ihoöljy Kolme ruusua"
-      sub_header: " "
-      main: "Hienostunut luomulaatuinen öljy, jossa tuoksuvat  ruusujen ja ruusugeraniumin aidot, luonnolliset eteeriset öljyt."
-      fact: "Valmistettu luomujojobaöljystä ja <br>100% luonnollisista eteerisistä öljyistä. <br>98% sertifioitavissa olevista ainesosista luomua (NaTrue). 80 ml"
+      sub_header: " <br><br><br>"
+      main: "Hienostunut luomulaatuinen öljy, jossa tuoksuvat miedosti ja lempeästi ruusujen ja geraniumin aidot, luonnolliset eteeriset öljyt. Ilahduttava, rentouttava ihoöljy, jolla on anti-age -vaikutus. "
+      fact: "Valmistettu luomujojobaöljystä ja 100% luonnollisista eteerisistä öljyistä. <br>98% sertifioitavissa olevista ainesosista luomua (NaTrue). 80 ml"
       link: ihooljy-kolme-ruusua
       
     queen: 
       header: "Ihoöljy Illan kuningatar"
-      sub_header: " "
+      sub_header: "Hurmaavasti tuoksuva, <br>upea luomuöljy!<br><br>"
       main: "Upea, ihanasti tuoksuva vartaloöljy. Rentouttaa, ilahduttaa ja kohottaa tunnelmaa ja mielialaa. Sisältää mm. luomuvaniljan, -appelsiinin, -ylang ylangin, -mandariinin ja santelipuun eteerisiä öljyjä."
       fact: "Valmistettu luomujojobaöljystä ja <br>100% luonnollisista eteerisistä öljyistä. <br>98% sertifioitavissa olevista ainesosista luomua (NaTrue). 80 ml"
       link: ihooljy-illan-kuningatar
 
     kuschel: 
       header: "Hemmotteluöljy"
-      sub_header: " "
-      main: "Ihana, hemmotteleva, luomulaatuinen ihoöljy. Kukapa ei joskus haluaisi kietoutua suloiseen, hellivään hyvänolontunteeseen? Täyteläinen, suloisesti tuoksuva hemmotteluöljy auttaa palautumaan päivän haasteista, ilahduttaa ja rentouttaa. Sisältää ihon kosteutta ylläpitävää jojobaöljyä ja miedosti mutta hurmaavasti tuoksuvan yhdistelmän vaniljan, tonkapavun, mimosan, mandariinin, ruusun ja santelipuun aitoja eteerisiä öljyjä. <br>Kun levität öljyn kostealle iholle, se imeytyy hetkessä ja tekee ihosi aistillisen silkinpehmeäksi. Taivaallinen hemmottelu- ja hoitoöljy iholle, hiuksille, kylpyyn ja hierontaan."
-      fact: "Valmistettu luomujojobaöljystä ja <br>100% luonnollisista eteerisistä öljyistä.  Yli 90% sertifioitavista ainesosista luomua (NaTrue). 80 ml"
+      sub_header: "Ihana, hemmotteleva, luomu­laatuinen ihoöljy"
+      main: "Kukapa ei joskus haluaisi kietoutua suloiseen, hellivään hyvänolontunteeseen? Täyteläinen, suloisesti tuoksuva hemmotteluöljy auttaa palautumaan päivän haasteista, ilahduttaa ja rentouttaa. Sisältää ihon kosteutta ylläpitävää jojobaöljyä ja miedosti mutta hurmaavasti tuoksuvan yhdistelmän vaniljan, tonkapavun, mimosan, mandariinin, ruusun ja santelipuun aitoja eteerisiä öljyjä. Kun levität öljyn kostealle iholle, se imeytyy hetkessä ja tekee ihosi aistillisen silkinpehmeäksi. Taivaallinen hemmottelu- ja hoitoöljy iholle, hiuksille, kylpyyn ja hierontaan."
+      fact: "Valmistettu luomujojobaöljystä ja 100% luonnollisista eteerisistä öljyistä. <br>Yli 90% sertifioitavista ainesosista luomua (NaTrue). 80 ml"
       link: hemmotteluoljy
       
       

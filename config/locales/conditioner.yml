@@ -11,7 +11,7 @@ fi:
     
     co_conditioner: 
       header: "Villiruusu Hiustenhoitoaine"
-      sub_header: "Täydellinen hoitoaine!"
+      sub_header: "Täydellinen hoitoaine!<br><br>"
       main: |-
           Myyntimenestys. Hoitoaine tekee hiuksistasi kauniit ja pehmeät, helpottaa kampaamista ja antaa hiuksille kauniin silkin hohteen. Käyttöohje: hiero pesun jälkeen pähkinän kokoinen nokare hoitoainetta kosteisiin hiuksiin, anna vaikuttaa 1–3 min. ja huuhtele huolellisesti.
       fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja. 200 ml"

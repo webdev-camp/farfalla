@@ -11,10 +11,11 @@ fi:
 
     aura: 
       header: "Luomu Huonespray Aura"
-      sub_header: "Raikas, hieman yrttinen huonetuoksu<br><br><br><br>"
+      sub_header: "Raikas, hieman yrttinen huonetuoksu. <br><br><br>"
       main: |-
-          Tässä raikkaassa ja yrttisessä huonetuoksussa tuoksuvat väinönputki (Angelica archangelica), geranium, kuusi, neroli ja frankincense. Käytettäväksi silloin, kun elämässä on tilapäisenä teemana selkeys, suojautuminen ja puhdistuminen. Aura -huonetuoksu tuo selkeyttä elämääsi ja puhdistaa ympäröivän tilan. <br>
-      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+          Tässä raikkaassa ja yrttisessä huonetuoksussa tuoksuvat väinönputki (Angelica archangelica), geranium, kuusi, neroli ja frankincense. Käytettäväksi silloin, kun elämässä on tilapäisenä teemana selkeys, suojautuminen ja puhdistuminen. Aura-huonetuoksu tuo selkeyttä elämääsi ja puhdistaa ympäröivän tilan.  
+          Valmistusaineet: luonnolliset eteeriset öljyt, luomualkoholi.
+      fact: "Valmistettu 100% luonnollisista aineista. Ei synteettisiä hajusteita, väri- tai säilöntäaineita. 80 ml"
       link: luomu_huonespray_aura
 
     atmosphere: 
@@ -35,52 +36,52 @@ fi:
 
     good_night: 
       header: "Luomu Huonespray <br>Good night"
-      sub_header: "Hyväntuoksuinen, raikas ja rentouttava huonespray.<br><br> "
+      sub_header: "Hyväntuoksuinen, raikas ja rentouttava huonespray."
       main: |-
-          Ihana huonetuoksu, joka auttaa sinua rauhoittumaan ja nukkumaan hyvät ja rauhalliset yöunet. 
-          <br>Sisältää mm. laventelin, nerolin, ruusun ja sitruunamelissan 100% aitoja eteerisiä öljyjä.  
-      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+          Ihana huonetuoksu, joka auttaa sinua rauhoittumaan ja nukkumaan hyvät ja rauhalliset yöunet. Sisältää mm. laventelin, nerolin, ruusun ja sitruunamelissan 100% aitoja eteerisiä öljyjä. 
+          Valmistettu luomualkoholista ja luonnollisista eteerisistä öljyistä.
+      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita. 80 ml"
       link: luomu-huonespray-good-night
 
     joy: 
       header: "Luomu Huonespray <br>Joy of Life – Iloa elämään!"
-      sub_header: "Tämä ihana, piristävän raikas ja lempeä tuoksu tuo iloisen tunnelman mukanaan. "
+      sub_header: "Iloista ja kepeää tunnelmaa! <br><br><br>"
       main: |-
-          Jos tarvitset tunnelman kohottajaa, suihkaus tätä elämäniloa huokuvaa spraytä luo iloisemman ilmapiirin. Sopii käytettäväksi kotona tai matkoilla - kaikkialla missä kaipaat iloisempaa ja kepeämpää tunnelmaa! 
+          Tämä ihana, piristävän raikas ja lempeä tuoksu tuo iloisen tunnelman mukanaan. Jos tarvitset tunnelman kohottajaa, suihkaus tätä elämäniloa huokuvaa spraytä luo iloisemman ilmapiirin. Sopii käytettäväksi kotona tai matkoilla - kaikkialla missä kaipaat iloisempaa ja kepeämpää tunnelmaa! 
           <br> Sisältää pelargonin, bergamotin ja salvian 100% luonnollisia eteerisiä öljyjä. 
-      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita. 80 ml"
       link: luomu-joy-of-life-iloa-elaemaeaen
 
     kertzen: 
       header: "Luomu Huonespray <br>Valon hohde"
-      sub_header: "Lempeä ja valoisa huonespray<br><br><br>"
+      sub_header: "Lempeä ja valoisa huonespray<br><br>"
       main: |-
           Lempeä ja valoisa huonespray, jonka tuoksussa ja tunnelmassa on helppo viettää ihana hetki kynttilöiden loisteessa ja hyvässä seurassa. Valmistukseen käytetty aitoja, mm. appelsiinin, santelipuun, benzoen ja vaniljan, 100% luonnollisia eteerisiä öljyjä ja mehiläisvahaa.  
-      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita. 80 ml"
       link: luomu-huonespray-valon-hohde
       vegan: not
 
     vanilla: 
       header: "Luomu Huonespray <br>Vanilja-mandariini"
-      sub_header: "Raikas, lempeä huonetuoksu, joka ilahduttaa, virkistää ja huojentaa mieltä."
+      sub_header: "Ilahduttava, lempeän virkistävä ja mieltä huojentava huonetuoksu"
       main: |-
-          Ihana ja monipuolinen Vanilja-Mandariini sopii käytettäväksi missä vain: kotona, lastenhuoneessa, matkoilla jne.
-      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+          Raikas, lempeä huonetuoksu, joka ilahduttaa, virkistää ja huojentaa mieltä. Ihana ja monipuolinen Vanilja-Mandariini sopii käytettäväksi missä vain: kotona, lastenhuoneessa, matkoilla jne.
+      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita. 80 ml"
       link: luomu-huonespray-vanilja-mandariini
 
     winter: 
       header: "Luomu Huonespray <br>Talvi-ilo"
-      sub_header: "Runollinen, tunnelmallinen tuoksu, joka luo iloista ja sydämellistä juhlatunnelmaa.<br> "
+      sub_header: " <br><br>"
       main: |-
-          Sopii erinomaisesti jouluun ja talviajan iloksi. Valmistuksessa on käytetty mm. mandariinin, appelsiinin ja kanelin aitoja, eteerisiä öljyjä. 
-      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+          Runollinen, tunnelmallinen tuoksu, joka luo iloista ja sydämellistä juhlatunnelmaa. Sopii erinomaisesti jouluun ja talviajan iloksi. Valmistuksessa on käytetty mm. mandariinin, appelsiinin ja kanelin aitoja, eteerisiä öljyjä. 
+      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita. 80 ml"
       link: luomu-huonespray-talvi-ilo
 
     security: 
       header: "Luomu huonespray <br>Turvallisuuden tunne"
-      sub_header: "Lämmin, pehmeä ja hedelmäinen tuoksu, joka tuo huoneeseen lempeän ilmapiirin.  "
+      sub_header: " <br><br> "
       main: |-
-          Tilassa olijat voivat tuntea, kuinka heistä pidetään hyvä huoli. Sisältää vaniljan, benzoen, kaakaon, tonkapavun ja appelsiinin eteerisiä öljyjä.  
-      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita."
+          Lämmin, pehmeä ja hedelmäinen tuoksu, joka tuo huoneeseen lempeän ilmapiirin. Tilassa olijat voivat tuntea, kuinka heistä pidetään hyvä huoli. Sisältää vaniljan, benzoen, kaakaon, tonkapavun ja appelsiinin eteerisiä öljyjä.  
+      fact: "Valmistusaineet: 100% luonnolliset eteeriset öljyt, luomualkoholi. Ei synteettisiä hajusteita, väri- tai säilöntäaineita. 80 ml"
       link: luomu-huonespray-turvallisuuden-tunne
 

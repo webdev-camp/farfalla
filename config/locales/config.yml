@@ -27,7 +27,7 @@ config:
       max_price: 620
     kirje:
       weight_table: '0.5 1 1.5'
-      price_table: '2.38 4.28 6.17'
+      price_table: '2.95 5.31 7.65'
       name: Kirje 2 lk
       class: "OfficeClerk::Post"
       max_price: 620

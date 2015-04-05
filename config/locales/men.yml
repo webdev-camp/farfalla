@@ -4,57 +4,56 @@ fi:
     header: "Feel Great Men - luonnonkosmetiikkaa miehille"
     list: "Uusi, erityisesti miesten ihonhoitoon suunniteltu anti age -vaikutteinen kosmetiikkasarja. Raikas, hivenen kirpeä tuoksu."
     products: "men_deo men_fluid sw_after_shave men_shower men_lotion men_augen uomo"
-    sub_header: "Eksoottisten puiden raikas ja miellyttävä tuoksu"
+    sub_header: ""
 
     sw_after_shave: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja."
       header: "Santelipuu After Shave Balsami"
-      link: santelipuu-after-shave-balsami
-      main: "Luonnollinen santelipuubalsami rauhoittaa ja hoitaa ihoa jokaisen parranajon jälkeen ja estää kirvelyn. Hoitavaa vaikutusta tehostavat luomulaatuiset aloe vera,- hamamelis- ja kamomillauutteet sekä luonnolliset eteeriset öljyt. Hienovarainen ja miellyttävä mutta hyvin maskuliininen tuoksu. Kallisarvoisen itäintialaisen santelipuun tuoksua tukevat seetri, iiris ja patsuli."
       sub_header: "Hoitavaa ja rauhoittavaa suojaa jokaisen parranajon jälkeen"
+      main: "Luomulaatuinen santelipuubalsami rauhoittaa ja hoitaa ihoa jokaisen parranajon jälkeen ja estää kirvelyn. Hoitavaa vaikutusta tehostavat luomu aloe vera, luomuhamamelis- ja luomukamomillauutteet sekä luonnolliset eteeriset öljyt. Hienovarainen, mieto ja miellyttävä mutta hyvin maskuliininen tuoksu. Kallisarvoisen itäintialaisen santelipuun tuoksua tukevat seetri, iiris ja patsuli."
+      link: santelipuu-after-shave-balsami
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja. 100 ml"
 
     men_lotion: 
       header: "Feel Great Men Kosteusvoide<br>"
+      sub_header: "Ravitseva, raikas ja energisoiva vartalovoide  "
       link: farfalla-men-kosteusvoide
-      main: "Ravitseva, raikas ja energisoiva vartalovoide miehelle. Imeytyy nopeasti ja saa ihon tuntumaan hyvältä ja virkistyneeltä. Villimangovoi, luomulaatuinen karitevoi ja luomuviikunauute suojaavat ihoa kuivumiselta ja ympäristön haitallisilta vaikutuksilta. Greipin, roseepippurin, seetrin ja piristävän piparmintun luonnolliset eteeriset öljyt tehostavat verenkiertoa ja tuovat energiaa päivään."
-      fact: "100% luonnollisista ainesosista, sertifioitua luomukosmetiikkaa (NaTrue)."
-      sub_header: " "
+      main: "Imeytyy nopeasti ja saa ihon tuntumaan hyvältä ja virkistyneeltä. Villimangovoi, luomulaatuinen karitevoi ja luomuviikunauute suojaavat ihoa kuivumiselta ja ympäristön haitallisilta vaikutuksilta. Greipin, roseepippurin, seetrin ja piristävän piparmintun luonnolliset eteeriset öljyt tehostavat verenkiertoa ja tuovat energiaa päivään."
+      fact: "100% luonnollisista ainesosista, sertifioitua luomukosmetiikkaa (NaTrue). 150 ml"
       
 
     men_shower: 
       header: "Feel Great Men Suihku-Shampoo<br>"
-      main: "Raikas, hellävarainen suihkugeeli ja shampoo miehelle. Ravitseva ja virkistävä suihkushampoo pesee ihon ja hiukset tehokkaasti mutta kuivattamatta. Luomulaatuiset macadamiaöljy, appelsiiniuute ja greipin, bergamotin ja mintun eteeriset öljyt tuovat uuteen päivään energiaa ja hyvää tuulta!"
-      fact: "100% luonnollisista ainesosista, sertifioitua luonnonkosmetiikkaa (NaTrue)."
+      sub_header: "Raikas, helppokäyttöinen <br>suihkugeeli ja shampoo "
+      main: "Miedon tuoksuinen ja virkistävä suihkushampoo pesee tehokkaasti mutta kuivattamatta. Luomulaatuiset macadamiaöljy, appelsiiniuute ja greipin, bergamotin ja mintun eteeriset öljyt tuovat energiaa ja hyvää tuulta! "
+      fact: "100% luonnollisista ainesosista, sertifioitua luonnonkosmetiikkaa (NaTrue). 150 ml"
       link: farfalla-men-suihkushampoo
-      sub_header: " "
 
     men_deo: 
       header: "Feel Great Men Deo roll on <br>"
-      main: "Tehokas, miellyttävä ja raikas deo roll on miehelle. Innovatiivinen koostumus: mukana ensimmäinen kliinisesti testattu 24h -deodoroiva vaikuttaja-aine luonnonkosmetiikassa. Ei sisällä alumiinisuoloja eikä alkoholia."
-      fact: "100% luonnollisista ainesosista, sertifioitua luonnonkosmetiikkaa (NaTrue)."
+      sub_header: "Tehokas, mieto ja raikas <br>deo roll on miehelle"
+      main: "Tutkitusti tehokas, raikkaantuoksuinen luomudeodorantti miehelle. Innovatiivinen koostumus: mukana ensimmäinen kliinisesti testattu 24h -deodoroiva vaikuttaja-aine luonnonkosmetiikassa. Ei sisällä alumiinisuoloja eikä alkoholia. <br>Kuivuu hetkessä."
+      fact: "100% luonnollisista ainesosista, sertifioitua luonnonkosmetiikkaa (NaTrue). 50 ml"
       link: farfalla-men-deo-roll-on
-      sub_header: " "
 
     men_fluid: 
       header: "Feel Great Men Kiinteyttävä kosteusemulsio"
-      main: "Energiaa, kiinteyttä ja kosteutta. Nopeasti imeytyvä, tehokkaasti kiinteyttävä ja vahvistava kosteusvoide kasvoille. Sopii erittäin hyvin after shave -voiteeksi ja jättää iholle miellyttävän, huolitellun tunnun.
-        Sisältää perulaista maca -juurta, jolla on dermatologisesti tutkittu anti-age -vaikutus, ja tehokkaasti kosteuttavan Hyalurosmooth -ainesosayhdistelmän. Sisältää luomulaatuisia greipin, bergamotin ja ja mintun eteerisiä öljyjä, jotka parantavat verenkiertoa ja tuovat energiaa ja potkua päivään!"
-      fact: "100% luonnollisista ainesosista, 95% luomua (NaTrue)."
+      sub_header: "Virkeänä uuteen päivään!"
+      main: "Nopeasti imeytyvä kosteusvoide miehille. Virkistää ja saa olon tuntumaan hyvältä lyhyidenkin yöunien jälkeen! Sopii erittäin hyvin käytettäväksi myös parranajon jälkeen.  Sisältää perulaista maca-juurta (dermatologisesti tutkittu anti-age -vaikutus) ja tehokkaasti kosteuttavan Hyalurosmooth -ainesosayhdistelmän. Miedontuoksuinen voide sisältää luomulaatuisia greipin, bergamotin ja ja mintun eteerisiä öljyjä, jotka piristävät, parantavat verenkiertoa ja antavat energiaa!"
+      fact: "100% luonnollisista ainesosista, 95% luomua (NaTrue). 30 ml"
       link: farfalla-men-kiinteyttava-kosteusemulsio
-      sub_header: " "
 
     men_augen: 
-      fact: "100% luonnollisista aineista, 95% luomua (NaTrue)."
       header: "Feel Great Men Silmänympärysseerumi"
+      sub_header: "Virkeyttä silmille!"
+      main: "Kätevä roll on, joka piristää, poistaa turvotusta ja vähentää tummia silmänalusia. Erinomainen apu silloin, kun yöunet ovat jääneet vähiin! Kosteuttaa ja elvyttää ihoa sekä vähentää tutkitusti ryppyjä silmien ympärillä. Pyöräytä roll-onia silmänympäryksiin aamuisin tai aina tarpeen mukaan."
+      fact: "100% luonnollisista aineista, 95% luomua (NaTrue). 10 ml "
       link: farfalla-men-silmanymparysseerumi
-      main: "Virkistävä, ravitseva ja kiinteyttävä teho -roll on silmänympäryksille. Kosteuttaa ja elvyttää ihoa. Vähentää tutkitusti tummia silmänalusia, turvotusta ja pieniä ryppyjä silmien ympärillä. Pyöräytä roll-onia iholle aamuisin tai tarpeen mukaan."
-      sub_header: " "
 
     uomo: 
       header: "Uomo luonnollinen eau fraîche"
-      main: "Ainutlaatuinen ekspressiivinen tuoksu täynnä elämää ja seikkailua. Yrttien ja kypsien sitrushedelmien raikkautta ja ripaus minttua yhdistettynä aistillisiin pohjasävyihin."
-      fact: "Valmistusaineet: luomualkoholi, luonnolliset eteeriset öljyt. Sertifioitua luonnonkosmetiikkaa (BDIH)."
+      sub_header: "Tyylikäs luomutuoksu jokamiehelle!"
+      main: "Ainutlaatuinen luonnollinen eau fraîche miehelle. Vastustamaton tuoksu täynnä elämää ja seikkailua! Yrttien ja kypsien sitrushedelmien raikkautta ja ripaus minttua yhdistettynä aistillisiin pohjasävyihin."
+      fact: "100% luonnollisista aineista. NaTrue -sertifikaatti: ainesosista yli 70% on NaTrue -sertifioitua luomua. Luomuprosentti kaikista aineista on 98%. 100 ml"
       link: farfalla-men-deo-roll-on
-      sub_header: " "
         
      
