@@ -1,10 +1,10 @@
 --- 
 fi: 
   men: 
-    header: "Feel Great Men - luonnonkosmetiikkaa miehille"
-    list: "Uusi, erityisesti miesten ihonhoitoon suunniteltu anti age -vaikutteinen kosmetiikkasarja. Raikas, hivenen kirpeä tuoksu."
+    header: "Feel Great Men <br>– luonnonkosmetiikkaa miehille"
+    list: "Uusi, erityisesti miesten ihonhoitoon suunniteltu kosmetiikkasarja. Miedot ja raikkaat tuoksut.  Toimiva luomudeodorantti, hetkessä imeytyvä kosteusvoide vartalolle, kätevä 2-in-1 suihkushampoo, hoitava balsami parranajon jälkeen, miehekäs eau fraîche -tuoksu ja anti age-voide kasvoille. "
     products: "men_deo men_fluid sw_after_shave men_shower men_lotion men_augen uomo"
-    sub_header: ""
+    sub_header: "Potkua päivään – Don´t panic, it´s organic!"
 
     sw_after_shave: 
       header: "Santelipuu After Shave Balsami"
@@ -14,7 +14,7 @@ fi:
       fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja. 100 ml"
 
     men_lotion: 
-      header: "Feel Great Men Kosteusvoide<br>"
+      header: "Feel Great Men <br>Kosteusvoide<br>"
       sub_header: "Ravitseva, raikas ja energisoiva vartalovoide  "
       link: farfalla-men-kosteusvoide
       main: "Imeytyy nopeasti ja saa ihon tuntumaan hyvältä ja virkistyneeltä. Villimangovoi, luomulaatuinen karitevoi ja luomuviikunauute suojaavat ihoa kuivumiselta ja ympäristön haitallisilta vaikutuksilta. Greipin, roseepippurin, seetrin ja piristävän piparmintun luonnolliset eteeriset öljyt tehostavat verenkiertoa ja tuovat energiaa päivään."
@@ -22,28 +22,28 @@ fi:
       
 
     men_shower: 
-      header: "Feel Great Men Suihku-Shampoo<br>"
+      header: "Feel Great Men <br>Suihku-Shampoo<br>"
       sub_header: "Raikas, helppokäyttöinen <br>suihkugeeli ja shampoo "
       main: "Miedon tuoksuinen ja virkistävä suihkushampoo pesee tehokkaasti mutta kuivattamatta. Luomulaatuiset macadamiaöljy, appelsiiniuute ja greipin, bergamotin ja mintun eteeriset öljyt tuovat energiaa ja hyvää tuulta! "
       fact: "100% luonnollisista ainesosista, sertifioitua luonnonkosmetiikkaa (NaTrue). 150 ml"
       link: farfalla-men-suihkushampoo
 
     men_deo: 
-      header: "Feel Great Men Deo roll on <br>"
+      header: "Feel Great Men <br>Deo roll on <br>"
       sub_header: "Tehokas, mieto ja raikas <br>deo roll on miehelle"
       main: "Tutkitusti tehokas, raikkaantuoksuinen luomudeodorantti miehelle. Innovatiivinen koostumus: mukana ensimmäinen kliinisesti testattu 24h -deodoroiva vaikuttaja-aine luonnonkosmetiikassa. Ei sisällä alumiinisuoloja eikä alkoholia. <br>Kuivuu hetkessä."
       fact: "100% luonnollisista ainesosista, sertifioitua luonnonkosmetiikkaa (NaTrue). 50 ml"
       link: farfalla-men-deo-roll-on
 
     men_fluid: 
-      header: "Feel Great Men Kiinteyttävä kosteusemulsio"
+      header: "Feel Great Men <br>Kiinteyttävä kosteusemulsio"
       sub_header: "Virkeänä uuteen päivään!"
       main: "Nopeasti imeytyvä kosteusvoide miehille. Virkistää ja saa olon tuntumaan hyvältä lyhyidenkin yöunien jälkeen! Sopii erittäin hyvin käytettäväksi myös parranajon jälkeen.  Sisältää perulaista maca-juurta (dermatologisesti tutkittu anti-age -vaikutus) ja tehokkaasti kosteuttavan Hyalurosmooth -ainesosayhdistelmän. Miedontuoksuinen voide sisältää luomulaatuisia greipin, bergamotin ja ja mintun eteerisiä öljyjä, jotka piristävät, parantavat verenkiertoa ja antavat energiaa!"
       fact: "100% luonnollisista ainesosista, 95% luomua (NaTrue). 30 ml"
       link: farfalla-men-kiinteyttava-kosteusemulsio
 
     men_augen: 
-      header: "Feel Great Men Silmänympärysseerumi"
+      header: "Feel Great Men <br>Silmänympärysseerumi"
       sub_header: "Virkeyttä silmille!"
       main: "Kätevä roll on, joka piristää, poistaa turvotusta ja vähentää tummia silmänalusia. Erinomainen apu silloin, kun yöunet ovat jääneet vähiin! Kosteuttaa ja elvyttää ihoa sekä vähentää tutkitusti ryppyjä silmien ympärillä. Pyöräytä roll-onia silmänympäryksiin aamuisin tai aina tarpeen mukaan."
       fact: "100% luonnollisista aineista, 95% luomua (NaTrue). 10 ml "
