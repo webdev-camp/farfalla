@@ -12,7 +12,7 @@
       %br
       = I18n.l(@order.ordered_on.to_date) if @order.ordered_on
       
-  = render :partial => "orders/invoice_address"    
+  = render :partial => "orders/invoice_address"
   .row.wrapper
     .items
       = render :partial => "orders/invoice_items"
@@ -23,12 +23,6 @@
         = render :partial => "orders/invoice_totals"
     .thanks
       = render :partial => "orders/invoice_thanks"
-    
-    .row
-      <% unless @order.shipment_info.blank? %>
-      Postin seurantatunnus on <%=@order.shipment_info%>
-      <%end%>  
-      
 
   .row.footer
     .col-xs-4
