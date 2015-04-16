@@ -14,7 +14,7 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/office_clerk.git
-  revision: ecb2395d3549b26204eb603ba55c0215875d6e8b
+  revision: 286e8dfa0bb2d28a2da8f05b9f90e58f721e2cd7
   specs:
     office_clerk (0.8)
       bcrypt-ruby (~> 3.1)
@@ -44,7 +44,7 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/print_clerk.git
-  revision: dd78eb7d77147a21c082cfe27c2efbd33a859eb5
+  revision: a61b8e7d4bd56d0923f7232a2681704a485e0903
   specs:
     print_clerk (0.4)
       barby (~> 0.6)
@@ -83,7 +83,7 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
     arel (5.0.1.20140414130214)
-    autoprefixer-rails (5.1.8.1)
+    autoprefixer-rails (5.1.9)
       execjs
       json
     barby (0.6.2)
@@ -182,7 +182,7 @@ GEM
     method_source (0.8.2)
     mime-types (2.4.3)
     mini_portile (0.6.1)
-    minitest (5.5.1)
+    minitest (5.6.0)
     multi_json (1.11.0)
     nokogiri (1.6.5)
       mini_portile (~> 0.6.0)
