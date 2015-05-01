@@ -4,7 +4,7 @@ fi:
     header: Perusöljyt
     list: |-
        Luomulaatuisissa kasviöljyissä on korkea pitoisuus hyvälaatuisia omegahappoja. Hienot öljyt ravitsevat kasvojen ja vartalon ihoa sekä hiuksia ja päänahkaa – luonnollisesti ja hellävaraisesti. Löydä suosikkisi Farfallan laajasta valikoimasta. 
-    products: "argan jojoba macadamia johannis calendula"
+    products: "argan calendula jojoba macadamia mustakumina makikuisma "
     sub_header: ""
     
     argan: 
@@ -14,12 +14,12 @@ fi:
       fact: "Valmistusaineet: Luomuviljelty arganöljy. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
       link: luomu-arganoljy
 
-    johannis: 
-      header: "Luomu Mäkikuismaöljy"
-      sub_header: "<br><br> "
-      main: "Ravitseva, ilahduttava, mielialaa kohottava luomuöljy. Uudistava ihoöljy, jolla on lämmittävä ja mieltä keventävä vaikutus. Mäkikuismaöljy tunnetaan suotuisista vaikutuksistaan mielialan ailahteluihin sekä depression ja alakulon oireisiin, ja se tasapainottaa myös iho-ongelmia, erityisen hyvin kuivaa ihoa. Valmistettu uuttamalla mäkikuisman kukkia luomulaatuiseen oliiviöljyyn. Huom. Valoherkkä - ei käytettäväksi suorassa auringonpaisteessa. "
-      fact: "Valmistusaineet: kylmäpuristettu luomulaatuinen oliiviöljy, mäkikuisman kukat. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
-      link: luomu-makikuismaoljy
+    calendula: 
+      header: "Luomu Calendulaöljy"
+      sub_header: " <br><br>"
+      main: "Calendula- eli kehäkukkaöljy on ravitseva, hoitava ja suojaava luomulaatuinen ihoöljy. Sopii erityisen hyvin herkän ja kuivan ihon hoitoon ja vauvoille. Vahvistaa ihon omaa suojautumiskykyä ja rauhoittaa ärtynyttä ihoa. Valmistettu uuttamalla kehäkukan terälehtien öljy luomulaatuiseen auringonkukkaöljyyn. "
+      fact: "Valmistusaineet: luomulaatuinen auringonkukkaöljy, kehäkukan terälehdet. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+      link: luomu-Calendulaoljy
 
     jojoba: 
       header: "Luomu Jojobaaöljy"
@@ -36,13 +36,21 @@ fi:
       fact: "Valmistusaineet: luomumacadamiaöljy (Macadamia Ternifolia). Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
       link: luomu-macadamiaoljy
 
-    calendula: 
-      header: "Luomu Calendulaöljy"
-      sub_header: " <br><br>"
-      main: "Calendula- eli kehäkukkaöljy on ravitseva, hoitava ja suojaava luomulaatuinen ihoöljy. Sopii erityisen hyvin herkän ja kuivan ihon hoitoon ja vauvoille. Vahvistaa ihon omaa suojautumiskykyä ja rauhoittaa ärtynyttä ihoa. Valmistettu uuttamalla kehäkukan terälehtien öljy luomulaatuiseen auringonkukkaöljyyn. "
-      fact: "Valmistusaineet: luomulaatuinen auringonkukkaöljy, kehäkukan terälehdet. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
-      link: luomu-Calendulaoljy
+    mustakumina: 
+      header: "Luomu Mustakuminaöljy (Nigella)"
+      sub_header: "<br><br> "
+      main: "Hieno, erittäin tehokkaasti kosteuttava ihoöljy. Nigella sativa (Black Seed, Black Cumin, suom. ryytineito) on jo vuosisatojen ajan tunnettu monista hyvistä vaikutuksistaan. Se on tehokas antioksidantti, ja auttaa ihoa sekä suojautumaan ympäristön haitallisilta vaikutuksilta että puhdistumaan niistä.
+      Öljyn monityydyttymättömät rasvahapot suojaavat ihoa ja sen kosteustasapainoa, ja erityisesti linoleenihappo luonnollisena keramidina suojaa ja uudistaa ihon lipidikerrosta. 
+      Mustakuminaöljyssä on luonnollinen, miellyttävä, mausteisen aromaattinen tuoksu. Suositellaan erityisesti hyvin kuivan, ärtyneen ja allergiaherkän ihon hoitoon. Erinomainen öljy myös päänahalle, avuksi esim. hiustenlähtöön ja -ohenemiseen."
+      fact: "Valmistusaineet: Luomuviljelty mustakuminaöljy (Nigella sativa). Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+      link: luomu_mustakuminaoljy
 
+    makikuisma: 
+      header: "Luomu Mäkikuismaöljy"
+      sub_header: "<br><br> "
+      main: "Ravitseva, ilahduttava, mielialaa kohottava luomuöljy. Uudistava ihoöljy, jolla on lämmittävä ja mieltä keventävä vaikutus. Mäkikuismaöljy tunnetaan suotuisista vaikutuksistaan mielialan ailahteluihin sekä depression ja alakulon oireisiin, ja se tasapainottaa myös iho-ongelmia, erityisen hyvin kuivaa ihoa. Valmistettu uuttamalla mäkikuisman kukkia luomulaatuiseen oliiviöljyyn. Huom. Valoherkkä - ei käytettäväksi suorassa auringonpaisteessa. "
+      fact: "Valmistusaineet: kylmäpuristettu luomulaatuinen oliiviöljy, mäkikuisman kukat. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+      link: luomu-makikuismaoljy
 
 
 
