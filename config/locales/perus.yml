@@ -4,33 +4,73 @@ fi:
     header: Perusöljyt
     list: |-
        Luomulaatuisissa kasviöljyissä on korkea pitoisuus hyvälaatuisia omegahappoja. Hienot öljyt ravitsevat kasvojen ja vartalon ihoa sekä hiuksia ja päänahkaa – luonnollisesti ja hellävaraisesti. Löydä suosikkisi Farfallan laajasta valikoimasta. 
-    products: "argan calendula jojoba macadamia mustakumina makikuisma "
+    products: "argan aprikoosi avokado calendula granaatti helokki inkapahkina jojoba macadamia mustakumina makikuisma "
     sub_header: ""
+    
+    
+    
+    aprikoosi: 
+      header: "Luomu Aprikoosinsiemenöljy"
+      sub_header: " "
+      main: "Kosteuttava, hoitava, monikäyttöinen ihonhoitoöljy. Aprikoosinsiemenöljy sopii kaikille ihotyypeille, erityisesti herkälle iholle ja vauvoille. Hoitaa ja tukee tehokkaasti ihon kosteus-tasapainoa. Erinomainen ja monipuolinen hierontaöljy, joka sopii varsinkin lasten ja vauvojen hierontaan. Aprikoosipuu kuuluu ruusukasvien heimoon. Öljyssä tuoksuu miedosti ja miellyttävästi hienostunut marsipaanin vivahde."
+      fact: "Valmistusaineet: Luomuviljelty aprikoosinsiemenöljy. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+      link: aprikoosinsiemenoljy
     
     argan: 
       header: "Luomu Arganöljy"
-      sub_header: "<br><br> "
+      sub_header: " "
       main: "Hieno luomulaatuinen ihoöljy, joka suojaa, hoitaa  ja tasapainottaa. Kallisarvoinen, väritön öljy valmistetaan luomuviljellyn marokkolaisen arganpuun pähkinöistä. Anti-age -vaikutteinen, sopii erityisen hyvin ikääntyvän ihon suojaamiseen ja hoitoon. Öljyn E-vitamiini torjuu vapaita radikaaleja, estää ihon ennenaikaista vanhenemista ja edistää ihosolujen uusiutumista. Sisältää laajan ja tasapainoisen valikoiman rasvahappoja, erinomainen myös ongelmaihon ja akneihon hoitoon ja tasapainottamiseen. "
       fact: "Valmistusaineet: Luomuviljelty arganöljy. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
       link: luomu-arganoljy
 
+    avokado: 
+      header: "Luomu Avokadoöljy"
+      sub_header: " "
+      main: "Tehokkaasti hoitava ihoöljy normaalille tai kuivalle iholle. Koska avokadoöljy sisältää runsaasti vitamiineja ja sitoo kosteutta, se ravitsee ja rauhoittaa ihoa. Luomulaatuinen avokadoöljy levittyy ja imeytyy hyvin, ja on siksi erinomainen pohja eteeristen öljyjen sekoituksille. Sopii hyvin kuivien hiusten hoitoon.  "
+      fact: "Valmistusaineet: Luomuviljelty avokadoöljy. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+      link: luomu-avokadooljy
+
     calendula: 
       header: "Luomu Calendulaöljy"
-      sub_header: " <br><br>"
+      sub_header: " "
       main: "Calendula- eli kehäkukkaöljy on ravitseva, hoitava ja suojaava luomulaatuinen ihoöljy. Sopii erityisen hyvin herkän ja kuivan ihon hoitoon ja vauvoille. Vahvistaa ihon omaa suojautumiskykyä ja rauhoittaa ärtynyttä ihoa. Valmistettu uuttamalla kehäkukan terälehtien öljy luomulaatuiseen auringonkukkaöljyyn. "
       fact: "Valmistusaineet: luomulaatuinen auringonkukkaöljy, kehäkukan terälehdet. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
       link: luomu-Calendulaoljy
 
+    granaatti: 
+      header: "Luomu Granaattiomenan-siemenöljy"
+      sub_header: " "
+      main: "Erittäin hieno ihoa uudistava öljy. Luomulaatuisella granaatti-omenansiemenöljyllä on antioksidanttisia ominaisuuksia. Sen korkea y-linoleenihappopitoisuus lisää ihon joustavuutta ja saa aikaan ihanan ja selvästi havaittavan anti-age -vaikutuksen. Suositellaan erityisesti kasvojen ja decoltén hoitoon. Säilytä viileässä! Valmistettu luomuviljeltyjen granaattiomenoiden siemenistä. "
+      fact: "Valmistusaineet: luomulaatuinen granaattiomenansiemenöljy. Sertifioitua luomukosmetiikkaa (NaTrue). 30ml"
+      link: luomu-granaattiomenansiemenoljy
+
+    helokki: 
+      header: "Luomu Helokkiöljy"
+      sub_header: " "
+      main: "Luomulaatuinen ihoöljy, joka sopii erityisesti ihon ja päänahan ongelmien hoitoon. Luomulaatuinen helokkiöljy (engl. Evening Primrose Oil) sisältää runsaasti linoli- ja gammalinoleeni-happoja, ja sopii sen vuoksi tutkitusti erityisesti ongelmaihon ja esimerkiksi hilseilevän päänahan hoitoon. <br>
+      Käyttö: Esim. keskuslämmityksestä kärsineen, hilseilevän ihon tai päänahan hoitoon: Sekoita 10 ml luomu-helokkiöljyä 50 ml:aan luomuavokado-, manteli- tai -jojobaöljyä. Voit myös lisätä pisaran helokkiöljyä kämmenellä tavalliseen ihovoiteeseesi. Säilytä viileässä!"
+      fact: "Valmistusaineet: luomulaatuinen helokkiöljy. Sertifioitua luomukosmetiikkaa (NaTrue). 30ml"
+      link: luomu-helokkioljy
+    
+    inkapahkina: 
+      header: "Luomu Inkapähkinäöljy <br>(Sacha Inchi) "
+      sub_header: " "
+      main: "Upea, tehokkaasti ravitseva luomulaatuinen ihoöljy. Inkapähkinäöljy on todellinen aarre öljyjen joukossa: kaikista kasviöljyistä inkapähkinäöljyn omega-rasvahappopitoisuus on yksi korkeimmista. <br> Inkapähkinäöljyn sisältämät <br>noin 47% linoleenihappoa (Omega 3), noin 35% linolihappoa (Omega 6) ja noin 10% oleiinihappoa (Omega 9) tekevät siitä ainutlaatuisen elvyttävän ja hoitavan kasviöljyn. <br>
+      Soluja uudistavien ominaisuuksiensa vuoksi inkapähkinäöljy lisää ihon elastisuutta sekä silottaa ja ehkäisee ryppyjä, joten se on erinomainen kasvoöljy kuivalle ja ikääntyvälle iholle. Rasvaiselle iholle Luomu Inkapähkinäöljyn vaikutus on tasapainottava, raikastava ja rauhoittava."
+      fact: "Valmistusaineet: luomulaatuinen inkapähkinäöljy (Sacha Inchi). Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+      link: luomu-inkapahkinaoljy
+    
+    
     jojoba: 
-      header: "Luomu Jojobaaöljy"
-      sub_header: "<br><br> "
+      header: "Luomu Jojobaöljy <br> <br>"
+      sub_header: " "
       main: "Hieno, kosteuttava ja hoitava ihoöljy. Jojobaöljy on nestemäisessä muodossa oleva kasvivaha, joka imeytyy hyvin ja suojelee tehokkaasti ihon kosteustasapainoa. Erinomainen kuivalle ja herkälle iholle sekä hiusten ja päänahan hoitoon. Jojobaöljy lisää ihon joustavuutta ja sopii erittäin hyvin myös ikääntyvän ihon hoitoon. Muuttuu jähmeäksi alle 22°C lämmössä. Pidä pulloa hetki lämpimän veden alla ennen käyttöä. "
       fact: "Valmistusaine: luomujojobaöljy. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
       link: luomu-jojobaoljy
 
     macadamia: 
-      header: "Luomu Macadamiaöljy"
-      sub_header: "<br><br> "
+      header: "Luomu Macadamiaöljy <br> <br>"
+      sub_header: " " 
       main: "Ravitseva, ihoa uudistava luomuöljy. Sisältää poikkeuksellisen monipuolisen valikoiman rasvahappoja, mm. palmitoleiinihappoa. Levittyy helposti ja sopii sen vuoksi erityisen hyvin hierontaan. Silottava, anti-age -vaikutteinen öljy, joka tekee ihosta pehmeän kuin vauvan peppu! 
       Erinomainen myös hauraiden ja kuivien hiusten hoitoon.  "
       fact: "Valmistusaineet: luomumacadamiaöljy (Macadamia Ternifolia). Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
@@ -38,7 +78,7 @@ fi:
 
     mustakumina: 
       header: "Luomu Mustakuminaöljy (Nigella)"
-      sub_header: "<br><br> "
+      sub_header: " "
       main: "Hieno, erittäin tehokkaasti kosteuttava ihoöljy. Nigella sativa (Black Seed, Black Cumin, suom. ryytineito) on jo vuosisatojen ajan tunnettu monista hyvistä vaikutuksistaan. Se on tehokas antioksidantti, ja auttaa ihoa sekä suojautumaan ympäristön haitallisilta vaikutuksilta että puhdistumaan niistä.
       Öljyn monityydyttymättömät rasvahapot suojaavat ihoa ja sen kosteustasapainoa, ja erityisesti linoleenihappo luonnollisena keramidina suojaa ja uudistaa ihon lipidikerrosta. 
       Mustakuminaöljyssä on luonnollinen, miellyttävä, mausteisen aromaattinen tuoksu. Suositellaan erityisesti hyvin kuivan, ärtyneen ja allergiaherkän ihon hoitoon. Erinomainen öljy myös päänahalle, avuksi esim. hiustenlähtöön ja -ohenemiseen."
@@ -47,7 +87,7 @@ fi:
 
     makikuisma: 
       header: "Luomu Mäkikuismaöljy"
-      sub_header: "<br><br> "
+      sub_header: " "
       main: "Ravitseva, ilahduttava, mielialaa kohottava luomuöljy. Uudistava ihoöljy, jolla on lämmittävä ja mieltä keventävä vaikutus. Mäkikuismaöljy tunnetaan suotuisista vaikutuksistaan mielialan ailahteluihin sekä depression ja alakulon oireisiin, ja se tasapainottaa myös iho-ongelmia, erityisen hyvin kuivaa ihoa. Valmistettu uuttamalla mäkikuisman kukkia luomulaatuiseen oliiviöljyyn. Huom. Valoherkkä - ei käytettäväksi suorassa auringonpaisteessa. "
       fact: "Valmistusaineet: kylmäpuristettu luomulaatuinen oliiviöljy, mäkikuisman kukat. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
       link: luomu-makikuismaoljy
