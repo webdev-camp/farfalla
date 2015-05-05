@@ -21,15 +21,16 @@ gem 'rack-attack'
 gem 'rails-i18n', '~> 4.0.0'
 
 group  :production do
-  gem "therubyracer" 
-  gem "libv8" 
+  gem "therubyracer"
+  gem "libv8"
   gem 'uglifier', '>= 1.3.0'
   gem "lograge"
 end
 
 group :development do
   gem "quiet_assets"
-  gem "better_errors"
+  gem "binding_of_caller" , :platform => [:mri_20 , :mri_21 , :mri_22]
+  gem "better_errors" , :platform => [:mri_20 , :mri_21 , :mri_22]
 end
 
 group :test do
