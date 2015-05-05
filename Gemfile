@@ -29,8 +29,8 @@ end
 
 group :development do
   gem "quiet_assets"
-  gem "binding_of_caller" , :platform => [:mri_20 , :mri_21 , :mri_22]
-  gem "better_errors" , :platform => [:mri_20 , :mri_21 , :mri_22]
+  gem "binding_of_caller" , :platform => [:mri_20 , :mri_21 ]
+  gem "better_errors" , :platform => [:mri_20 , :mri_21 ]
 end
 
 group :test do
