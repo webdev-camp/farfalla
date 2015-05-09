@@ -4,7 +4,7 @@ fi:
     header: Perusöljyt
     list: |-
        Luomulaatuisissa kasviöljyissä on korkea pitoisuus hyvälaatuisia omegahappoja. Hienot öljyt ravitsevat kasvojen ja vartalon ihoa sekä hiuksia ja päänahkaa – luonnollisesti ja hellävaraisesti. Löydä suosikkisi Farfallan laajasta valikoimasta. 
-    products: "argan aprikoosi avokado calendula granaatti helokki inkapahkina jojoba macadamia mustakumina makikuisma "
+    products: "argan aprikoosi avokado calendula granaatti helokki inkapahkina jojoba macadamia mustakumina makikuisma seesam villiruusu perus"
     sub_header: ""
     
     
@@ -91,6 +91,31 @@ fi:
       main: "Ravitseva, ilahduttava, mielialaa kohottava luomuöljy. Uudistava ihoöljy, jolla on lämmittävä ja mieltä keventävä vaikutus. Mäkikuismaöljy tunnetaan suotuisista vaikutuksistaan mielialan ailahteluihin sekä depression ja alakulon oireisiin, ja se tasapainottaa myös iho-ongelmia, erityisen hyvin kuivaa ihoa. Valmistettu uuttamalla mäkikuisman kukkia luomulaatuiseen oliiviöljyyn. Huom. Valoherkkä - ei käytettäväksi suorassa auringonpaisteessa. "
       fact: "Valmistusaineet: kylmäpuristettu luomulaatuinen oliiviöljy, mäkikuisman kukat. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
       link: luomu-makikuismaoljy
+
+    seesam: 
+      header: "Luomu Seesamöljy"
+      sub_header: " "
+      main: "Erittäin hyvin imeytyvä, kosteuttava ja ravitseva ihoöljy. Tehokas öljy erityisesti kuivuuteen taipuvan, väsyneen ja kalpean ihon tasapainottamiseen. <br>Koska seesamiöljy imeytyy todella nopeasti, se on erinomainen pohjaöljy aktiivisille ainesosille. Sisältämiensä fytosterolien ja linolihappojen ansiosta se uudistaa ihon lipidikerrosta.<br>
+      Seesamiöljy on ayurvedassa suosittu hierontaöljy, ja sillä on pitkät perinteet intialaisessa lääketieteessä."
+      fact: "Valmistusaineet: Luomuviljelty seesamöljy. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+      link: luomu-seesamoljy
+    
+    villiruusu: 
+      header: "Luomu Villiruusuöljy"
+      sub_header: " "
+      main: "Ajatonta kauneutta: ihana, tehokkaasti uudistava ihoöljy. Korkean alfalinoleenihappopitoisuutensa vuoksi villiruusuöljy auttaa ihoa uudistumaan. Sen sisältämä A-vitamiini edistää ihon omaa kollageenin tuotantoa ja parantaa kosteustasapainoa. Imeytyy nopeasti ja stimuloi solujen uusiutumista. Toimiva anti-ageing -kasvoöljy kuivan ja aikuisen ihon hoitoon. Erinomainen myös hilseilevän kuivan ihon hoitoon. Suositellaan käytettäväksi laimennettuna, esim. 20% villiruusuöljyä ja 80% manteliöljyä."
+      fact: "Valmistusaineet: luomuvilliruusuöljy, E-vitamiini. Sertifioitua luomukosmetiikkaa (NaTrue). Säilytä viileässä!  30ml"
+      link: luomu-villiruusuoljy
+
+    perus: 
+      header: "Luomu Perusöljy"
+      sub_header: " "
+      main: "Luomulaatuinen, hoitava perusöljy. Tuoksuneutraali öljypohja, joka on valmistettu luomulaatuisista jojoba-, auringonkukka- ja manteliöljyistä. Koostumus on täydellinen: luomuöljyjen suhteet ovat ideaalit hoito- ja hierontaöljyksi. Hieno, hoitava luomuöljy, josta voit esim. valmistaa omia, juuri sinulle mieluisia kasvo-, vartalo- ja hierontaöljyjä.
+      Käyttö omiin öljysekoituksiin: Lisää n. 1ml (20-30 tippaa) eteeristä öljyä tai tuoksusekoitusta öljypulloon ja sekoita hetken verran."
+      fact: "Valmistusaineet: luomulaatuiset jojoba-, auringonkukka- ja manteliöljy. 100ml"
+      link: luomu_perusoljy
+      
+      
 
 
 
