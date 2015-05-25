@@ -1,11 +1,12 @@
 # Block requests for php or cgi, jps and what else the people throw at us
 Rack::Attack.blacklist('block admin probes') do |req|
   # Request are blocked if the return value is truthy
+  block = false
   ["php" , "jsp" , "cgi", "asp", "cfm," "proxy.txt", "soapCaller", "Win32" , "HNAP1" , "w00tw00t",
     "pma" , "mysql" ,"msd" , "MySQL" , "jmx-console" , "ervlet" , "xml" , "cart" ,"install"].each do |no|
-    return true if  req.path.include?(no)
+    block = true if  req.path.include?(no)
   end
-  false
+  block
 end
 
 # Block requests from people clearly out to break servers
