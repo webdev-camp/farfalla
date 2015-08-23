@@ -2,55 +2,40 @@
 fi: 
   styling: 
     header: "Hiusten muotoilutuotteet"
+    sub_header: "Tyylikkäät, kauniit hiukset "
     list: |-
         Hiusten muotoilu käy erinomaisesti Farfallan sertifioiduilla luonnonkosmetiikkatuotteilla. Ne antavat hiuksiin ryhtiä, 
         auttavat kampauksen muotoilussa ja viimeistelyssä sekä suojaavat hiusta hoitavilla luonnon eliksiireillä.
     products: "st_mousse st_spray st_gel"
+
+
     st_mousse: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 150 ml"
       header: "Volyymi Muotovaahto"
-      inci: |-
-          Aqua, Olea europaea leaf extract *, sorbitol, alcohol, Coco-glucoside, beer, sodium Cocoyl glutamate,
-          Punica Granatum extract *, Aloe barbadensis leaf extract *, betaine, disodium Cocoyl glutamate, sodium PCA,
-          perfume, Hydrolyzed wheat protein, lactic acid, Citral *, Citronellol *, Geraniol *, linalool *, limonene
-          *. * certified organic * part of natural essential oils
-      ingredients: |-
-          vesi, oliivinlehtiuute, sugar alcohol, alkoholi, vegetable foam basis, granaattiomenan siemenuute, aloe
-          vera, sokerijuurikasuute, natriumsuola, mix natural essential oils, vehnäproteiini, maitohappo
-      link: volyymi-muotoiluvaahto
+      sub_header: "Volyymiä ja kiiltoa!"
       main: |-
           Pitoa, volyymia ja kiiltoa! Luonnollinen muotovaahto auttaa kampauksen muotoilussa, tukee kampauksen kestävyyttä ja tekee kauniin kiiltävät hiukset. Levitä pyyhekuiviin hiuksiin pesun jälkeen. 
-      sub_header: "Volyymiä ja kiiltoa!"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 150 ml"
+      link: volyymi-muotoiluvaahto
       
       
     st_spray: 
-      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 150 ml"
       header: Hiuskiinne
-      vegan: not
-      inci: |-
-          Alcohol, shellac, Aqua, Olea europaea leaf extract *, sorbitol, beer, Simmondsia chinensis seed oil *,
-          citrus aurantium Amara flower water *, Aloe barbadensis leaf extract *, sodium PCA, glycerin, Parfum,
-          Hydrolyzed wheat protein, Citral *, Citronellol *, Geraniol *, linalool *, limonene *. * certified organic
-          * part of natural essential oils
-      ingredients: |-
-          alkoholi, sellakka, vesi, oliiviuute*sorbitoli, olut, jojobaöljy, appelsiininkukkavesi, aloe vera, sodium
-          PCA, kasviglyseriini, mixture of natural essential oils, vehnäproteiini
-      link: hiuskiinne
+      sub_header: "Luonnollista suojaa hiuksille!"
       main: |-
           Luonnollinen ja joustava tuki kaikille hiuksille ja jokaiselle kampaukselle koko päiväksi! Hiuskiinne on hienojakoinen ja sen voi harjata helposti pois hiuksista. Miellyttävä, mieto tuoksu. Ei sisällä ponneaineita. 
-      sub_header: "Luonnollista suojaa hiuksille!"
+      fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 150 ml"
+      link: hiuskiinne
+      vegan: not
       
       
-    sub_header: "Tyylikkäät, kauniit hiukset "
     st_gel: 
       header: Muotoiluvoide
-      vegan: not
+      sub_header: "Pitoa ja tukea muotoiluun!"
       main: |-
           Pitävä, toimiva hiustenmuotoiluvoide vaativienkin kampausten muotoiluun. Mieto, hyvä ja luonnollinen tuoksu ja miellyttävä rakenne: ei tunnu hiuksissa tahmealta. Helppo kammata hiuksista pois. Sisältää luomulaatuista aloe veraa.  
-      sub_header: "Long-lasting hold"
       fact: "BDIH -sertifioitua luonnonkosmetiikkaa. Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 150 ml"
       link: muotoiluvoide
-      sub_header: "Pitoa ja tukea muotoiluun!"
+      vegan: not
       
       
       
