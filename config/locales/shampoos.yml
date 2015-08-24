@@ -11,7 +11,7 @@ fi:
 
     Sh_frangipani: 
       header: "Kiilto ja volyymi <br>Frangipani-Inkapähkinä Shampoo"
-      sub_header: "Vahvat, terveet hiukset"
+      sub_header: " "
       main: "Runsautta ja kiiltoa hennoille hiuksille. Uusi sokeri­ ruo ́osta ja sitruunasta saatu vaikuttaja­aine yhdessä inkapähkinäöljyn kanssa antaa hiuksille huomattavasti lisää runsautta ja hienoa silkinkiiltoa.
       Silminnähden tuuheammat hiuksesi tuoksuvat ihanille frangipanin kukille!"
       fact: "Natrue -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 200 ml"      
@@ -20,7 +20,7 @@ fi:
       
     Sh_granaatti: 
       header: "Päivittäiseen pesuun <br>Granaattiomenashampoo"
-      sub_header: "Vahvat, terveet hiukset"
+      sub_header: " "
       main: "Shampoo normaaleille hiuksille ja usein toistuvaan pesuun. Luomuviljellyn granaattiomenan tehoaineet suojaavat hiuksia kuivumiselta. Tekee hiuksista luonnolisen kiiltävät ja säilyttää kosteustasapainon – jopa päivittäisessä käytössä. Hiukset tuntuvat terveiltä ja helppohoitoisilta. Palkittu huipputuote ja yksi Farfallan myyntihiteistä!"
       fact: "Natrue -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 200 ml"      
       link: granaattiomena_shampoo
@@ -28,7 +28,7 @@ fi:
       
     Sh_iiris: 
       header: "Hellävarainen <br>Iiris-Candeia Shampoo"
-      sub_header: "Vahvat, terveet hiukset"
+      sub_header: " "
       main: "Shampoo herkkäihoisille ja lapsille. Kallisarvoisella bisabololilla, joka on uutettu Candeia ­puun kuoresta, on tulehdusta estävä vaikutus. Ruusun ja iiriksen uutteet rauhoittavat herkkää päänahkaa. Shampoossa on ihana tuoksu. Hiukset ovat terveet ja kauniit juuresta latvaan!"
       fact: "Natrue -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 200 ml"      
       link: iiris-candeia_shampoo
@@ -36,14 +36,14 @@ fi:
         
     Sh_kastanja: 
       header: "Korjaava <br>Kastanja-Jojoba Shampoo"
-      sub_header: "Vahvat, terveet hiukset"
+      sub_header: " "
       main: "Ravitseva shampoo kuiville ja hauraille hiuksille. Innovatiivinen vahvistava uute luomukastanjasta ja jojobapähkinästä palauttaa vahingoittuneille hiuksille niiden elastisuuden. Elinvoimaiset ja runsaat hiuksesi säihkyvät luonnollista kauneutta!"
       fact: "Natrue -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 200 ml"      
       link: kastanja-jojoba_shampoo
      
     Sh_manteli: 
       header: "Värjätyille hiuksille <br>Manteli-Saksanpähkinä Shampoo"
-      sub_header: "Vahvat, terveet hiukset"
+      sub_header: " "
       main: "Shampoo, joka on suunniteltu erityisesti värjätyille hiuksille. Vihreän saksanpähkinän antioksidantit suojaavat hiusta värjäyksen aiheuttamalta kuormitukselta. Väri pysyy kauniina, hiuksesi ovat sileät ja saavat hienon silkinkiillon!"
       fact: "Natrue -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 200 ml"      
       link: manteli-saksanpahkina_shampoo
@@ -51,7 +51,7 @@ fi:
       
     Sh_neem: 
       header: "Tasapainottava <br>Neem-Joazeiro Shampoo"
-      sub_header: "Vahvat, terveet hiukset"
+      sub_header: " "
       main: "Rauhoittava shampoo hilsettä vastaan. Tehokas apu kuivalle, hilseilevälle ja kutiavalle päänahalle. Sertifioitu brasilialaisen Joazeiro ­puun (Ziziphus Joazeiro) kuoresta saatu ainesosa ja neem ­uute hoitavat päänahkaa.
       Ei enää hilsettä – hiuksesi ovat kauniit ja olemuksesi huoliteltu!"
       fact: "Natrue -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, silikonia, SLS:aa, PEG -yhdisteitä eikä parabeeneja. 200 ml"      
