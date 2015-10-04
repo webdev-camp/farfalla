@@ -4,7 +4,7 @@ fi:
     header: Perusöljyt
     list: |-
        Luomulaatuisissa kasviöljyissä on korkea pitoisuus hyvälaatuisia omegahappoja. Hienot öljyt ravitsevat kasvojen ja vartalon ihoa sekä hiuksia ja päänahkaa – luonnollisesti ja hellävaraisesti. Löydä suosikkisi Farfallan laajasta valikoimasta. 
-    products: "argan aprikoosi avokado calendula granaatti helokki inkapahkina jojoba macadamia mustakumina makikuisma seesam villiruusu perus"
+    products: "argan aprikoosi avokado calendula centella granaatti helokki inkapahkina jojoba macadamia mustakumina makikuisma seesam villiruusu perus"
     sub_header: ""
     
     
@@ -37,6 +37,13 @@ fi:
       fact: "Valmistusaineet: luomulaatuinen auringonkukkaöljy, kehäkukan terälehdet. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
       link: luomu-Calendulaoljy
 
+    centella: 
+      header: "Luomu Centellaöljy"
+      sub_header: " "
+      main: "Ravitseva, ihoa vahvistava hoitoöljy kasvoille, vartalolle ja hiuksille. Erinomainen anti-age -öljy kasvoille. Vartalolle suositellaan tehokkaaksi avuksi selluliitin ja raskausarpien muodostumista vastaan. Edistää ihon sidekudoksen uusiutumista, jolloin iho tulee kiinteämmäksi ja elastisemmaksi. Centellaöljy tukee ja lisää ihon omaa, luonnollista kollageenin tuotantoa, heleyttää ihonväriä ja poistaa kireyden tunteen. Se myös edistää hiusten ja kynsien kasvua. Valmistettu Centella Asiaticasta uutettuna luomulaatuiseen auringonkukkaöljyyn. "
+      fact: "Valmistusaineet: luomulaatuinen auringonkukkaöljy, Centella Asiatica. Sertifioitua luomukosmetiikkaa (NaTrue). 30ml"
+      link: luomu-centellaoljy
+    
     granaatti: 
       header: "Luomu Granaattiomenan-siemenöljy"
       sub_header: " "
