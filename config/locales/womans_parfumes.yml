@@ -1,7 +1,7 @@
 --- 
 fi: 
   womans_parfumes: 
-    products: "swan nuvola anima marala shandrani aura"
+    products: "swan nuvola anima marala shandrani aura essence femme"
     header: "Eau de Parfum"
     sub_header: "Luomuparfyymit naisille"
     list: |-
@@ -52,3 +52,20 @@ fi:
       main: "Luomuparfyymi, jonka tuoksu on virkistävä, voimistava ja harmonisoiva. Lempeä kamomilla ja vihreä mänty sydäntuoksuina lisäävät turvallisuuden tunnetta ja maadoittavat. Frankinsensin ja väinönputken tasapainoittava vaikutus pyöristää tuoksun kokonaisuudeksi, joka suojelee ja auttaa asettamaan täsmällisemmät rajat."
       fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. 50 ml"
       link: aura
+
+    essence: 
+      header: Essence Divine
+      sub_header: " "
+      main: "Naisellinen, upean sensuelli kukkaistuoksu. Upea parfyymi kaikkein hienoimmista ja kallisarvoisimmista kukkaistuoksuista. Tuberosa, champaca, neroli, jasmiini ja osmanthus kruunaavat parfyymin käyttäjän hienostuneen ja sensuellin naisellisuuden hunnulla. Sitruunamelissa ja sukaattisitruuna antavat hedelmäistä raikkautta. 
+      Vanilja, ottoruusu, iiris ja ambran sävyt tuovat tuoksukokonaisuuteen luonnetta ja syvyyttä – feminiinisyyden mysteeriä.."
+      fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. 50 ml"
+      link: essence_divine
+    
+    femme: 
+      header: Femme Sauvage
+      sub_header: "  "
+      main: "Raikas, naisellinen tuoksu täynnä elämää! Hän vaeltaa halki metsien ja rakastaa seikkailua, luontoa ja yllätyksiä. Elämästä nauttivan, täysillä elävän naisen ihastuttava, luonnollinen ja naisellinen parfyymi. Raikas, kirpeän mausteinen ja samalla hienostuneen pehmeä tuoksu. 
+      Latvatuoksussa yhdistyvät raikkaat sitrukset ja neroli kirpeänvihreisiin väinönputken, orvokinlehtien ja roseepippurin sävyihin. Pehmeät santeli, iiris ja bentsoe pyöristävät tuoksujen harmonian upeaksi, hienostuneeksi kokonaisuudeksi."
+      fact: "100% luonnollisista aineista. Parfyymeilla on NaTrue -sertifikaatti. Sertifioitavista aineista 70% luomua. Luomuprosentti kaikista aineista on 98%. 50 ml"
+      link: femme_sauvage
+    
