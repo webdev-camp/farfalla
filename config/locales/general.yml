@@ -6,12 +6,12 @@ fi:
     menu_text: Vartalonhoito
     sub_menu: "silhouettemiracle intensefrangipani dailypleasure puresensitive"
   oljyt: 
-    menu_text: "Öljyt"
-    sub_menu: "perus amberstone jalokivi essential"
+    menu_text: "Öljyt ja kukkaisvedet"
+    sub_menu: "perus amberstone jalokivi essential kukkaisvedet"
   face_care: 
     main_header: " "
     menu_text: Kasvojenhoito
-    sub_menu: "daily_refresh in_balance intense_moisture age_miracle pure_sensitive be_beautiful aloe_shea travel_set ihonhoito-ohjelma kukkaisvedet"
+    sub_menu: "daily_refresh in_balance intense_moisture age_miracle pure_sensitive be_beautiful aloe_shea travel_set ihonhoito-ohjelma"
   ihonhoito-ohjelma:
     header: ihonhoito-ohjelma
   hair_care: 
