@@ -4,15 +4,14 @@ fi:
     header: Kukkaisvedet
     list: |-
        <b>Farfallan puhtaat, huippulaatuiset kukkaisvedet on valmistettu luomuviljellyistä kukkasista höyrytislaamalla.</b> Monipuoliset kukkaisvedet sopivat kasvojen- ja hiustenhoitoon, virkistäytymiseen, huonetuoksuiksi jne. <br><br>Kaikki voivat löytää juuri omalle iholleen sopivan, ihastuttavan kasvoveden: valikoimassa on mm. anti age -vaikuttavia, raikastavia, kosteuttavia, epäpuhtauksia tasapainottavia ja kirkastavia kukkaisvesiä.
-    products: "ruusu neroli"
+    products: "ruusu neroli melissa hamamelis immortelle laventeli minttu rosmariini tea_tree ylang"
     sub_header: ""
     
     ruusu: 
       header: "Luomu Ruusukukkaisvesi"
       sub_header: " "
-      main: "Luomulaatuinen, mieto, ihanasti tuoksuva kukkaisvesi. Valmistettu höyrytislaamalla luomuviljeltyjen ruusujen terälehdistä. Harmonisoi, kohottaa mielialaa ja lievittää jännityksiä ja stressiä. Ruusukukkaisvedellä on puhdistava, virkistävä, ihohuokosia supistava ja tasapainottava vaikutus. <br>Se myös uudistaa ihoa, hidastaa ikääntymisen vaikutuksia ja tasapainottaa herkkää päänahkaa. Erinomainen myös vauvan ihonhoidossa: rauhoittaa ärtynyttä pepun ihoa. Väsyneille ja ärtyneille silmille suositellaan ruusukukkaisvesihaudetta. <br> Käyttö: päivittäiseen ihonhoitoon kaikille ihotyypeille, huonetuoksuna, kompresseihin, tuoksusekoitusten, partavesien ja hiustenhoitotuotteiden valmistukseen."
-      fact: "Valmistusaineet: luomuviljelty damaskoksenruusu, merileväuute.<br>
-      Natrue -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
+      main: "Luomulaatuinen, mieto, ihanasti tuoksuva kukkaisvesi. Valmistettu höyrytislaamalla luomuviljeltyjen ruusujen terälehdistä. Harmonisoi, kohottaa mielialaa ja lievittää jännityksiä ja stressiä. Ruusukukkaisvedellä on puhdistava, virkistävä, ihohuokosia supistava ja tasapainottava vaikutus. <br>Se myös uudistaa ihoa, hidastaa ikääntymisen vaikutuksia ja tasapainottaa herkkää päänahkaa. Erinomainen myös vauvan ihonhoidossa: rauhoittaa ärtynyttä pepun ihoa. Väsyneille ja ärtyneille silmille suositellaan ruusukukkaisvesihaudetta. <br> Käyttö: päivittäiseen ihonhoitoon kaikille ihotyypeille, huonetuoksuna, kompresseihin, tuoksusekoitusten, partavesien ja hiustenhoitotuotteiden valmistukseen. Valmistusaineet: luomuviljelty damaskoksenruusu, merileväuute."
+      fact: "Natrue -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
       link: ruusukukkaisvesi
       
     neroli: 
@@ -21,3 +20,61 @@ fi:
       main: "Luomulaatuinen, raikas, ihanantuoksuinen kukkaisvesi. Valmistettu vastapoimituista luomuviljellyistä appelsiininkukista (Citrus Aurantium). <br>Appelsiininkukkavesi virkistää ja puhdistaa kasvojen ihoa ja tasapainottaa kuivaa ihoa. Raikastava, rentouttava kukkaisvesi, joka sopii kasvovedeksi erityisesti kuivalle tai ikääntyvälle iholle, virkistäytymiseen esimerkiksi matkustaessa, rauhoittaviin hauteisiin ja keväänraikkaisiin tuoksusekoituksiin. "
       fact: "NaTrue -sertifioitua luonnonkosmetiikkaa. Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
       link: appelsiininkukkavesi  
+    
+    melissa: 
+      header: "Luomu Sitruunamelissakukkaisvesi"
+      sub_header: " "
+      main: "Ihanan raikas kukkaisvesi. Sitruunamelissavesi puhdistaa ja kirkastaa ihoa, joten se on erinomainen kasvovesi rasvaiselle ja epäpuhtaalle iholle. Sillä on hellävaraisen desinfioiva vaikutus. Suositellaan myös hiusvedeksi, after shaveksi, hauteisiin ja kompresseihin sekä suun ja herkkien ja helposti rohtuvien huulten hoitoon. Uutettu sitruunamelissan lehdistä ja nupuista. Valmistusaineet: Melissa officinalis (Ranska), luomualkoholi."
+      fact: "NaTrue -sertifioitua luonnonkosmetiikkaa. Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
+      link: luomu_sitruunamelissakukkaisvesi
+    
+    hamamelis: 
+      header: "Luomu Hamameliskukkaisvesi"
+      sub_header: " "
+      main: "Luomulaatuinen, ihanan puhdistava ja raikas kukkaisvesi. Hamamelis kukkaisvesi supistaa ihohuokosia ja sopii kasvovedeksi erityisesti rasvaiselle tai epäpuhtaalle iholle. Se on myös erinomainen after shave. Valmistusaineet: Hamamelisvesi, luomualkoholi."
+      fact: "NaTrue -sertifioitua luonnonkosmetiikkaa. Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
+      link: hamamelis_kukkaisvesi
+    
+    immortelle: 
+      header: "Luomu Immortellekukkavesi"
+      sub_header: " "
+      main: "Ihastuttava luomulaatuinen anti-age kukkaisvesi. Immortellekukkaisvesi lisää ihon kollageenin tuotantoa. Immortelle (Helichrysum, suom. olkikukka) tunnetaan erinomaisena anti age -vaikuttaja-aineena kasvojenhoidossa. Immortellekukkaisveden tuoksu on lämmin ja hieman mausteinen, mutta huomattavasti miedompi ja hienovaraisempi kuin immortelle-eteerisen öljyn. Valmistusaineet: luomu immortellevesi, luomualkoholi."
+      fact: "NaTrue -sertifioitua luonnonkosmetiikkaa. Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
+      link: immortellekukkaisvesi
+    
+    laventeli: 
+      header: "Luomu Laventelikukkaisvesi"
+      sub_header: " "
+      main: "Luomulaatuinen, ihastuttava kukkaisvesi. Laventelikukkaisvesi sopii erityisen hyvin lempeäksi ja rauhoittavaksi kasvovedeksi kaikille ihotyypeille. Erinomainen myös hauteisiin ja hiusvedeksi (käytä 1–2 kertaa viikossa) sekä luonnollisiin tuoksusekoituksiin. "
+      fact: "NaTrue -sertifioitua luonnonkosmetiikkaa. Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
+      link: laventeli_kukkaisvesi
+    
+    minttu: 
+      header: "Luomu Piparminttukukkaisvesi"
+      sub_header: " "
+      main: "Ihanan raikas, miedontuoksuinen, piristävä ja viilentävä piparminttuvesi. Suihkaus luomulaatuista, raikasta piparminttuvettä elvyttää ja virkistää väsynyttä ihoa. Sopii hyvin kirkastavaksi ja puhdistavaksi kasvovedeksi epäpuhtaalle iholle. Ihastuttava viilentävänä suihkeena kasvoille ja kaulalle: raikastaa oloa kesähelteillä mutta on myös erinomainen apu kuumiin aaltoihin. Suun huuhtelu ja kurlaaminen piparminttuvedellä raikastaa hengityksen tehokkaasti ja luonnollisesti. Valmistusaineet: luomu piparminttuvesi, luomualkoholi."
+      fact: "NaTrue -sertifioitua luonnonkosmetiikkaa. Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
+      link: piparminttu_kukkaisvesi
+            
+    rosmariini: 
+      header: "Luomu Rosmariinikukkaisvesi"
+      sub_header: " "
+      main: "Ihana, raikkaantuoksuinen kukkaisvesi kasvoille ja hiuksille. Rosmariinikukkaisvesi puhdistaa ja kirkastaa nuorta ja epäpuhtauksiin taipuvaa ihoa. Sopii erinomaisesti myös hiusvedeksi, joka hoitaa ja vahvistaa päänahkaa ja aktivoi hiusten kasvua. Sisältää luomurosmariinikukkavettä sekä luomualkoholia."
+      fact: "NaTrue -sertifioitua luonnonkosmetiikkaa. Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
+      link: rosmariinikukkaisvesi
+    
+    tea_tree: 
+      header: "Luomu Tea tree -kukkaisvesi "
+      sub_header: " "
+      main: "Luomulaatuinen, raikas ja puhdistava kasvovesi erityisesti nuoren ihon, sekaihon ja akneen taipuvaisen ihon hoitoon. Farfallan Teepuuvesi puhdistaa, kirkastaa ja supistaa ihohuokosia. Nuoren ihon, sekaihon ja aknelle alttiin ihon päivittäiseen hoitoon sekä suun ja hiuspohjan hoitoon. Valmistettu höyryttämällä luomulaatuisista nuorista teepuunversoista."
+      fact: "NaTrue -sertifioitua luonnonkosmetiikkaa. Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
+      link: tea_tree_-kukkaisvesi
+    
+    ylang: 
+      header: "Luomu Ylang ylang -kukkaisvesi"
+      sub_header: " "
+      main: "Luomulaatuinen, mieto, hurmaavasti tuoksuva kukkaisvesi. Parantaa ihon kosteustasapainoa, raikastaa, virkistää ja hoitaa kalpeaa, väsynyttä tai stressaantunutta ihoa. Elvyttää päänahkaa, hoitaa hiuksia ja tuo niihin ihanan tuoksun. Käyttö: herkällekin iholle sopivana kasvovetenä, hiustuoksuna ja hiustenhoitosuihkeena. Lisää ihanantuoksuista, aistillista Ylang ylang -kukkaisvettä kylpyveteen tai käytä virkistävänä, mielialaa kohottavana suihkeena ja huonetuoksuna. Valmistettu höyrytislaamalla Madagaskarilla viljellystä luomulaatuisesta ylang ylangista (Cananga odorata)."
+      fact: "NaTrue -sertifioitua luonnonkosmetiikkaa. Ei sisällä synteettisiä hajusteita, väri- tai säilöntäaineita. 100 ml"
+      link: ylang_ylang_kukkaisvesi
+    
+             
