@@ -14,7 +14,7 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/office_clerk.git
-  revision: f822992515901e5772f78b5639d618d07ad008b6
+  revision: 4afbb0c8317817aa621c9ac6cce7226e2a705957
   specs:
     office_clerk (0.9)
       bcrypt-ruby (~> 3.1)
@@ -175,10 +175,6 @@ GEM
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
-    lograge (0.3.1)
-      actionpack (>= 3)
-      activesupport (>= 3)
-      railties (>= 3)
     lumberjack (1.0.9)
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
@@ -320,7 +316,6 @@ DEPENDENCIES
   i18n-spec
   json_pure
   libv8
-  lograge
   office_clerk!
   post_clerk!
   print_clerk!
