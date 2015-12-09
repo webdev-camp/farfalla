@@ -2,6 +2,70 @@
  *= require_self
 */
 
+// grid stuff
+
+$susy: layout(12 1/2 fluid float outside);
+
+
+.sixty {
+  float: left;
+  width: 60%;
+}
+
+.eighty {
+  float: left;
+  width:  70%;
+}
+
+.six {
+  float: left;
+  width:  14%;
+	padding-left: 7px;
+	padding-right: 7px;
+	text-decoration: center;
+}
+
+.seven {
+  float: left;
+  width:  10%;
+	padding-left: 0px;
+	padding-right: 2px;
+}
+
+
+.two {
+  width:  50%;
+  float: left;
+}
+
+.twoo {
+  width:  50%;
+  float: left;
+  margin-bottom: 10px;
+
+}
+
+.two-right {
+  width:  50%;
+  float: right;
+}
+
+.one {
+  width:  100%;
+  float: left;
+  	margin-bottom: 10px;
+}
+
+.three {
+  width: 30%;
+  float: left;
+  padding-right: 25px;
+}
+.four {
+  width: 22%;
+  float: left;
+  padding-right: 18px;
+}
 
 body
 {
@@ -85,8 +149,8 @@ text-align: left;
 font-style: italic;
 }
 
-ul.blu li 
-{ 
+ul.blu li
+{
 	font-size: 15px;
 	line-height:130%;
 	color: rgb(0, 132, 149);
@@ -101,7 +165,7 @@ hr {
 }
 
 .fact
-{ 
+{
   	font: 12px "Lucida Sans Unicode", Verdana, Helvetica, sans-serif;
 	line-height:120%;
 	color: black;
@@ -111,7 +175,7 @@ hr {
 }
 
 .link, .vegan
-{ 
+{
   	font: 12px "Lucida Sans Unicode", Verdana, Helvetica, sans-serif;
 	line-height:120%;
 	color: black;
@@ -162,7 +226,7 @@ list-style: none;
 margin: 0px;
 }
 
-#menu ul li.active 
+#menu ul li.active
 {
 color: black;
 }
@@ -255,7 +319,7 @@ padding-top: 50px;
 text-align: center;
 line-height: 18px;
 
-.footer-text { 
+.footer-text {
   	font: 12px "Lucida Sans Unicode", Verdana, Helvetica, sans-serif;
 	line-height:120%;
 	color: black;
@@ -285,73 +349,10 @@ margin-left: 80px;
 }
 
 
-.six {
-float: left;
-width:  14%;
-	padding-left: 7px;
-	padding-right: 7px;
-	text-decoration: center;
-}
-
-.seven {
-float: left;
-width:  10%;
-	padding-left: 0px;
-	padding-right: 2px;
-}
-
-
-.two {
-width:  50%;
-float: left;	
-}
-
-.twoo {
-width:  50%;
-float: left;
-margin-bottom: 10px;
-	
-}
-
-.two-right {
-width:  50%;
-float: right;	
-}
-
-.one {
-width:  100%;
-float: left;
-	margin-bottom: 10px;
-}
-
-
-.three {
-width: 30%;
-float: left;
-padding-right: 25px;
-}
-.four {
-width: 22%;
-float: left;
-padding-right: 18px;
-}
 .bottom {
 vertical-align: bottom;
 }
-.eighty {
-float: left;
-width:  70%;
-}
 
-.ninety {
-float: left;
-width:  90%;
-}
-
-div.sixty {
-float: left;
-width: 60%;
-}
 
 .taul {text-align: left;  font: .7em/1.0 Georgia, Serif; margin:auto;}
 .ots {vertical-align: top; width: 95px; border-top: 1px solid #000000; font-weight:bold;}
