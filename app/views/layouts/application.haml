@@ -18,15 +18,15 @@
       ga('create', 'UA-12603339-4', 'farfalla.fi');
       ga('send', 'pageview');
   %body
-    #main
-      #header
-        %ul#menu_bar
+    .main
+      .header
+        %ul.menu_bar
           - data("menu_bar").split.each do |menu|
             %li
               %a{:href => "/#{menu}.html"}= data(menu+'.menu_text')
         %hr/
-      #lcol
-        #menu
+      .lcol
+        .menu
           %ul
             - data("menu").split.each do |p|
               %li{:class => "menu #{raw  ' active' if params[:page] == p}"}
@@ -35,15 +35,13 @@
                 - data(p+'.sub_menu').split.each do |sub|
                   %li{:class => "sub_menu #{'active' if params[:page] == sub}"}
                     = link_to  data("#{sub}.header") , "/#{sub}.html"
-      #rcol
-        #rcontent
-          - if flash[:error]
-            .flash.errors= flash[:error]
-          - if flash[:notice]
-            .flash.notice= flash[:notice]
-          = yield
-        .divider
-      #footer
+      .rcol
+        - if flash[:error]
+          .flash.errors= flash[:error]
+        - if flash[:notice]
+          .flash.notice= flash[:notice]
+        = yield
+      .footer
         .kolmas
           =image_tag  "site/farfalla-logo.gif"
           .link

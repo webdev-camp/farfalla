@@ -15,7 +15,7 @@ gem 'db_fixtures_dump'  , github: "dancinglightning/db_fixtures_dump" #backup
 gem "json_pure"
 gem 'sqlite3'
 
-gem "susy"
+gem 'susy'
 
 #one wishes one would not need it. alas . . .
 gem 'rack-attack'
