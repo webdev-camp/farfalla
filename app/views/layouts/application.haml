@@ -20,41 +20,43 @@
   %body
     .main
       .header
+        .head_picture
+          =image_tag "site/header.jpg" , :width => "100%"
         %ul.menu_bar
           - data("menu_bar").split.each do |menu|
-            %li
+            %li.menu_item
               %a{:href => "/#{menu}.html"}= data(menu+'.menu_text')
-        %hr/
-      .lcol
-        .menu
-          %ul
-            - data("menu").split.each do |p|
-              %li{:class => "menu #{raw  ' active' if params[:page] == p}"}
-                = link_to  data(p+'.menu_text') , "/#{p}.html"
-              - if (data(p+'.sub_menu').index("missing") == nil) and (p == @page or data(p+'.sub_menu').index(@page) != nil)
-                - data(p+'.sub_menu').split.each do |sub|
-                  %li{:class => "sub_menu #{'active' if params[:page] == sub}"}
-                    = link_to  data("#{sub}.header") , "/#{sub}.html"
-      .rcol
-        - if flash[:error]
-          .flash.errors= flash[:error]
-        - if flash[:notice]
-          .flash.notice= flash[:notice]
-        = yield
-      .footer
-        .kolmas
-          =image_tag  "site/farfalla-logo.gif"
-          .link
-            %b> Farfalla
-            n toiminta on todellisesti eettistä.
-            Farfalla mm. toteuttaa hyväntekeväisyysprojekteja ja pitää huolta viljelijöistään.
-            %a{:href => "quality.html", :target => "blank"} Lue lisää
-            %br/
-            %br/
-            %b Maahantuonti ja lisätiedot
-            Auringosta Itään, Kuusta Länteen Tukku &nbsp;&nbsp;&nbsp;
-            %a{:href => "tukku.html", :target => "blank"} Yhteystiedot
-            %br/
+      .content
+        .lcol
+          .menu
+            %ul
+              - data("menu").split.each do |p|
+                %li{:class => "item#{raw  ' active' if params[:page] == p}"}
+                  = link_to  data(p+'.menu_text') , "/#{p}.html"
+                - if (data(p+'.sub_menu').index("missing") == nil) and (p == @page or data(p+'.sub_menu').index(@page) != nil)
+                  - data(p+'.sub_menu').split.each do |sub|
+                    %li{:class => "sub_menu #{'active' if params[:page] == sub}"}
+                      = link_to  data("#{sub}.header") , "/#{sub}.html"
+        .rcol
+          - if flash[:error]
+            .flash.errors= flash[:error]
+          - if flash[:notice]
+            .flash.notice= flash[:notice]
+          = yield
+        .footer
+          .kolmas
+            =image_tag  "site/farfalla-logo.gif"
+            .link
+              %b> Farfalla
+              n toiminta on todellisesti eettistä.
+              Farfalla mm. toteuttaa hyväntekeväisyysprojekteja ja pitää huolta viljelijöistään.
+              %a{:href => "quality.html", :target => "blank"} Lue lisää
+              %br/
+              %br/
+              %b Maahantuonti ja lisätiedot
+              Auringosta Itään, Kuusta Länteen Tukku &nbsp;&nbsp;&nbsp;
+              %a{:href => "tukku.html", :target => "blank"} Yhteystiedot
+              %br/
       .divider
       %br/
       %br/

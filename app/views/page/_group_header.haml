@@ -1,10 +1,9 @@
-.one
-  .eighty
-    %h1= raw  t(group +'.header')
-    %p
-      %em
-        = raw  t(group +'.sub_header')
-    %p
-      = raw  t(group +'.list')
-  .logo_right
-    =image_tag  "#{group}/logo.jpg"
+.eighty
+  %h1= raw  t(group +'.header')
+  %p
+    %em
+      = raw  t(group +'.sub_header')
+  %p
+    = raw  t(group +'.list')
+.twenty
+  =image_tag  "#{group}/logo.jpg"

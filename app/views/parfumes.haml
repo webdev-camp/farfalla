@@ -1,11 +1,10 @@
 = render :partial => "group_header" , :locals => {:group => "parfumes" }
 - ["womans_parfumes" , "body_sprays"].each do |group|
   .one
-    %h2
-      = raw  t("#{group}.header")
-    .four
+    .sixty
+      %h2
+        = raw  t("#{group}.header")
+      = raw  t("#{group}.list")
+    .fourty
       =link_to "/#{group}.html" do
         =image_tag "#{group}/logo.jpg"
-    .sixty
-      = raw  t("#{group}.list")
-  %br/

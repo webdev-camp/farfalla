@@ -6,68 +6,8 @@
 
 // grid stuff
 
-$susy: layout(12 1/2 fluid float outside);
+$susy: layout(12 1/2 fluid float center);
 
-
-.sixty {
-  float: left;
-  width: 60%;
-}
-
-.eighty {
-  float: left;
-  width:  70%;
-}
-
-.six {
-  float: left;
-  width:  14%;
-	padding-left: 7px;
-	padding-right: 7px;
-	text-decoration: center;
-}
-
-.seven {
-  float: left;
-  width:  10%;
-	padding-left: 0px;
-	padding-right: 2px;
-}
-
-
-.two {
-  width:  50%;
-  float: left;
-}
-
-.twoo {
-  width:  50%;
-  float: left;
-  margin-bottom: 10px;
-
-}
-
-.two-right {
-  width:  50%;
-  float: right;
-}
-
-.one {
-  width:  100%;
-  float: left;
-  	margin-bottom: 10px;
-}
-
-.three {
-  width: 30%;
-  float: left;
-  padding-right: 25px;
-}
-.four {
-  width: 22%;
-  float: left;
-  padding-right: 18px;
-}
 
 body
 {
@@ -93,7 +33,6 @@ a
   padding: 0;
   width: 100%;
   position: relative;
-  top: 220px;
   left: 200px;
 }
 
@@ -109,32 +48,23 @@ a
   display: block;
   float: left;
   margin: 0;
-  padding: 0px 16px;
+  padding: 5px 16px;
   text-decoration: none;
 }
-
 .menu_bar a:hover {
-  color: black;
-  padding-bottom: 8px;
+  color: grey;
 }
 
-
-.menu a:hover {
-  text-decoration: none;
-}
 
 strong {
   background: inherit;
   color: #50514D;
 }
 
-.header
-{
-  width: 100%;
-  height: 260px;
+.header {
+  @include span(12 of 12);
   background-color: #ffffff;
   color: #ffffff;
-  background:  image-url('site/header.jpg') no-repeat;
 }
 
 
@@ -190,50 +120,49 @@ hr {
 }
 
 .logo_right {
-float: right;
-padding-left: 15px;
-padding-right: 0px;
+  float: right;
+  padding-left: 15px;
+  padding-right: 0px;
 }
 
 .main
 {
-  @include container(90%);
-  padding-left: 100px;
+  @include container(85%);
   padding-top: 20px;
-  position: relative;
   padding-bottom: 10px;
 }
 
 
-.menu
-{
+.menu {
   padding: 0px;
+  line-height: 14px;
   font-weight: bold;
-
   display: block;
   position: relative;
-  margin-bottom: 1px;
   text-decoration: none;
   padding-top: 11px;
   color: #636363;
   font-size: 14px;
-}
-
-.menu ul
-{
-  list-style: none;
-  margin: 0px;
-}
-
-.menu ul li.active
-{
-  color: black;
-}
-
-
-.menu a:hover
-{
-  color: black;
+  a:hover {
+    color: grey;
+   text-decoration: none;
+ }
+ ul {
+   list-style: none;
+   margin: 0px;
+   padding-left: 0px;
+   li {
+     color: black;
+   }
+  }
+  .sub_menu {
+    left: 25px;
+    position: relative;
+    margin-bottom: 9px;
+  }
+  .item {
+    margin-bottom: 12px;
+  }
 }
 
 
@@ -268,6 +197,68 @@ h3.first {
 .rcol
 {
   @include span(last 10);
+
+  .sixty {
+    @include span(first 8);
+  }
+  .fourty {
+    @include span(last 4);
+  }
+
+  .eighty {
+    @include span(first 9);
+  }
+  .twenty {
+    @include span(last 3);
+  }
+
+  .six {
+    float: left;
+    width:  14%;
+  	padding-left: 7px;
+  	padding-right: 7px;
+  	text-decoration: center;
+  }
+
+  .seven {
+    float: left;
+    width:  10%;
+  	padding-left: 0px;
+  	padding-right: 2px;
+  }
+
+
+  .two {
+    width:  50%;
+    float: left;
+  }
+
+  .twoo {
+    width:  50%;
+    float: left;
+    margin-bottom: 10px;
+
+  }
+
+  .two-right {
+    width:  50%;
+    float: right;
+  }
+
+  .one {
+    @include span(100%);
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
+  .three {
+     @include gallery(4 of 12);
+  }
+
+  .four {
+    @include gallery(3 of 12);
+  }
+
 }
 
 .rcontent
@@ -300,7 +291,6 @@ vertical-align: baseline
 .footer
 {
   clear: both;
-  width: 1080px;
   padding-left: 10px;
   margin-bottom: 25px;
   padding-top: 50px;
@@ -317,13 +307,6 @@ vertical-align: baseline
   }
 }
 
-.sub_menu {
-left: 25px;
-position: relative;
-line-height: 14px;
-margin-bottom: 9px;
-
-}
 
 .left {
 	float:  left;
@@ -336,7 +319,7 @@ margin-left: 80px;
 
 
 .bottom {
-vertical-align: bottom;
+  vertical-align: bottom;
 }
 
 
