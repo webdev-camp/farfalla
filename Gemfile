@@ -26,6 +26,7 @@ group  :production do
   gem "therubyracer"
   gem "libv8"
   gem 'uglifier', '>= 1.3.0'
+  gem 'newrelic_rpm'
 end
 
 group :development do
