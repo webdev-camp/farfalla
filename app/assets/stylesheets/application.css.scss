@@ -65,6 +65,7 @@ strong {
   @include span(12 of 12);
   background-color: #ffffff;
   color: #ffffff;
+  margin-bottom: 7px;
 }
 
 
@@ -229,20 +230,11 @@ h3.first {
 
 
   .two {
-    width:  50%;
-    float: left;
-  }
-
-  .twoo {
-    width:  50%;
-    float: left;
-    margin-bottom: 10px;
-
+    @include span(first 6);
   }
 
   .two-right {
-    width:  50%;
-    float: right;
+    @include span(last 6);
   }
 
   .one {

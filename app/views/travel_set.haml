@@ -1,11 +1,10 @@
 = render :partial => "group_header" , :locals => {:group => "travel_set" }
 = render :partial => "one_header" , :locals => {:group => "travel_set" }
-.one
-  .two
-    %h3= raw  t('travel_set.travel_set.header')
-    = raw  t('travel_set.travel_set.main')
-    %br/
-    = render :partial => "link" , :locals => {:link => "travel_set.travel_set.link"  }
-  .logo_right
-    %p
-      =image_tag "travel_set/travel_set.jpg", {:alt => "feel beautiful travelset", :height => "140", :width => "300"}
+.two
+  %h3= raw  t('travel_set.travel_set.header')
+  = raw  t('travel_set.travel_set.main')
+  %br/
+  = render :partial => "link" , :locals => {:link => "travel_set.travel_set.link"  }
+.two-right
+  %p
+    =image_tag "travel_set/travel_set.jpg", {:alt => "feel beautiful travelset",  :width => "100%"}
