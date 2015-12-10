@@ -135,11 +135,11 @@ hr {
 
 
 .menu {
+  @include span(first 2);
   padding: 0px;
   line-height: 14px;
   font-weight: bold;
   display: block;
-  position: relative;
   text-decoration: none;
   padding-top: 11px;
   color: #636363;
@@ -189,10 +189,6 @@ h3 {
 
 h3.first {
   margin-top: 0px;
-}
-
-.lcol {
-  @include span(first 2);
 }
 
 .rcol
