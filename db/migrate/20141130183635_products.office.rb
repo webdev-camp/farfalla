@@ -4,9 +4,9 @@ class Products < ActiveRecord::Migration
     create_table :products do |t|
       t.float       :price      , :null => false
       t.string      :name       , :null => false
-      t.string      :link        
-      t.text        :description , :default => ""
-      t.text        :summary      , :default => ""
+      t.string      :link
+      t.text        :description
+      t.text        :summary
       t.attachment  :main_picture
       t.attachment  :extra_picture
       t.boolean     :online ,       :default => false
@@ -16,7 +16,7 @@ class Products < ActiveRecord::Migration
       t.float       :tax,           :default => 0.0
       t.integer     :inventory ,    :default => 0
       t.integer     :stock_level ,  :default => 0
-      t.string      :properties,    :default => ""
+      t.text        :properties
       t.string      :scode,         :default => ""
       t.date        :deleted_on
       t.references  :product,        index: true
