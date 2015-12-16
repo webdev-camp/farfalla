@@ -10547,10 +10547,10 @@ Basket_1181:
   id: 2712
   kori_id: 2607
   kori_type: Order
-  total_price: !ruby/object:BigDecimal 36:0.25758E3
-  total_tax: !ruby/object:BigDecimal 36:0.4985E2
+  total_price: !ruby/object:BigDecimal 36:0.28212E3
+  total_tax: !ruby/object:BigDecimal 36:0.546E2
   created_at: 2015-12-02 16:28:57.146137000 Z
-  updated_at: 2015-12-10 04:30:48.780228000 Z
+  updated_at: 2015-12-15 17:13:06.179472000 Z
 Basket_1182:
   id: 2713
   kori_id: 2608
@@ -10631,10 +10631,10 @@ Basket_1191:
   id: 2722
   kori_id: 2614
   kori_type: Order
-  total_price: !ruby/object:BigDecimal 36:0.38593E3
-  total_tax: !ruby/object:BigDecimal 36:0.747E2
+  total_price: !ruby/object:BigDecimal 36:0.33685E3
+  total_tax: !ruby/object:BigDecimal 36:0.652E2
   created_at: 2015-12-09 16:29:02.554559000 Z
-  updated_at: 2015-12-09 16:31:14.778145000 Z
+  updated_at: 2015-12-15 17:02:47.916572000 Z
 Basket_1192:
   id: 2723
   kori_id: 2615
@@ -10649,16 +10649,18 @@ Basket_1193:
   kori_type: Order
   total_price: !ruby/object:BigDecimal 36:0.1742E3
   total_tax: !ruby/object:BigDecimal 36:0.3372E2
+  locked: 2015-12-16
   created_at: 2015-12-09 16:36:30.834542000 Z
-  updated_at: 2015-12-09 16:36:55.057831000 Z
+  updated_at: 2015-12-16 06:14:02.689541000 Z
 Basket_1194:
   id: 2725
   kori_id: 2617
   kori_type: Order
   total_price: !ruby/object:BigDecimal 36:0.2451E3
   total_tax: !ruby/object:BigDecimal 36:0.4744E2
+  locked: 2015-12-15
   created_at: 2015-12-09 16:37:30.235015000 Z
-  updated_at: 2015-12-09 16:39:14.764500000 Z
+  updated_at: 2015-12-15 15:57:55.472535000 Z
 Basket_1195:
   id: 2726
   total_price: !ruby/object:BigDecimal 36:0.59153E3
@@ -10674,3 +10676,30 @@ Basket_1196:
   locked: 2015-12-10
   created_at: 2015-12-10 17:17:23.933217000 Z
   updated_at: 2015-12-10 17:27:39.619374000 Z
+Basket_1197:
+  id: 2728
+  kori_id: 2620
+  kori_type: Order
+  total_price: !ruby/object:BigDecimal 27:0.0
+  total_tax: !ruby/object:BigDecimal 27:0.0
+  locked: 2015-12-16
+  created_at: 2015-12-16 08:21:13.920775000 Z
+  updated_at: 2015-12-16 08:33:10.664114000 Z
+Basket_1198:
+  id: 2729
+  kori_id: 2621
+  kori_type: Order
+  total_price: !ruby/object:BigDecimal 36:0.35958E3
+  total_tax: !ruby/object:BigDecimal 27:0.0
+  locked: 2015-12-16
+  created_at: 2015-12-16 09:50:20.130766000 Z
+  updated_at: 2015-12-16 10:01:25.155307000 Z
+Basket_1199:
+  id: 2730
+  kori_id: 2622
+  kori_type: Order
+  total_price: !ruby/object:BigDecimal 36:0.222337E4
+  total_tax: !ruby/object:BigDecimal 36:0.43033E3
+  locked: 2015-12-16
+  created_at: 2015-12-16 10:40:26.442715000 Z
+  updated_at: 2015-12-16 10:48:57.641135000 Z

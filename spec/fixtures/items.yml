@@ -80080,16 +80080,6 @@ Item_8008:
   created_at: 2015-12-09 16:29:19.379501000 Z
   updated_at: 2015-12-09 16:30:52.545244000 Z
 Item_8009:
-  id: 10412
-  quantity: 6
-  price: 8.18
-  tax: 24.0
-  name: 'Frangipani-Inkapähkinä shampoo : 200ml'
-  product_id: 799
-  basket_id: 2722
-  created_at: 2015-12-09 16:29:31.502728000 Z
-  updated_at: 2015-12-09 16:30:52.548307000 Z
-Item_8010:
   id: 10413
   quantity: 6
   price: 8.18
@@ -80098,8 +80088,8 @@ Item_8010:
   product_id: 791
   basket_id: 2722
   created_at: 2015-12-09 16:29:41.721173000 Z
-  updated_at: 2015-12-09 16:30:52.551518000 Z
-Item_8011:
+  updated_at: 2015-12-15 17:02:47.914083000 Z
+Item_8010:
   id: 10414
   quantity: 5
   price: 8.31
@@ -80109,7 +80099,7 @@ Item_8011:
   basket_id: 2722
   created_at: 2015-12-09 16:29:49.338964000 Z
   updated_at: 2015-12-09 16:30:52.554579000 Z
-Item_8012:
+Item_8011:
   id: 10415
   quantity: 4
   price: 9.11
@@ -80119,7 +80109,7 @@ Item_8012:
   basket_id: 2722
   created_at: 2015-12-09 16:29:58.262209000 Z
   updated_at: 2015-12-09 16:30:52.557609000 Z
-Item_8013:
+Item_8012:
   id: 10416
   quantity: 4
   price: 8.62
@@ -80129,7 +80119,7 @@ Item_8013:
   basket_id: 2722
   created_at: 2015-12-09 16:30:13.336601000 Z
   updated_at: 2015-12-09 16:30:52.560633000 Z
-Item_8014:
+Item_8013:
   id: 10417
   quantity: 4
   price: 8.31
@@ -80139,7 +80129,7 @@ Item_8014:
   basket_id: 2722
   created_at: 2015-12-09 16:30:16.080021000 Z
   updated_at: 2015-12-09 16:30:52.563671000 Z
-Item_8015:
+Item_8014:
   id: 10418
   quantity: 4
   price: 13.02
@@ -80149,7 +80139,7 @@ Item_8015:
   basket_id: 2722
   created_at: 2015-12-09 16:30:23.621047000 Z
   updated_at: 2015-12-09 16:30:52.566812000 Z
-Item_8016:
+Item_8015:
   id: 10419
   quantity: 20
   price: 0.0
@@ -80159,7 +80149,7 @@ Item_8016:
   basket_id: 2722
   created_at: 2015-12-09 16:31:01.414959000 Z
   updated_at: 2015-12-09 16:31:14.772525000 Z
-Item_8017:
+Item_8016:
   id: 10420
   quantity: 20
   price: 0.0
@@ -80169,7 +80159,7 @@ Item_8017:
   basket_id: 2722
   created_at: 2015-12-09 16:31:05.457957000 Z
   updated_at: 2015-12-09 16:31:14.775805000 Z
-Item_8018:
+Item_8017:
   id: 10421
   quantity: 4
   price: 8.18
@@ -80179,7 +80169,7 @@ Item_8018:
   basket_id: 2723
   created_at: 2015-12-09 16:32:09.898642000 Z
   updated_at: 2015-12-09 16:34:10.877420000 Z
-Item_8019:
+Item_8018:
   id: 10422
   quantity: 10
   price: 8.25
@@ -80189,7 +80179,7 @@ Item_8019:
   basket_id: 2723
   created_at: 2015-12-09 16:32:25.821353000 Z
   updated_at: 2015-12-09 16:34:10.881855000 Z
-Item_8020:
+Item_8019:
   id: 10423
   quantity: 4
   price: 8.31
@@ -80199,7 +80189,7 @@ Item_8020:
   basket_id: 2723
   created_at: 2015-12-09 16:32:30.838083000 Z
   updated_at: 2015-12-09 16:34:10.884955000 Z
-Item_8021:
+Item_8020:
   id: 10424
   quantity: 4
   price: 9.11
@@ -80209,7 +80199,7 @@ Item_8021:
   basket_id: 2723
   created_at: 2015-12-09 16:32:39.521091000 Z
   updated_at: 2015-12-09 16:34:10.887998000 Z
-Item_8022:
+Item_8021:
   id: 10425
   quantity: 4
   price: 9.11
@@ -80219,7 +80209,7 @@ Item_8022:
   basket_id: 2723
   created_at: 2015-12-09 16:32:47.561259000 Z
   updated_at: 2015-12-09 16:34:10.891038000 Z
-Item_8023:
+Item_8022:
   id: 10426
   quantity: 1
   price: 33.48
@@ -80229,7 +80219,7 @@ Item_8023:
   basket_id: 2723
   created_at: 2015-12-09 16:32:57.774089000 Z
   updated_at: 2015-12-09 16:32:57.774089000 Z
-Item_8024:
+Item_8023:
   id: 10427
   quantity: 1
   price: 4.34
@@ -80239,7 +80229,7 @@ Item_8024:
   basket_id: 2723
   created_at: 2015-12-09 16:33:33.761645000 Z
   updated_at: 2015-12-09 16:33:33.761645000 Z
-Item_8025:
+Item_8024:
   id: 10428
   quantity: 20
   price: 0.0
@@ -80249,7 +80239,7 @@ Item_8025:
   basket_id: 2723
   created_at: 2015-12-09 16:33:40.290730000 Z
   updated_at: 2015-12-09 16:34:10.894121000 Z
-Item_8026:
+Item_8025:
   id: 10429
   quantity: 20
   price: 0.0
@@ -80259,7 +80249,7 @@ Item_8026:
   basket_id: 2723
   created_at: 2015-12-09 16:33:47.143546000 Z
   updated_at: 2015-12-09 16:34:10.896939000 Z
-Item_8027:
+Item_8026:
   id: 10431
   quantity: 10
   price: 8.31
@@ -80269,7 +80259,7 @@ Item_8027:
   basket_id: 2724
   created_at: 2015-12-09 16:36:38.518196000 Z
   updated_at: 2015-12-09 16:36:55.052623000 Z
-Item_8028:
+Item_8027:
   id: 10432
   quantity: 10
   price: 9.11
@@ -80279,7 +80269,7 @@ Item_8028:
   basket_id: 2724
   created_at: 2015-12-09 16:36:45.980447000 Z
   updated_at: 2015-12-09 16:36:55.055468000 Z
-Item_8029:
+Item_8028:
   id: 10433
   quantity: 2
   price: 21.08
@@ -80289,7 +80279,7 @@ Item_8029:
   basket_id: 2725
   created_at: 2015-12-09 16:37:43.438236000 Z
   updated_at: 2015-12-09 16:39:14.737341000 Z
-Item_8030:
+Item_8029:
   id: 10434
   quantity: 2
   price: 21.08
@@ -80299,7 +80289,7 @@ Item_8030:
   basket_id: 2725
   created_at: 2015-12-09 16:37:44.276758000 Z
   updated_at: 2015-12-09 16:39:14.744238000 Z
-Item_8031:
+Item_8030:
   id: 10435
   quantity: 6
   price: 9.11
@@ -80309,7 +80299,7 @@ Item_8031:
   basket_id: 2725
   created_at: 2015-12-09 16:37:53.160912000 Z
   updated_at: 2015-12-09 16:39:14.747324000 Z
-Item_8032:
+Item_8031:
   id: 10436
   quantity: 4
   price: 8.31
@@ -80319,7 +80309,7 @@ Item_8032:
   basket_id: 2725
   created_at: 2015-12-09 16:38:00.678213000 Z
   updated_at: 2015-12-09 16:39:14.750349000 Z
-Item_8033:
+Item_8032:
   id: 10437
   quantity: 4
   price: 9.11
@@ -80329,7 +80319,7 @@ Item_8033:
   basket_id: 2725
   created_at: 2015-12-09 16:38:10.320991000 Z
   updated_at: 2015-12-09 16:39:14.753352000 Z
-Item_8034:
+Item_8033:
   id: 10438
   quantity: 4
   price: 9.11
@@ -80339,7 +80329,7 @@ Item_8034:
   basket_id: 2725
   created_at: 2015-12-09 16:38:19.558277000 Z
   updated_at: 2015-12-09 16:39:14.756380000 Z
-Item_8035:
+Item_8034:
   id: 10439
   quantity: 20
   price: 0.0
@@ -80349,7 +80339,7 @@ Item_8035:
   basket_id: 2725
   created_at: 2015-12-09 16:38:43.254719000 Z
   updated_at: 2015-12-09 16:39:14.759468000 Z
-Item_8036:
+Item_8035:
   id: 10440
   quantity: 20
   price: 0.0
@@ -80359,7 +80349,7 @@ Item_8036:
   basket_id: 2725
   created_at: 2015-12-09 16:38:52.277699000 Z
   updated_at: 2015-12-09 16:39:14.762255000 Z
-Item_8037:
+Item_8036:
   id: 10441
   quantity: 2
   price: 25.42
@@ -80369,7 +80359,7 @@ Item_8037:
   basket_id: 2726
   created_at: 2015-12-09 16:41:07.048265000 Z
   updated_at: 2015-12-09 16:41:21.162547000 Z
-Item_8038:
+Item_8037:
   id: 10442
   quantity: 2
   price: 31.5
@@ -80379,7 +80369,7 @@ Item_8038:
   basket_id: 2726
   created_at: 2015-12-09 16:41:16.155839000 Z
   updated_at: 2015-12-09 16:41:18.836877000 Z
-Item_8039:
+Item_8038:
   id: 10443
   quantity: 1
   price: 17.36
@@ -80389,7 +80379,7 @@ Item_8039:
   basket_id: 2726
   created_at: 2015-12-09 16:41:41.418317000 Z
   updated_at: 2015-12-09 16:41:41.418317000 Z
-Item_8040:
+Item_8039:
   id: 10444
   quantity: 3
   price: 29.02
@@ -80399,7 +80389,7 @@ Item_8040:
   basket_id: 2726
   created_at: 2015-12-09 16:41:53.992426000 Z
   updated_at: 2015-12-09 16:41:58.918340000 Z
-Item_8041:
+Item_8040:
   id: 10445
   quantity: 1
   price: 19.22
@@ -80409,7 +80399,7 @@ Item_8041:
   basket_id: 2726
   created_at: 2015-12-09 16:42:12.605187000 Z
   updated_at: 2015-12-09 16:42:12.605187000 Z
-Item_8042:
+Item_8041:
   id: 10446
   quantity: 1
   price: 19.22
@@ -80419,7 +80409,7 @@ Item_8042:
   basket_id: 2726
   created_at: 2015-12-09 16:42:24.694662000 Z
   updated_at: 2015-12-09 16:42:24.694662000 Z
-Item_8043:
+Item_8042:
   id: 10447
   quantity: 1
   price: 11.53
@@ -80429,7 +80419,7 @@ Item_8043:
   basket_id: 2726
   created_at: 2015-12-09 16:42:33.460969000 Z
   updated_at: 2015-12-09 16:42:33.460969000 Z
-Item_8044:
+Item_8043:
   id: 10448
   quantity: 2
   price: 11.53
@@ -80439,7 +80429,7 @@ Item_8044:
   basket_id: 2726
   created_at: 2015-12-09 16:42:40.919240000 Z
   updated_at: 2015-12-09 16:42:43.365833000 Z
-Item_8045:
+Item_8044:
   id: 10449
   quantity: 1
   price: 13.89
@@ -80449,7 +80439,7 @@ Item_8045:
   basket_id: 2726
   created_at: 2015-12-09 16:42:53.985982000 Z
   updated_at: 2015-12-09 16:42:53.985982000 Z
-Item_8046:
+Item_8045:
   id: 10450
   quantity: 1
   price: 10.73
@@ -80459,7 +80449,7 @@ Item_8046:
   basket_id: 2726
   created_at: 2015-12-09 16:42:58.125165000 Z
   updated_at: 2015-12-09 16:42:58.125165000 Z
-Item_8047:
+Item_8046:
   id: 10451
   quantity: 1
   price: 13.95
@@ -80469,7 +80459,7 @@ Item_8047:
   basket_id: 2726
   created_at: 2015-12-09 16:43:14.404768000 Z
   updated_at: 2015-12-09 16:43:14.404768000 Z
-Item_8048:
+Item_8047:
   id: 10452
   quantity: 1
   price: 8.68
@@ -80479,7 +80469,7 @@ Item_8048:
   basket_id: 2726
   created_at: 2015-12-09 16:43:32.027282000 Z
   updated_at: 2015-12-09 16:43:32.027282000 Z
-Item_8049:
+Item_8048:
   id: 10453
   quantity: 1
   price: 0.0
@@ -80489,7 +80479,7 @@ Item_8049:
   basket_id: 2726
   created_at: 2015-12-09 16:43:34.518025000 Z
   updated_at: 2015-12-09 16:43:34.518025000 Z
-Item_8050:
+Item_8049:
   id: 10454
   quantity: 1
   price: 8.18
@@ -80499,7 +80489,7 @@ Item_8050:
   basket_id: 2726
   created_at: 2015-12-09 16:43:52.005501000 Z
   updated_at: 2015-12-09 16:43:52.005501000 Z
-Item_8051:
+Item_8050:
   id: 10455
   quantity: 1
   price: 8.18
@@ -80509,7 +80499,7 @@ Item_8051:
   basket_id: 2726
   created_at: 2015-12-09 16:43:57.102788000 Z
   updated_at: 2015-12-09 16:43:57.102788000 Z
-Item_8052:
+Item_8051:
   id: 10456
   quantity: 1
   price: 9.11
@@ -80519,7 +80509,7 @@ Item_8052:
   basket_id: 2726
   created_at: 2015-12-09 16:44:04.256598000 Z
   updated_at: 2015-12-09 16:44:04.256598000 Z
-Item_8053:
+Item_8052:
   id: 10457
   quantity: 1
   price: 9.11
@@ -80529,7 +80519,7 @@ Item_8053:
   basket_id: 2726
   created_at: 2015-12-09 16:44:11.956223000 Z
   updated_at: 2015-12-09 16:44:11.956223000 Z
-Item_8054:
+Item_8053:
   id: 10458
   quantity: 1
   price: 13.02
@@ -80539,7 +80529,7 @@ Item_8054:
   basket_id: 2726
   created_at: 2015-12-09 16:44:58.812475000 Z
   updated_at: 2015-12-09 16:44:58.812475000 Z
-Item_8055:
+Item_8054:
   id: 10459
   quantity: 1
   price: 16.68
@@ -80549,7 +80539,7 @@ Item_8055:
   basket_id: 2726
   created_at: 2015-12-09 16:45:06.394160000 Z
   updated_at: 2015-12-09 16:45:06.394160000 Z
-Item_8056:
+Item_8055:
   id: 10460
   quantity: 1
   price: 10.48
@@ -80559,7 +80549,7 @@ Item_8056:
   basket_id: 2726
   created_at: 2015-12-09 16:45:13.978030000 Z
   updated_at: 2015-12-09 16:45:13.978030000 Z
-Item_8057:
+Item_8056:
   id: 10461
   quantity: 1
   price: 10.04
@@ -80569,7 +80559,7 @@ Item_8057:
   basket_id: 2726
   created_at: 2015-12-09 16:45:20.182768000 Z
   updated_at: 2015-12-09 16:45:20.182768000 Z
-Item_8058:
+Item_8057:
   id: 10462
   quantity: 1
   price: 8.31
@@ -80579,7 +80569,7 @@ Item_8058:
   basket_id: 2726
   created_at: 2015-12-09 16:45:28.950869000 Z
   updated_at: 2015-12-09 16:45:28.950869000 Z
-Item_8059:
+Item_8058:
   id: 10463
   quantity: 1
   price: 8.31
@@ -80589,7 +80579,7 @@ Item_8059:
   basket_id: 2726
   created_at: 2015-12-09 16:46:54.197871000 Z
   updated_at: 2015-12-09 16:46:54.197871000 Z
-Item_8060:
+Item_8059:
   id: 10464
   quantity: 1
   price: 15.0
@@ -80599,7 +80589,7 @@ Item_8060:
   basket_id: 2726
   created_at: 2015-12-09 16:47:21.610695000 Z
   updated_at: 2015-12-09 16:47:21.610695000 Z
-Item_8061:
+Item_8060:
   id: 10465
   quantity: 2
   price: 15.0
@@ -80609,7 +80599,7 @@ Item_8061:
   basket_id: 2726
   created_at: 2015-12-09 16:47:27.201775000 Z
   updated_at: 2015-12-09 16:47:29.518254000 Z
-Item_8062:
+Item_8061:
   id: 10466
   quantity: 1
   price: 14.57
@@ -80619,7 +80609,7 @@ Item_8062:
   basket_id: 2726
   created_at: 2015-12-09 16:47:35.108743000 Z
   updated_at: 2015-12-09 16:47:35.108743000 Z
-Item_8063:
+Item_8062:
   id: 10467
   quantity: 1
   price: 14.88
@@ -80629,7 +80619,7 @@ Item_8063:
   basket_id: 2726
   created_at: 2015-12-09 16:48:01.046638000 Z
   updated_at: 2015-12-09 16:48:01.046638000 Z
-Item_8064:
+Item_8063:
   id: 10468
   quantity: 1
   price: 10.85
@@ -80639,7 +80629,7 @@ Item_8064:
   basket_id: 2726
   created_at: 2015-12-09 16:48:09.499011000 Z
   updated_at: 2015-12-09 16:48:09.499011000 Z
-Item_8065:
+Item_8064:
   id: 10469
   quantity: 2
   price: 9.67
@@ -80649,7 +80639,7 @@ Item_8065:
   basket_id: 2726
   created_at: 2015-12-09 16:49:09.461194000 Z
   updated_at: 2015-12-09 16:49:22.813784000 Z
-Item_8066:
+Item_8065:
   id: 10470
   quantity: 1
   price: 9.67
@@ -80659,7 +80649,7 @@ Item_8066:
   basket_id: 2726
   created_at: 2015-12-09 16:49:27.298542000 Z
   updated_at: 2015-12-09 16:49:27.298542000 Z
-Item_8067:
+Item_8066:
   id: 10471
   quantity: 1
   price: 9.67
@@ -80669,7 +80659,7 @@ Item_8067:
   basket_id: 2726
   created_at: 2015-12-09 16:49:33.003929000 Z
   updated_at: 2015-12-09 16:49:33.003929000 Z
-Item_8068:
+Item_8067:
   id: 10472
   quantity: 1
   price: 6.51
@@ -80679,7 +80669,7 @@ Item_8068:
   basket_id: 2726
   created_at: 2015-12-09 16:50:08.470242000 Z
   updated_at: 2015-12-09 16:50:08.470242000 Z
-Item_8069:
+Item_8068:
   id: 10473
   quantity: 1
   price: 21.08
@@ -80689,17 +80679,17 @@ Item_8069:
   basket_id: 2726
   created_at: 2015-12-09 16:51:05.804851000 Z
   updated_at: 2015-12-09 16:51:05.804851000 Z
-Item_8070:
+Item_8069:
   id: 10474
-  quantity: 1
+  quantity: 4
   price: 8.18
   tax: 24.0
   name: 'Iiris-Candeia shampoo : 200ml'
   product_id: 795
   basket_id: 2712
   created_at: 2015-12-10 04:30:48.772953000 Z
-  updated_at: 2015-12-10 04:30:48.772953000 Z
-Item_8071:
+  updated_at: 2015-12-15 17:13:06.176887000 Z
+Item_8070:
   id: 10475
   quantity: 2
   price: 31.5
@@ -80709,7 +80699,7 @@ Item_8071:
   basket_id: 2701
   created_at: 2015-12-10 11:26:38.465480000 Z
   updated_at: 2015-12-10 11:26:56.254703000 Z
-Item_8072:
+Item_8071:
   id: 10476
   quantity: 2
   price: 0.0
@@ -80719,7 +80709,7 @@ Item_8072:
   basket_id: 2727
   created_at: 2015-12-10 17:18:40.133723000 Z
   updated_at: 2015-12-10 17:27:08.385816000 Z
-Item_8073:
+Item_8072:
   id: 10477
   quantity: 2
   price: 0.0
@@ -80729,7 +80719,7 @@ Item_8073:
   basket_id: 2727
   created_at: 2015-12-10 17:23:13.376444000 Z
   updated_at: 2015-12-10 17:27:08.393363000 Z
-Item_8074:
+Item_8073:
   id: 10478
   quantity: 1
   price: 0.0
@@ -80739,7 +80729,7 @@ Item_8074:
   basket_id: 2727
   created_at: 2015-12-10 17:24:55.029412000 Z
   updated_at: 2015-12-10 17:27:08.397862000 Z
-Item_8075:
+Item_8074:
   id: 10479
   quantity: 1
   price: 0.0
@@ -80749,7 +80739,7 @@ Item_8075:
   basket_id: 2727
   created_at: 2015-12-10 17:25:00.501119000 Z
   updated_at: 2015-12-10 17:27:08.400981000 Z
-Item_8076:
+Item_8075:
   id: 10480
   quantity: 1
   price: 0.0
@@ -80759,7 +80749,7 @@ Item_8076:
   basket_id: 2727
   created_at: 2015-12-10 17:25:21.602816000 Z
   updated_at: 2015-12-10 17:27:08.404126000 Z
-Item_8077:
+Item_8076:
   id: 10481
   quantity: 1
   price: 0.0
@@ -80769,7 +80759,7 @@ Item_8077:
   basket_id: 2727
   created_at: 2015-12-10 17:25:34.847029000 Z
   updated_at: 2015-12-10 17:27:08.407226000 Z
-Item_8078:
+Item_8077:
   id: 10482
   quantity: 1
   price: 0.0
@@ -80779,7 +80769,7 @@ Item_8078:
   basket_id: 2727
   created_at: 2015-12-10 17:25:51.513230000 Z
   updated_at: 2015-12-10 17:27:08.410326000 Z
-Item_8079:
+Item_8078:
   id: 10483
   quantity: 1
   price: 0.0
@@ -80789,7 +80779,7 @@ Item_8079:
   basket_id: 2727
   created_at: 2015-12-10 17:26:12.095928000 Z
   updated_at: 2015-12-10 17:27:08.413469000 Z
-Item_8080:
+Item_8079:
   id: 10484
   quantity: 1
   price: 0.0
@@ -80799,7 +80789,7 @@ Item_8080:
   basket_id: 2727
   created_at: 2015-12-10 17:26:24.559283000 Z
   updated_at: 2015-12-10 17:27:08.416584000 Z
-Item_8081:
+Item_8080:
   id: 10485
   quantity: 1
   price: 0.0
@@ -80809,7 +80799,7 @@ Item_8081:
   basket_id: 2727
   created_at: 2015-12-10 17:26:34.796853000 Z
   updated_at: 2015-12-10 17:27:08.419818000 Z
-Item_8082:
+Item_8081:
   id: 10486
   quantity: 2
   price: 1.86
@@ -80819,7 +80809,7 @@ Item_8082:
   basket_id: 2719
   created_at: 2015-12-11 13:47:17.305397000 Z
   updated_at: 2015-12-11 13:47:49.279819000 Z
-Item_8083:
+Item_8082:
   id: 10487
   quantity: 2
   price: 1.86
@@ -80829,7 +80819,7 @@ Item_8083:
   basket_id: 2719
   created_at: 2015-12-11 13:49:08.723248000 Z
   updated_at: 2015-12-11 13:54:25.102501000 Z
-Item_8084:
+Item_8083:
   id: 10488
   quantity: 2
   price: 1.86
@@ -80839,7 +80829,7 @@ Item_8084:
   basket_id: 2719
   created_at: 2015-12-11 13:49:44.465408000 Z
   updated_at: 2015-12-11 13:54:25.106324000 Z
-Item_8085:
+Item_8084:
   id: 10489
   quantity: 2
   price: 1.86
@@ -80849,7 +80839,7 @@ Item_8085:
   basket_id: 2719
   created_at: 2015-12-11 13:50:05.720984000 Z
   updated_at: 2015-12-11 13:54:25.109974000 Z
-Item_8086:
+Item_8085:
   id: 10490
   quantity: 2
   price: 1.86
@@ -80859,7 +80849,7 @@ Item_8086:
   basket_id: 2719
   created_at: 2015-12-11 13:50:26.772006000 Z
   updated_at: 2015-12-11 13:51:09.802611000 Z
-Item_8087:
+Item_8086:
   id: 10491
   quantity: 2
   price: 1.86
@@ -80869,7 +80859,7 @@ Item_8087:
   basket_id: 2719
   created_at: 2015-12-11 13:54:04.103960000 Z
   updated_at: 2015-12-11 13:54:25.113624000 Z
-Item_8088:
+Item_8087:
   id: 10492
   quantity: 10
   price: 8.31
@@ -80879,3 +80869,303 @@ Item_8088:
   basket_id: 2719
   created_at: 2015-12-11 14:04:54.814048000 Z
   updated_at: 2015-12-11 14:05:10.668909000 Z
+Item_8088:
+  id: 10493
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Age Miracle Anti-age Silmänympärysseerumi
+  product_id: 330
+  basket_id: 2728
+  created_at: 2015-12-16 08:21:55.472272000 Z
+  updated_at: 2015-12-16 08:33:01.977440000 Z
+Item_8089:
+  id: 10494
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: daily pleasure Käsivoide
+  product_id: 506
+  basket_id: 2728
+  created_at: 2015-12-16 08:23:41.837112000 Z
+  updated_at: 2015-12-16 08:33:01.986815000 Z
+Item_8090:
+  id: 10495
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: daily pleasure Eau Fraîche
+  product_id: 503
+  basket_id: 2728
+  created_at: 2015-12-16 08:23:57.518388000 Z
+  updated_at: 2015-12-16 08:33:01.991233000 Z
+Item_8091:
+  id: 10496
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: daily pleasure Kauneusöljy
+  product_id: 504
+  basket_id: 2728
+  created_at: 2015-12-16 08:24:01.476267000 Z
+  updated_at: 2015-12-16 08:33:01.995126000 Z
+Item_8092:
+  id: 10497
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Ihoöljy Kolme ruusua
+  product_id: 474
+  basket_id: 2728
+  created_at: 2015-12-16 08:24:04.616504000 Z
+  updated_at: 2015-12-16 08:33:02.005395000 Z
+Item_8093:
+  id: 10498
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Uomo Luonnollinen Eau Fraîche
+  product_id: 693
+  basket_id: 2728
+  created_at: 2015-12-16 08:24:39.080802000 Z
+  updated_at: 2015-12-16 08:33:02.009628000 Z
+Item_8094:
+  id: 10499
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: 'Neem-Joazeiro shampoo : 200ml'
+  product_id: 789
+  basket_id: 2728
+  created_at: 2015-12-16 08:27:26.985349000 Z
+  updated_at: 2015-12-16 08:33:02.013380000 Z
+Item_8095:
+  id: 10500
+  quantity: 2
+  price: 0.0
+  tax: 24.0
+  name: 'Iiris-Candeia shampoo : 200ml'
+  product_id: 795
+  basket_id: 2728
+  created_at: 2015-12-16 08:27:29.843431000 Z
+  updated_at: 2015-12-16 08:33:02.017139000 Z
+Item_8096:
+  id: 10501
+  quantity: 3
+  price: 0.0
+  tax: 24.0
+  name: Muotoileva Hoitovaahto
+  product_id: 365
+  basket_id: 2728
+  created_at: 2015-12-16 08:28:00.151628000 Z
+  updated_at: 2015-12-16 08:33:02.020858000 Z
+Item_8097:
+  id: 10502
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Volyymi Muotovaahto
+  product_id: 366
+  basket_id: 2728
+  created_at: 2015-12-16 08:28:02.912089000 Z
+  updated_at: 2015-12-16 08:33:02.024553000 Z
+Item_8098:
+  id: 10503
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Daily Refresh Puhdistusvaahto
+  product_id: 318
+  basket_id: 2728
+  created_at: 2015-12-16 08:28:56.609710000 Z
+  updated_at: 2015-12-16 08:33:02.028276000 Z
+Item_8099:
+  id: 10504
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Jojobaöljy 75ml luomu
+  product_id: 619
+  basket_id: 2728
+  created_at: 2015-12-16 08:29:13.427554000 Z
+  updated_at: 2015-12-16 08:33:02.031954000 Z
+Item_8100:
+  id: 10505
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Manteliöljy 75ml luomu
+  product_id: 605
+  basket_id: 2728
+  created_at: 2015-12-16 08:29:16.665450000 Z
+  updated_at: 2015-12-16 08:33:02.035658000 Z
+Item_8101:
+  id: 10506
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Aprikoosinsiemenöljy 75ml luomu
+  product_id: 574
+  basket_id: 2728
+  created_at: 2015-12-16 08:29:20.735840000 Z
+  updated_at: 2015-12-16 08:33:02.039338000 Z
+Item_8102:
+  id: 10507
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Avokadoöljy 75ml luomu
+  product_id: 620
+  basket_id: 2728
+  created_at: 2015-12-16 08:29:25.103252000 Z
+  updated_at: 2015-12-16 08:33:02.043036000 Z
+Item_8103:
+  id: 10508
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Age Miracle Anti-age Päivävoide
+  product_id: 328
+  basket_id: 2728
+  created_at: 2015-12-16 08:29:49.158899000 Z
+  updated_at: 2015-12-16 08:33:02.046719000 Z
+Item_8104:
+  id: 10509
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: intense frangipani Vartalovoi
+  product_id: 513
+  basket_id: 2728
+  created_at: 2015-12-16 08:29:56.182659000 Z
+  updated_at: 2015-12-16 08:33:02.050462000 Z
+Item_8105:
+  id: 10510
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: intense frangipani Eau Fraîche
+  product_id: 510
+  basket_id: 2728
+  created_at: 2015-12-16 08:30:00.751953000 Z
+  updated_at: 2015-12-16 08:33:02.054154000 Z
+Item_8106:
+  id: 10511
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: intense frangipani Kauneusöljy
+  product_id: 514
+  basket_id: 2728
+  created_at: 2015-12-16 08:30:04.847162000 Z
+  updated_at: 2015-12-16 08:33:02.057843000 Z
+Item_8107:
+  id: 10512
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Eau de Parfum Shandrani
+  product_id: 432
+  basket_id: 2728
+  created_at: 2015-12-16 08:30:11.060312000 Z
+  updated_at: 2015-12-16 08:33:02.061557000 Z
+Item_8108:
+  id: 10513
+  quantity: 2
+  price: 0.0
+  tax: 24.0
+  name: Luomu huonespray Fresh – Raikkautta
+  product_id: 374
+  basket_id: 2728
+  created_at: 2015-12-16 08:30:36.005906000 Z
+  updated_at: 2015-12-16 08:33:02.065258000 Z
+Item_8109:
+  id: 10514
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Luomu huonespray Joy of life – Iloa elämään!
+  product_id: 376
+  basket_id: 2728
+  created_at: 2015-12-16 08:30:40.647125000 Z
+  updated_at: 2015-12-16 08:33:02.068983000 Z
+Item_8110:
+  id: 10515
+  quantity: 2
+  price: 0.0
+  tax: 24.0
+  name: Luomu huonespray Atmosphere
+  product_id: 558
+  basket_id: 2728
+  created_at: 2015-12-16 08:31:01.056764000 Z
+  updated_at: 2015-12-16 08:33:02.072647000 Z
+Item_8111:
+  id: 10516
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Luomu huonespray Aura
+  product_id: 659
+  basket_id: 2728
+  created_at: 2015-12-16 08:32:34.988853000 Z
+  updated_at: 2015-12-16 08:33:02.076394000 Z
+Item_8112:
+  id: 10517
+  quantity: 1
+  price: 0.0
+  tax: 24.0
+  name: Luomu huonespray Talvitaika
+  product_id: 563
+  basket_id: 2728
+  created_at: 2015-12-16 08:32:38.682754000 Z
+  updated_at: 2015-12-16 08:33:02.080080000 Z
+Item_8113:
+  id: 10518
+  quantity: 1
+  price: 322.58
+  tax: 0.0
+  name: Ilmalämpöpumpun asennus alihankinta
+  product_id: 842
+  basket_id: 2729
+  created_at: 2015-12-16 09:50:33.175306000 Z
+  updated_at: 2015-12-16 09:50:33.175306000 Z
+Item_8114:
+  id: 10519
+  quantity: 1
+  price: 37.0
+  tax: 0.0
+  name: Maatukiteline + kivilaatat alihankinta
+  product_id: 843
+  basket_id: 2729
+  created_at: 2015-12-16 09:50:35.063971000 Z
+  updated_at: 2015-12-16 09:50:35.063971000 Z
+Item_8115:
+  id: 10520
+  quantity: 29
+  price: 37.2
+  tax: 24.0
+  name: Lvi-työ
+  product_id: 524
+  basket_id: 2730
+  created_at: 2015-12-16 10:40:32.618803000 Z
+  updated_at: 2015-12-16 10:42:21.521212000 Z
+Item_8116:
+  id: 10521
+  quantity: 1
+  price: 995.77
+  tax: 24.0
+  name: Lvi-Tarvikkeet
+  product_id: 525
+  basket_id: 2730
+  created_at: 2015-12-16 10:40:37.414855000 Z
+  updated_at: 2015-12-16 10:41:57.812903000 Z
+Item_8117:
+  id: 10522
+  quantity: 8
+  price: 18.6
+  tax: 24.0
+  name: Matkatunnit
+  product_id: 721
+  basket_id: 2730
+  created_at: 2015-12-16 10:40:41.526295000 Z
+  updated_at: 2015-12-16 10:42:39.843554000 Z

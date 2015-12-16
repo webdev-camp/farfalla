@@ -19796,6 +19796,7 @@ Order_1085:
   number: R201532591
   email: kari_kankaanranta@hotmail.fi
   ordered_on: 2015-12-09
+  paid_on: 2015-12-15
   shipped_on: 2015-12-09
   shipment_price: 0.0
   shipment_tax: 0.0
@@ -19805,7 +19806,7 @@ Order_1085:
     city: '02170 Espoo  '
     phone: 040 552 8946
   created_at: 2015-12-09 05:01:34.008201000 Z
-  updated_at: 2015-12-09 16:39:50.339666000 Z
+  updated_at: 2015-12-15 07:35:01.320816000 Z
   note: Pihan sähkötyöt, mm vikavirtasuojan asennus 7.9.
 Order_1086:
   id: 2613
@@ -19860,6 +19861,7 @@ Order_1089:
   number: R201532595
   email: satu.ypya@gmail.com
   ordered_on: 2015-12-09
+  shipped_on: 2015-12-16
   shipment_type: Business_14
   shipment_price: 12.0
   shipment_tax: 24.0
@@ -19869,13 +19871,14 @@ Order_1089:
     city: 94100 Kemi
     phone: 044 532 0627
   created_at: 2015-12-09 16:36:31.046128000 Z
-  updated_at: 2015-12-09 16:37:03.189421000 Z
+  updated_at: 2015-12-16 06:14:02.831864000 Z
   note: ''
 Order_1090:
   id: 2617
   number: R201532596
   email: paivi.takkunen@hiusmeri.com
   ordered_on: 2015-12-09
+  shipped_on: 2015-12-15
   shipment_type: Business_14
   shipment_price: 12.7
   shipment_tax: 24.0
@@ -19885,7 +19888,7 @@ Order_1090:
     city: 92130 Raahe
     phone: 082239730
   created_at: 2015-12-09 16:37:30.764437000 Z
-  updated_at: 2015-12-09 16:39:22.771222000 Z
+  updated_at: 2015-12-15 15:57:55.832247000 Z
   note: ''
 Order_1091:
   id: 2618
@@ -19915,4 +19918,50 @@ Order_1092:
     phone: 0407368636
   created_at: 2015-12-11 13:57:23.490706000 Z
   updated_at: 2015-12-11 14:04:08.982694000 Z
+  note: ''
+Order_1093:
+  id: 2620
+  number: R201532599
+  email: raisa@villataika.fi
+  ordered_on: 2015-12-16
+  paid_on: 2015-12-16
+  shipped_on: 2015-12-16
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2015-12-16 08:33:10.662317000 Z
+  updated_at: 2015-12-16 08:33:10.662317000 Z
+  note: ''
+Order_1094:
+  id: 2621
+  number: R201532600
+  email: mikael.nissi@lampopro.fi
+  ordered_on: 2015-12-16
+  shipped_on: 2015-12-16
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Suomen Lämpö-PRO Oy / Mikael Nissi
+    street: 'Turuntie 5 '
+    city: '24100 Salo '
+    phone: 0400 481 297
+  created_at: 2015-12-16 09:50:20.357768000 Z
+  updated_at: 2015-12-16 10:01:25.305734000 Z
+  note: Ilmalämpöpumpun asennus 14.12.2015. Carl Nyman, Tenholantie 252 B, 10620 Tammisaari.
+    Mitsubishi Electric SF-35.
+Order_1095:
+  id: 2622
+  number: R201532601
+  email: pettersen.geir@yahoo.fi
+  ordered_on: 2015-12-16
+  shipped_on: 2015-12-16
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Geir Pettersen  '
+    street: 'Kaukelantie 199 '
+    city: '03830 Pusula  '
+    phone: 0505692704
+  created_at: 2015-12-16 10:40:26.698469000 Z
+  updated_at: 2015-12-16 10:48:57.792844000 Z
   note: ''
