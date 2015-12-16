@@ -198,6 +198,7 @@ GEM
     mini_portile2 (2.0.0)
     minitest (5.8.3)
     multi_json (1.11.2)
+    mysql2 (0.3.20)
     nenv (0.2.0)
     newrelic_rpm (3.14.1.311)
     nokogiri (1.6.7)
@@ -345,6 +346,7 @@ DEPENDENCIES
   i18n-spec
   json_pure
   libv8
+  mysql2 (~> 0.3.13)
   newrelic_rpm
   office_clerk!
   post_clerk!

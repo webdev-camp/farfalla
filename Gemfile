@@ -27,6 +27,7 @@ group  :production do
   gem "libv8"
   gem 'uglifier', '>= 1.3.0'
   gem 'newrelic_rpm'
+  gem "mysql2" , "~> 0.3.13"
 end
 
 group :development do
