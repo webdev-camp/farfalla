@@ -7,7 +7,7 @@ Clerk_1:
   password_salt: HS7M87EV0tu6k7FmUILs
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Blomsterhörnan -
-    street: ! 'Erottajankatu 11 '
+    street: 'Erottajankatu 11 '
     city: 10600 Tammisaari
     phone: 0192461881
   created_at: 2011-01-11 18:58:33.000000000 Z
@@ -19,7 +19,7 @@ Clerk_2:
   password_salt: 1OLcN2PZDD2wvx2RSWC7
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kaivokukka Asematunneli / Trollius Oy
-    street: ! 'Heteniityntie 1C 19 '
+    street: 'Heteniityntie 1C 19 '
     city: 00960 Helsinki
     phone: 020 752 8580
   created_at: 2011-01-11 19:09:09.000000000 Z
@@ -31,7 +31,7 @@ Clerk_3:
   password_salt: xAQWyiWyXmPSYUPygx2a
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa  Puntti
-    street: ! 'Kylänvanhimmantie 12 A '
+    street: 'Kylänvanhimmantie 12 A '
     city: 00640 Helsinki
     phone: 040 747 4443
   created_at: 2011-01-12 06:49:56.000000000 Z
@@ -43,7 +43,7 @@ Clerk_4:
   password_salt: ysEG9xAD0wxjdlbOTh5l
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kaivokukka Iso Omena
-    street: ! ' Jaati-Set Oy Maapallonkuja 2 C 61'
+    street: " Jaati-Set Oy Maapallonkuja 2 C 61"
     city: 02210 ESPOO
     phone: 041 505 6023
   created_at: 2011-01-13 15:22:57.000000000 Z
@@ -55,7 +55,7 @@ Clerk_5:
   password_salt: o0ikO0tuSh692yfxASq7
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Living Room
-    street: ! 'Iso Roobertinkatu 3-5 '
+    street: 'Iso Roobertinkatu 3-5 '
     city: 00120 Helsinki
     phone: 09-647664
   created_at: 2011-01-13 15:24:58.000000000 Z
@@ -67,7 +67,7 @@ Clerk_6:
   password_salt: EsjnOvxL3XaqXPn9NzQE
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Cawell
-    street: ! 'Oksasenkatu 6 '
+    street: 'Oksasenkatu 6 '
     city: 00100 Helsinki
     phone: 09-494342
   created_at: 2011-01-13 15:35:15.000000000 Z
@@ -79,7 +79,7 @@ Clerk_7:
   password_salt: TOe589d6HunBrIqIl02f
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Töölöntorin Kukka  Auringonraita Oy
-    street: ! 'Tykistönkatu 9 '
+    street: 'Tykistönkatu 9 '
     city: 00260 Helsinki
     phone: 09498899
   created_at: 2011-01-13 15:35:49.000000000 Z
@@ -91,7 +91,7 @@ Clerk_8:
   password_salt: KE3DU5rCt84GYnoF6Nns
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Cyclamen
-    street: ! 'Eino Leinon katu 12 '
+    street: 'Eino Leinon katu 12 '
     city: 00250 Helsinki
     phone: 09-406796
   created_at: 2011-01-13 15:37:14.000000000 Z
@@ -103,7 +103,7 @@ Clerk_9:
   password_salt: JjWbYLxQGAC0JaJinrsX
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukka-Bukett Lasipalatsi
-    street: ! 'Mannerheimintie 22 '
+    street: 'Mannerheimintie 22 '
     city: 00100 Helsinki
     phone: 09-680 2231
   created_at: 2011-01-13 15:39:58.000000000 Z
@@ -115,7 +115,7 @@ Clerk_10:
   password_salt: 8i6jEKCa51atm8CoAW8Z
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Blomsteraffär Anelli
-    street: ! 'Asemakatu 8 '
+    street: 'Asemakatu 8 '
     city: 10600 Tammisaari
     phone: 019-2412200
   created_at: 2011-01-13 15:40:41.000000000 Z
@@ -127,7 +127,7 @@ Clerk_11:
   password_salt: 00J6v28ALKqVRxq8xxWT
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Punakukka
-    street: ! 'Punavuorenkatu 2 '
+    street: 'Punavuorenkatu 2 '
     city: 00120 Helsinki
     phone: 09-638 216
   created_at: 2011-01-15 11:30:38.000000000 Z
@@ -139,7 +139,7 @@ Clerk_12:
   password_salt: iOVGxirABBddMM7Yl9mP
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Sadun Kukka
-    street: ! 'Hollantilaisentie 32 '
+    street: 'Hollantilaisentie 32 '
     city: 00330 Helsinki
     phone: 09487435
   created_at: 2011-01-15 11:31:22.000000000 Z
@@ -163,7 +163,7 @@ Clerk_14:
   password_salt: j0FmBEaGBQ7IYCETVzl5
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Sisustusliike Zaza
-    street: ! 'Annankatu 23 '
+    street: 'Annankatu 23 '
     city: 00100 Helsinki
     phone: 09-2510 100
   created_at: 2011-01-24 03:19:05.000000000 Z
@@ -175,7 +175,7 @@ Clerk_15:
   password_salt: y8OHu5ntovabiEIvvqWd
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Sisustusliike Zarro
-    street: ! 'Fredrikinkatu 37 '
+    street: 'Fredrikinkatu 37 '
     city: 00120 Helsinki
     phone: 09-603 806
   created_at: 2011-01-24 03:25:20.000000000 Z
@@ -187,7 +187,7 @@ Clerk_16:
   password_salt: 6buNvIbJDeeyzeZjtelJ
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Werthmannin Kukkakauppa
-    street: ! 'Kauppiaankatu 18 '
+    street: 'Kauppiaankatu 18 '
     city: 10300 Karjaa
     phone: 019-230 186
   created_at: 2011-01-25 13:31:06.000000000 Z
@@ -199,7 +199,7 @@ Clerk_17:
   password_salt: M9nBx4teD0EpWg0QzkpN
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Smart & Fresh Food pieni ruokakauppa
-    street: ! 'Tapiontori 3 '
+    street: 'Tapiontori 3 '
     city: 02100 Espoo
     phone: 09-520 172
   created_at: 2011-01-25 14:38:25.000000000 Z
@@ -211,7 +211,7 @@ Clerk_18:
   password_salt: Bby5dWG5iyuHxE9OGi36
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakaari Lippulaiva
-    street: ! 'Espoonlahdenkatu 4 '
+    street: 'Espoonlahdenkatu 4 '
     city: 02320 Espoo
     phone: 0981961520
   created_at: 2011-08-19 17:18:08.000000000 Z
@@ -223,7 +223,7 @@ Clerk_19:
   password_salt: DAcB6fLhPmE3Ffq9vzLJ
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kaivokukka Kannelmäki  / Hanna Karjalainen
-    street: ! 'Lapinrinne 2A 10 '
+    street: 'Lapinrinne 2A 10 '
     city: 00180 Helsinki
     phone: 0503408467
   created_at: 2011-01-30 18:17:38.000000000 Z
@@ -235,9 +235,9 @@ Clerk_20:
   password_salt: jx7qjPsxgiFr5OZOeCo9
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukka-Shop  Rosa
-    street: ! 'Vähäkirkkokatu 10 '
+    street: 'Vähäkirkkokatu 10 '
     city: 26100 Rauma
-    phone: (02) 822 5623
+    phone: "(02) 822 5623"
   created_at: 2011-02-03 14:13:57.000000000 Z
 Clerk_21:
   id: 2604
@@ -247,7 +247,7 @@ Clerk_21:
   password_salt: 77NRL2raHk0KRwUznFzy
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Taimia Oy  Espoonlahti
-    street: ! 'Espoonlahdenranta 5 '
+    street: 'Espoonlahdenranta 5 '
     city: 02320 Espoo
     phone: 050 4919 655
   created_at: 2011-02-03 13:18:23.000000000 Z
@@ -259,7 +259,7 @@ Clerk_22:
   password_salt: yLcanFXiEkPDOxvpOmXZ
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Bukettmakaren  - Kukkamaakari
-    street: ! 'Keskuskatu 82 '
+    street: 'Keskuskatu 82 '
     city: 10300 Karjaa
     phone: 019 232 666
   created_at: 2011-02-04 14:14:10.000000000 Z
@@ -271,7 +271,7 @@ Clerk_23:
   password_salt: yMz4xv076Pd4IBVnWFSx
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkataituri Anita Hyvönen
-    street: ! 'Kirkkokatu 37 '
+    street: 'Kirkkokatu 37 '
     city: 92100 Raahe
     phone: 08220770
   created_at: 2011-02-07 12:42:52.000000000 Z
@@ -283,7 +283,7 @@ Clerk_24:
   password_salt: E6ycKkgxRYNhYhO1yfT1
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kalustemarkkinointi  Oy
-    street: ! 'Vaasantie 21-23 '
+    street: 'Vaasantie 21-23 '
     city: 66300 Jurva
     phone: 06 3631 502
   created_at: 2011-02-09 12:23:41.000000000 Z
@@ -295,7 +295,7 @@ Clerk_25:
   password_salt: tC1ufHxwFlL8PLLJq1oI
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Rosmarin Inkoon Kukkacenter
-    street: ! 'Ola Westmans Allee 9  '
+    street: 'Ola Westmans Allee 9  '
     city: 10210 Inkoo
     phone: 092211798
   created_at: 2011-02-09 14:42:23.000000000 Z
@@ -307,7 +307,7 @@ Clerk_26:
   password_salt: FJDg1k7gvyxew8A7umCo
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Pitkäsen  Kukkakauppa
-    street: ! 'Wärtsilänkatu 6  '
+    street: 'Wärtsilänkatu 6  '
     city: 04400 Järvenpää
     phone: 09287415
   created_at: 2011-02-09 14:58:15.000000000 Z
@@ -319,7 +319,7 @@ Clerk_27:
   password_salt: QdBqhUwQObvz9W8SOnjB
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Steniuksen  Puutarha
-    street: ! 'Merituulentie 20 '
+    street: 'Merituulentie 20 '
     city: 02120 Espoo
     phone: 094127371
   created_at: 2011-02-09 15:13:20.000000000 Z
@@ -331,7 +331,7 @@ Clerk_28:
   password_salt: 6v4jwX312wm48ynryGSw
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Désirée
-    street: ! 'Lauttasaarentie 27 '
+    street: 'Lauttasaarentie 27 '
     city: 002700 Helsinki
     phone: 09 694 6394
   created_at: 2011-08-19 15:25:57.000000000 Z
@@ -343,7 +343,7 @@ Clerk_29:
   password_salt: 0Ky0vz3Rl7AyWl0OZ0vN
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Linja- Kukka
-    street: ! 'Asemakatu 13 '
+    street: 'Asemakatu 13 '
     city: 94100 Kemi
     phone: 016 255 775
   created_at: 2011-02-10 09:18:59.000000000 Z
@@ -355,7 +355,7 @@ Clerk_30:
   password_salt: vJ0eXxZxhQCMy91xoGYm
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Törnävän Kukka
-    street: ! 'Törnäväntie 17 '
+    street: 'Törnäväntie 17 '
     city: 60200 Seinäjoki
     phone: '064231105'
   created_at: 2011-02-10 10:17:16.000000000 Z
@@ -367,7 +367,7 @@ Clerk_31:
   password_salt: 3ByX7OKJvjXgPpnmSc5j
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Nummen Narsissi
-    street: ! 'Vanha Hämeentie 29 T-talo '
+    street: 'Vanha Hämeentie 29 T-talo '
     city: 20540 Turku
     phone: '022372005'
   created_at: 2011-02-10 11:57:11.000000000 Z
@@ -379,7 +379,7 @@ Clerk_32:
   password_salt: grHtTUkauumrdmMElig3
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Henriettas Blommor
-    street: ! 'Jokikatu 37 '
+    street: 'Jokikatu 37 '
     city: 06100 Porvoo
     phone: 040 139 3344
   created_at: 2011-02-10 10:56:48.000000000 Z
@@ -391,9 +391,9 @@ Clerk_33:
   password_salt: iFjjBFXXyhmqAaIyaHdK
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Kanerva Ky / Sari Kuosmanen
-    street: ! 'Asemakatu 10 '
+    street: 'Asemakatu 10 '
     city: 90100 Oulu
-    phone: (08) 311 3131
+    phone: "(08) 311 3131"
   created_at: 2011-02-15 00:28:13.000000000 Z
 Clerk_34:
   id: 2617
@@ -403,7 +403,7 @@ Clerk_34:
   password_salt: Ry0Zxlynixk0v6Yo6Jcm
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kourulan Kukka
-    street: ! 'Katajakatu 12 '
+    street: 'Katajakatu 12 '
     city: 53810 Lappeenranta
     phone: 05 4126685
   created_at: 2011-02-15 04:58:30.000000000 Z
@@ -415,7 +415,7 @@ Clerk_35:
   password_salt: XeYQxRyNwsxQFl7iBTor
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Viherlandia Leikkokukat  Satu Ursin
-    street: ! 'Kammintie 6 '
+    street: 'Kammintie 6 '
     city: 40520 Jyvaskyla
     phone: 010 617 1941
   created_at: 2011-02-15 05:04:03.000000000 Z
@@ -427,7 +427,7 @@ Clerk_36:
   password_salt: WbGsZH3o4OQTy9INTynT
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkamyynti Pakarinen
-    street: ! 'Hiesutie 4 '
+    street: 'Hiesutie 4 '
     city: 50350 Norola
     phone: 0400 795 310
   created_at: 2011-02-15 08:05:18.000000000 Z
@@ -439,7 +439,7 @@ Clerk_37:
   password_salt: c6OXyezOBaBTaQzJ3t9y
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukka Emilia
-    street: ! 'Kainuuntie 88 '
+    street: 'Kainuuntie 88 '
     city: 88900 Kuhmo
     phone: 086520127
   created_at: 2011-02-15 11:27:54.000000000 Z
@@ -451,7 +451,7 @@ Clerk_38:
   password_salt: d7Q11dgynBlbiqJRJ1xr
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Ruusun  Aika
-    street: ! 'Asemakatu 2 '
+    street: 'Asemakatu 2 '
     city: 15100 Lahti
     phone: 0407280490
   created_at: 2011-02-15 12:06:47.000000000 Z
@@ -463,7 +463,7 @@ Clerk_39:
   password_salt: LJFF1yxazgPUvrTxMMWF
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kajaanin Kukkakontti
-    street: ! 'Kannonkatu 4 B 5  '
+    street: 'Kannonkatu 4 B 5  '
     city: 87200 Kajaani
     phone: 0504364190
   created_at: 2011-02-15 12:11:06.000000000 Z
@@ -475,7 +475,7 @@ Clerk_40:
   password_salt: shoTzuHeWUIjY0nhkULj
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Seinäjoen  Kukkakammari
-    street: ! 'Kauppakatu 7 '
+    street: 'Kauppakatu 7 '
     city: 60100 Seinäjoki
     phone: 06 423 5495
   created_at: 2011-02-17 10:08:33.000000000 Z
@@ -487,7 +487,7 @@ Clerk_41:
   password_salt: SxrjRy5UD4DqoDabeORG
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Désirée
-    street: ! 'Lauttasaarentie 27 '
+    street: 'Lauttasaarentie 27 '
     city: 00200 Helsinki
     phone: 09 694 6394
   created_at: 2011-02-10 08:53:43.000000000 Z
@@ -499,7 +499,7 @@ Clerk_42:
   password_salt: 4TTOdPjIHkcCCkgzy3fF
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Bremerin Kukka
-    street: ! 'Ketokivenkaari 32 '
+    street: 'Ketokivenkaari 32 '
     city: 00710 Helsinki
     phone: 09-4114 0707
   created_at: 2011-02-17 10:30:19.000000000 Z
@@ -511,7 +511,7 @@ Clerk_43:
   password_salt: FcT5fDeD3p00ZKln8cn4
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Ellan Kukka
-    street: ! 'Laurinkatu 32 '
+    street: 'Laurinkatu 32 '
     city: 08100 Lohja
     phone: 019 324 127
   created_at: 2011-02-17 10:35:36.000000000 Z
@@ -523,7 +523,7 @@ Clerk_44:
   password_salt: VDlv2xyG03V4zitLqUI4
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Viherpalvelu Ruusupuu
-    street: ! 'Keskusaukio 1 '
+    street: 'Keskusaukio 1 '
     city: 45700 Kuusankoski
     phone: 05-374 7517
   created_at: 2011-02-17 10:43:54.000000000 Z
@@ -535,7 +535,7 @@ Clerk_45:
   password_salt: bbcH8NfHITIMz4CdsYUJ
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Wasaflorist
-    street: ! 'Kauppapuistikko 24 '
+    street: 'Kauppapuistikko 24 '
     city: 65100 Vaasa
     phone: 010 279 2800
   created_at: 2011-02-17 10:51:21.000000000 Z
@@ -547,7 +547,7 @@ Clerk_46:
   password_salt: CCnsDgH5rBVyqPX1yn3C
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Kikan Kukka & Lahja
-    street: ! 'Helsingintie 21 '
+    street: 'Helsingintie 21 '
     city: 24100 Salo
     phone: 02 733 4940
   created_at: 2011-02-17 10:57:19.000000000 Z
@@ -559,7 +559,7 @@ Clerk_47:
   password_salt: CeSfCpEnQsxrXB0egu0D
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Timo Leppälä   / Stockmann Oyj
-    street: ! 'PL 147  '
+    street: 'PL 147  '
     city: 00381 Helsinki
     phone: 09-1211
   created_at: 2011-03-05 08:32:55.000000000 Z
@@ -571,7 +571,7 @@ Clerk_48:
   password_salt: SoRR6NBmYiJ9c9Ag4wla
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkamestarit   / Roope Korhonen
-    street: ! 'Keskusaukio 2 B  '
+    street: 'Keskusaukio 2 B  '
     city: 36200 Kangasala
     phone: 03 377 2690
   created_at: 2011-02-23 17:18:55.000000000 Z
@@ -583,7 +583,7 @@ Clerk_49:
   password_salt: fqztvcZ3mwEVZTHErH7N
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Riina Vuokko Papu Gourmet
-    street: ! 'Klinkbackantie 5 '
+    street: 'Klinkbackantie 5 '
     city: 10330 Billnäs
     phone: 044 254 7538
   created_at: 2011-03-05 08:20:58.000000000 Z
@@ -595,7 +595,7 @@ Clerk_50:
   password_salt: mkCKGRQqcke5DZJVGzII
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Puotilan  Kukka
-    street: ! 'Rusthollarintie 2 '
+    street: 'Rusthollarintie 2 '
     city: 00910 Helsinki
     phone: 093234460
   created_at: 2011-03-05 08:51:19.000000000 Z
@@ -619,7 +619,7 @@ Clerk_52:
   password_salt: uSUdYBsu1eyucayKilFY
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Kukka-Inkeri
-    street: ! 'Porokylänkatu 13 '
+    street: 'Porokylänkatu 13 '
     city: 75530 Nurmes
     phone: 013- 461 060
   created_at: 2011-03-07 12:38:07.000000000 Z
@@ -631,7 +631,7 @@ Clerk_53:
   password_salt: wLIfBjUE18HxK1vWsPFz
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kuhmoisten Kukkakauppa  / Tmi Taina Hinskala
-    street: ! 'Toritie 49 '
+    street: 'Toritie 49 '
     city: 17800 Kuhmoinen
     phone: 040 740 6374
   created_at: 2011-03-07 12:42:02.000000000 Z
@@ -643,7 +643,7 @@ Clerk_54:
   password_salt: W6rFpp0mS9qiUYoKJpPb
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Pasadena
-    street: ! 'Linnankatu 21 '
+    street: 'Linnankatu 21 '
     city: 20100 Turku
     phone: 02-251 7246
   created_at: 2011-03-07 12:46:04.000000000 Z
@@ -655,7 +655,7 @@ Clerk_55:
   password_salt: GHCwY61tn15nwlVNKFft
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Leppävirran kukka-ja hautauspalvelu  / S. Kinnunen ky
-    street: ! 'Savonkatu 33 '
+    street: 'Savonkatu 33 '
     city: 79100 Leppävirta
     phone: 0400 481703
   created_at: 2011-03-07 12:49:42.000000000 Z
@@ -667,7 +667,7 @@ Clerk_56:
   password_salt: tSQ45kyzlmszqjTu0SyY
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Kukkakilpi Ky
-    street: ! 'Kalevanpuistotie 15 '
+    street: 'Kalevanpuistotie 15 '
     city: 33500 Tampere
     phone: 03-255 1020
   created_at: 2011-03-10 18:30:47.000000000 Z
@@ -679,7 +679,7 @@ Clerk_57:
   password_salt: RDO0o8zTbJ0CxwPMLSZG
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Lauttakylän Kukka- ja Hautaustoimisto
-    street: ! 'Lauttakylänkatu 15 '
+    street: 'Lauttakylänkatu 15 '
     city: 32700 Huittinen
     phone: 02-566 222
   created_at: 2011-03-10 18:36:51.000000000 Z
@@ -691,7 +691,7 @@ Clerk_58:
   password_salt: yMYoumarFIOU0osIefUq
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Lieksan Viherkeskus ja Hautauspalvelu Oy
-    street: ! 'Simo Hurtan katu 10 '
+    street: 'Simo Hurtan katu 10 '
     city: 81700 Lieksa
     phone: 013-521 298
   created_at: 2011-03-10 18:42:34.000000000 Z
@@ -703,7 +703,7 @@ Clerk_59:
   password_salt: kXfobpxaun6NHF46fW8u
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Marjon Kukka ja Posti
-    street: ! 'Koskitie 17 '
+    street: 'Koskitie 17 '
     city: 61330 Koskenkorva
     phone: 06-422 9203
   created_at: 2011-03-10 18:51:43.000000000 Z
@@ -715,7 +715,7 @@ Clerk_60:
   password_salt: xonuUp8W92kOpjjCEytD
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Kukkasitomo KuuranKukka
-    street: ! 'Ihalantie 54 '
+    street: 'Ihalantie 54 '
     city: 21260 Raisio
     phone: 0400 555  177
   created_at: 2011-03-10 18:56:43.000000000 Z
@@ -727,7 +727,7 @@ Clerk_61:
   password_salt: uL6N20WVq5cUl4zJ3fHV
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Kimppu
-    street: ! 'Kauppatie 39 '
+    street: 'Kauppatie 39 '
     city: 44300 Konnevesi
     phone: 0400 577810
   created_at: 2011-03-11 11:28:44.000000000 Z
@@ -739,7 +739,7 @@ Clerk_62:
   password_salt: 79z0gy51Ep41plN4qtwd
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukka-Set Pehkonen
-    street: ! 'Louhenkatu 5 '
+    street: 'Louhenkatu 5 '
     city: 74100 Iisalmi
     phone: 0400 676248
   created_at: 2011-03-11 11:39:48.000000000 Z
@@ -751,7 +751,7 @@ Clerk_63:
   password_salt: biyXKLSUyWyvcxMWwqog
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Riitta Lundberg Marjan Kukka
-    street: ! 'Seunalantie 2 '
+    street: 'Seunalantie 2 '
     city: 76850 Naarajärvi
     phone: 0504121388
   created_at: 2011-03-11 11:45:07.000000000 Z
@@ -763,7 +763,7 @@ Clerk_64:
   password_salt: OxJDP9VLtyXKrDZ3BdGD
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Tuija Vuorinen Kukkakauppa Multia
-    street: ! 'Keskustie 29 A '
+    street: 'Keskustie 29 A '
     city: 42600 Multia
     phone: 040 5484068
   created_at: 2011-03-11 11:49:57.000000000 Z
@@ -775,7 +775,7 @@ Clerk_65:
   password_salt: wmseaiygkdMcL5bUzm4x
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Hanhinevan Puutarha
-    street: ! 'Kannuskyläntie 25 '
+    street: 'Kannuskyläntie 25 '
     city: 68100 Himanka
     phone: 0440868914
   created_at: 2011-03-11 13:52:29.000000000 Z
@@ -787,7 +787,7 @@ Clerk_66:
   password_salt: BeUXNZeSDIMH2wGC5dHD
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukka ja Hautauspalvelu SatuKukka Oy
-    street: ! 'Kylätie 46 '
+    street: 'Kylätie 46 '
     city: 58900 Rantasalmi
     phone: 020 757 9650
   created_at: 2011-03-14 06:33:13.000000000 Z
@@ -799,7 +799,7 @@ Clerk_67:
   password_salt: wUkUsD1TckzMd6pAKN6q
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Stockmann Oyj  / Jan Lesch
-    street: ! 'PL 147 '
+    street: 'PL 147 '
     city: 00381 Helsinki
     phone: 09-1211
   created_at: 2011-03-14 07:05:24.000000000 Z
@@ -811,7 +811,7 @@ Clerk_68:
   password_salt: uGdh7XanmyafxIb4K9pb
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukka- ja Lahjapuoti Sinikka
-    street: ! 'Salmelantie 1 '
+    street: 'Salmelantie 1 '
     city: 16200 Artjärvi
     phone: 03 777 8505
   created_at: 2011-03-14 10:29:59.000000000 Z
@@ -823,7 +823,7 @@ Clerk_69:
   password_salt: 2702cSJpaYq58wy7E1jy
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Piia Jaala
-    street: ! 'Linnakatu 9 '
+    street: 'Linnakatu 9 '
     city: 20100 Turku
     phone: 022321846
   created_at: 2011-03-16 18:07:06.000000000 Z
@@ -835,7 +835,7 @@ Clerk_70:
   password_salt: rMviUifEzYLtN8hvENZU
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Mervi Kohtamäki AR-KUKKA
-    street: ! 'Ruukinie 5 '
+    street: 'Ruukinie 5 '
     city: 60100 Seinäjoki
     phone: 064140860
   created_at: 2011-03-16 18:10:28.000000000 Z
@@ -847,7 +847,7 @@ Clerk_71:
   password_salt: EL5779vshT7PQwb0qGWy
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Designmyymälä Kopper
-    street: ! 'Göran J. Ehrnroothintie 1 '
+    street: 'Göran J. Ehrnroothintie 1 '
     city: 10470 FISKARS
     phone: 019 277 75 02
   created_at: 2011-03-18 08:52:52.000000000 Z
@@ -859,9 +859,9 @@ Clerk_72:
   password_salt: jaz1xlnK6ZBZ73EjVhxV
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Porvoon Vaihto-Kaluste Oy
-    street: ! 'Raivaajantie 3 '
+    street: 'Raivaajantie 3 '
     city: 06450 Porvoo
-    phone: ! '020 7118711 ‎ '
+    phone: '020 7118711 ‎ '
   created_at: 2011-04-07 16:54:48.000000000 Z
 Clerk_73:
   id: 2656
@@ -871,7 +871,7 @@ Clerk_73:
   password_salt: D1JCRxqvUyC3dya0OL9q
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Osuuskunta Varuboden
-    street: ! 'Pl 163 '
+    street: 'Pl 163 '
     city: 00088 S-Ryhmä
     phone: 010 762 6624
   created_at: 2011-04-09 07:56:24.000000000 Z
@@ -883,7 +883,7 @@ Clerk_74:
   password_salt: vq7MTxqvCyhgIpVC3j7D
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Sun ja Mun kukat  Ay
-    street: ! 'Horsmakuja 1 '
+    street: 'Horsmakuja 1 '
     city: 01300 Vantaa
     phone: 040 839 2466
   created_at: 2011-04-09 08:12:39.000000000 Z
@@ -895,7 +895,7 @@ Clerk_75:
   password_salt: maaXGcD96xTbYR8cASWm
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkahuone Kastanja
-    street: ! 'Ajurinaukio 5  '
+    street: 'Ajurinaukio 5  '
     city: 00750 Helsinki
     phone: 09 3452330
   created_at: 2011-04-13 09:37:09.000000000 Z
@@ -907,7 +907,7 @@ Clerk_76:
   password_salt: UvO1v3VQTQlUK8SyavIp
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkatalo Kaija K Dokos Marjat
-    street: ! 'Keltarousku 15 '
+    street: 'Keltarousku 15 '
     city: 02730 Espoo
     phone: 0400 502 471
   created_at: 2011-04-13 10:35:47.000000000 Z
@@ -919,7 +919,7 @@ Clerk_77:
   password_salt: 1da0W3LUfoE7gxlQ3db5
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa  Vehemar
-    street: ! 'Sinikalliontie 1-3- '
+    street: 'Sinikalliontie 1-3- '
     city: 02770 Espoo
     phone: 095023995
   created_at: 2011-04-13 10:40:35.000000000 Z
@@ -931,7 +931,7 @@ Clerk_78:
   password_salt: kCVLfeSeDqa2iGgX1Wju
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa ja Hautaustoimisto Lahti Oy
-    street: ! 'Koskentie 2  '
+    street: 'Koskentie 2  '
     city: 79600 Joroinen
     phone: 0173669636
   created_at: 2011-04-13 10:44:03.000000000 Z
@@ -943,7 +943,7 @@ Clerk_79:
   password_salt: Fjd1ynoUfep83VmOZvVT
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkapuoti Rosalin
-    street: ! 'Puistokatu 10 '
+    street: 'Puistokatu 10 '
     city: 38200 Sastamala
     phone: 0405163800
   created_at: 2011-04-13 10:53:10.000000000 Z
@@ -955,7 +955,7 @@ Clerk_80:
   password_salt: C1b4itlfRw3TC0Vvfvy6
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Pukinmäen Puutarha
-    street: ! 'Isopellontie 2 '
+    street: 'Isopellontie 2 '
     city: 00720 Helsinki
     phone: 093852817
   created_at: 2011-04-15 11:37:42.000000000 Z
@@ -967,7 +967,7 @@ Clerk_81:
   password_salt: ay4OyC4NLOzJDNfH9xVm
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Rekolan  Kukkatalo
-    street: ! 'Laurintie 145 '
+    street: 'Laurintie 145 '
     city: 01400 Vantaa
     phone: 0983644770
   created_at: 2011-04-15 11:45:20.000000000 Z
@@ -979,7 +979,7 @@ Clerk_82:
   password_salt: iLhDlz7SYqEYz938EZ64
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Tertun Taimi Ja Kukka
-    street: ! 'Pirkkolantie 20 '
+    street: 'Pirkkolantie 20 '
     city: 00630 Helsinki
     phone: 0987752210
   created_at: 2011-04-15 11:52:12.000000000 Z
@@ -991,7 +991,7 @@ Clerk_83:
   password_salt: IEl1b2wj8VNs8RtjbIXA
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Ahkeraliisa
-    street: ! 'Kainuuntie 19 '
+    street: 'Kainuuntie 19 '
     city: 88600 SOTKAMO
     phone: 086662223
   created_at: 2011-04-15 11:58:39.000000000 Z
@@ -1015,7 +1015,7 @@ Clerk_85:
   password_salt: 3CbrPDiPvynFJTMfHR6O
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Ch. Barck
-    street: ! 'Eerikinkatu 5 '
+    street: 'Eerikinkatu 5 '
     city: Helsinki 00100
     phone: 09- 694 3220
   created_at: 2011-04-26 13:47:07.000000000 Z
@@ -1027,7 +1027,7 @@ Clerk_86:
   password_salt: Mxws6I8uodrOxrsdIy0x
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: AR- kukka
-    street: ! 'Ruukintie 5 '
+    street: 'Ruukintie 5 '
     city: 60100 Seinäjoki
     phone: 06-4140860
   created_at: 2011-05-02 17:42:07.000000000 Z
@@ -1039,9 +1039,9 @@ Clerk_87:
   password_salt: pyjXYU20eRB9DR5N5QjM
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Turun kaupunki Turun museokeskus
-    street: ! 'PL 156 Viite: Tuula Salomaa-Pallassalmi'
+    street: 'PL 156 Viite: Tuula Salomaa-Pallassalmi'
     city: 01050 Turku
-    phone: (02) 262 0850
+    phone: "(02) 262 0850"
   created_at: 2011-05-05 11:36:09.000000000 Z
 Clerk_88:
   id: 2671
@@ -1063,7 +1063,7 @@ Clerk_89:
   password_salt: 2z2ye8k7syIeIuuaON7J
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Senja Vesterinen OTTOmaani
-    street: ! 'Linnankatu 3 '
+    street: 'Linnankatu 3 '
     city: 20100 Turku
     phone: 02-251 3380
   created_at: 2011-05-05 12:11:17.000000000 Z
@@ -1075,7 +1075,7 @@ Clerk_90:
   password_salt: 1bDM9xRMLDxYuWWFvOm0
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Sisustusliike Sateenkaari
-    street: ! 'Hakakuja 1 '
+    street: 'Hakakuja 1 '
     city: 86600 Haapavesi
     phone: 08-452191
   created_at: 2011-05-05 12:20:08.000000000 Z
@@ -1087,7 +1087,7 @@ Clerk_91:
   password_salt: jL5BdSz8BZJZlbpnVJ1P
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Sisustajankauppa Oksanen
-    street: ! 'Torikatu 6 '
+    street: 'Torikatu 6 '
     city: 88600 Sotkamo
     phone: 08-666 0110
   created_at: 2011-05-05 12:47:37.000000000 Z
@@ -1099,7 +1099,7 @@ Clerk_92:
   password_salt: gdrs1QhvNANZt8UlMv74
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Mondo  Sisustus
-    street: ! 'Riihitontuntie 1 '
+    street: 'Riihitontuntie 1 '
     city: 01720 Vantaa
     phone: 09 548 5438, 0400 442 316
   created_at: 2011-05-07 05:39:38.000000000 Z
@@ -1111,7 +1111,7 @@ Clerk_93:
   password_salt: LM0xOlG8AhQBCR9wQy9o
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Pian Kukka Jakaranda Oy
-    street: ! 'Pursimiehenkatu 3 '
+    street: 'Pursimiehenkatu 3 '
     city: 00150 Helsinki
     phone: 09 6988030
   created_at: 2011-05-11 12:31:00.000000000 Z
@@ -1147,7 +1147,7 @@ Clerk_96:
   password_salt: yn133Adbmx9JgWWjIpz5
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Raijan Kukka
-    street: ! 'Isokatu 39 '
+    street: 'Isokatu 39 '
     city: 90100 OULU
     phone: 083117222
   created_at: 2011-05-17 12:45:23.000000000 Z
@@ -1159,7 +1159,7 @@ Clerk_97:
   password_salt: j1OoWrNXD25fsPMmvv5l
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Misis Flora
-    street: ! 'Kaskiniitynkuja 2 '
+    street: 'Kaskiniitynkuja 2 '
     city: 04130 Sipoo
     phone: 050 3374211
   created_at: 2011-05-17 12:54:08.000000000 Z
@@ -1171,7 +1171,7 @@ Clerk_98:
   password_salt: zSV4D0NVsfKSWi61uy4H
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Lainion Kukka
-    street: ! 'Kumpukatu 2 B 15 '
+    street: 'Kumpukatu 2 B 15 '
     city: 15840 Lahti
     phone: 040 835 88 49
   created_at: 2011-05-17 17:30:43.000000000 Z
@@ -1183,7 +1183,7 @@ Clerk_99:
   password_salt: SJl9E35qMyS0FAPPvgEO
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Sirkkakaarina
-    street: ! 'Henrikinkatu 2 '
+    street: 'Henrikinkatu 2 '
     city: 21100 Naantali
     phone: 02 435 8045
   created_at: 2011-05-17 17:42:57.000000000 Z
@@ -1195,7 +1195,7 @@ Clerk_100:
   password_salt: 6ON907hT90wCO0UYg4li
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkalahja Syrenius
-    street: ! 'Kauppatie 82 '
+    street: 'Kauppatie 82 '
     city: 62200 KAUHAVA
     phone: 06 434 2917
   created_at: 2011-05-17 17:44:54.000000000 Z
@@ -1207,7 +1207,7 @@ Clerk_101:
   password_salt: fHjkuXl7aIS8caxDm6oS
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Kukkapalvelu
-    street: ! 'Rauhankatu 25 '
+    street: 'Rauhankatu 25 '
     city: 06100 Porvoo
     phone: 019 582600
   created_at: 2011-05-17 17:49:25.000000000 Z
@@ -1219,7 +1219,7 @@ Clerk_102:
   password_salt: rT7q1ZRLFTdnUbodKBb0
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Silmu
-    street: ! 'Kauppakatu 13 '
+    street: 'Kauppakatu 13 '
     city: 89600 SUOMUSSALMI
     phone: 08 712 116
   created_at: 2011-05-17 17:51:59.000000000 Z
@@ -1231,7 +1231,7 @@ Clerk_103:
   password_salt: cbwhSIyOy3de18vf9dH8
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Jannelan Kukka Oy
-    street: ! 'Elinantie 11 '
+    street: 'Elinantie 11 '
     city: 28360 Pori
     phone: 02 646 9364
   created_at: 2011-05-17 17:55:34.000000000 Z
@@ -1243,7 +1243,7 @@ Clerk_104:
   password_salt: VgHNmz0E7mvxqw2jxf1j
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Saaran Kukka-Kioski
-    street: ! 'Revontulentie '
+    street: 'Revontulentie '
     city: 96500 ROVANIEMI
     phone: 016 379 6007
   created_at: 2011-05-17 17:58:25.000000000 Z
@@ -1255,7 +1255,7 @@ Clerk_105:
   password_salt: ud7tV4VVRDJb7uOj6m8t
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Lapinvuokko
-    street: ! 'Jokijalantie 22 '
+    street: 'Jokijalantie 22 '
     city: 95900 KOLARI
     phone: 016 561 094
   created_at: 2011-05-17 18:06:05.000000000 Z
@@ -1267,7 +1267,7 @@ Clerk_106:
   password_salt: bEp547RzjvzUqTDH5ecY
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Puutarhan Kukka / Rönkön  Kukkatarha Oy
-    street: ! 'Asematie 2 '
+    street: 'Asematie 2 '
     city: 86800 Pyhäsalmi
     phone: 040-7693039
   created_at: 2011-09-09 04:35:12.000000000 Z
@@ -1278,8 +1278,8 @@ Clerk_107:
   encrypted_password: 393fc9a3f841649fdd530313a3391c30baa40b898c5d878a63b7e5c483ef458119c3080e19eed3ae93d3846b1a094784f17ac2fa77394f0cc028acb5f7a072ae
   password_salt: 33DATWsUnA2P9JCoEbAS
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    name: ! 'Kukkakauppa  Mölsä '
-    street: ! 'Leväniementie 11  '
+    name: 'Kukkakauppa  Mölsä '
+    street: 'Leväniementie 11  '
     city: 41520 HANKASALMI
     phone: 014 841120
   created_at: 2011-05-18 13:09:53.000000000 Z
@@ -1291,7 +1291,7 @@ Clerk_108:
   password_salt: ugQM0b0I1kQHis3l7LQV
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Laukaan  Kukkakauppa
-    street: ! 'Laukaantie 22-24, OP-Liikekeskus '
+    street: 'Laukaantie 22-24, OP-Liikekeskus '
     city: 41340 LAUKAA
     phone: 014 831032
   created_at: 2011-05-18 13:18:11.000000000 Z
@@ -1303,7 +1303,7 @@ Clerk_109:
   password_salt: XGx03fFFMxkwQecrvodJ
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Sari Kotola Ruonlan Kukka
-    street: ! 'Mahlamäentie 1 '
+    street: 'Mahlamäentie 1 '
     city: 48300 Kotka
     phone: 05 2285015
   created_at: 2011-05-18 13:24:50.000000000 Z
@@ -1315,7 +1315,7 @@ Clerk_110:
   password_salt: SiaaLvK5UsnLJnmwZoz2
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa  Rimula
-    street: ! 'Kauppakatu 2  '
+    street: 'Kauppakatu 2  '
     city: 48100 KOTKA
     phone: 05212822
   created_at: 2011-05-18 13:29:45.000000000 Z
@@ -1327,7 +1327,7 @@ Clerk_111:
   password_salt: qT1ByDO39mY4BxIFxXOy
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa  Kukkakilpi
-    street: ! 'Kalevanpuistotie 15 '
+    street: 'Kalevanpuistotie 15 '
     city: 33530 TAMPERE
     phone: 0407474957
   created_at: 2011-05-18 13:37:10.000000000 Z
@@ -1339,7 +1339,7 @@ Clerk_112:
   password_salt: xsnI9FH0d39aZd22fhtC
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Punakukka
-    street: ! 'Punavuorenkatu 2 '
+    street: 'Punavuorenkatu 2 '
     city: 00120 Helsinki
     phone: 09-638 216
   created_at: 2011-05-18 13:45:36.000000000 Z
@@ -1351,7 +1351,7 @@ Clerk_113:
   password_salt: Pu70pTScPwrvFNIxNCNw
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Lovisa Blomster
-    street: ! 'Stolpegatan 5 '
+    street: 'Stolpegatan 5 '
     city: 07900 Lovisa
     phone: 019 535 7707
   created_at: 2011-05-18 14:06:43.000000000 Z
@@ -1363,7 +1363,7 @@ Clerk_114:
   password_salt: 6FqLalxERTlNyGXxbpSx
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkasalonki Kastanja
-    street: ! 'Opintie 4 '
+    street: 'Opintie 4 '
     city: 62800 Vimpeli
     phone: 06 565 22 99
   created_at: 2011-05-18 15:17:48.000000000 Z
@@ -1375,7 +1375,7 @@ Clerk_115:
   password_salt: 6eKxOPiEi55F2VyNfwbf
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Kukkakulma
-    street: ! 'Keisarinkuja 5 '
+    street: 'Keisarinkuja 5 '
     city: 82500 Kitee
     phone: 013 22 5555
   created_at: 2011-05-18 15:28:57.000000000 Z
@@ -1387,7 +1387,7 @@ Clerk_116:
   password_salt: ZMgHxhyPhHDVCk39wMjX
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Pikkulilli
-    street: ! 'Helsingintie 1 A 3 '
+    street: 'Helsingintie 1 A 3 '
     city: 49460 Hamina
     phone: 05 344 7205
   created_at: 2011-05-18 16:24:45.000000000 Z
@@ -1399,7 +1399,7 @@ Clerk_117:
   password_salt: HxvyH7gp2sufovaqu9pG
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa SeijaSarin Kukka
-    street: ! 'Katajamäentie 14 '
+    street: 'Katajamäentie 14 '
     city: 28450 Vanha Ulvila
     phone: 041 434 2720
   created_at: 2011-05-18 17:41:39.000000000 Z
@@ -1411,7 +1411,7 @@ Clerk_118:
   password_salt: 6af5eARyaxYAiaPg2Oy0
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Aurinko
-    street: ! 'Isokirkkokatu 7 '
+    street: 'Isokirkkokatu 7 '
     city: 26100 Rauma
     phone: 02 822 4375
   created_at: 2011-05-19 08:55:16.000000000 Z
@@ -1423,7 +1423,7 @@ Clerk_119:
   password_salt: JLyk6HYyg7WbxQQTLEzt
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Olavi-yhtiöt Oy
-    street: ! 'Rajantie 80 '
+    street: 'Rajantie 80 '
     city: 02520 Lapinkylä
     phone: 040 578 3593
   created_at: 2011-05-19 08:59:37.000000000 Z
@@ -1435,7 +1435,7 @@ Clerk_120:
   password_salt: XLCEygvoBy37TKBpnJx9
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Viivin Puoti
-    street: ! 'Hauhontie 17 lh 3 '
+    street: 'Hauhontie 17 lh 3 '
     city: 14700 Hauho
     phone: 044 3200 259
   created_at: 2011-05-19 09:00:06.000000000 Z
@@ -1447,7 +1447,7 @@ Clerk_121:
   password_salt: j2Kz6wUPbxPEspaoVynZ
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukka- ja Hautauspalvelu Karjalainen
-    street: ! 'Martinniementie 79 '
+    street: 'Martinniementie 79 '
     city: 90830 Haukipudas
     phone: 08 547 1750
   created_at: 2011-05-19 09:05:21.000000000 Z
@@ -1459,7 +1459,7 @@ Clerk_122:
   password_salt: jN69CAgOFxVfg8gZyc2n
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Nenita Oy / Kaivokukka Kamppi
-    street: ! 'Urho Kekkosenkatu 1 '
+    street: 'Urho Kekkosenkatu 1 '
     city: 00100 Helsinki
     phone: 020 752 8582
   created_at: 2011-05-19 09:16:57.000000000 Z
@@ -1471,7 +1471,7 @@ Clerk_123:
   password_salt: 6WNOaHqmgSoaQtQ8MGVS
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Perttulan Kukka ja Lahja
-    street: ! 'Kurjenmäentie 6 '
+    street: 'Kurjenmäentie 6 '
     city: 32100 Ypäjä
     phone: 02 767 3082
   created_at: 2011-05-19 10:48:11.000000000 Z
@@ -1483,9 +1483,9 @@ Clerk_124:
   password_salt: yZrRMPhx4kO48nzpy3vZ
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Hartolan  Kukkakauppa
-    street: ! 'Keskustie 63 '
+    street: 'Keskustie 63 '
     city: 19600 Hartola
-    phone: ! '    03 716 1112'
+    phone: "    03 716 1112"
   created_at: 2011-05-19 10:57:28.000000000 Z
 Clerk_125:
   id: 2708
@@ -1495,7 +1495,7 @@ Clerk_125:
   password_salt: zxxmsKH5yRwBGHi3AMp1
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Memorosa
-    street: ! 'Kauppakatu 8 '
+    street: 'Kauppakatu 8 '
     city: 18100 Heinola
     phone: 03 715 4912
   created_at: 2011-05-19 11:20:31.000000000 Z
@@ -1519,7 +1519,7 @@ Clerk_127:
   password_salt: lhJg1UIceFh88lJRnbFO
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Kukkatupa
-    street: ! 'Valtakatu 9-11 '
+    street: 'Valtakatu 9-11 '
     city: 37600 Valkeakoski
     phone: 03 584 7311
   created_at: 2011-05-22 18:33:04.000000000 Z
@@ -1531,7 +1531,7 @@ Clerk_128:
   password_salt: X89QYfmHgV1MIhvLn4Ik
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Stockmann Oyj / Herkku Helsinki
-    street: ! 'Pl 147 '
+    street: 'Pl 147 '
     city: 00381 Helsinki
     phone: 09-1211
   created_at: 2011-05-23 18:48:00.000000000 Z
@@ -1543,7 +1543,7 @@ Clerk_129:
   password_salt: iQt5GAoHdPdXaix5A5aj
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Yhteistalon  Kukka
-    street: ! 'Apiankatu 1 '
+    street: 'Apiankatu 1 '
     city: 37600 Valkeakoski
     phone: 03 585 0098
   created_at: 2011-05-25 02:52:03.000000000 Z
@@ -1555,7 +1555,7 @@ Clerk_130:
   password_salt: DVyiVzMEkIawXxqSKxx7
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Joensuun Kukkatalo
-    street: ! 'Avainkuja 2 '
+    street: 'Avainkuja 2 '
     city: 80100 Joensuu
     phone: 050 3098 382
   created_at: 2011-05-25 16:52:00.000000000 Z
@@ -1567,7 +1567,7 @@ Clerk_131:
   password_salt: LHGUbpSWm5kcSnMyFDjz
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Tanjas Blommor
-    street: ! 'Närpesvägen 11 '
+    street: 'Närpesvägen 11 '
     city: 64200 Närpes
     phone: 040 75 000 63
   created_at: 2011-05-25 17:26:45.000000000 Z
@@ -1579,7 +1579,7 @@ Clerk_132:
   password_salt: LA3f7pzWiiUO57kJWEHd
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Anton & Anton Töölö
-    street: ! 'Pl 437 '
+    street: 'Pl 437 '
     city: 02066 Docuscan
     phone: 040 145 6808
   created_at: 2011-05-30 20:11:07.000000000 Z
@@ -1591,7 +1591,7 @@ Clerk_133:
   password_salt: VCxewiEsxe1wx2cztTg6
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Jyvaskylan kaupunki Taidemuseo
-    street: ! 'PL 182 '
+    street: 'PL 182 '
     city: 00026 BASWARE
     phone: 014 266 4391
   created_at: 2011-05-30 21:13:06.000000000 Z
@@ -1603,7 +1603,7 @@ Clerk_134:
   password_salt: WdGGa4zcXtTJvT9YhclD
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Steniuksen Puutarha
-    street: ! 'Merituulentie 20 '
+    street: 'Merituulentie 20 '
     city: 02120 Espoo
     phone: 09 412 7371
   created_at: 2011-06-04 10:50:58.000000000 Z
@@ -1615,7 +1615,7 @@ Clerk_135:
   password_salt: R0lUALybWeQOk05QgABy
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Tiedekauppa  Magneetti Oy
-    street: ! 'Tiedepuisto 1 '
+    street: 'Tiedepuisto 1 '
     city: 01300 Vantaa
     phone: 040 901 5254
   created_at: 2011-06-08 17:51:37.000000000 Z
@@ -1627,7 +1627,7 @@ Clerk_136:
   password_salt: To5Z1FLbP5HGdHF56XVL
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Design Museum Shop Oy
-    street: ! 'Korkeavuorenkatu 23 '
+    street: 'Korkeavuorenkatu 23 '
     city: 00130 Helsinki
     phone: 09 6220 5421
   created_at: 2011-06-12 17:36:09.000000000 Z
@@ -1639,7 +1639,7 @@ Clerk_137:
   password_salt: jFtXRQAQ3C48TJg8ui1y
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Anton & Anton  Porvoon ruokakauppa Oy
-    street: ! 'Pl 341 '
+    street: 'Pl 341 '
     city: 02066 Docuscan
     phone: 040 595 2999
   created_at: 2011-06-12 17:44:30.000000000 Z
@@ -1651,7 +1651,7 @@ Clerk_138:
   password_salt: yC0ecCyrrtxsbdNah9EV
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Mikkelin kaupunki Y-tunnus 0165116-3
-    street: ! 'PL 401 '
+    street: 'PL 401 '
     city: 00038 Logica
     phone: 015-1942422
   created_at: 2011-06-19 16:57:55.000000000 Z
@@ -1675,7 +1675,7 @@ Clerk_140:
   password_salt: I8JnVUxUjMAkFqKLVoLL
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Mumu Ruoka & Herkku
-    street: ! 'Laajalahdentie 11 '
+    street: 'Laajalahdentie 11 '
     city: 00330 Helsinki
     phone: 0400 455 254
   created_at: 2011-06-21 17:18:59.000000000 Z
@@ -1687,7 +1687,7 @@ Clerk_141:
   password_salt: j35TnDGjb1Eiqg7ktcL8
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Delish Oy
-    street: ! 'Yrjönkatu 4A2 '
+    street: 'Yrjönkatu 4A2 '
     city: 00120 Helsinki
     phone: 050 555 5653
   created_at: 2011-06-21 17:28:20.000000000 Z
@@ -1699,7 +1699,7 @@ Clerk_142:
   password_salt: DLEVedz1Mhx8r6g2Pxtv
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kuopion kaupunki Taidemuseo
-    street: ! 'PL 3016 '
+    street: 'PL 3016 '
     city: 70710 Kuopio
     phone: 017-182633
   created_at: 2011-07-06 12:54:53.000000000 Z
@@ -1711,7 +1711,7 @@ Clerk_143:
   password_salt: 0D8mJwkyrTjXZUsVTjMa
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kati Sointukangas
-    street: ! ' Fiskarsintie 28 '
+    street: " Fiskarsintie 28 "
     city: 10470 Fiskars
     phone: '0400241017 '
   created_at: 2011-07-15 11:06:14.000000000 Z
@@ -1723,7 +1723,7 @@ Clerk_144:
   password_salt: yyVpQqrPhOBhz7TpiYOD
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Misis Flora
-    street: ! 'Kaskiniitynkuja 2 '
+    street: 'Kaskiniitynkuja 2 '
     city: 04130 Sipoo
     phone: 050 3374211
   created_at: 2011-08-03 11:20:16.000000000 Z
@@ -1735,7 +1735,7 @@ Clerk_145:
   password_salt: ZhJI6WBrrYlUbhptnbTS
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Tornion kaupunki Aineen taidemuseo
-    street: ! 'PL 1154 '
+    street: 'PL 1154 '
     city: 95410 Tornio
     phone: 050-5946868
   created_at: 2011-08-10 07:36:01.000000000 Z
@@ -1747,7 +1747,7 @@ Clerk_146:
   password_salt: Fj9uLtkbGyAYKVJjTVcB
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Alvar aalto  -saatio
-    street: ! 'PL 77560 '
+    street: 'PL 77560 '
     city: 00021 LASKUTUS
     phone: 014-624 809
   created_at: 2011-08-10 08:09:38.000000000 Z
@@ -1759,7 +1759,7 @@ Clerk_147:
   password_salt: 54RZ6SxrxQM33jDwCmQD
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Lappeenrannan kaupunki Museotoimi/Museokauppa
-    street: ! 'PL 254 '
+    street: 'PL 254 '
     city: 00246 Basware
     phone: 040-715 3345
   created_at: 2011-08-18 22:01:49.000000000 Z
@@ -1771,7 +1771,7 @@ Clerk_148:
   password_salt: Sw6p2txrN8vicT8rqB5p
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Sisustusliike Liisa Seppälä Sisustusliisa
-    street: ! 'Satakunnankatu 24 '
+    street: 'Satakunnankatu 24 '
     city: 33210 Tampere
     phone: 040-582 9461
   created_at: 2011-08-18 22:12:19.000000000 Z
@@ -1783,7 +1783,7 @@ Clerk_149:
   password_salt: mNeAh7zNf63P6F6f03uj
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Kukka-Kerttuli
-    street: ! 'Hallituskatu 13 '
+    street: 'Hallituskatu 13 '
     city: 33200 Tampere
     phone: 03-212 2301
   created_at: 2011-08-18 22:29:58.000000000 Z
@@ -1795,7 +1795,7 @@ Clerk_150:
   password_salt: mmJ6drP6grp4tUbm08KE
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: K-Supermarket Laajasalo
-    street: ! 'Yliskyläntie 3 '
+    street: 'Yliskyläntie 3 '
     city: 00840 Helsinki
     phone: 020 781 5820
   created_at: 2011-08-19 15:34:44.000000000 Z
@@ -1806,8 +1806,8 @@ Clerk_151:
   encrypted_password: 1ce58d0b56b63709fdde5eb849bf5d345baa512a1e1befb55f5c61f57e92bf160939d2fac3338022ea6bb0631c1baee752d3d7c50e1af70167d56c0778fa70bc
   password_salt: EBTYLqJjvLBbVGIj4uOk
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    name: ! 'K-supermarket Kontumarket '
-    street: ! 'KEINULAUDANKUJA 4 '
+    name: 'K-supermarket Kontumarket '
+    street: 'KEINULAUDANKUJA 4 '
     city: 00940  Helsinki
     phone: 09-340 9010
   created_at: 2011-08-19 15:39:13.000000000 Z
@@ -1819,7 +1819,7 @@ Clerk_152:
   password_salt: 5pCMX6HetYxANKjfyVBt
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: K-Supermarket Seilori
-    street: ! 'ESPOONLAHDENKATU 4-6 '
+    street: 'ESPOONLAHDENKATU 4-6 '
     city: 02320  ESPOO
     phone: 09-819 0510
   created_at: 2011-08-19 15:49:19.000000000 Z
@@ -1831,7 +1831,7 @@ Clerk_153:
   password_salt: xDAfThZHwFj3hBxVLRAq
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Serlachius -museot Gustav ja Gösta /Sini Perälä
-    street: ! 'R. Erik Serlachiuksen katu 2 '
+    street: 'R. Erik Serlachiuksen katu 2 '
     city: 35800 Mänttä
     phone: 03-488 6800
   created_at: 2011-08-25 07:53:32.000000000 Z
@@ -1843,7 +1843,7 @@ Clerk_154:
   password_salt: u7ijuPMwOg2xUyNyL8PJ
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: K-Supermarket  Forssa
-    street: ! 'Kartanonkatu 11 '
+    street: 'Kartanonkatu 11 '
     city: 30100 Forssa
     phone: 0207870920
   created_at: 2011-09-07 17:51:22.000000000 Z
@@ -1855,7 +1855,7 @@ Clerk_155:
   password_salt: sWhWt4oSFcOAuwE7qnX5
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: K-Supermarket Iisalmi
-    street: ! 'Satamakatu 10 '
+    street: 'Satamakatu 10 '
     city: 74100 Iisalmi
     phone: 017 8217230
   created_at: 2011-09-07 18:01:16.000000000 Z
@@ -1867,7 +1867,7 @@ Clerk_156:
   password_salt: nUQgLqGOyU2ubaWPrwiy
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Unto Hyvärinen K-Supermarket Eväskontti
-    street: ! 'Niinivaarantie 74 '
+    street: 'Niinivaarantie 74 '
     city: 80230 Joensuu
     phone: '0503030535'
   created_at: 2011-09-07 18:08:16.000000000 Z
@@ -1879,7 +1879,7 @@ Clerk_157:
   password_salt: qxTkn5MxYnHW0YVTwed2
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: K-supermarket  Kauppatie
-    street: ! 'Kauppatie 82 '
+    street: 'Kauppatie 82 '
     city: 62200 Kauhava
     phone: 06-434 7100
   created_at: 2011-09-09 05:10:35.000000000 Z
@@ -1891,7 +1891,7 @@ Clerk_158:
   password_salt: KBzRR9xaonkmKn1tWFzD
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: K-supermarket  Alavus
-    street: ! 'Vähtärintie 2 '
+    street: 'Vähtärintie 2 '
     city: 63300  Alavus
     phone: 0207 790 220
   created_at: 2011-09-15 12:29:51.000000000 Z
@@ -1903,7 +1903,7 @@ Clerk_159:
   password_salt: jpSSTf1HTMuBBNga7QpS
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Stockmann Oyj / Herkku Tampere
-    street: ! 'Pl 147 '
+    street: 'Pl 147 '
     city: 00381 Helsinki
     phone: 09-1211
   created_at: 2011-09-30 18:18:26.000000000 Z
@@ -1914,8 +1914,8 @@ Clerk_160:
   encrypted_password: fe74c22bf2b96faed9a79c944d06678e9bfa6aa0b81b11bcfa0fbd7240aae736564dc49b742b173f239bd4e9b20172043f494d59ba3f9e0a969d88b4b0475cf2
   password_salt: x0RhyqZBvlgulxM0m4wF
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    name: ! 'Herkku ja Lahja Murena Oy '
-    street: ! 'Horninkatu 13 C 3 '
+    name: 'Herkku ja Lahja Murena Oy '
+    street: 'Horninkatu 13 C 3 '
     city: 24100 Salo
     phone: 044 717 3224
   created_at: 2011-10-05 19:16:39.000000000 Z
@@ -1927,7 +1927,7 @@ Clerk_161:
   password_salt: i0LQbxRHmE1pYUGkafVW
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Kukka Fiori
-    street: ! 'Visiirikatu 1 As 2 '
+    street: 'Visiirikatu 1 As 2 '
     city: 20780 Kaarina
     phone: 040 770 6900
   created_at: 2011-10-06 06:08:32.000000000 Z
@@ -1939,7 +1939,7 @@ Clerk_162:
   password_salt: 0Smvk9Mov82pHGcSE3qB
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: K-supermarket Hyrylä
-    street: ! 'Autoasemankatu 1 '
+    street: 'Autoasemankatu 1 '
     city: 04300 Tuusula
     phone: 045 7750 3035
   created_at: 2011-10-18 06:41:57.000000000 Z
@@ -1950,8 +1950,8 @@ Clerk_163:
   encrypted_password: 5b708109ebdc7db362490600d228b1efe1d8d7c56a5d5049834e06f479ebf2e0c813cd4584f26ad93e01b12c6e153e057e4941ba921ac8937ed2a33d7ac7d0fd
   password_salt: fID9mvk6aRjx8CsW7nQC
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    name: ! 'Jane Antola K-supermarket Veikkola '
-    street: ! 'Koskentie 6 '
+    name: 'Jane Antola K-supermarket Veikkola '
+    street: 'Koskentie 6 '
     city: 02880 Veikkola
     phone: 0207 597 460
   created_at: 2011-10-19 13:01:05.000000000 Z
@@ -1962,8 +1962,8 @@ Clerk_164:
   encrypted_password: 1db0b01e821de26eb311cea0c434d65f062e139f75b42933282deb66600bbcea1bdb09eb472a488ec987a52543376506e6219550f16e2641efd2be3b9d4559b2
   password_salt: ifwjgjo1rPYYCBBRbhZb
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    name: ! 'Kauppias Harri Nevalainen K-supermarket Korso '
-    street: ! 'MINKKIKUJA 4 '
+    name: 'Kauppias Harri Nevalainen K-supermarket Korso '
+    street: 'MINKKIKUJA 4 '
     city: 01450 VANTAA
     phone: 09-836 2730
   created_at: 2011-10-19 13:09:58.000000000 Z
@@ -1974,8 +1974,8 @@ Clerk_165:
   encrypted_password: 9188ae0945c6a19bf2ed2666d388c9b6b9e40277130547f163fdd20fb6049e4f1c03b214db6bba50a1c7543faa376628b0b71f75f1609faf793519c951ead350
   password_salt: VdNskDysOQ6RJup3Ez7E
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    name: ! 'Kauppias Satu Saarinen K-supermarket Turenki '
-    street: ! 'HARVIALANTIE 3 '
+    name: 'Kauppias Satu Saarinen K-supermarket Turenki '
+    street: 'HARVIALANTIE 3 '
     city: 14200 TURENKI
     phone: 03-656990
   created_at: 2011-10-19 13:16:29.000000000 Z
@@ -1986,8 +1986,8 @@ Clerk_166:
   encrypted_password: 51e4d14a2acd9b1084f7b638baed44cd6689f31ad4b329a7c45d0fc747a042cbad45446f2580379f788f8f0c94ca97559f40babfcf08032b492a83939323a53e
   password_salt: fSGaViwZFJjaOdKeui70
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    name: ! 'Kauppiaat Mari ja Leevi Korpikaivo K-supermarket Mari '
-    street: ! 'Tampereentie 1 '
+    name: 'Kauppiaat Mari ja Leevi Korpikaivo K-supermarket Mari '
+    street: 'Tampereentie 1 '
     city: 31760 Urjala
     phone: 03 384 4400
   created_at: 2011-10-19 13:26:23.000000000 Z
@@ -1999,7 +1999,7 @@ Clerk_167:
   password_salt: klZrKmMdyH2coGWZXYXM
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: K-supermarket Hannunniittu  Kauppiaat Taina ja John Jansen
-    street: ! ' KURALANKATU 2 '
+    street: " KURALANKATU 2 "
     city: 20540 TURKU
     phone: 02-275 1300
   created_at: 2011-10-19 14:08:00.000000000 Z
@@ -2010,8 +2010,8 @@ Clerk_168:
   encrypted_password: 6ef838cedfc178f3e4c36d82f80006f29d4b792205779d48ec153d1fcca6dadbecb80855ebbcc134944bc55e9e3108d16cd58df489cc3a8394424cf67e45bcd8
   password_salt: BLTryGUBiAh8j9lmbZVz
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    name: ! 'Kauppias Tommi Niskanen K-supermarket Suomussalmi '
-    street: ! 'Risteentie 12 '
+    name: 'Kauppias Tommi Niskanen K-supermarket Suomussalmi '
+    street: 'Risteentie 12 '
     city: 89600  SUOMUSSALMI
     phone: 0207 705 770
   created_at: 2011-10-19 14:12:42.000000000 Z
@@ -2023,7 +2023,7 @@ Clerk_169:
   password_salt: BFbqqKy72lJAieCTCxXm
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Newtop Oy , Petri Haltia
-    street: ! 'VAKIOTIE 9 '
+    street: 'VAKIOTIE 9 '
     city: 21420 LIETO
     phone: 040 353 3038
   created_at: 2011-10-21 08:30:18.000000000 Z
@@ -2035,7 +2035,7 @@ Clerk_170:
   password_salt: hxx0tI98ZjXaqLN3BtPG
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Opri Karttunen
-    street: ! 'Saarenmaankatu 1 A 5 '
+    street: 'Saarenmaankatu 1 A 5 '
     city: 00980 Helsinki
     phone: 0407491229
   created_at: 2011-10-21 17:01:10.000000000 Z
@@ -2047,7 +2047,7 @@ Clerk_171:
   password_salt: YPACFo4mzIrrbbwymh5s
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Juha Kumara / Bieder
-    street: ! 'Radiokatu 6 '
+    street: 'Radiokatu 6 '
     city: 00240 Helsinki
     phone: 0107787780
   created_at: 2011-10-22 09:02:27.000000000 Z
@@ -2059,7 +2059,7 @@ Clerk_172:
   password_salt: GLcVsMRaEPZ5pUdVY6AW
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Tmi Eveliina Koivula
-    street: ! 'Suomenkyläntie 230 '
+    street: 'Suomenkyläntie 230 '
     city: 52830 Suomenniemi
     phone: 044 2077 370
   created_at: 2011-10-25 17:32:17.000000000 Z
@@ -2071,7 +2071,7 @@ Clerk_173:
   password_salt: 9f8FA2zlicyUmtJeZK9w
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: K-supermarket Superi
-    street: ! 'Sorvankatu 5 '
+    street: 'Sorvankatu 5 '
     city: 38200 SASTAMALA
     phone: 0104701821 / 0505526889
   created_at: 2011-10-26 07:42:40.000000000 Z
@@ -2107,9 +2107,9 @@ Clerk_176:
   password_salt: pduW8B4wqscmzJts6P7s
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Herbatik  / Johanna Lagerholm TMI
-    street: ! 'Aleksanterinkatu 2 '
+    street: 'Aleksanterinkatu 2 '
     city: 07900 Loviisa
-    phone: (019) 535 979
+    phone: "(019) 535 979"
   created_at: 2011-11-01 07:16:57.000000000 Z
 Clerk_177:
   id: 2760
@@ -2119,7 +2119,7 @@ Clerk_177:
   password_salt: 5Z2UTbWvvKtap2EPmcrm
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Stockmann Oyj / Herkku Helsinki
-    street: ! 'PL 147 '
+    street: 'PL 147 '
     city: 00381 Helsinki
     phone: 09-1211
   created_at: 2011-11-01 10:15:26.000000000 Z
@@ -2131,7 +2131,7 @@ Clerk_178:
   password_salt: kWxByvdjFdZPJeFXJxU7
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Studio Ell
-    street: ! 'Laajasuontie 8   '
+    street: 'Laajasuontie 8   '
     city: 00320 Helsinki
     phone: 040 031 2117
   created_at: 2011-11-04 02:12:00.000000000 Z
@@ -2143,7 +2143,7 @@ Clerk_179:
   password_salt: xUqkG1xsqZZR9ZjCGVxz
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Salon Birgitta Silander
-    street: ! 'Pohjoinen rautatienkatu 15 A 1 '
+    street: 'Pohjoinen rautatienkatu 15 A 1 '
     city: 00100 Helsinki
     phone: 09-498 470
   created_at: 2011-11-04 03:24:42.000000000 Z
@@ -2155,7 +2155,7 @@ Clerk_180:
   password_salt: MB52pyb6o4xwMS8xMmYL
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Vihreä Kampa Hanna Mikkonen
-    street: ! 'Ilmarinkatu 10 B '
+    street: 'Ilmarinkatu 10 B '
     city: 00100 Helsinki
     phone: 095871996
   created_at: 2011-11-18 06:30:05.000000000 Z
@@ -2167,7 +2167,7 @@ Clerk_181:
   password_salt: sPRqxwKqms86zS2N8Vdz
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Ekokampaamo IlonPilke
-    street: ! 'Valtakatu 32-34 '
+    street: 'Valtakatu 32-34 '
     city: 45700 Kuusankoski
     phone: 0400 256 620
   created_at: 2011-11-17 11:03:38.000000000 Z
@@ -2179,7 +2179,7 @@ Clerk_182:
   password_salt: KejnHLhjqxYEDfxFRsQn
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Ekokampaamo Entraamo
-    street: ! 'Hämeentkatu 3 '
+    street: 'Hämeentkatu 3 '
     city: 11100 Riihimäki
     phone: '0445051676'
   created_at: 2011-11-17 11:45:52.000000000 Z
@@ -2191,7 +2191,7 @@ Clerk_183:
   password_salt: qtr6RYXG5FBGoqQVM6xA
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Salon Carolina Carolina Vento
-    street: ! 'Mannerheiminkatu 10 '
+    street: 'Mannerheiminkatu 10 '
     city: 06100 Porvoo
     phone: 0407592201
   created_at: 2011-11-18 07:04:28.000000000 Z
@@ -2203,7 +2203,7 @@ Clerk_184:
   password_salt: K941XCgoqUXK2CRs9vQq
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: K-supermarket Lehtomäki
-    street: ! 'Haukikuja 2 '
+    street: 'Haukikuja 2 '
     city: Kouvola 45160
     phone: '055444631'
   created_at: 2011-11-23 11:23:30.000000000 Z
@@ -2215,7 +2215,7 @@ Clerk_185:
   password_salt: vGPzCkaA9Nzvot3U8aEq
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Parturi-kampaamo Salon A&Å Anette Silvander
-    street: ! 'Tinantie 1 B '
+    street: 'Tinantie 1 B '
     city: 02430 Masala
     phone: 09-297 6375, 040-521 9902
   created_at: 2011-11-25 10:10:08.000000000 Z
@@ -2239,7 +2239,7 @@ Clerk_187:
   password_salt: VMUpqpuTc5RZZY3uaVqr
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Maustesoppi / Kuopion Kauppahalli
-    street: ! 'Kauppakatu 45 '
+    street: 'Kauppakatu 45 '
     city: 70110 Kuopio
     phone: 017-262 5393
   created_at: 2011-12-02 10:09:03.000000000 Z
@@ -2251,7 +2251,7 @@ Clerk_188:
   password_salt: qBRH55ekxNxGr5pqHu6q
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Vistovin / Virpi Sorvisto
-    street: ! 'Auringonkierros 5 '
+    street: 'Auringonkierros 5 '
     city: 67400 Kokkola
     phone: 050 3380080
   created_at: 2011-12-07 08:46:16.000000000 Z
@@ -2263,7 +2263,7 @@ Clerk_189:
   password_salt: q4G5DWFxz1SiNeYwGvgs
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Siporos Oy / Veronika Sarmaste
-    street: ! 'Mikkolantie 1 A '
+    street: 'Mikkolantie 1 A '
     city: 00640 Helsinki
     phone: 09 7579 2750
   created_at: 2011-12-09 12:18:45.000000000 Z
@@ -2275,7 +2275,7 @@ Clerk_190:
   password_salt: A92jtz221GQzxNzPL4pE
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Stockmann Oyj / Herkku Helsinki
-    street: ! 'Pl 147 '
+    street: 'Pl 147 '
     city: 00381 Helsinki
     phone: 09-1211
   created_at: 2011-12-02 09:04:26.000000000 Z
@@ -2287,7 +2287,7 @@ Clerk_191:
   password_salt: PWA7HNg158sx67NVCqpZ
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Pirkko Peltola Harjulan Kilta ry
-    street: ! 'Museotie 1 '
+    street: 'Museotie 1 '
     city: 29200 Harjavalta
     phone: 02 5351 200
   created_at: 2012-01-18 15:49:17.000000000 Z
@@ -2299,7 +2299,7 @@ Clerk_192:
   password_salt: gwlPNYXJUgwyyCcTlyg2
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kaivokukka Sello Jaati-Set Oy
-    street: ! 'Maapallonkuja 2 C 61 '
+    street: 'Maapallonkuja 2 C 61 '
     city: 02210 Espoo
     phone: '0415056023'
   created_at: 2011-04-27 14:38:56.000000000 Z
@@ -2311,7 +2311,7 @@ Clerk_193:
   password_salt: Q7GpDsdC5xFyGxmSrUP3
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Katriina's Spa / Katriina Peuhkuri
-    street: ! 'Satulantie 422 '
+    street: 'Satulantie 422 '
     city: 82200 Hammaslahti
     phone: 050 495 4833
   created_at: 2012-01-26 13:10:24.000000000 Z
@@ -2323,7 +2323,7 @@ Clerk_194:
   password_salt: 4ziToUdGQ6xq7o9QqJrx
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kauneushoitola Kanelia
-    street: ! 'Laakavuorenkuja 2 C '
+    street: 'Laakavuorenkuja 2 C '
     city: 00970 Helsinki
     phone: 044 258 2319
   created_at: 2012-01-31 10:32:13.000000000 Z
@@ -2335,7 +2335,7 @@ Clerk_195:
   password_salt: bL15nEhSpppEGzUc6Tt9
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Stockmann Oyj / Herkku Tapiola
-    street: ! 'PL 147 '
+    street: 'PL 147 '
     city: 00381 Helsinki
     phone: 09-12121
   created_at: 2012-02-02 19:31:11.000000000 Z
@@ -2347,7 +2347,7 @@ Clerk_196:
   password_salt: NEsqg1mVdangPSsTGAZn
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Parturi-kampaamo Pieni Hiushuone
-    street: ! 'Valtakatu 5 '
+    street: 'Valtakatu 5 '
     city: 94100 Kemi
     phone: 050 5755 770
   created_at: 2012-02-07 20:50:00.000000000 Z
@@ -2371,7 +2371,7 @@ Clerk_198:
   password_salt: GJGjStzG6zyXuRhvyJws
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Luana Kotiparturi - Hemfrisör
-    street: ! 'Markusmäentie 112 '
+    street: 'Markusmäentie 112 '
     city: 07840 Lindkoski
     phone: 040 562 6000
   created_at: 2012-02-19 20:32:21.000000000 Z
@@ -2383,7 +2383,7 @@ Clerk_199:
   password_salt: F1bWgpCiEYNHmpxSbnBY
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Sisustustalo J. Lehmusto
-    street: ! 'Kasarmikatu 5 '
+    street: 'Kasarmikatu 5 '
     city: 13100 Hämeenlinna
     phone: 03 6824611
   created_at: 2012-02-20 13:33:25.000000000 Z
@@ -2395,7 +2395,7 @@ Clerk_200:
   password_salt: 67bCnTTNqPQCo7RSxYEn
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Uniikki
-    street: ! 'Unikkotie 5 a '
+    street: 'Unikkotie 5 a '
     city: 01300 Vantaa
     phone: 040-1547911
   created_at: 2012-02-20 13:48:45.000000000 Z
@@ -2407,7 +2407,7 @@ Clerk_201:
   password_salt: Rfbx9pzMbj3uywJtxjKi
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Green Lips
-    street: ! 'Kalevantie 8 '
+    street: 'Kalevantie 8 '
     city: 20504 Turku
     phone: 040-708 8631
   created_at: 2012-02-28 09:44:30.000000000 Z
@@ -2419,7 +2419,7 @@ Clerk_202:
   password_salt: y7F8Jp4GsgjPypcLedaY
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: LUMO-puoti / Taleko Oy, Anne Ahlström
-    street: ! 'Ideaparkinkatu 4 '
+    street: 'Ideaparkinkatu 4 '
     city: 37570 Lempäälä
     phone: 050 3470 595
   created_at: 2012-03-02 11:39:01.000000000 Z
@@ -2439,7 +2439,7 @@ Clerk_204:
   password_salt: 4ktpEAvzQyXByphh4ywp
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kauneushoitola Vire
-    street: ! 'Hakaniemon torikatu 2 '
+    street: 'Hakaniemon torikatu 2 '
     city: 00530 Helsinki
     phone: 045-1123937
   created_at: 2012-03-06 15:25:14.000000000 Z
@@ -2451,7 +2451,7 @@ Clerk_205:
   password_salt: iu9nxMRzzx8eQxrvJZhB
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kauneushuone Ravensara / H-Tuotanto Ay
-    street: ! 'Aninkaistenkatu 12 '
+    street: 'Aninkaistenkatu 12 '
     city: 20100 Turku
     phone: 040 760 7413
   created_at: 2012-03-07 05:40:18.000000000 Z
@@ -2463,7 +2463,7 @@ Clerk_206:
   password_salt: R2QIOcRMtLbUW12468Z4
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Ratilainen Ky
-    street: ! 'Kiteentie 4 '
+    street: 'Kiteentie 4 '
     city: 82500 Kitee
     phone: 013-225 455
   created_at: 2011-03-16 21:15:47.000000000 Z
@@ -2475,7 +2475,7 @@ Clerk_207:
   password_salt: kKtj1YqpSjhxLSx7pZY8
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: H&B Home / Heli Broman
-    street: ! 'Kauppakatu 28 '
+    street: 'Kauppakatu 28 '
     city: 80100 Joensuu
     phone: 013 284 911
   created_at: 2012-03-16 07:35:40.000000000 Z
@@ -2499,7 +2499,7 @@ Clerk_209:
   password_salt: kuG5enBETNBCpkFazznG
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Viherlandia Leikkokukat
-    street: ! 'Kammintie 6 '
+    street: 'Kammintie 6 '
     city: 40520 Jyväskylä
     phone: 010 617 1941
   created_at: 2011-11-25 09:31:08.000000000 Z
@@ -2523,7 +2523,7 @@ Clerk_211:
   password_salt: jbAYhuozcUJyaNbpAEyF
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Päivi Anttilainen LaMente
-    street: ! 'Töölönkatu 19 '
+    street: 'Töölönkatu 19 '
     city: 00260 Helsinki
     phone: 044 5800804
   created_at: 2012-04-01 11:58:00.000000000 Z
@@ -2535,7 +2535,7 @@ Clerk_212:
   password_salt: g2zQumEsnf45efcJh4gs
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Entraamo / Tiina Mäkelä
-    street: ! 'Hämeenkatu 3 '
+    street: 'Hämeenkatu 3 '
     city: 11100 Riihimäki
     phone: 044 520 0024
   created_at: 2012-04-02 04:48:05.000000000 Z
@@ -2547,7 +2547,7 @@ Clerk_213:
   password_salt: 7bPgrKch7nfzSPgd6qQa
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Tikander Nina F:ma
-    street: ! 'Karpalokuja 3 '
+    street: 'Karpalokuja 3 '
     city: 07945 Kuggom
     phone: 040-727 0724
   created_at: 2011-10-31 13:56:54.000000000 Z
@@ -2571,7 +2571,7 @@ Clerk_215:
   password_salt: An6u2hBpKwgu8yCRMSZm
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Puntti
-    street: ! 'Kylänvanhimmantie 12 A '
+    street: 'Kylänvanhimmantie 12 A '
     city: 00640 Helsinki
     phone: 040 747 4443
   created_at: 2011-01-11 19:30:04.000000000 Z
@@ -2583,7 +2583,7 @@ Clerk_216:
   password_salt: eWnhqWipRjSTKq5mfsC5
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Pompoti Oy / Miia Tamminen
-    street: ! 'Pohjoinen Asemakatu 10 '
+    street: 'Pohjoinen Asemakatu 10 '
     city: 11130 Riihimäki
     phone: 044 273 5371
   created_at: 2012-05-08 15:38:59.000000000 Z
@@ -2595,7 +2595,7 @@ Clerk_217:
   password_salt: qzxNXmJby8MJJTHyygsv
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Selina ja Ciprian Nastase
-    street: ! 'Fasantie 132b '
+    street: 'Fasantie 132b '
     city: 02440 Luoma
     phone: '02440'
   created_at: 2012-05-15 20:21:34.000000000 Z
@@ -2607,7 +2607,7 @@ Clerk_218:
   password_salt: chNhLQGJZydD6YgBtZ2Q
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Pia Nieminen
-    street: ! 'Katinsuontie 2 '
+    street: 'Katinsuontie 2 '
     city: 10470 Fiskars
     phone: '10470'
   created_at: 2012-05-18 11:50:25.000000000 Z
@@ -2619,7 +2619,7 @@ Clerk_219:
   password_salt: RyyK46UvvnTUMxr7yUkB
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Sirkkakaarina
-    street: ! 'Henrikinkatu 2 '
+    street: 'Henrikinkatu 2 '
     city: 21110 Naantali
     phone: 02 435 8045
   created_at: 2011-07-26 16:37:16.000000000 Z
@@ -2631,9 +2631,9 @@ Clerk_220:
   password_salt: 6FeBdCzBndDW8TrbtMZK
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: The Natural Building Company
-    street: ! 'Laaksokatu 10 '
+    street: 'Laaksokatu 10 '
     city: 10300 Karjaa
-    phone: +358 442509663
+    phone: "+358 442509663"
   created_at: 2012-05-27 18:45:08.000000000 Z
 Clerk_221:
   id: 2804
@@ -2642,8 +2642,8 @@ Clerk_221:
   encrypted_password: 1f091598ef95bc218c3bfc4b688fe0c6967747330066ea7dd6203bec6732735af3ab09867d2be0db0337f6f3fbc12d1d7a12a99c7d3eed9385ddfc2705aa31bf
   password_salt: X9yo8y8Rt2pmmPfqaybx
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    name: ! 'Ekokauneushoitola  Villiruusu '
-    street: ! 'Kuninkaankatu 23 '
+    name: 'Ekokauneushoitola  Villiruusu '
+    street: 'Kuninkaankatu 23 '
     city: 70100 Kuopio
     phone: 040 685 9001
   created_at: 2012-05-29 09:15:33.000000000 Z
@@ -2655,7 +2655,7 @@ Clerk_222:
   password_salt: NwbrHAMjm2Hxztbb7SqK
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kauneus- ja terveysklinikka Darina
-    street: ! 'Lauttasaarentie 18 '
+    street: 'Lauttasaarentie 18 '
     city: 00200 Helsinki
     phone: 050 5922 572
   created_at: 2012-05-30 03:31:39.000000000 Z
@@ -2667,7 +2667,7 @@ Clerk_223:
   password_salt: sGhXwPwB4sApzdXSzzcx
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Terveyskauppa Vihreälinja
-    street: ! 'Aleksis Kiven katu 30 '
+    street: 'Aleksis Kiven katu 30 '
     city: 33200 TAMPERE
     phone: 03 212 4004
   created_at: 2012-05-31 13:50:27.000000000 Z
@@ -2679,7 +2679,7 @@ Clerk_224:
   password_salt: pv8SuABfpsZrF3YhXqa7
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Entisointi Rinne
-    street: ! 'Mörbyntie 740 '
+    street: 'Mörbyntie 740 '
     city: 10600 Tammisaari
     phone: '0404040404'
   created_at: 2012-06-01 10:01:09.000000000 Z
@@ -2691,7 +2691,7 @@ Clerk_225:
   password_salt: PwSUhAqiazo4rxH2mjj8
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Funny Deli Oy
-    street: ! '       Mechelininkatu 18 '
+    street: "\LMechelininkatu 18 "
     city: 00100 Helsinki
     phone: 09 454 6112
   created_at: 2012-06-07 21:03:01.000000000 Z
@@ -2703,7 +2703,7 @@ Clerk_226:
   password_salt: iTcYoMpMmGnSptiv1Lme
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Olga Maria
-    street: ! 'Puistokatu 1 '
+    street: 'Puistokatu 1 '
     city: 57100 Savonlinna
     phone: 0400 871 067
   created_at: 2012-06-17 19:09:04.000000000 Z
@@ -2715,7 +2715,7 @@ Clerk_227:
   password_salt: gMTfuJyyrvcRcqwYsWTs
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Katriinan Kauppa
-    street: ! 'Kauppakatu 19 '
+    street: 'Kauppakatu 19 '
     city: 40100 Jyväskylä
     phone: 0400 391 713
   created_at: 2012-06-24 18:37:38.000000000 Z
@@ -2727,7 +2727,7 @@ Clerk_228:
   password_salt: GCWYN3HNaehcqgi0KRGg
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: T:mi Kalevi Viinamäki
-    street: ! ' FRIITALANTIE 18 '
+    street: " FRIITALANTIE 18 "
     city: 28400 ULVILA
     phone: 02-5317800
   created_at: 2011-10-19 13:31:25.000000000 Z
@@ -2739,7 +2739,7 @@ Clerk_229:
   password_salt: 5oDNzqchPU9x1pbfr69u
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Stockmann Oyj / Herkku Turku
-    street: ! 'PL 147 '
+    street: 'PL 147 '
     city: 00381 Helsinki
     phone: 09-1219999
   created_at: 2012-06-30 07:49:14.000000000 Z
@@ -2751,7 +2751,7 @@ Clerk_230:
   password_salt: xCcS8ay5Gvnm6gVCtyxc
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Fennel Oy
-    street: ! 'Palokunnantie 2 A '
+    street: 'Palokunnantie 2 A '
     city: 02700 Kauniainen
     phone: 0400 435 454
   created_at: 2012-06-30 07:54:09.000000000 Z
@@ -2763,7 +2763,7 @@ Clerk_231:
   password_salt: tqzqWLH9EpnqPA5Qw5hZ
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Maila-Sinikka Kukkonen
-    street: ! 'Vuorenpeikontie 3 B 69 '
+    street: 'Vuorenpeikontie 3 B 69 '
     city: 00820 Helsinki
     phone: 050 439 5562
   created_at: 2012-07-02 05:49:30.000000000 Z
@@ -2775,7 +2775,7 @@ Clerk_232:
   password_salt: hzoLkCvbZTRPTdkD6HYo
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Heli Eronen Salon HB Health & Beauty
-    street: ! 'Mannerheimintie 5 B 2.krs '
+    street: 'Mannerheimintie 5 B 2.krs '
     city: 00100 Helsinki
     phone: 0400 915 519
   created_at: 2012-07-03 11:51:39.000000000 Z
@@ -2787,7 +2787,7 @@ Clerk_233:
   password_salt: bPsav94BUcojQ5pFKwLT
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kaj Wasström
-    street: ! 'Myllytie 6 '
+    street: 'Myllytie 6 '
     city: 10300 Karjaa
     phone: 040 7355 999
   created_at: 2012-07-04 05:23:44.000000000 Z
@@ -2799,8 +2799,8 @@ Clerk_234:
   password_salt: s4pQcXGyx5KEAFTZdJwh
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Natural Beauty Jaana Pokka
-    street: ! 'Valtakatu 18 '
-    city: ! '96200 Rovaniemi '
+    street: 'Valtakatu 18 '
+    city: '96200 Rovaniemi '
     phone: 040 132 7115
   created_at: 2012-07-11 04:59:06.000000000 Z
 Clerk_235:
@@ -2811,7 +2811,7 @@ Clerk_235:
   password_salt: R1s4RLNZJZ7YjB5ZxAbp
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Helsingin Cityburger Oy
-    street: ! 'Itäkatu 1-5 A 14 '
+    street: 'Itäkatu 1-5 A 14 '
     city: 00930 Helsinki
     phone: 050 363 8191
   created_at: 2012-07-15 20:25:41.000000000 Z
@@ -2823,7 +2823,7 @@ Clerk_236:
   password_salt: VnU1z6Hx9YiaRKEpaoqL
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: As Oy Åminneborg / Kari Kankaanranta
-    street: ! 'Pitkänkalliontie 15 A5 '
+    street: 'Pitkänkalliontie 15 A5 '
     city: 02170 Espoo
     phone: 040 552 8946
   created_at: 2012-07-30 08:00:52.000000000 Z
@@ -2835,7 +2835,7 @@ Clerk_237:
   password_salt: noBFZFz8FjFQJKvFWaTL
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kati Hietama Kauneushoitola Paus Wellness
-    street: ! 'Satamakatu 27 '
+    street: 'Satamakatu 27 '
     city: 40100 Jyväskylä
     phone: 0407306295
   created_at: 2012-08-11 08:16:30.000000000 Z
@@ -2859,7 +2859,7 @@ Clerk_239:
   password_salt: Noti8z8wLbcYHxu5rdqK
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: K-Supermarket Kulinaari
-    street: ! 'KAMREERINTIE 3 '
+    street: 'KAMREERINTIE 3 '
     city: 02770 Espoo
     phone: 09-867 6200
   created_at: 2011-08-19 15:43:49.000000000 Z
@@ -2871,7 +2871,7 @@ Clerk_240:
   password_salt: aTLr8xYw4ZQ7sCRDayPj
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: M-Market Laaksolahti / Juha Matilainen
-    street: ! 'Laaksolahdentie 41 '
+    street: 'Laaksolahdentie 41 '
     city: 02730 Espoo
     phone: 09 595 846
   created_at: 2012-08-22 05:14:50.000000000 Z
@@ -2883,7 +2883,7 @@ Clerk_241:
   password_salt: jZ6jmFE2biOqhK5G7f4U
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kauneushoitola Natural Skin
-    street: ! 'Runeberginkatu 3 F, 3 krs '
+    street: 'Runeberginkatu 3 F, 3 krs '
     city: 00100 Helsinki
     phone: '0503576500'
   created_at: 2011-10-17 14:56:21.000000000 Z
@@ -2895,7 +2895,7 @@ Clerk_242:
   password_salt: ZYypiobx3wMHfASWjGxs
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Herkkupuoti Hilma / Päivi Sappinen
-    street: ! 'Linja-autoasema '
+    street: 'Linja-autoasema '
     city: 23500 Uusikaupunki
     phone: 050 303 3116
   created_at: 2012-10-11 14:41:46.000000000 Z
@@ -2907,7 +2907,7 @@ Clerk_243:
   password_salt: kDRQZpXnkQzEmbUBXBBp
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Lähde Hyvään  Oloon
-    street: ! 'Hämeentie 1 '
+    street: 'Hämeentie 1 '
     city: 30100 Forssa
     phone: 050 575 6611
   created_at: 2012-10-17 19:45:53.000000000 Z
@@ -2919,7 +2919,7 @@ Clerk_244:
   password_salt: hFeByXU54ukeswtssj5m
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Siporos Oy  Veronika Sarmaste
-    street: ! 'Mikkolantie 1A '
+    street: 'Mikkolantie 1A '
     city: 00640 Helsinki
     phone: 0405304678
   created_at: 2012-11-07 17:06:22.000000000 Z
@@ -2931,7 +2931,7 @@ Clerk_245:
   password_salt: 3ue1isrzZYJYbweNuJcG
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Arto Mansikkavuori
-    street: ! 'Huvilakatu 7 '
+    street: 'Huvilakatu 7 '
     city: 10300 Karjaa
     phone: 0400 327 649
   created_at: 2012-11-11 07:28:03.000000000 Z
@@ -2943,7 +2943,7 @@ Clerk_246:
   password_salt: 1RvSrcJ7PE2BMNS1UHyz
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Eko Cabello Norma Campos
-    street: ! 'Pohjoinen Rautatienkatu 15A '
+    street: 'Pohjoinen Rautatienkatu 15A '
     city: 00100 Helsinki
     phone: 046-533 3523
   created_at: 2012-11-12 10:36:05.000000000 Z
@@ -2955,7 +2955,7 @@ Clerk_247:
   password_salt: TUSnwJHVp7tcA79hi8K8
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Mari Koskinen
-    street: ! 'Starkomin Jokitie 18 '
+    street: 'Starkomin Jokitie 18 '
     city: 10300 Karjaa
     phone: 050 388 3875
   created_at: 2012-11-20 18:11:02.000000000 Z
@@ -2967,7 +2967,7 @@ Clerk_248:
   password_salt: ZItDE5mb2jlBYplFLJTY
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kaivokukka Viikki
-    street: ! 'Viikintori 3 '
+    street: 'Viikintori 3 '
     city: 00790 Helsinki
     phone: 020 752 8588
   created_at: 2011-10-26 09:06:32.000000000 Z
@@ -2979,7 +2979,7 @@ Clerk_249:
   password_salt: nR8CWjnpZTog9UVheSw8
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Parturi-Kampaamo Hiuspuoti / Mervi Ala-Mattinen
-    street: ! 'Kirkkotie 27 '
+    street: 'Kirkkotie 27 '
     city: 61100 PERÄSEINÄJOKI
     phone: 06-417 4649
   created_at: 2012-12-10 16:16:00.000000000 Z
@@ -2991,7 +2991,7 @@ Clerk_250:
   password_salt: Epugpq2jDHWpT7aF4qz1
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Pieni Hugo / Dennis Andersson
-    street: ! 'Brandensteininkatu 11 '
+    street: 'Brandensteininkatu 11 '
     city: 07900 Loviisa
     phone: 045 773 40577
   created_at: 2012-12-10 16:42:11.000000000 Z
@@ -3003,9 +3003,9 @@ Clerk_251:
   password_salt: 2AaPq8cj9xBxMo1MmBSZ
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Jari Ahlqvist / Billnäsin Verstaat Oy
-    street: ! 'Ruukintie 9 '
+    street: 'Ruukintie 9 '
     city: 10330 Billnäs
-    phone: ! '040-528 46 36 '
+    phone: '040-528 46 36 '
   created_at: 2012-12-23 13:38:18.000000000 Z
 Clerk_252:
   id: 2835
@@ -3015,9 +3015,9 @@ Clerk_252:
   password_salt: jUSzem6DNgbcLS9EZAXn
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Parturi Kampaamo Pinkki Paplari
-    street: ! 'Stenbäckinkatu 10 '
+    street: 'Stenbäckinkatu 10 '
     city: 00250 Helsinki
-    phone: ! '044-0584001 '
+    phone: '044-0584001 '
   created_at: 2012-12-27 09:05:02.000000000 Z
 Clerk_253:
   id: 2836
@@ -3027,7 +3027,7 @@ Clerk_253:
   password_salt: z3SHjmzTyXyB3dSzc5nM
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Tmi Anni Pätäri
-    street: ! 'Uudenmaankatu 16-20 '
+    street: 'Uudenmaankatu 16-20 '
     city: 00100 Helsinki
     phone: 041-505 1656
   created_at: 2013-01-03 08:43:45.000000000 Z
@@ -3039,7 +3039,7 @@ Clerk_254:
   password_salt: ccrwi9Mi4zv5QwsH2YJk
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: T:mi Outi Sinimäki  / Outi Laaksonen
-    street: ! 'Hietalahdenkatu 22 '
+    street: 'Hietalahdenkatu 22 '
     city: 65100 Vaasa
     phone: 06-312 4707
   created_at: 2013-01-03 09:49:38.000000000 Z
@@ -3051,7 +3051,7 @@ Clerk_255:
   password_salt: uTyd7BzTTsWSYcZXv2y1
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Tmi Hiushuone Hippu / Nella Liikkanen
-    street: ! 'Satamakatu 7 '
+    street: 'Satamakatu 7 '
     city: 49400 Hamina
     phone: 044 5799859
   created_at: 2013-12-23 06:39:45.000000000 Z
@@ -3063,7 +3063,7 @@ Clerk_256:
   password_salt: 7p1o98boAGdbNqxx9mNc
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: tmi Ekokampaaja Anna-Maria Seppälä
-    street: ! 'Maitikkapolku 10 D 31 '
+    street: 'Maitikkapolku 10 D 31 '
     city: 01300 Vantaa
     phone: 044 041 5185
   created_at: 2014-03-13 07:16:08.000000000 Z
@@ -3075,7 +3075,7 @@ Clerk_257:
   password_salt: vpX2YsrVquHVsf5B8NzS
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: MariMari / Mari Nieminen
-    street: ! 'Rautatienkatu 18 '
+    street: 'Rautatienkatu 18 '
     city: 15110 Lahti
     phone: 050 563 5558
   created_at: 2014-11-04 16:08:48.000000000 Z
@@ -3087,7 +3087,7 @@ Clerk_258:
   password_salt: VsyWqwQnccuzErv9SB9X
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Parturi-Kampaamo Hiusmeri Ky Päivi Takkunen
-    street: ! 'Antinkankaantie 28 '
+    street: 'Antinkankaantie 28 '
     city: 92130 Raahe
     phone: 082239730
   created_at: 2014-11-18 11:48:55.000000000 Z
@@ -3139,7 +3139,7 @@ Clerk_264:
   password_salt: FseQW0uoR3iqLcrGno3l
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkatalo Muotikukka
-    street: ! 'Mäntynummentie 2 '
+    street: 'Mäntynummentie 2 '
     city: 08500 Lohja as.
     phone: 019 381 338
   created_at: 2011-02-10 12:12:57.000000000 Z
@@ -3151,7 +3151,7 @@ Clerk_265:
   password_salt: l3yZu0fGeu5JyaAqd98S
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakaari Lippulaiva
-    street: ! 'Espoonlahdenkatu 4 '
+    street: 'Espoonlahdenkatu 4 '
     city: 02320 Espoo
     phone: 09 8196 1520
   created_at: 2011-02-11 06:13:10.000000000 Z
@@ -3187,7 +3187,7 @@ Clerk_269:
   password_salt: 6TJpf7xke10JRorMusAn
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakaari Lippulaiva
-    street: ! 'Espoonlahdenkatu 4 '
+    street: 'Espoonlahdenkatu 4 '
     city: 02320 Espoo
     phone: 0981961520
   created_at: 2011-04-27 14:22:46.000000000 Z
@@ -3207,7 +3207,7 @@ Clerk_271:
   password_salt: afFnUFUf0XAsu6lQGCYy
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Annelen Kukka
-    street: ! 'Rengonraitti 9 C '
+    street: 'Rengonraitti 9 C '
     city: 14300 Renko
     phone: 03 652 6252
   created_at: 2011-05-17 08:28:32.000000000 Z
@@ -3219,7 +3219,7 @@ Clerk_272:
   password_salt: 9y7hGKxtmUUNlBgy6V0o
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Puutarhan Kukka / Rönkön  Kukkatarha Oy
-    street: ! 'Palotie 1 '
+    street: 'Palotie 1 '
     city: 86800 Pyhäsalmi
     phone: 040-7693039
   created_at: 2011-05-18 13:05:02.000000000 Z
@@ -3239,7 +3239,7 @@ Clerk_274:
   password_salt: 2Yu0DQeeu63HdxauSlau
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Kukkakauppa Pekosten Kukka
-    street: ! 'Hämeenkatu 14 '
+    street: 'Hämeenkatu 14 '
     city: 15210 Lahti
     phone: 03 782 2453
   created_at: 2011-05-18 16:18:23.000000000 Z
@@ -3251,7 +3251,7 @@ Clerk_275:
   password_salt: 0yLbOMdGbQun9nr3DmOk
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Alvar Aalto -saatio
-    street: ! 'PL 25007 '
+    street: 'PL 25007 '
     city: 00021 LASKUTUS
     phone: 014- 266 7113
   created_at: 2011-06-21 18:18:50.000000000 Z
@@ -3263,7 +3263,7 @@ Clerk_276:
   password_salt: bqRPGhjxauoQ4m0q0BNT
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Hyvinkaan kaupunki/Talousosasto Viite kp 3661/Reijonen
-    street: ! 'PL 86 '
+    street: 'PL 86 '
     city: 05810 Hyvinkaa
     phone: 040-4801644
   created_at: 2011-08-10 07:44:01.000000000 Z
@@ -3275,7 +3275,7 @@ Clerk_277:
   password_salt: NKiKBQyghPykd0F4AYSi
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Markus ja Outi Tuomi K-Supermarket Jalasjärvi
-    street: ! 'Koskitie 21 '
+    street: 'Koskitie 21 '
     city: 61600 Jalasjärvi
     phone: 029 0074505
   created_at: 2011-09-16 05:10:08.000000000 Z
@@ -3287,7 +3287,7 @@ Clerk_278:
   password_salt: 4HtzNueK3kfmnWKVC0SQ
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Stockmann Oyj / Herkku Tapiola
-    street: ! 'PL 147 '
+    street: 'PL 147 '
     city: 00381 Helsinki
     phone: 09-1211
   created_at: 2011-09-25 11:14:13.000000000 Z
@@ -3299,7 +3299,7 @@ Clerk_279:
   password_salt: 2SeEGA5R5Kx24s6531Df
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Liike 51  / Sari Pakkala
-    street: ! 'Vanha Tapanilantie 51 '
+    street: 'Vanha Tapanilantie 51 '
     city: 00730 Helsinki
     phone: 040 700 6530
   created_at: 2011-12-02 09:28:03.000000000 Z
@@ -3311,7 +3311,7 @@ Clerk_280:
   password_salt: 6DqAoomb3aZG1pCVmuV6
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Vantaan  Kaupunki
-    street: ! 'PL 6007 '
+    street: 'PL 6007 '
     city: 00021 Laskutus
     phone: 0400 791737
   created_at: 2012-01-03 13:34:46.000000000 Z
@@ -3323,7 +3323,7 @@ Clerk_281:
   password_salt: G2iJTMxzsssKxqYJfAK4
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Ilomantsin  Museosaatio
-    street: ! 'Soihtulantie 7 '
+    street: 'Soihtulantie 7 '
     city: 82900 Ilomantsi
     phone: 050 4343744
   created_at: 2012-01-18 10:25:49.000000000 Z
@@ -3334,9 +3334,9 @@ Clerk_282:
   encrypted_password: dc5e556a6c915ad57b79e5db8915ce8e74e435be6f9fdb5296d99ba7828b0335bd945393c55c2c0b18f75b219a247293dd748a075c6d32b0d60f64f4bad5d0ab
   password_salt: xxXEqRPwFZ59RofzpC6y
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    name: ! 'Ekokampaamo Hiustupa  Päivi Rusthollkarhu '
-    street: ! 'Savilahdenkatu 2A '
-    city: ! '50100 Mikkeli '
+    name: 'Ekokampaamo Hiustupa  Päivi Rusthollkarhu '
+    street: 'Savilahdenkatu 2A '
+    city: '50100 Mikkeli '
     phone: 050-5242478
   created_at: 2012-05-08 08:09:06.000000000 Z
 Clerk_283:
@@ -3347,7 +3347,7 @@ Clerk_283:
   password_salt: 5xWGvdf9EuiTCwEaL2pt
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Ekosiskot / Teija Lehtinen
-    street: ! 'Omenatarhantie 1 C '
+    street: 'Omenatarhantie 1 C '
     city: 80230 Joensuu
     phone: 045 232 9767
   created_at: 2012-08-01 11:47:52.000000000 Z
@@ -3359,7 +3359,7 @@ Clerk_284:
   password_salt: p9BpJsvUBBUHfBxkYD3P
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Ekokampaamo Huvila
-    street: ! 'Päivöläntie 54 '
+    street: 'Päivöläntie 54 '
     city: 00730 Helsinki
     phone: 040 960 1103
   created_at: 2012-08-07 18:17:42.000000000 Z
@@ -3371,7 +3371,7 @@ Clerk_285:
   password_salt: oxmbhykYGZ1eLpPnzx1L
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     name: Marco Vuori Kukkakauppa Puntti Oy
-    street: ! 'Kylänvanhimmantie 12 a '
+    street: 'Kylänvanhimmantie 12 a '
     city: 00640 Helsinki
     phone: '0406620022'
   created_at: 2013-10-10 06:58:30.000000000 Z

@@ -1,1 +1,51 @@
---- {}
+---
+Supplier_1:
+  id: 1
+  supplier_name: Farfalla
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: ''
+    street: ''
+    city: ''
+    phone: ''
+  created_at: 2014-12-22 15:55:32.115643000 Z
+  updated_at: 2014-12-22 15:55:32.320183000 Z
+Supplier_2:
+  id: 2
+  supplier_name: Feuer&Glas
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: ''
+    street: ''
+    city: ''
+    phone: ''
+  created_at: 2014-12-22 15:58:43.573620000 Z
+  updated_at: 2014-12-22 15:58:43.773684000 Z
+Supplier_3:
+  id: 3
+  supplier_name: Frank Meyer
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: ''
+    street: ''
+    city: ''
+    phone: ''
+  created_at: 2014-12-22 15:58:59.302142000 Z
+  updated_at: 2014-12-22 15:58:59.514423000 Z
+Supplier_4:
+  id: 4
+  supplier_name: Tukku
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: ''
+    street: ''
+    city: ''
+    phone: ''
+  created_at: 2014-12-22 15:59:15.460613000 Z
+  updated_at: 2014-12-22 15:59:15.647901000 Z
+Supplier_5:
+  id: 5
+  supplier_name: Ruukin Rakennuspalvelu
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: ''
+    street: ''
+    city: ''
+    phone: ''
+  created_at: 2014-12-22 15:59:33.894252000 Z
+  updated_at: 2014-12-22 15:59:34.083635000 Z
