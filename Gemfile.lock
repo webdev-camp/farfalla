@@ -14,7 +14,7 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/office_clerk.git
-  revision: 2efb3ed050f32c128af7e6245ff386d54b595451
+  revision: 67b7ac447ebcf0975ac68935739aed6dbbabbcc0
   specs:
     office_clerk (0.9)
       bcrypt-ruby (~> 3.1)
@@ -201,7 +201,7 @@ GEM
     mysql2 (0.3.20)
     nenv (0.2.0)
     newrelic_rpm (3.14.1.311)
-    nokogiri (1.6.7)
+    nokogiri (1.6.7.1)
       mini_portile2 (~> 2.0.0.rc2)
     notiffany (0.0.8)
       nenv (~> 0.1)
