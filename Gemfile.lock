@@ -14,7 +14,7 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/office_clerk.git
-  revision: 3521362c97745f346866787960324c4a0acf4935
+  revision: 57354bae212cfef3c9bf9511291713d747d7f17b
   specs:
     office_clerk (0.9)
       bcrypt-ruby (~> 3.1)
@@ -44,13 +44,13 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/print_clerk.git
-  revision: 16c16ff202b3ae5abf3022578e702641cc90841d
+  revision: 714b2821118a44637df4a6e0cbc2a7db20f912fb
   specs:
     print_clerk (0.5)
       barby (~> 0.6)
       chunky_png (~> 1.3)
       office_clerk (~> 0.9)
-      prawn (~> 1.2)
+      prawn (~> 2.0)
       reference_number
 
 GEM
@@ -92,7 +92,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     arel (6.0.3)
-    autoprefixer-rails (6.1.2)
+    autoprefixer-rails (6.2.0)
       execjs
       json
     barby (0.6.2)
@@ -125,18 +125,20 @@ GEM
     cocaine (0.5.8)
       climate_control (>= 0.0.3, < 1.0)
     coderay (1.1.0)
-    coffee-rails (4.1.0)
+    coffee-rails (4.1.1)
       coffee-script (>= 2.2.0)
-      railties (>= 4.0.0, < 5.0)
+      railties (>= 4.0.0, < 5.1.x)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
     coffee-script-source (1.10.0)
     concurrent-ruby (1.0.0)
+    daemons (1.2.3)
     database_cleaner (1.5.1)
     debug_inspector (0.0.2)
     diff-lcs (1.2.5)
     erubis (2.7.0)
+    eventmachine (1.0.8)
     execjs (2.6.0)
     factory_girl (4.5.0)
       activesupport (>= 3.0.0)
@@ -212,11 +214,11 @@ GEM
       cocaine (~> 0.5.5)
       mime-types
       mimemagic (= 0.3.0)
-    pdf-core (0.4.0)
+    pdf-core (0.6.0)
     polyamorous (1.3.0)
       activerecord (>= 3.0)
-    prawn (1.3.0)
-      pdf-core (~> 0.4.0)
+    prawn (2.0.2)
+      pdf-core (~> 0.6.0)
       ttfunk (~> 1.4.0)
     pry (0.10.3)
       coderay (~> 1.1.0)
@@ -225,7 +227,7 @@ GEM
     quiet_assets (1.1.0)
       railties (>= 3.1, < 5.0)
     rack (1.6.4)
-    rack-attack (4.3.0)
+    rack-attack (4.3.1)
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -302,16 +304,20 @@ GEM
     sprockets (3.5.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
-    sprockets-rails (2.3.3)
-      actionpack (>= 3.0)
-      activesupport (>= 3.0)
-      sprockets (>= 2.8, < 4.0)
+    sprockets-rails (3.0.0)
+      actionpack (>= 4.0)
+      activesupport (>= 4.0)
+      sprockets (>= 3.0.0)
     sqlite3 (1.3.11)
     susy (2.2.9)
       sass (>= 3.3.0, < 3.5)
     therubyracer (0.12.2)
       libv8 (~> 3.16.14.0)
       ref
+    thin (1.6.4)
+      daemons (~> 1.0, >= 1.0.9)
+      eventmachine (~> 1.0, >= 1.0.4)
+      rack (~> 1.0)
     thor (0.19.1)
     thread_safe (0.3.5)
     tilt (2.0.1)
@@ -358,6 +364,7 @@ DEPENDENCIES
   sqlite3
   susy
   therubyracer
+  thin
   uglifier (>= 1.3.0)
 
 BUNDLED WITH

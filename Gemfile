@@ -34,6 +34,7 @@ group :development do
   gem "quiet_assets"
   gem "binding_of_caller" , :platform => [:mri_20 , :mri_21 ]
   gem "better_errors" , :platform => [:mri_20 , :mri_21 ]
+  gem "thin"
 end
 
 group :test do
