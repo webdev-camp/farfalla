@@ -26,6 +26,9 @@ module Farfalla
         load(c)
       end
     end
+
+    config.cache_store = :memory_store, { size: 64.megabytes }
+
     config.active_record.raise_in_transactional_callbacks = true
     config.middleware.use Rack::Attack
     config.i18n.available_locales = :fi
