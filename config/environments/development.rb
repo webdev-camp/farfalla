@@ -36,6 +36,7 @@ Rails.application.configure do
   # Raises error for missing translations
   config.action_view.raise_on_missing_translations = true
 end
+
 class ActionDispatch::DebugExceptions
   alias_method :old_log_error, :log_error
   def log_error(env, wrapper)
