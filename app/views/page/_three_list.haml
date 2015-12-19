@@ -1,24 +1,25 @@
-- all = data("#{group}.products").split
-- until (line = all[0,3]).empty? do
-  .one
-    - line.each do |product|
-      .three
-        %p
-          %strong
-            = raw  t("#{group}.#{product}.header")
-        - if has_sub(sub = "#{group}.#{product}.sub_header")
+- cache(group + "three_list") do
+  - all = data("#{group}.products").split
+  - until (line = all[0,3]).empty? do
+    .one
+      - line.each do |product|
+        .three
           %p
-            %em
-              = raw  t(sub)
-        .bottom
-          =image_tag "#{group}/#{product}.jpg"
-  .one
-    - line.each do |product|
-      .three
-        %p
-          = raw  t("#{group}.#{product}.main")
-        - if has_sub(fact = "#{group}.#{product}.fact")
-          .fact
-            = raw  t( fact )
-        = render :partial => "link" , :locals => {:link => "#{group}.#{product}.link" , :vegan => "#{group}.#{product}.vegan"}
-      - all.delete(product)
+            %strong
+              = raw  t("#{group}.#{product}.header")
+          - if has_sub(sub = "#{group}.#{product}.sub_header")
+            %p
+              %em
+                = raw  t(sub)
+          .bottom
+            =image_tag "#{group}/#{product}.jpg"
+    .one
+      - line.each do |product|
+        .three
+          %p
+            = raw  t("#{group}.#{product}.main")
+          - if has_sub(fact = "#{group}.#{product}.fact")
+            .fact
+              = raw  t( fact )
+          = render :partial => "link" , :locals => {:link => "#{group}.#{product}.link" , :vegan => "#{group}.#{product}.vegan"}
+        - all.delete(product)

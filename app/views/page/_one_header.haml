@@ -1,5 +1,6 @@
-.one
-  %p
-    %strong
-      = raw  t("#{group}.main_header")
-  = raw  t("#{group}.main")
+- cache(group + "one_header") do
+  .one
+    %p
+      %strong
+        = raw  t("#{group}.main_header")
+    = raw  t("#{group}.main")
