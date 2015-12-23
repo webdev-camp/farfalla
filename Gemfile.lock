@@ -14,7 +14,7 @@ GIT
 
 GIT
   remote: git://github.com/rubyclerks/office_clerk.git
-  revision: 90601093115ef7b53fab17be0c88a8221477a813
+  revision: 0932be66eed9c30aca1b46dedc2af8c5de87e941
   specs:
     office_clerk (0.9)
       bcrypt-ruby (~> 3.1)
@@ -92,7 +92,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     arel (6.0.3)
-    autoprefixer-rails (6.2.0)
+    autoprefixer-rails (6.2.1)
       execjs
       json
     barby (0.6.2)
