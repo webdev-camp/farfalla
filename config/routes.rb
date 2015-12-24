@@ -6,7 +6,9 @@ OfficeClerk::Engine.routes.append do
   end
 end
 
-Rails.application.routes.draw do 
+Rails.application.routes.draw do
+
+  resources :resellers
 
   resources :translations ,  :constraints => { :id => /.*/ } do
     get "missing" , :on => :member

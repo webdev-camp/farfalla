@@ -1,0 +1,16 @@
+%p#notice= notice
+%p
+  %strong Name:
+  = @reseller.name
+%p
+  %strong Address:
+  = @reseller.address
+%p
+  %strong City:
+  = @reseller.city
+%p
+  %strong Link:
+  = @reseller.link
+= link_to 'Edit', edit_reseller_path(@reseller)
+|
+= link_to 'Back', resellers_path

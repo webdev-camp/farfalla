@@ -1,0 +1,22 @@
+%p#notice= notice
+%h1 Listing Resellers
+%table
+  %thead
+    %tr
+      %th Name
+      %th Address
+      %th City
+      %th Link
+      %th{:colspan => "3"}
+  %tbody
+    - @resellers.each do |reseller|
+      %tr
+        %td= reseller.name
+        %td= reseller.address
+        %td= reseller.city
+        %td= reseller.link
+        %td= link_to 'Show', reseller
+        %td= link_to 'Edit', edit_reseller_path(reseller)
+        %td= link_to 'Destroy', reseller, method: :delete, data: { confirm: 'Are you sure?' }
+%br/
+= link_to 'New Reseller', new_reseller_path

@@ -11,13 +11,13 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141130183635) do
+ActiveRecord::Schema.define(version: 20151224170950) do
 
   create_table "baskets", force: :cascade do |t|
     t.integer  "kori_id"
-    t.string   "kori_type"
-    t.decimal  "total_price", default: 0.0 , precision: 10, scale: 4
-    t.decimal  "total_tax",   default: 0.0 , precision: 10, scale: 4
+    t.string   "kori_type",   limit: 255
+    t.decimal  "total_price",             default: 0.0
+    t.decimal  "total_tax",               default: 0.0
     t.date     "locked"
     t.datetime "created_at"
     t.datetime "updated_at"
@@ -25,18 +25,18 @@ ActiveRecord::Schema.define(version: 20141130183635) do
 
   create_table "categories", force: :cascade do |t|
     t.integer  "category_id"
-    t.boolean  "online",                     default: false
-    t.string   "name"
-    t.text     "description"
-    t.text     "summary"
-    t.integer  "position",                   default: 1
-    t.string   "link"
-    t.string   "main_picture_file_name"
-    t.string   "main_picture_content_type"
+    t.boolean  "online",                                 default: false
+    t.string   "name",                       limit: 255
+    t.text     "description",                            default: ""
+    t.text     "summary",                                default: ""
+    t.integer  "position",                               default: 1
+    t.string   "link",                       limit: 255
+    t.string   "main_picture_file_name",     limit: 255
+    t.string   "main_picture_content_type",  limit: 255
     t.integer  "main_picture_file_size"
     t.datetime "main_picture_updated_at"
-    t.string   "extra_picture_file_name"
-    t.string   "extra_picture_content_type"
+    t.string   "extra_picture_file_name",    limit: 255
+    t.string   "extra_picture_content_type", limit: 255
     t.integer  "extra_picture_file_size"
     t.datetime "extra_picture_updated_at"
     t.datetime "created_at"
@@ -46,11 +46,11 @@ ActiveRecord::Schema.define(version: 20141130183635) do
   add_index "categories", ["link"], name: "index_categories_on_link", unique: true
 
   create_table "clerks", force: :cascade do |t|
-    t.string   "email",              default: "",    null: false
-    t.boolean  "admin",              default: false
-    t.string   "encrypted_password"
-    t.string   "password_salt"
-    t.string   "address"
+    t.string   "email",              limit: 255, default: "",    null: false
+    t.boolean  "admin",                          default: false
+    t.string   "encrypted_password", limit: 255
+    t.string   "password_salt",      limit: 255
+    t.string   "address",            limit: 255
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -58,10 +58,10 @@ ActiveRecord::Schema.define(version: 20141130183635) do
   add_index "clerks", ["email"], name: "index_clerks_on_email", unique: true
 
   create_table "items", force: :cascade do |t|
-    t.integer  "quantity",   default: 1
-    t.float    "price",      default: 0.0
-    t.float    "tax",        default: 0.0
-    t.string   "name"
+    t.integer  "quantity",               default: 1
+    t.float    "price",                  default: 0.0
+    t.float    "tax",                    default: 0.0
+    t.string   "name",       limit: 255
     t.integer  "product_id"
     t.integer  "basket_id"
     t.datetime "created_at"
@@ -69,47 +69,47 @@ ActiveRecord::Schema.define(version: 20141130183635) do
   end
 
   create_table "orders", force: :cascade do |t|
-    t.string   "number"
-    t.string   "note",           default: ""
-    t.string   "email"
+    t.string   "number",         limit: 255
+    t.string   "email",          limit: 255
     t.date     "ordered_on"
     t.date     "paid_on"
     t.date     "canceled_on"
     t.date     "shipped_on"
-    t.string   "payment_type"
-    t.string   "payment_info"
-    t.string   "shipment_type"
-    t.string   "shipment_info"
-    t.float    "shipment_price", default: 0.0
-    t.float    "shipment_tax",   default: 0.0
-    t.string   "address"
+    t.string   "payment_type",   limit: 255
+    t.string   "payment_info",   limit: 255
+    t.string   "shipment_type",  limit: 255
+    t.string   "shipment_info",  limit: 255
+    t.float    "shipment_price",             default: 0.0
+    t.float    "shipment_tax",               default: 0.0
+    t.string   "address",        limit: 255
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "note",           limit: 255, default: ""
   end
 
   create_table "products", force: :cascade do |t|
-    t.float    "price",                                      null: false
-    t.string   "name",                                       null: false
-    t.string   "link"
-    t.text     "description"
-    t.text     "summary"
-    t.string   "main_picture_file_name"
-    t.string   "main_picture_content_type"
+    t.float    "price",                                                  null: false
+    t.string   "name",                       limit: 255,                 null: false
+    t.string   "link",                       limit: 255
+    t.text     "description",                            default: ""
+    t.text     "summary",                                default: ""
+    t.string   "main_picture_file_name",     limit: 255
+    t.string   "main_picture_content_type",  limit: 255
     t.integer  "main_picture_file_size"
     t.datetime "main_picture_updated_at"
-    t.string   "extra_picture_file_name"
-    t.string   "extra_picture_content_type"
+    t.string   "extra_picture_file_name",    limit: 255
+    t.string   "extra_picture_content_type", limit: 255
     t.integer  "extra_picture_file_size"
     t.datetime "extra_picture_updated_at"
-    t.boolean  "online",                     default: false
-    t.float    "cost",                       default: 0.0
-    t.float    "weight",                     default: 0.1
-    t.string   "ean",                        default: ""
-    t.float    "tax",                        default: 0.0
-    t.integer  "inventory",                  default: 0
-    t.integer  "stock_level",                default: 0
-    t.text     "properties"
-    t.string   "scode",                      default: ""
+    t.boolean  "online",                                 default: false
+    t.float    "cost",                                   default: 0.0
+    t.float    "weight",                                 default: 0.1
+    t.string   "ean",                        limit: 255, default: ""
+    t.float    "tax",                                    default: 0.0
+    t.integer  "inventory",                              default: 0
+    t.integer  "stock_level",                            default: 0
+    t.string   "properties",                 limit: 255, default: ""
+    t.string   "scode",                      limit: 255, default: ""
     t.date     "deleted_on"
     t.integer  "product_id"
     t.integer  "category_id"
@@ -124,16 +124,25 @@ ActiveRecord::Schema.define(version: 20141130183635) do
   add_index "products", ["supplier_id"], name: "index_products_on_supplier_id"
 
   create_table "purchases", force: :cascade do |t|
-    t.string   "name"
+    t.string   "name",        limit: 255
     t.date     "ordered_on"
     t.date     "received_on"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
-  create_table "suppliers", force: :cascade do |t|
-    t.string   "supplier_name"
+  create_table "resellers", force: :cascade do |t|
+    t.string   "name"
     t.string   "address"
+    t.string   "city"
+    t.string   "link"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "suppliers", force: :cascade do |t|
+    t.string   "supplier_name", limit: 255
+    t.string   "address",       limit: 255
     t.datetime "created_at"
     t.datetime "updated_at"
   end
