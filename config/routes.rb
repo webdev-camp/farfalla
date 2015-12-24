@@ -4,11 +4,14 @@ OfficeClerk::Engine.routes.append do
       get :rakennus
     end
   end
+  resources :resellers do
+    collection do
+      get "search" => "resellers#index"
+    end
+  end
 end
 
 Rails.application.routes.draw do
-
-  resources :resellers
 
   resources :translations ,  :constraints => { :id => /.*/ } do
     get "missing" , :on => :member

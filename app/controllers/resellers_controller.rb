@@ -3,7 +3,9 @@ class ResellersController < AdminController
 
   # GET /resellers
   def index
-    @resellers = Reseller.all
+    @q = Reseller.search params[:q]
+    @reseller_scope = @q.result(:distinct => true)
+    @resellers = @reseller_scope.paginate( :page => params[:page],:per_page => 20)
   end
 
   # GET /resellers/1
@@ -24,7 +26,7 @@ class ResellersController < AdminController
     @reseller = Reseller.new(reseller_params)
 
     if @reseller.save
-      redirect_to @reseller, notice: 'Reseller was successfully created.'
+      redirect_to :index, notice: 'Reseller was successfully created.'
     else
       render :new
     end
@@ -33,7 +35,7 @@ class ResellersController < AdminController
   # PATCH/PUT /resellers/1
   def update
     if @reseller.update(reseller_params)
-      redirect_to @reseller, notice: 'Reseller was successfully updated.'
+      redirect_to resellers_url, notice: 'Reseller was successfully updated.'
     else
       render :edit
     end

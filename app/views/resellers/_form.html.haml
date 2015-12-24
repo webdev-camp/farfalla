@@ -1,4 +1,4 @@
-= form_for(@reseller) do |f|
+= bootstrap_form_for(@reseller) do |f|
   - if @reseller.errors.any?
     #error_explanation
       %h2
@@ -8,20 +8,12 @@
         - @reseller.errors.full_messages.each do |message|
           %li= message
   .field
-    = f.label :name
-    %br/
     = f.text_field :name
   .field
-    = f.label :address
-    %br/
-    = f.text_field :address
+    = f.text_area :address, :rows => 2
   .field
-    = f.label :city
-    %br/
     = f.text_field :city
   .field
-    = f.label :link
-    %br/
     = f.text_field :link
   .actions
     = f.submit

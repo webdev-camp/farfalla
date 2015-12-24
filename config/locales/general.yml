@@ -1,46 +1,46 @@
---- 
-fi: 
-  aroma_sprays: 
+---
+fi:
+  aroma_sprays:
     menu_text: Luomu huonesprayt
-  body_care: 
+  body_care:
     menu_text: Vartalonhoito
     sub_menu: "silhouettemiracle intensefrangipani dailypleasure puresensitive"
-  oljyt: 
+  oljyt:
     menu_text: "Öljyt ja kukkaisvedet"
     sub_menu: "perus amberstone jalokivi essential kukkaisvedet"
-  face_care: 
+  face_care:
     main_header: " "
     menu_text: Kasvojenhoito
     sub_menu: "daily_refresh in_balance intense_moisture age_miracle pure_sensitive be_beautiful aloe_shea travel_set ihonhoito-ohjelma"
   ihonhoito-ohjelma:
     header: ihonhoito-ohjelma
-  hair_care: 
+  hair_care:
     header: Hiustenhoito
     menu_text: Hiustenhoito
     sub_menu: "shampoos conditioner styling"
-  index: 
+  index:
     header: "Farfalla Essentials"
     menu_text: Farfalla
-  product_link: 
+  product_link:
     server: "http://auringostaitaan.fi/prod/"
     text: "Tarkista hinta"
-  men: 
+  men:
     menu_text: Miehille
   menu: "face_care body_care hair_care parfumes aroma_sprays oljyt men"
-  menu_bar: "index quality standards tukku resellers"
-  parfumes: 
+  menu_bar: "index quality standards tukku resell"
+  parfumes:
     menu_text: Luomuparfyymit
     sub_menu: "womans_parfumes body_sprays"
-  quality: 
+  quality:
     header: Laatu ja eettisyys
     menu_text: Laatu ja eettisyys
   slogan: "laadukasta luomukosmetiikkaa"
-  standards: 
+  standards:
     header: Luomukosmetiikka
     menu_text: Luomukosmetiikka
-  tukku: 
+  tukku:
     header: Yhteystiedot
     menu_text: Yhteystiedot
-  resellers: 
+  resell:
     header: Jälleenmyyjät
     menu_text: Jälleenmyyjät

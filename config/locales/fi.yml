@@ -1,5 +1,5 @@
 fi:
-  rakennus: 
+  rakennus:
     header: RR Lasku
     thanks: "<br/> Ystävallisin terveisin, <br/> Torsten Ruger"
 
@@ -11,10 +11,20 @@ fi:
 
   must_accept: Toimitusehdot on hyväksyttävä ennen tilausta.
   register: Rekisteröidy
-  
+
   password: Salasana
   password_confirmation: Vahvista salasana
   phone: Puhelin
   street: Jakeluosoite
   price: Hinta sis alv / alv 0
-  
+  resellers: Jälleenmyyjät
+  reseller: Jälleenmyyjä
+  activerecord:
+    models:
+      reseller: Jälleenmyyjä
+    attributes:
+      reseller:
+        link: Linkki
+        name: Nimi
+        address: Osoite
+        city: Kaupunki
