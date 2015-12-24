@@ -26,7 +26,7 @@ class ResellersController < AdminController
     @reseller = Reseller.new(reseller_params)
 
     if @reseller.save
-      redirect_to :index, notice: 'Reseller was successfully created.'
+      redirect_to resellers_url, notice: 'Reseller was successfully created.'
     else
       render :new
     end

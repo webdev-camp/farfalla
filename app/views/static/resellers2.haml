@@ -1,0 +1,14 @@
+.one
+  .eighty
+    %h2 Farfalla -jälleenmyyjiä, ekokampaamoita ja -hoitoloita
+    %br/
+    - Reseller.all.each do |reseller|
+      %div{:class => cycle("two","two-right")}
+        %p
+          %a{:href => reseller.link, :target => "_blank"}
+            %strong=reseller.name
+          %br/
+          = reseller.address
+
+  .twenty
+    =image_tag "site/hair.jpg"
