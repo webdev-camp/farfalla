@@ -26,6 +26,9 @@ module Farfalla
         load(c)
       end
     end
+    def office_assets
+      "farfalla_office"
+    end
 
     config.cache_store = :memory_store, { size: 64.megabytes }
 
