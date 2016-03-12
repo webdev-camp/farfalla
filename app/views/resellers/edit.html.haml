@@ -3,3 +3,8 @@
 = link_to 'Show', @reseller
 |
 = link_to 'Back', resellers_path
+
+%br
+%br
+		
+= link_to t(:destroy) , reseller_path(@reseller), :data => { :confirm => t(:are_you_sure) }, :method => :delete, :title => t(:destroy) , :class => "btn btn-danger"
