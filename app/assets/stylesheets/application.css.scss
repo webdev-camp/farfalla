@@ -131,14 +131,14 @@ hr {
 
 .main
 {
-  @include container(85%);
+  @include container(90%);
   padding-top: 20px;
   padding-bottom: 10px;
 }
 
 
 .menu {
-  @include span(first 2);
+  @include span(18%);
   padding: 0px;
   line-height: 14px;
   font-weight: bold;
@@ -195,7 +195,7 @@ h3.first {
 
 .rcol
 {
-  @include span(last 10);
+  @include span(last 78%);
 
   .sixty {
     @include span(first 8);
