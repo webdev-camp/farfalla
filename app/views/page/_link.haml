@@ -1,9 +1,9 @@
 - cache(link + "link") do
   - if has_sub(link)
     .link
-      %a{:href => "#{raw t('product_link.server')}#{raw t(link)}"}
+      =link_to "#{raw t('product_link.server')}#{raw t(link)}"
         = raw t("product_link.text")
-      = raw  translate_link(link)
+        = raw  translate_link(link)
   - unless defined?(vegan) and true == has_sub(vegan)
     .vegan
       =image_tag  "site/vegan.gif"
