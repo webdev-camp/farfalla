@@ -6,7 +6,7 @@
 
 // grid stuff
 
-$susy: layout(12 1/2 fluid float center);
+$susy: layout(12 1/2 fluid float split center);
 
 
 body
@@ -23,17 +23,17 @@ a
   font-weight: bold;
   color: #636363;
 }
-
-
+.bar{
+  align: right;
+  float: right;
+}
 .menu_bar {
   background: transparent;
-  float: left;
   list-style: none;
   margin: 0;
   padding: 0;
   width: 100%;
   position: relative;
-  left: 200px;
   li {
     float: left;
     font: 15px "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
@@ -138,7 +138,7 @@ hr {
 
 
 .menu {
-  @include span(18%);
+  @include span(2);
   padding: 0px;
   line-height: 14px;
   font-weight: bold;
@@ -195,20 +195,20 @@ h3.first {
 
 .rcol
 {
-  @include span(last 78%);
+  @include span(10);
 
   .sixty {
-    @include span(first 8);
+    @include span( 8);
   }
   .fourty {
-    @include span(last 4);
+    @include span( 4);
   }
 
   .eighty {
-    @include span(first 9);
+    @include span( 9);
   }
   .twenty {
-    @include span(last 3);
+    @include span( 3);
   }
 
   .six {
@@ -228,11 +228,11 @@ h3.first {
 
 
   .two {
-    @include span(first 6);
+    @include span( 6);
   }
 
   .two-right {
-    @include span(last 6);
+    @include span( 6);
   }
 
   .one {

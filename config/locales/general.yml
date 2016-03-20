@@ -27,7 +27,7 @@ fi:
   men:
     menu_text: Miehille
   menu: "face_care body_care hair_care parfumes aroma_sprays oljyt men"
-  menu_bar: "index quality standards tukku resellers"
+  menu_bar: "quality standards tukku resellers"
   parfumes:
     menu_text: Luomuparfyymit
     sub_menu: "womans_parfumes body_sprays"

@@ -22,11 +22,13 @@
     .main
       .header
         .head_picture
-          =image_tag "site/header.jpg" , :width => "100%"
-        %ul.menu_bar
-          - data("menu_bar").split.each do |menu|
-            %li{:class => "menu_item#{raw  ' active' if params[:page] == menu}"}
-              %a{:href => "/#{menu}.html"}= data(menu+'.menu_text')
+          = link_to "/" do
+            =image_tag "site/header.jpg" , :width => "100%"
+        .bar
+          %ul.menu_bar
+            - data("menu_bar").split.each do |menu|
+              %li{:class => "menu_item#{raw  ' active' if params[:page] == menu}"}
+                %a{:href => "/#{menu}.html"}= data(menu+'.menu_text')
       .content
         .menu
           %ul

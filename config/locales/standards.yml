@@ -1,32 +1,32 @@
---- 
-fi: 
-  standards: 
+---
+fi:
+  standards:
     short: Luomukosmetiikka
     cert: |-
         <h3>Sertifioitu luonnonkosmetiikka </h3>
-        Tämä logo takaa että raaka-aineiden valinta ja tuotantotavat vastaavat BDIH:n (Saksan teollisuuden 
-        ja   kaupan liitto) luonnonkosmetiikalle asettamia vaatimuksia. 
+        Tämä logo takaa että raaka-aineiden valinta ja tuotantotavat vastaavat BDIH:n (Saksan teollisuuden
+        ja   kaupan liitto) luonnonkosmetiikalle asettamia vaatimuksia.
     dementer: |-
         <h3>Demeter (Biodynaaminen) </h3>
-        
-        Demeter -merkintä edustaa luomuviljelyä, joka noudattaa biodynaamisia periaatteita ja rytmiä. 
+
+        Demeter -merkintä edustaa luomuviljelyä, joka noudattaa biodynaamisia periaatteita ja rytmiä.
         Maaperän viljavuutta vahvistetaan orgaanisesti sekä erityisten mineraalien ja kasvilisien avulla. <br><br>
-    header: |-
+    head: |-
         <h2>Luonnonmukaisuuden valvonta </h2>
          Kaikki Farfallan tuotteet ovat puolueettomien luomutuotantoa valvovien tahojen tutkimia ja tarkastamia. Yhtiönä Farfalla on myös läpikäynyt sveitsiläisen luomutuotteiden kauppaa valvovan Bio-Inspectan tarkastukset.
          <br> Seuraavassa lyhyesti luomulaadun ja -valvonnan sanastoa.
          <br><br>
     natrue: |-
         <h3>NaTrue </h3>
-        Suuri osa Farfallan luomukosmetiikasta ja sen tehokkaista, vaikuttavista ainesosista on sertifioitu kansainvälisen 
+        Suuri osa Farfallan luomukosmetiikasta ja sen tehokkaista, vaikuttavista ainesosista on sertifioitu kansainvälisen
         NaTrue -luomu- ja luonnonkosmetiikkasertifikaatin mukaan. Kaikilla muilla Farfallan tuotteilla on saksalainen BDIH -sertifikaatti.
         <br><br>
-        
+
         <strong>NaTrue käyttää sertifioinnissa seuraavaa erottelua: </strong><br>
         <em>Taso 1:</em> Luonnonkosmetiikka, joka vastaa BDIH:n määrittelemiä standardeja<br>
         <em>Taso 2:</em> Luonnonkosmetiikka luomuvalmistusaineilla – valmistusaineista vähintään 70% luonnonmukaista tuotantoa<br>
         <em>Taso 3:</em> Luomukosmetiikka – valmistusaineista vähintään 95% luonnonmukaista tuotantoa<br><br>
-        
+
         <ul class="blu">
           <li>Suuri osa  Farfallan luomukosmetiikasta ja sen aktiivista ainesosista täyttää NaTrue -tason 3 (luomukosmetiikka) vaatimukset.
           <li>Muutamat tuotteet noudattavat tason 2 (luonnonkosmetiikka luomuvalmistusaineilla) vaatimuksia,
@@ -34,8 +34,8 @@ fi:
         </ul>
     stand: |-
         <h3>Valvottu luonnonmukainen viljely </h3>
-        
-        Tällä merkillä varustetut tuotteet täyttävät valvotun luomuviljelyn ehdot. 
-        Kaikki luonnonmukaiset organisaatiot, joiden kanssa Farfalla tekee yhteistyötä ovat maailman 
+
+        Tällä merkillä varustetut tuotteet täyttävät valvotun luomuviljelyn ehdot.
+        Kaikki luonnonmukaiset organisaatiot, joiden kanssa Farfalla tekee yhteistyötä ovat maailman
         luomutalouden kattojärjestön IFOAM:n (International Foundation of Organic Agriculture Movements)
         jäseniä.<br><br>
