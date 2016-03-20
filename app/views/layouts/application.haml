@@ -25,7 +25,7 @@
           =image_tag "site/header.jpg" , :width => "100%"
         %ul.menu_bar
           - data("menu_bar").split.each do |menu|
-            %li.menu_item
+            %li{:class => "menu_item#{raw  ' active' if params[:page] == menu}"}
               %a{:href => "/#{menu}.html"}= data(menu+'.menu_text')
       .content
         .menu

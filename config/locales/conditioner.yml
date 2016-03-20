@@ -1,15 +1,15 @@
---- 
-fi: 
-  conditioner: 
-    header: "Hiustenhoitotuotteet "
+---
+fi:
+  conditioner:
+    header: "Hiusten hoitotuotteet "
     sub_header: "Luonnollista hoitoa hiuksille"
     list: |-
-        Pesun jälkeen hiukset tarvitsevat oikeanlaisen vahvistavan ja ravitsevan hoitoaineen. 
-        Farfallan hiustenhoitoaineet ovat korkealaatuista, sertifioitua 
+        Pesun jälkeen hiukset tarvitsevat oikeanlaisen vahvistavan ja ravitsevan hoitoaineen.
+        Farfallan hiustenhoitoaineet ovat korkealaatuista, sertifioitua
         luonnonkosmetiikkaa. Tarkoin valitut kasvipohjaiset vahat ja eteeriset öljyt tuovat hiuksiin kauniin, luonnollisen ja upean kiillon. Säännöllisesti käytettynä Farfallan hiustenhoitotuotteet saavat hiukset pysymään terveinä, ja aiemmin karheakin rakenne muuttuu luonnollisen sileäksi ja kiiltäväksi.
     products: "co_conditioner co_mousse co_mask"
-    
-    co_conditioner: 
+
+    co_conditioner:
       header: "Villiruusu Hiustenhoitoaine"
       sub_header: "Täydellinen hoitoaine!<br><br>"
       main: |-
@@ -17,7 +17,7 @@ fi:
       fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, ei parafiinia eikä parabeeneja. 200 ml"
       link: villiruusu-hiustenhoitoaine
 
-    co_mask: 
+    co_mask:
       header: "Korjaava Hiusnaamio"
       sub_header: "Ravitseva, syvävaikutteinen hoitonaamio hiuksille."
       main: |-
@@ -25,7 +25,7 @@ fi:
       fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, parafiinia eikä parabeeneja. 150 ml"
       link: korjaava-hiusnaamio
 
-    co_mousse: 
+    co_mousse:
       header: "Muotoileva Hoitovaahto"
       sub_header: "Volyymiä ja runsautta!"
       main: |-
@@ -33,4 +33,3 @@ fi:
           Käyttöohje: Hiero pyyhekuiviin hiuksiin pesun jälkeen, ei huuhtelua. Muotoile tavalliseen tapaan.
       fact: "BDIH -sertifioitua luonnonkosmetiikkaa. <br>Ei sisällä keinotekoisia väri-, tuoksu- tai säilöntäaineita, parafiinia eikä parabeeneja. 150 ml"
       link: muotoileva-hoitovaahto
-
