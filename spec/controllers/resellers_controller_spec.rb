@@ -52,13 +52,6 @@ RSpec.describe ResellersController, type: :controller do
     end
   end
 
-  describe "GET #new" do
-    it "assigns a new reseller as @reseller" do
-      get :new, {}, valid_session
-      expect(assigns(:reseller)).to be_a_new(Reseller)
-    end
-  end
-
   describe "GET #edit" do
     it "assigns the requested reseller as @reseller" do
       reseller = Reseller.create! valid_attributes

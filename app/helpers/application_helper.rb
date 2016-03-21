@@ -1,24 +1,25 @@
-module ApplicationHelper  
+module ApplicationHelper
   def this_page
     page = params["page"] || "index"
      "/#{page}.html"
   end
-  
+
   def data key
     I18n.t(key)
   end
 
   def has_sub key
+    return false unless key
     return true if edit_mode
     ret = t(key)
     return false if (ret != true) and ret.index "missing"
     ! key.strip.empty?
   end
-  
+
   def edit_mode
     Rails.env != "production"
   end
-  
+
   def groups
     ret = []
     I18n.t( "menu").split(" ").each do |g|

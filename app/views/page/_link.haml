@@ -1,7 +1,7 @@
 - cache(link + "link") do
   - if has_sub(link)
     .link
-      =link_to "#{raw t('product_link.server')}#{raw t(link)}"
+      =link_to "#{raw t('product_link.server')}#{raw t(link)}" do
         = raw t("product_link.text")
         = raw  translate_link(link)
   - unless defined?(vegan) and true == has_sub(vegan)
