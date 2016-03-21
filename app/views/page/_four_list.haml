@@ -1,25 +1,19 @@
 - cache(group + "four_list") do
-  - all = data("#{group}.products").split
-  - until (line = all[0,4]).empty? do
-    .one
-      - line.each do |product|
-        .four
+  .one
+    - data("#{group}.products").split.each do |product|
+      .four
+        %p
+          %strong
+            = raw  t("#{group}.#{product}.header")
+        - if has_sub(sub = "#{group}.#{product}.sub_header")
           %p
-            %strong
-              = raw  t("#{group}.#{product}.header")
-          - if has_sub(sub = "#{group}.#{product}.sub_header")
-            %p
-              %em
-                = raw  t(sub)
-          .bottom
-            =image_tag "#{group}/#{product}.jpg"
-    .one
-      - line.each do |product|
-        .four
-          %p
-            = raw  t("#{group}.#{product}.main")
-          - if has_sub(fact = "#{group}.#{product}.fact")
-            .fact
-              = raw  t( fact )
-          = render :partial => "link" , :locals => {:link => "#{group}.#{product}.link" , :vegan => "#{group}.#{product}.vegan"}
-        - all.delete(product)
+            %em
+              = raw  t(sub)
+        .bottom
+          =image_tag "#{group}/#{product}.jpg"
+        %p
+          = raw  t("#{group}.#{product}.main")
+        - if has_sub(fact = "#{group}.#{product}.fact")
+          .fact
+            = raw  t( fact )
+        = render :partial => "link" , :locals => {:link => "#{group}.#{product}.link" , :vegan => "#{group}.#{product}.vegan"}
