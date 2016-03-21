@@ -3,13 +3,13 @@
     %h2 Farfalla -jälleenmyyjiä, ekokampaamoita ja -hoitoloita
     %br/
     - Reseller.all.each do |reseller|
-      %div{:class => cycle("two","two-right")}
+      %div{:class => :two}
         %p
           %a{:href => reseller.link, :target => "_blank"}
             %strong=reseller.name
           %br/
           = reseller.address
-          %br/ 
+          %br/
           = reseller.city
 
   .twenty
