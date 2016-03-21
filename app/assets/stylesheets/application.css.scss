@@ -8,6 +8,9 @@
 
 $susy: layout(12 1/2 fluid float split center);
 
+$bp-medium: 450px;
+$bp-large: 720px;
+$breakpoint-no-query-fallbacks: true;
 
 body
 {
@@ -17,12 +20,25 @@ body
   font-family: georgia, "times new roman", serif;
 }
 
-a
-{
+a {
   text-decoration: none;
   font-weight: bold;
   color: #636363;
 }
+.anchor-link {
+  display: inline-block;
+  text-align: center;
+  padding: 10px 15px;
+  color: #fff;
+  background-color: #0084B4;
+  text-decoration: none;
+  margin: 3px;
+  float: left;
+  @include susy-breakpoint($bp-large, $susy) {
+    display: none;
+  }
+}
+
 .bar{
   align: right;
   float: right;
@@ -65,7 +81,7 @@ strong {
 }
 
 .header {
-  @include span(12 of 12);
+  @include span(12);
   background-color: #ffffff;
   color: #ffffff;
   margin-bottom: 7px;
@@ -131,14 +147,58 @@ hr {
 
 .main
 {
-  @include container(90%);
+  @include susy-breakpoint($bp-large, $susy) {
+    @include container(90%);
+  }
+  @include container(100%);
   padding-top: 20px;
   padding-bottom: 10px;
 }
 
 
 .menu {
-  @include span(2);
+  @include span(0%);
+  visibility: collapse;
+  @include susy-breakpoint($bp-large, $susy) {
+    @include span(2);
+    visibility: visible;;
+  }
+  padding: 0px;
+  line-height: 14px;
+  font-weight: bold;
+  display: block;
+  text-decoration: none;
+  padding-top: 11px;
+  color: #636363;
+  font-size: 14px;
+  a:hover {
+    color: black;
+   text-decoration: none;
+ }
+ ul {
+   list-style: none;
+   margin: 0px;
+   padding-left: 0px;
+   li.active a {
+       font-size: 110%;
+       color: black;
+     }
+  }
+  .sub_menu {
+    padding-left: 25px;
+    margin-bottom: 9px;
+  }
+  .item {
+    margin-bottom: 12px;
+  }
+}
+
+.footer_menu {
+  @include span(6);
+  @include susy-breakpoint($bp-large, $susy) {
+    @include span(0%);
+    display: none;
+  }
   padding: 0px;
   line-height: 14px;
   font-weight: bold;
@@ -231,10 +291,6 @@ h3.first {
     @include span( 6);
   }
 
-  .two-right {
-    @include span( 6);
-  }
-
   .one {
     @include span(100%);
     margin-bottom: 10px;
@@ -242,11 +298,23 @@ h3.first {
   }
 
   .three {
-     @include gallery(4 of 12);
+    @include span(12);
+    @include susy-breakpoint($bp-medium, $susy) {
+      @include gallery(6 of 12);
+    }
+    @include susy-breakpoint($bp-large, $susy) {
+      @include gallery(4 of 12);
+    }
   }
 
   .four {
-    @include gallery(3 of 12);
+    @include span(12);
+    @include susy-breakpoint($bp-large, $susy) {
+      @include gallery(6 of 12);
+    }
+    @include susy-breakpoint($bp-large, $susy) {
+      @include gallery(3 of 12);
+    }
   }
 
 }
