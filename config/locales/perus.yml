@@ -4,7 +4,7 @@ fi:
     header: Perusöljyt
     list: |-
        Luomulaatuisissa kasviöljyissä on korkea pitoisuus hyvälaatuisia omegahappoja. Hienot öljyt ravitsevat kasvojen ja vartalon ihoa sekä hiuksia ja päänahkaa – luonnollisesti ja hellävaraisesti. Löydä suosikkisi Farfallan laajasta valikoimasta. 
-    products: " aprikoosi argan avokado calendula centella granaatti helokki inkapahkina jojoba macadamia mustakumina makikuisma seesam villiruusu perus"
+    products: " aprikoosi argan avokado calendula centella granaatti helokki inkapahkina jojoba macadamia manteli mustakumina makikuisma seesam villiruusu perus"
     sub_header: ""
     
     
@@ -82,6 +82,13 @@ fi:
       Erinomainen myös hauraiden ja kuivien hiusten hoitoon.  "
       fact: "Valmistusaineet: luomumacadamiaöljy (Macadamia Ternifolia). Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
       link: luomu-macadamiaoljy
+
+    manteli: 
+      header: "Luomu Manteliöljy <br> <br>"
+      sub_header: " " 
+      main: "Luomulaatuinen, monikäyttöinen ihoöljy. Hyvin herkällekin iholle sopiva yleisöljy. Sopii kaikille ihotyypeille. Erinomainen myös vauvojen ja lasten ihon hoitoon. Sen lisäksi että manteliöljy hoitaa ihoa tehokkkaasti, sillä on myös suojaavia ominaisuuksia."
+      fact: "Valmistusaineet: luomumanteliöljy. Sertifioitua luomukosmetiikkaa (NaTrue). 75ml"
+      link: luomu-mantelioljy
 
     mustakumina: 
       header: "Luomu Mustakuminaöljy (Nigella)"
