@@ -37,7 +37,7 @@ config:
   defaults:
     tax: 24.0
   print_styles: "receipt slip invoice reminder rakennus"
-  shop_address: Fiskarsintie 513, 10480 Antskog
+  shop_address: Fiskarsintie 847, 10480 Antskog
   footer_left: Auringosta Itään, Kuusta Länteen Tukku
   footer_left2: "IBAN FI1017 4530 0013 2474 <br>
     BIC NDEAFIHH (Nordea) <br>
@@ -46,7 +46,7 @@ config:
     Lightning Raisa & Torsten Oy <br>
     Y-Tunnus 2380478-1 <br>
     Viivästyskorko 12 %"
-  footer_right: "Fiskarsintie 513 <br>
+  footer_right: "Fiskarsintie 847 <br>
     10480 Antskog <br>
-    tukku@auringostaitaan.fi <br>
+    info@farfalla.fi <br>
     puh 040 146 1222"
