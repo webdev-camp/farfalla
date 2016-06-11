@@ -27,7 +27,11 @@ end
 
 # Always allow requests from shop
 # (blacklist & throttles are skipped)
-Rack::Attack.whitelist('allow from localhost') do |req|
+Rack::Attack.whitelist('allow in dev and known me') do |req|
   # Requests are allowed if the return value is truthy
-   [ "85.76.112.161" , "85.76.99.50", "127.0.0.1"].include? req.ip
+  if Rails.env.production?
+    [ "85.76.112.161" , "85.76.99.50"].include? req.ip
+  else
+    true
+  end
 end
