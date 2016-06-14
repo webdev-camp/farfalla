@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151224170950) do
+ActiveRecord::Schema.define(version: 20160614140749) do
 
   create_table "baskets", force: :cascade do |t|
     t.integer  "kori_id"
@@ -138,6 +138,7 @@ ActiveRecord::Schema.define(version: 20151224170950) do
     t.string   "link"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string   "post_code"
   end
 
   create_table "suppliers", force: :cascade do |t|

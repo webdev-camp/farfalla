@@ -55,6 +55,6 @@ class ResellersController < AdminController
 
     # Only allow a trusted parameter "white list" through.
     def reseller_params
-      params.require(:reseller).permit(:name, :address, :city, :link)
+      params.require(:reseller).permit(:name, :address, :city, :link , :post_code)
     end
 end
