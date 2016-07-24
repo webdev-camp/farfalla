@@ -144,7 +144,7 @@ Category_14:
   id: 35
   category_id: 28
   online: false
-  name: "Öljyt"
+  name: Öljyt
   description: ''
   summary: ''
   position: 1
@@ -159,8 +159,8 @@ Category_15:
   summary: ''
   position: 1
   link: rakennus
-  created_at: 2014-12-22 16:01:12.755695000 Z
-  updated_at: 2014-12-22 16:01:12.755695000 Z
+  created_at: 2014-12-22 16:01:12.000000000 Z
+  updated_at: 2014-12-22 16:01:12.000000000 Z
 Category_16:
   id: 37
   online: false
@@ -169,5 +169,26 @@ Category_16:
   summary: ''
   position: 1
   link: lvi
-  created_at: 2014-12-22 16:13:57.721237000 Z
-  updated_at: 2014-12-22 16:13:57.721237000 Z
+  created_at: 2014-12-22 16:13:57.000000000 Z
+  updated_at: 2014-12-22 16:13:57.000000000 Z
+Category_17:
+  id: 38
+  category_id: 28
+  online: false
+  name: Eteeriset öljyt
+  description: ''
+  summary: ''
+  position: 1
+  link: eteeriset_öljyt
+  created_at: 2016-02-20 06:20:59.000000000 Z
+  updated_at: 2016-02-20 06:20:59.000000000 Z
+Category_18:
+  id: 39
+  online: false
+  name: Esitteet
+  description: ''
+  summary: ''
+  position: 1
+  link: esitteet
+  created_at: 2016-03-09 16:35:29.000000000 Z
+  updated_at: 2016-03-09 16:35:29.000000000 Z

@@ -7,8 +7,8 @@ Supplier_1:
     street: ''
     city: ''
     phone: ''
-  created_at: 2014-12-22 15:55:32.115643000 Z
-  updated_at: 2014-12-22 15:55:32.320183000 Z
+  created_at: 2014-12-22 15:55:32.000000000 Z
+  updated_at: 2014-12-22 15:55:32.000000000 Z
 Supplier_2:
   id: 2
   supplier_name: Feuer&Glas
@@ -17,8 +17,8 @@ Supplier_2:
     street: ''
     city: ''
     phone: ''
-  created_at: 2014-12-22 15:58:43.573620000 Z
-  updated_at: 2014-12-22 15:58:43.773684000 Z
+  created_at: 2014-12-22 15:58:43.000000000 Z
+  updated_at: 2014-12-22 15:58:43.000000000 Z
 Supplier_3:
   id: 3
   supplier_name: Frank Meyer
@@ -27,8 +27,8 @@ Supplier_3:
     street: ''
     city: ''
     phone: ''
-  created_at: 2014-12-22 15:58:59.302142000 Z
-  updated_at: 2014-12-22 15:58:59.514423000 Z
+  created_at: 2014-12-22 15:58:59.000000000 Z
+  updated_at: 2014-12-22 15:58:59.000000000 Z
 Supplier_4:
   id: 4
   supplier_name: Tukku
@@ -37,8 +37,8 @@ Supplier_4:
     street: ''
     city: ''
     phone: ''
-  created_at: 2014-12-22 15:59:15.460613000 Z
-  updated_at: 2014-12-22 15:59:15.647901000 Z
+  created_at: 2014-12-22 15:59:15.000000000 Z
+  updated_at: 2014-12-22 15:59:15.000000000 Z
 Supplier_5:
   id: 5
   supplier_name: Ruukin Rakennuspalvelu
@@ -47,5 +47,5 @@ Supplier_5:
     street: ''
     city: ''
     phone: ''
-  created_at: 2014-12-22 15:59:33.894252000 Z
-  updated_at: 2014-12-22 15:59:34.083635000 Z
+  created_at: 2014-12-22 15:59:33.000000000 Z
+  updated_at: 2014-12-22 15:59:34.000000000 Z

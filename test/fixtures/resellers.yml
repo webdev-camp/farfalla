@@ -1,0 +1,442 @@
+---
+Reseller_1:
+  id: 1
+  name: Auringosta Itään, Kuusta Länteen
+  address: Fredrikinkatu 19 (Viiskulma)
+  city: Helsinki
+  link: http://www.auringostaitaan.fi
+  created_at: 2015-12-26 11:12:00.000000000 Z
+  updated_at: 2016-06-14 14:27:25.000000000 Z
+  post_code: '00120'
+Reseller_2:
+  id: 2
+  name: 'Ekohoitola Aromari                 '
+  address: Eino Leinon katu 4
+  city: Helsinki
+  link: " http://www.ekohoitola-aromari.fi/"
+  created_at: 2016-03-11 20:24:47.000000000 Z
+  updated_at: 2016-06-14 14:27:25.000000000 Z
+  post_code: '00250'
+Reseller_3:
+  id: 3
+  name: Ekokampaamo Vihreä Kampa
+  address: Ilmarinkatu 10 B
+  city: Helsinki
+  link: http://www.kampa.fi/
+  created_at: 2016-03-11 20:26:00.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '00100'
+Reseller_4:
+  id: 4
+  name: Ekokampaamo-parturi Peppeco
+  address: Oulunkyläntie 7
+  city: Helsinki
+  link: https://www.facebook.com/pages/PEPPECO-ekokampaamo-ja-luontaishoitola/178681078832147
+  created_at: 2016-03-11 20:26:51.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '00600'
+Reseller_5:
+  id: 5
+  name: Hoitohuone Amanka
+  address: " Pihlajatie 12-14"
+  city: Helsinki
+  link: http://www.hoitohuoneamanka.fi/
+  created_at: 2016-03-11 20:27:39.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '00270'
+Reseller_6:
+  id: 6
+  name: Itäkeskuksen apteekin verkkoapteekki www.apteekkishop.fi
+  address: Tallinnanaukio 4
+  city: Helsinki
+  link: http://www.apteekkishop.fi
+  created_at: 2016-03-11 20:28:23.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: 00930
+Reseller_7:
+  id: 7
+  name: Kampaamo Leena Selin
+  address: Sammonkatu 1
+  city: Helsinki
+  link: https://kampaamoleenaselin.avoinna24.fi/company
+  created_at: 2016-03-11 20:29:22.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '00100'
+Reseller_8:
+  id: 8
+  name: Pinkki Paplari
+  address: Museokatu 20-22
+  city: Helsinki
+  link: 'http://www.pinkkipaplari.fi/ '
+  created_at: 2016-03-11 20:30:21.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '00100'
+Reseller_9:
+  id: 9
+  name: Pur Hyvinvointikauppa
+  address: Urho Kekkosen katu 8
+  city: Helsinki
+  link: http://www.pur-kauppa.fi
+  created_at: 2016-03-11 21:10:44.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '00100'
+Reseller_10:
+  id: 10
+  name: TwistBe
+  address: www.twistbe.fi
+  city: Espoo
+  link: 'http://www.twistbe.fi '
+  created_at: 2016-03-11 21:11:25.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '02270'
+Reseller_11:
+  id: 11
+  name: Ekokampaamo LuonnonHelmi
+  address: Unikkotie 5 a
+  city: Vantaa
+  link: http://luonnonhelmi.fi/
+  created_at: 2016-03-11 21:12:11.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '01300'
+Reseller_12:
+  id: 13
+  name: Hius ja Kauneus Lähde
+  address: Lähderannantie 22
+  city: Espoo
+  link: http://www.hiusjakauneuslahde.fi/
+  created_at: 2016-03-11 21:13:44.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '02720'
+Reseller_13:
+  id: 14
+  name: Ekosalon Carolina
+  address: Mannerheiminkatu 10
+  city: Porvoo
+  link: https://www.facebook.com/ekosaloncarolina
+  created_at: 2016-03-11 21:14:46.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '06100'
+Reseller_14:
+  id: 15
+  name: Luana Kotiparturi-Hemfrisör
+  address: Markusmäentie 112
+  city: Lindkoski
+  link: ''
+  created_at: 2016-03-11 21:15:19.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: 07840
+Reseller_15:
+  id: 16
+  name: Ekokampaamo Indryan
+  address: Kuningattarenkatu 3
+  city: Loviisa
+  link: ''
+  created_at: 2016-03-11 21:15:57.000000000 Z
+  updated_at: 2016-06-30 17:59:17.000000000 Z
+  post_code: 07900
+Reseller_16:
+  id: 17
+  name: Kauneuskammari Mahla
+  address: Hämeenkatu 58
+  city: Riihimäki
+  link: https://www.facebook.com/kauneuskammarimahla
+  created_at: 2016-03-11 21:16:38.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '11100'
+Reseller_17:
+  id: 18
+  name: MariMari
+  address: Rautatienkatu 18
+  city: Lahti
+  link: http://www.marimari.fi/
+  created_at: 2016-03-11 21:18:00.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '15110'
+Reseller_18:
+  id: 19
+  name: Parturi-kampaamo ja Pieni ekopuoti PiparMinttu
+  address: Rautatienkatu 16 (sisäpiha)
+  city: Lahti
+  link: http://www.piparminttu.info/
+  created_at: 2016-03-11 21:19:00.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '15110'
+Reseller_19:
+  id: 20
+  name: 'Hoitola Vaaka-Wellness   '
+  address: 'Haaganmäenkuja 9 '
+  city: Turku
+  link: http://www.hoitolavaaka.fi/
+  created_at: 2016-03-12 08:00:11.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '20460'
+Reseller_20:
+  id: 21
+  name: 'Kauneushuone Ravensara  '
+  address: 'Yliopistonkatu 37  '
+  city: Turku
+  link: http://www.ravensara.net
+  created_at: 2016-03-12 08:00:48.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '20100'
+Reseller_21:
+  id: 22
+  name: 'Ekokampaamo AuRa  '
+  address: 'Lyseokatu 1 as 2  '
+  city: Forssa
+  link: http://www.ekokampaamoaura.fi/
+  created_at: 2016-03-12 08:01:14.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '30100'
+Reseller_22:
+  id: 23
+  name: 'Ekokampaamo Kookos  '
+  address: 'Koulukatu 10  '
+  city: Tampere
+  link: http://ekokampaamokookos.blogspot.fi/
+  created_at: 2016-03-12 08:01:47.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '33200'
+Reseller_23:
+  id: 24
+  name: 'Ekokampaamo Shanti   '
+  address: 'Kuninkaankatu 15 B 7, 2.krs '
+  city: Tampere
+  link: http://www.shanti.fi/
+  created_at: 2016-03-12 08:02:45.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '33210'
+Reseller_24:
+  id: 25
+  name: 'Matee Ecosalon   '
+  address: 'Tampereentie 2 '
+  city: Lempäälä
+  link: http://www.matee.fi/
+  created_at: 2016-03-12 08:03:22.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '37500'
+Reseller_25:
+  id: 26
+  name: 'Studio AK Kuokkala  '
+  address: 'Polttolinja 1  '
+  city: Jyväskylä
+  link: http://www.studioak.fi/toimipisteet
+  created_at: 2016-03-12 08:03:53.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '40520'
+Reseller_26:
+  id: 27
+  name: 'Ekokampaamo Hiustupa  '
+  address: 'Savilahdenkatu 2 A  '
+  city: Mikkeli
+  link: http://www.ekokampaamo.net/Paivi/
+  created_at: 2016-03-12 08:04:25.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '50100'
+Reseller_27:
+  id: 28
+  name: 'Parturi-Ekokampaamo Meko  '
+  address: 'Ruukintie 23  '
+  city: Seinäjoki
+  link: http://hiuspuoti.com/
+  created_at: 2016-03-12 08:04:55.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '60100'
+Reseller_28:
+  id: 29
+  name: 'Ekokampaamo Hiuspuoti  '
+  address: 'Kirkkotie 27  '
+  city: Peräseinäjoki
+  link: https://www.facebook.com/EkokampaamoHiuspuoti
+  created_at: 2016-03-12 08:05:24.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '61100'
+Reseller_29:
+  id: 30
+  name: 'Parturi-Kampaamo Satu Kaunisto  '
+  address: 'Lumikonpiha 5  '
+  city: Kauhajoki
+  link: 'http://parturikampaamosatukaunisto.yhteystietopalvelu.com/ '
+  created_at: 2016-03-12 08:06:01.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '61800'
+Reseller_30:
+  id: 31
+  name: 'Ekokampaamo-Parturi Mieli  '
+  address: 'Raastuvankatu 32  '
+  city: Vaasa
+  link: http://ekomieli.wix.com/ekokampaamo
+  created_at: 2016-03-12 08:06:33.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '65100'
+Reseller_31:
+  id: 32
+  name: 'Clippo / Ekofrisör Mikaela Sjöberg  '
+  address: 'Solfvägen 213  '
+  city: Solf
+  link: ''
+  created_at: 2016-03-12 08:07:14.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '65450'
+Reseller_32:
+  id: 33
+  name: 'BeStyle / Minna Pääkkönen   '
+  address: 'Parturi-Kampaamo STEP, Pyörönkaari 1  '
+  city: Kuopio
+  link: ''
+  created_at: 2016-03-12 08:07:58.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '70820'
+Reseller_33:
+  id: 34
+  name: 'Hiushuone Vihreä Tähti  '
+  address: 'Niiralankatu 19  '
+  city: Kuopio
+  link: http://vihreatahti.fi/
+  created_at: 2016-03-12 08:08:31.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '70600'
+Reseller_34:
+  id: 35
+  name: 'Hiusstudio Sarletti  '
+  address: 'Kansankatu 60  '
+  city: Oulu
+  link: http://www.sarletti.fi/
+  created_at: 2016-03-12 08:09:01.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '90120'
+Reseller_35:
+  id: 36
+  name: Ekokampaamo-parturi Hiusmeri
+  address: " Antinkankaantie 28  "
+  city: Raahe
+  link: http://www.hiusmeri.com/
+  created_at: 2016-03-12 08:17:22.000000000 Z
+  updated_at: 2016-07-03 15:24:54.000000000 Z
+  post_code: '92130'
+Reseller_36:
+  id: 37
+  name: 'Parturi-kampaamo Pieni Hiushuone  '
+  address: 'Valtakatu 5  '
+  city: Kemi
+  link: http://pienihiushuone.net/
+  created_at: 2016-03-12 08:17:57.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '94100'
+Reseller_37:
+  id: 38
+  name: 'Parturimo Herman  '
+  address: 'Kauppakatu 16  '
+  city: Kemi
+  link: http://www.parturimoherman.fi/
+  created_at: 2016-03-12 08:18:19.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '94100'
+Reseller_38:
+  id: 39
+  name: 'Salonki Luonnon Kauniit  '
+  address: 'Hallituskatu 2 A 10  '
+  city: Tornio
+  link: http://www.luonnonkauniit.fi/
+  created_at: 2016-03-12 08:18:46.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '95400'
+Reseller_39:
+  id: 40
+  name: 'Hiuspalvelu Anne Lehtinen  '
+  address: 'Metsätie 5  '
+  city: Ivalo
+  link: https://fi-fi.facebook.com/hiuspalvelu
+  created_at: 2016-03-12 08:19:32.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '99800'
+Reseller_40:
+  id: 41
+  name: Parturi-Kampaamo Anja Moilanen
+  address: Simolankatu 4, Pispan palvelukeskus
+  city: Tampere
+  link: ''
+  created_at: 2016-03-12 08:35:08.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '33270'
+Reseller_41:
+  id: 42
+  name: Ekokampaamo Hiushuone Korento
+  address: Kauppakatu 28A, 2.krs
+  city: Jyväskylä
+  link: http://www.hiushuonekorento.fi/
+  created_at: 2016-03-13 15:46:19.000000000 Z
+  updated_at: 2016-06-14 14:27:26.000000000 Z
+  post_code: '40100'
+Reseller_42:
+  id: 44
+  name: 'Kampaamo-parturi Marja Torvi    '
+  address: 'Valtakatu 37  '
+  city: Lappeenranta
+  link: https://www.facebook.com/Kampaamo-parturi-Marja-Torvi-583688868457269/
+  created_at: 2016-06-21 16:05:04.000000000 Z
+  updated_at: 2016-06-21 16:05:04.000000000 Z
+  post_code: '53100'
+Reseller_43:
+  id: 45
+  name: Parturi-Kampaamo TiinaMari
+  address: Kummunkatu 6
+  city: Outokumpu
+  link: ''
+  created_at: 2016-07-11 18:01:05.000000000 Z
+  updated_at: 2016-07-11 18:01:05.000000000 Z
+  post_code: '83500'
+Reseller_44:
+  id: 46
+  name: Ekokampaamo Into
+  address: Savonkatu 19 (c/o Parturi-Kampaamo Carita)
+  city: Iisalmi
+  link: https://www.facebook.com/Ekokampaamo-Into-Ekokampaaja-opiskelija-Merja-Kainulainen-1734677596780475/
+  created_at: 2016-07-11 18:03:38.000000000 Z
+  updated_at: 2016-07-11 18:03:38.000000000 Z
+  post_code: '74100'
+Reseller_45:
+  id: 47
+  name: 'Hiusmuotoilu Reetta Timonen '
+  address: Kiteentie 14 A 4
+  city: Kitee
+  link: ''
+  created_at: 2016-07-11 18:05:46.000000000 Z
+  updated_at: 2016-07-11 18:05:46.000000000 Z
+  post_code: '82500'
+Reseller_46:
+  id: 48
+  name: 'Ekosalonki Cielo  '
+  address: 'Jokikatu 10 '
+  city: Porvoo
+  link: http://ekosalonkicielo.fi/
+  created_at: 2016-07-11 18:06:51.000000000 Z
+  updated_at: 2016-07-11 18:06:51.000000000 Z
+  post_code: '06100'
+Reseller_47:
+  id: 49
+  name: 'Salon Peter o Jina  '
+  address: 'Vaasanpuistikko 14 A, 2. krs '
+  city: Vaasa
+  link: https://www.facebook.com/SALON-peter-o-jina-266637933830/
+  created_at: 2016-07-11 18:08:34.000000000 Z
+  updated_at: 2016-07-11 18:09:39.000000000 Z
+  post_code: '65100'
+Reseller_48:
+  id: 50
+  name: Ekokampaamo Vallilan Heili
+  address: Sturenkatu 33
+  city: Helsinki
+  link: https://www.facebook.com/vallilanheili/
+  created_at: 2016-07-11 18:10:58.000000000 Z
+  updated_at: 2016-07-11 18:10:58.000000000 Z
+  post_code: '00550'
+Reseller_49:
+  id: 51
+  name: 'Ekokampaamo Vipamania '
+  address: Ojahaanrinne 2
+  city: VANTAA
+  link: ''
+  created_at: 2016-07-11 18:12:27.000000000 Z
+  updated_at: 2016-07-11 18:12:27.000000000 Z
+  post_code: '01600'
