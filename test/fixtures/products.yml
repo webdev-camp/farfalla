@@ -678,14 +678,14 @@ Product_28:
   weight: 0.85
   ean: P-94988
   tax: 24.0
-  inventory: 0
+  inventory: -1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 27
   supplier_id: 3
   created_at: 2011-01-11 18:23:48.000000000 Z
-  updated_at: 2015-09-18 13:49:35.000000000 Z
+  updated_at: 2016-09-07 18:39:06.000000000 Z
 Product_29:
   id: 305
   price: 249.984
@@ -727,14 +727,14 @@ Product_30:
   weight: 0.3
   ean: P-94990
   tax: 24.0
-  inventory: 4
+  inventory: 3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 27
   supplier_id: 3
   created_at: 2011-01-11 18:43:28.000000000 Z
-  updated_at: 2016-05-30 14:24:25.000000000 Z
+  updated_at: 2016-08-10 15:08:02.000000000 Z
 Product_31:
   id: 307
   price: 41.66
@@ -771,14 +771,14 @@ Product_32:
   weight: 0.3
   ean: P-94993
   tax: 24.0
-  inventory: 2
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 27
   supplier_id: 3
   created_at: 2011-01-11 18:54:10.000000000 Z
-  updated_at: 2016-05-30 14:24:25.000000000 Z
+  updated_at: 2016-08-10 15:08:02.000000000 Z
 Product_33:
   id: 309
   price: 186.0
@@ -919,7 +919,7 @@ Product_38:
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:17:58.000000000 Z
-  updated_at: 2016-07-12 08:36:23.000000000 Z
+  updated_at: 2016-09-05 17:07:33.000000000 Z
 Product_39:
   id: 318
   price: 10.73
@@ -938,14 +938,14 @@ Product_39:
   weight: 0.15
   ean: '7612534043717'
   tax: 24.0
-  inventory: 4
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:17:59.000000000 Z
-  updated_at: 2016-07-17 06:22:43.000000000 Z
+  updated_at: 2016-09-05 17:07:33.000000000 Z
 Product_40:
   id: 319
   price: 11.53
@@ -966,14 +966,14 @@ Product_40:
   weight: 0.2
   ean: '7612534046541'
   tax: 24.0
-  inventory: 3
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:00.000000000 Z
-  updated_at: 2016-07-12 08:36:23.000000000 Z
+  updated_at: 2016-08-23 14:58:17.000000000 Z
 Product_41:
   id: 320
   price: 11.53
@@ -994,14 +994,14 @@ Product_41:
   weight: 0.2
   ean: '7612534046534'
   tax: 24.0
-  inventory: 3
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:00.000000000 Z
-  updated_at: 2016-07-10 12:50:18.000000000 Z
+  updated_at: 2016-09-04 11:55:25.000000000 Z
 Product_42:
   id: 321
   price: 11.53
@@ -1020,14 +1020,14 @@ Product_42:
   weight: 0.1
   ean: '7612534043687'
   tax: 24.0
-  inventory: 0
+  inventory: 3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:00.000000000 Z
-  updated_at: 2016-07-17 06:22:43.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_43:
   id: 322
   price: 23.19
@@ -1046,19 +1046,19 @@ Product_43:
   weight: 0.15
   ean: '7612534043724'
   tax: 24.0
-  inventory: 0
+  inventory: 4
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:01.000000000 Z
-  updated_at: 2016-07-12 08:36:23.000000000 Z
+  updated_at: 2016-09-04 11:02:04.000000000 Z
 Product_44:
   id: 323
   price: 17.73
   name: In Balance Puhdistusnaamio epäpuhtauksien hoitoon
-  link: kirkastava-puhdistusnaamio
+  link: in_balance_puhdistusnaamio_epäpuhtauksien_hoitoon
   description: "<em>Tehokas ja hellävarainen kasvonaamio</em><br/>Tehokas, kaikenikäisille
     sopiva kasvonaamio rasvaiselle, epäpuhtaalle ja sekaiholle. Sisältää greippiä,
     rosmariinia ja sitruunaa, jotka puhdistavat, kirkastavat ja raikastavat ihoa.
@@ -1074,14 +1074,15 @@ Product_44:
   weight: 0.1
   ean: '7612534043731'
   tax: 24.0
-  inventory: 3
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-29
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:02.000000000 Z
-  updated_at: 2015-09-07 15:49:38.000000000 Z
+  updated_at: 2016-08-29 15:44:29.000000000 Z
 Product_45:
   id: 324
   price: 19.22
@@ -1101,14 +1102,14 @@ Product_45:
   weight: 0.1
   ean: '7612534043748'
   tax: 24.0
-  inventory: 3
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:03.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-23 14:58:17.000000000 Z
 Product_46:
   id: 325
   price: 23.19
@@ -1128,14 +1129,14 @@ Product_46:
   weight: 0.15
   ean: '7612534043755'
   tax: 24.0
-  inventory: 10
+  inventory: 7
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:04.000000000 Z
-  updated_at: 2016-06-20 18:19:46.000000000 Z
+  updated_at: 2016-08-28 17:35:10.000000000 Z
 Product_47:
   id: 326
   price: 23.19
@@ -1154,14 +1155,14 @@ Product_47:
   weight: 0.2
   ean: '7612534043762'
   tax: 24.0
-  inventory: 2
+  inventory: -1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:04.000000000 Z
-  updated_at: 2016-06-27 13:53:36.000000000 Z
+  updated_at: 2016-09-04 11:30:18.000000000 Z
 Product_48:
   id: 327
   price: 19.22
@@ -1205,14 +1206,14 @@ Product_49:
   weight: 0.15
   ean: '7612534043625'
   tax: 24.0
-  inventory: 1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:05.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-09-05 17:07:33.000000000 Z
 Product_50:
   id: 329
   price: 25.42
@@ -1260,14 +1261,14 @@ Product_51:
   weight: 0.1
   ean: '7612534043991'
   tax: 24.0
-  inventory: 7
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:06.000000000 Z
-  updated_at: 2016-07-17 06:22:43.000000000 Z
+  updated_at: 2016-08-28 17:35:43.000000000 Z
 Product_52:
   id: 331
   price: 28.52
@@ -1288,14 +1289,14 @@ Product_52:
   weight: 0.15
   ean: '7612534043601'
   tax: 24.0
-  inventory: 3
+  inventory: -1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:07.000000000 Z
-  updated_at: 2016-06-04 14:07:58.000000000 Z
+  updated_at: 2016-09-04 11:01:59.000000000 Z
 Product_53:
   id: 332
   price: 23.19
@@ -1315,14 +1316,14 @@ Product_53:
   weight: 0.15
   ean: '7612534043809'
   tax: 24.0
-  inventory: 3
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:07.000000000 Z
-  updated_at: 2016-07-17 06:22:43.000000000 Z
+  updated_at: 2016-09-04 11:30:18.000000000 Z
 Product_54:
   id: 333
   price: 29.02
@@ -1344,14 +1345,14 @@ Product_54:
   weight: 0.15
   ean: '7612534043649'
   tax: 24.0
-  inventory: 12
+  inventory: 5
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:08.000000000 Z
-  updated_at: 2016-07-10 11:26:19.000000000 Z
+  updated_at: 2016-09-04 11:01:38.000000000 Z
 Product_55:
   id: 334
   price: 12.34
@@ -1448,14 +1449,14 @@ Product_58:
   weight: 0.1
   ean: '7612534043977'
   tax: 24.0
-  inventory: 4
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-07-14 14:18:11.000000000 Z
-  updated_at: 2016-07-10 11:41:42.000000000 Z
+  updated_at: 2016-09-04 11:30:19.000000000 Z
 Product_59:
   id: 341
   price: 7.32
@@ -1653,14 +1654,14 @@ Product_66:
   weight: 0.25
   ean: '7612534050647'
   tax: 24.0
-  inventory: 1
+  inventory: 18
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 31
   supplier_id: 1
   created_at: 2011-07-14 14:18:24.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_67:
   id: 365
   price: 9.11
@@ -1681,14 +1682,14 @@ Product_67:
   weight: 0.2
   ean: '7612534050685'
   tax: 24.0
-  inventory: 4
+  inventory: 14
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 31
   supplier_id: 1
   created_at: 2011-07-14 14:18:25.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_68:
   id: 366
   price: 9.11
@@ -1707,14 +1708,14 @@ Product_68:
   weight: 0.2
   ean: '7612534050692'
   tax: 24.0
-  inventory: 1
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 31
   supplier_id: 1
   created_at: 2011-07-14 14:18:26.000000000 Z
-  updated_at: 2016-07-20 15:13:56.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_69:
   id: 367
   price: 8.31
@@ -1735,14 +1736,14 @@ Product_69:
   weight: 0.2
   ean: '7612534050678'
   tax: 24.0
-  inventory: 7
+  inventory: 3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 31
   supplier_id: 1
   created_at: 2011-07-14 14:18:27.000000000 Z
-  updated_at: 2016-07-20 15:13:56.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_70:
   id: 368
   price: 37.82
@@ -1814,14 +1815,14 @@ Product_72:
   weight: 0.1
   ean: '7612534100359'
   tax: 24.0
-  inventory: 14
+  inventory: 10
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2011-07-14 14:18:31.000000000 Z
-  updated_at: 2016-06-14 14:05:22.000000000 Z
+  updated_at: 2016-09-03 08:25:25.000000000 Z
 Product_73:
   id: 376
   price: 9.67
@@ -1839,14 +1840,14 @@ Product_73:
   weight: 0.1
   ean: '7612534100373'
   tax: 24.0
-  inventory: 10
+  inventory: 8
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2011-07-14 14:18:31.000000000 Z
-  updated_at: 2016-06-08 15:49:39.000000000 Z
+  updated_at: 2016-08-30 17:16:02.000000000 Z
 Product_74:
   id: 377
   price: 9.67
@@ -1863,19 +1864,19 @@ Product_74:
   weight: 0.1
   ean: '7612534100366'
   tax: 24.0
-  inventory: 5
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2011-07-14 14:18:31.000000000 Z
-  updated_at: 2016-05-09 18:49:56.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_75:
   id: 381
   price: 15.19
   name: Meripihkaöljy
-  link: amberstone-oeljy
+  link: meripihkaöljy
   description: "<em>Silkinpehmeyttä, kepeyttä ja valoisuutta </em><br/>Tämä öljy tuo
     iloa ja energiaa päivääsi. Voit käyttää sitä kasvo-, iho-, hieronta- tai kylpyöljynä.
     Tekee ihosi silkinpehmeäksi ja säteileväksi. Mandariinin ja benzoen eteeriset
@@ -1890,14 +1891,15 @@ Product_75:
   weight: 0.1
   ean: '7612534032322'
   tax: 24.0
-  inventory: 6
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-29
   category_id: 30
   supplier_id: 1
   created_at: 2011-07-14 14:18:33.000000000 Z
-  updated_at: 2014-12-22 16:27:42.000000000 Z
+  updated_at: 2016-08-29 15:44:52.000000000 Z
 Product_76:
   id: 385
   price: 8.0
@@ -2176,14 +2178,15 @@ Product_88:
   weight: 0.1
   ean: '7612534280372'
   tax: 24.0
-  inventory: 5
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-29
   category_id: 30
   supplier_id: 1
   created_at: 2011-09-03 17:06:27.000000000 Z
-  updated_at: 2014-12-22 16:27:42.000000000 Z
+  updated_at: 2016-08-29 15:44:58.000000000 Z
 Product_89:
   id: 421
   price: 7.18
@@ -2496,19 +2499,19 @@ Product_99:
   weight: 0.1
   ean: '7612534032261'
   tax: 24.0
-  inventory: 1
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2011-10-06 14:23:39.000000000 Z
-  updated_at: 2016-07-09 15:02:37.000000000 Z
+  updated_at: 2016-08-09 11:29:55.000000000 Z
 Product_100:
   id: 437
   price: 3.84
   name: Neroli Huulivoide
-  link: neroli-huulivoide
+  link: neroli_huulivoide
   description: "<em>Ihanan pehmeä ja hoitava luomulaatuinen huulivoide.</em><br> Tuoksuu
     miedosti appelsiininkukille. Hoitaa ja suojaa herkkiä huulia kuivumiselta. Pohjana
     jojoba-, avocado- ja kehäkukkaöljy. \r\n100% luonnollisista aineista, 98% ainesosista
@@ -2520,19 +2523,20 @@ Product_100:
   weight: 0.1
   ean: '7612534041133'
   tax: 24.0
-  inventory: 12
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-29
   category_id: 30
   supplier_id: 1
   created_at: 2011-10-06 14:38:52.000000000 Z
-  updated_at: 2016-05-09 18:49:55.000000000 Z
+  updated_at: 2016-08-29 15:42:38.000000000 Z
 Product_101:
   id: 438
   price: 3.84
   name: 'Vanilja Huulivoide '
-  link: vanilja-huulivoide
+  link: vanilja_huulivoide_
   description: "<em>Ihanan pehmeä ja hoitava luomulaatuinen huulivoide.</em><br> Jojobaöljy,
     karitevoi ja mehiläisvaha suojaavat ja hoitavat huulia ja pitävät ne pehmeinä.
     Mieto, miellyttävä aidon vaniljan ja kaakaon tuoksu. \r\n100% luonnollisista aineista,
@@ -2544,14 +2548,15 @@ Product_101:
   weight: 0.1
   ean: '7612534041140'
   tax: 24.0
-  inventory: 12
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-29
   category_id: 30
   supplier_id: 1
   created_at: 2011-10-06 14:44:46.000000000 Z
-  updated_at: 2016-05-09 18:49:55.000000000 Z
+  updated_at: 2016-08-29 15:42:29.000000000 Z
 Product_102:
   id: 441
   price: 6.73
@@ -2599,14 +2604,14 @@ Product_103:
   weight: 0.2
   ean: '7612534050654'
   tax: 24.0
-  inventory: 8
+  inventory: 18
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 31
   supplier_id: 1
   created_at: 2011-10-19 13:35:34.000000000 Z
-  updated_at: 2016-07-23 05:38:23.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_104:
   id: 443
   price: 9.11
@@ -2628,14 +2633,14 @@ Product_104:
   weight: 0.2
   ean: '7612534050661'
   tax: 24.0
-  inventory: 1
+  inventory: 4
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 31
   supplier_id: 1
   created_at: 2011-10-19 13:38:22.000000000 Z
-  updated_at: 2016-07-20 15:13:56.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_105:
   id: 444
   price: 56.36
@@ -2658,7 +2663,7 @@ Product_106:
   id: 446
   price: 76.88
   name: Huulivoide display
-  link: huulivoide-myyntiteline
+  link: huulivoide_display
   description: huulivoide myyntiteline 10x neroli, 10x vanilja
   summary: ''
   online: true
@@ -2670,10 +2675,11 @@ Product_106:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-29
   category_id: 30
   supplier_id: 1
   created_at: 2011-10-26 08:09:49.000000000 Z
-  updated_at: 2016-05-09 18:49:55.000000000 Z
+  updated_at: 2016-08-29 15:42:16.000000000 Z
 Product_107:
   id: 448
   price: 9.67
@@ -2690,14 +2696,14 @@ Product_107:
   weight: 0.1
   ean: '7612534100380'
   tax: 24.0
-  inventory: 14
+  inventory: 10
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: spvama
   category_id: 32
   supplier_id: 1
   created_at: 2011-10-27 14:06:12.000000000 Z
-  updated_at: 2016-06-21 16:39:08.000000000 Z
+  updated_at: 2016-09-03 08:48:31.000000000 Z
 Product_108:
   id: 449
   price: 8.18
@@ -2795,14 +2801,14 @@ Product_112:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: -2
+  inventory: -3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2011-11-07 13:49:05.000000000 Z
-  updated_at: 2016-01-18 19:37:19.000000000 Z
+  updated_at: 2016-09-03 08:48:31.000000000 Z
 Product_113:
   id: 455
   price: 33.48
@@ -2866,14 +2872,14 @@ Product_115:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 11
+  inventory: 10
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-12-05 08:26:08.000000000 Z
-  updated_at: 2015-08-17 15:33:01.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_116:
   id: 459
   price: 7.44
@@ -2920,14 +2926,14 @@ Product_117:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 2
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2011-12-05 08:42:45.000000000 Z
-  updated_at: 2015-12-19 07:10:18.000000000 Z
+  updated_at: 2016-08-24 17:09:36.000000000 Z
 Product_118:
   id: 462
   price: 33.48
@@ -3015,12 +3021,12 @@ Product_121:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 6
+  inventory: 5
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   created_at: 2012-01-26 13:12:44.000000000 Z
-  updated_at: 2016-06-06 15:35:54.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_122:
   id: 466
   price: 3.72
@@ -3033,12 +3039,12 @@ Product_122:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 3
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   created_at: 2012-01-26 13:14:39.000000000 Z
-  updated_at: 2016-03-21 05:31:59.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_123:
   id: 467
   price: 3.72
@@ -3070,12 +3076,12 @@ Product_124:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 2
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   created_at: 2012-01-26 13:17:44.000000000 Z
-  updated_at: 2016-06-06 15:35:54.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_125:
   id: 469
   price: 3.72
@@ -3088,12 +3094,12 @@ Product_125:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: -15
+  inventory: -16
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   created_at: 2012-01-26 13:18:40.000000000 Z
-  updated_at: 2016-06-06 15:35:44.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_126:
   id: 470
   price: 7.44
@@ -3148,17 +3154,19 @@ Product_128:
   weight: 0.1
   ean: '7612534043540'
   tax: 24.0
-  inventory: 3
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 40
+  supplier_id: 1
   created_at: 2012-02-03 08:20:10.000000000 Z
-  updated_at: 2015-08-07 17:08:41.000000000 Z
+  updated_at: 2016-09-03 08:48:31.000000000 Z
 Product_129:
   id: 473
   price: 37.2
   name: Baobab naamio, pro
-  link: baobab-korjaava-naamio
+  link: baobab_naamio,_pro
   description: Kuivan ja ikääntyvän ihon naamio
   summary: ''
   online: true
@@ -3170,8 +3178,10 @@ Product_129:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-12
+  category_id: 40
   created_at: 2012-02-03 08:21:08.000000000 Z
-  updated_at: 2015-06-24 16:33:46.000000000 Z
+  updated_at: 2016-08-12 15:18:40.000000000 Z
 Product_130:
   id: 474
   price: 14.57
@@ -3194,18 +3204,18 @@ Product_130:
   weight: 0.1
   ean: '7612534031370'
   tax: 24.0
-  inventory: 1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2012-02-03 08:36:46.000000000 Z
-  updated_at: 2016-07-11 07:50:09.000000000 Z
+  updated_at: 2016-09-03 08:25:25.000000000 Z
 Product_131:
   id: 475
   price: 11.16
-  name: " Hoitobalsami, pro"
+  name: Hoitobalsami, pro
   link: suojaava-balsami
   description: ''
   summary: ''
@@ -3214,12 +3224,14 @@ Product_131:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 2
+  inventory: 3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 40
+  supplier_id: 1
   created_at: 2012-02-03 08:52:24.000000000 Z
-  updated_at: 2015-06-27 10:58:29.000000000 Z
+  updated_at: 2016-08-28 17:35:11.000000000 Z
 Product_132:
   id: 476
   price: 6.2
@@ -3341,7 +3353,7 @@ Product_137:
 Product_138:
   id: 485
   price: 0.62
-  name: Näyte
+  name: Näyte/ Farfalla
   link: naeyte
   description: 'Tuotenäyte, jossa mukana esite '
   summary: ''
@@ -3350,12 +3362,12 @@ Product_138:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: -30
+  inventory: -70
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   created_at: 2012-04-01 12:18:05.000000000 Z
-  updated_at: 2016-04-13 14:37:55.000000000 Z
+  updated_at: 2016-08-26 16:53:32.000000000 Z
 Product_139:
   id: 490
   price: 41.66
@@ -3369,14 +3381,14 @@ Product_139:
   weight: 0.3
   ean: ''
   tax: 24.0
-  inventory: 3
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 27
   supplier_id: 3
   created_at: 2012-04-04 19:41:55.000000000 Z
-  updated_at: 2016-05-30 14:24:25.000000000 Z
+  updated_at: 2016-08-10 15:08:02.000000000 Z
 Product_140:
   id: 491
   price: 41.66
@@ -3390,14 +3402,14 @@ Product_140:
   weight: 0.3
   ean: ''
   tax: 24.0
-  inventory: 3
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 27
   supplier_id: 3
   created_at: 2012-04-04 20:15:04.000000000 Z
-  updated_at: 2016-05-30 14:24:25.000000000 Z
+  updated_at: 2016-08-10 15:08:02.000000000 Z
 Product_141:
   id: 492
   price: 41.66
@@ -3411,14 +3423,14 @@ Product_141:
   weight: 0.3
   ean: ''
   tax: 24.0
-  inventory: 0
+  inventory: -1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 27
   supplier_id: 3
   created_at: 2012-04-04 20:20:01.000000000 Z
-  updated_at: 2016-05-30 14:24:25.000000000 Z
+  updated_at: 2016-09-07 18:39:06.000000000 Z
 Product_142:
   id: 493
   price: 41.66
@@ -3432,14 +3444,14 @@ Product_142:
   weight: 0.3
   ean: ''
   tax: 24.0
-  inventory: 3
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 27
   supplier_id: 3
   created_at: 2012-04-04 20:27:21.000000000 Z
-  updated_at: 2016-05-30 14:24:24.000000000 Z
+  updated_at: 2016-08-10 15:08:02.000000000 Z
 Product_143:
   id: 495
   price: 18.6
@@ -3476,14 +3488,14 @@ Product_144:
   weight: 0.1
   ean: '7612534045261'
   tax: 24.0
-  inventory: 0
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-22 06:28:47.000000000 Z
-  updated_at: 2016-07-04 17:04:52.000000000 Z
+  updated_at: 2016-09-05 17:07:33.000000000 Z
 Product_145:
   id: 497
   price: 8.37
@@ -3503,14 +3515,14 @@ Product_145:
   weight: 0.1
   ean: '7612534045230'
   tax: 24.0
-  inventory: 19
+  inventory: 15
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-22 06:48:07.000000000 Z
-  updated_at: 2016-07-04 10:41:38.000000000 Z
+  updated_at: 2016-08-30 17:16:03.000000000 Z
 Product_146:
   id: 498
   price: 16.62
@@ -3530,14 +3542,14 @@ Product_146:
   weight: 0.1
   ean: '7612534045223'
   tax: 24.0
-  inventory: 11
+  inventory: 6
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-22 06:50:24.000000000 Z
-  updated_at: 2016-06-02 08:31:41.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_147:
   id: 500
   price: 28.95
@@ -3584,14 +3596,14 @@ Product_148:
   weight: 0.1
   ean: '7612534045070'
   tax: 24.0
-  inventory: 0
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-22 12:35:48.000000000 Z
-  updated_at: 2016-07-06 12:57:09.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_149:
   id: 502
   price: 10.48
@@ -3607,7 +3619,7 @@ Product_149:
   online: true
   cost: 5.92
   weight: 0.1
-  ean: '7612534045032'
+  ean: '7612534107303'
   tax: 24.0
   inventory: 1
   stock_level: 0
@@ -3616,7 +3628,7 @@ Product_149:
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-22 12:36:51.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-09-04 11:01:59.000000000 Z
 Product_150:
   id: 503
   price: 22.57
@@ -3646,7 +3658,7 @@ Product_151:
   id: 504
   price: 13.02
   name: daily pleasure Kauneusöljy
-  link: daily-pleasure-kauneusoeljy
+  link: daily_pleasure_kauneusöljy
   description: "<em>Taivaallisen ihana</em><br/>Taivaallisen tuoksuinen, hemmotteleva
     vartaloöljy. Sisältää ihon kosteustasapainoa ylläpitävää luomulaatuista jojobaöljyä.
     Kun levität öljyn kostealle iholle, se imeytyy nopeasti ja tekee ihosi aistillisen
@@ -3665,10 +3677,11 @@ Product_151:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-29
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-22 12:38:41.000000000 Z
-  updated_at: 2016-02-17 17:28:43.000000000 Z
+  updated_at: 2016-08-29 15:44:43.000000000 Z
 Product_152:
   id: 505
   price: 16.68
@@ -3687,14 +3700,14 @@ Product_152:
   weight: 0.1
   ean: '7612534045063'
   tax: 24.0
-  inventory: 2
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-22 12:39:50.000000000 Z
-  updated_at: 2016-05-28 13:49:51.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_153:
   id: 506
   price: 10.04
@@ -3709,14 +3722,14 @@ Product_153:
   weight: 0.1
   ean: '7612534045056'
   tax: 24.0
-  inventory: 10
+  inventory: 3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-22 12:40:53.000000000 Z
-  updated_at: 2016-07-20 10:05:20.000000000 Z
+  updated_at: 2016-09-04 11:02:04.000000000 Z
 Product_154:
   id: 507
   price: 10.79
@@ -3762,14 +3775,14 @@ Product_155:
   weight: 0.1
   ean: '7612534045407'
   tax: 24.0
-  inventory: 0
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-22 16:20:10.000000000 Z
-  updated_at: 2016-07-06 12:57:08.000000000 Z
+  updated_at: 2016-08-23 14:58:17.000000000 Z
 Product_156:
   id: 509
   price: 8.87
@@ -3788,14 +3801,14 @@ Product_156:
   weight: 0.1
   ean: '7612534045117'
   tax: 24.0
-  inventory: 9
+  inventory: 3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-23 08:33:55.000000000 Z
-  updated_at: 2016-07-17 11:19:40.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_157:
   id: 510
   price: 22.57
@@ -3840,14 +3853,14 @@ Product_158:
   weight: 0.1
   ean: '7612534045131'
   tax: 24.0
-  inventory: 6
+  inventory: 5
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-23 08:36:04.000000000 Z
-  updated_at: 2016-07-10 12:50:18.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_159:
   id: 512
   price: 10.79
@@ -3894,19 +3907,19 @@ Product_160:
   weight: 0.1
   ean: '7612534045094'
   tax: 24.0
-  inventory: 6
+  inventory: 5
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-23 08:37:52.000000000 Z
-  updated_at: 2016-06-20 18:19:46.000000000 Z
+  updated_at: 2016-08-28 17:35:11.000000000 Z
 Product_161:
   id: 514
   price: 13.02
   name: intense frangipani Kauneusöljy
-  link: intense-frangipani-kauneusoeljy
+  link: intense_frangipani_kauneusöljy
   description: "<em>Hoitava ja hemmotteleva</em><br/>Kosteuttava, ihanantuoksuinen
     kauneusöljy. Hemmottelevan vartaloöljyn pohjana on luomulaatuinen jojobaöljy.
     Kun levität öljyn kostealle iholle, se imeytyy nopeasti ja tekee ihostasi aistillisen
@@ -3920,14 +3933,15 @@ Product_161:
   weight: 0.1
   ean: '7612534045155'
   tax: 24.0
-  inventory: -2
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-29
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-23 08:38:48.000000000 Z
-  updated_at: 2016-07-17 06:22:43.000000000 Z
+  updated_at: 2016-08-29 15:44:48.000000000 Z
 Product_162:
   id: 515
   price: 10.85
@@ -3970,19 +3984,19 @@ Product_163:
   weight: 0.1
   ean: '7612534045186'
   tax: 24.0
-  inventory: 3
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-23 08:48:01.000000000 Z
-  updated_at: 2016-07-10 11:24:22.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_164:
   id: 517
   price: 16.68
   name: pure sensitive Kosteusvoide
-  link: pure-sensitive-kosteusvoide
+  link: pure_sensitive_kosteusvoide
   description: "<em>Hoitava ja rauhoittava</em><br/><strong>Hellävarainen ja tehokas
     kosteusvoide herkälle iholle. </strong>Sametinpehmeä, tuoksuton, allergisoimaton
     kosteusemulsio antaa hellimmän mahdollisen hoidon hyvin herkälle iholle. Luomumanteliöljyn,
@@ -4001,10 +4015,11 @@ Product_164:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-29
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-23 08:48:48.000000000 Z
-  updated_at: 2016-04-01 13:59:44.000000000 Z
+  updated_at: 2016-08-29 15:45:05.000000000 Z
 Product_165:
   id: 518
   price: 10.04
@@ -4048,14 +4063,14 @@ Product_166:
   weight: 0.1
   ean: '7612534045193'
   tax: 24.0
-  inventory: 10
+  inventory: 4
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-23 08:53:01.000000000 Z
-  updated_at: 2016-07-10 11:41:41.000000000 Z
+  updated_at: 2016-09-03 08:48:31.000000000 Z
 Product_167:
   id: 520
   price: 12.4
@@ -4095,14 +4110,14 @@ Product_168:
   weight: 0.1
   ean: '7612534045025'
   tax: 24.0
-  inventory: 7
+  inventory: 5
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2012-04-26 06:26:46.000000000 Z
-  updated_at: 2016-06-21 16:39:07.000000000 Z
+  updated_at: 2016-09-04 11:01:38.000000000 Z
 Product_169:
   id: 522
   price: 5.02
@@ -4161,14 +4176,14 @@ Product_171:
   weight: 0.1
   ean: lvityo
   tax: 24.0
-  inventory: 14971
+  inventory: 14906
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 37
   supplier_id: 5
   created_at: 2012-06-01 10:31:31.000000000 Z
-  updated_at: 2016-07-23 05:38:54.000000000 Z
+  updated_at: 2016-08-26 16:54:12.000000000 Z
 Product_172:
   id: 525
   price: 1.24
@@ -4185,14 +4200,14 @@ Product_172:
   weight: 0.1
   ean: lvitarvik
   tax: 24.0
-  inventory: 8723
+  inventory: 8717
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 37
   supplier_id: 5
   created_at: 2012-06-01 10:32:47.000000000 Z
-  updated_at: 2016-07-23 05:38:54.000000000 Z
+  updated_at: 2016-08-26 16:54:12.000000000 Z
 Product_173:
   id: 526
   price: 0.44
@@ -4321,7 +4336,7 @@ Product_179:
   id: 532
   price: 33.48
   name: Hellävarainen – Villiruusushampoo 1000 ml
-  link: hellaevarainen-villiruusushampoo-1000-ml
+  link: hellävarainen_–_villiruusushampoo_1000_ml
   description: ''
   summary: ''
   main_picture_file_name: sh_sensitive_1l.jpg
@@ -4333,19 +4348,20 @@ Product_179:
   weight: 1.0
   ean: '7612534051422'
   tax: 24.0
-  inventory: 1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-27
   category_id: 31
   supplier_id: 1
   created_at: 2012-08-11 08:36:54.000000000 Z
-  updated_at: 2015-12-24 11:13:04.000000000 Z
+  updated_at: 2016-08-27 13:55:57.000000000 Z
 Product_180:
   id: 533
   price: 33.48
   name: Korjaava – Jojoba-Aloe shampoo 1000 ml
-  link: korjaava-jojoba-aloe-shampoo-1000-ml
+  link: korjaava_–_jojoba-aloe_shampoo_1000_ml
   description: ''
   summary: ''
   main_picture_file_name: 31o1c1YvryL._SY300_.jpg
@@ -4357,14 +4373,15 @@ Product_180:
   weight: 1.0
   ean: '7612534051408'
   tax: 24.0
-  inventory: 2
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-27
   category_id: 31
   supplier_id: 1
   created_at: 2012-08-11 08:42:26.000000000 Z
-  updated_at: 2016-03-01 17:26:58.000000000 Z
+  updated_at: 2016-08-27 13:57:36.000000000 Z
 Product_181:
   id: 534
   price: 33.48
@@ -4482,7 +4499,7 @@ Product_185:
   category_id: 35
   supplier_id: 1
   created_at: 2012-10-03 08:34:28.000000000 Z
-  updated_at: 2016-06-28 19:33:40.000000000 Z
+  updated_at: 2016-09-04 11:52:59.000000000 Z
 Product_186:
   id: 542
   price: 18.6
@@ -4495,14 +4512,14 @@ Product_186:
   weight: 0.25
   ean: '7612534040501'
   tax: 24.0
-  inventory: 3
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 29
+  category_id: 40
   supplier_id: 1
   created_at: 2012-10-03 08:38:23.000000000 Z
-  updated_at: 2015-05-04 20:10:27.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_187:
   id: 545
   price: 8.06
@@ -4594,18 +4611,18 @@ Product_191:
   weight: 0.1
   ean: '7612534030540'
   tax: 24.0
-  inventory: 4
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2012-10-19 12:12:25.000000000 Z
-  updated_at: 2016-05-25 16:55:33.000000000 Z
+  updated_at: 2016-08-28 17:35:43.000000000 Z
 Product_192:
   id: 552
-  price: 8.68
-  name: Luomu Ruusukukkaisvesi
+  price: 9.3
+  name: Luomu Ruusukukkaisvesi -uusi resepti ilman alkoholia
   link: ruusuvesi
   description: ''
   summary: ''
@@ -4621,7 +4638,7 @@ Product_192:
   category_id: 29
   supplier_id: 1
   created_at: 2012-10-26 14:39:48.000000000 Z
-  updated_at: 2016-07-11 07:50:09.000000000 Z
+  updated_at: 2016-09-04 11:55:25.000000000 Z
 Product_193:
   id: 553
   price: 0.0
@@ -4638,14 +4655,14 @@ Product_193:
   weight: 0.15
   ean: '7612534060400'
   tax: 24.0
-  inventory: 3
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2012-10-26 14:41:40.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-28 17:35:45.000000000 Z
 Product_194:
   id: 555
   price: 19.84
@@ -4670,7 +4687,7 @@ Product_195:
   id: 556
   price: 19.84
   name: Sunset Feeling Tuoksutikut
-  link: sunset-feeling-tuoksutikut
+  link: sunset_feeling_tuoksutikut
   description: ''
   summary: ''
   online: true
@@ -4682,10 +4699,11 @@ Product_195:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-29
   category_id: 32
   supplier_id: 1
   created_at: 2012-11-07 16:58:08.000000000 Z
-  updated_at: 2016-06-02 16:53:49.000000000 Z
+  updated_at: 2016-08-29 17:45:10.000000000 Z
 Product_196:
   id: 557
   price: 11.1
@@ -4724,14 +4742,14 @@ Product_197:
   weight: 0.1
   ean: '7612534100335'
   tax: 24.0
-  inventory: 4
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2012-11-08 13:25:34.000000000 Z
-  updated_at: 2016-06-19 11:15:04.000000000 Z
+  updated_at: 2016-08-09 11:29:55.000000000 Z
 Product_198:
   id: 560
   price: 6.2
@@ -4744,14 +4762,14 @@ Product_198:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: -3
+  inventory: -4
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2012-11-08 13:30:48.000000000 Z
-  updated_at: 2015-08-17 15:32:59.000000000 Z
+  updated_at: 2016-08-17 16:28:06.000000000 Z
 Product_199:
   id: 562
   price: 1395.0
@@ -4785,14 +4803,14 @@ Product_200:
   weight: 0.1
   ean: '7612534100298'
   tax: 24.0
-  inventory: 0
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2012-11-21 21:21:30.000000000 Z
-  updated_at: 2016-06-08 15:36:02.000000000 Z
+  updated_at: 2016-09-04 11:52:59.000000000 Z
 Product_201:
   id: 564
   price: 9.67
@@ -4805,14 +4823,14 @@ Product_201:
   weight: 0.1
   ean: '7612534100304'
   tax: 24.0
-  inventory: 8
+  inventory: 7
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2012-11-21 21:23:44.000000000 Z
-  updated_at: 2016-06-21 16:39:08.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_202:
   id: 566
   price: 16.12
@@ -4847,8 +4865,10 @@ Product_203:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 32
+  supplier_id: 1
   created_at: 2012-12-10 14:08:32.000000000 Z
-  updated_at: 2014-12-02 16:34:09.000000000 Z
+  updated_at: 2016-08-12 15:18:20.000000000 Z
 Product_204:
   id: 568
   price: 3.72
@@ -4861,12 +4881,12 @@ Product_204:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: -5
+  inventory: -6
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   created_at: 2013-01-18 10:46:00.000000000 Z
-  updated_at: 2016-06-06 15:35:54.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_205:
   id: 569
   price: 3.72
@@ -4879,12 +4899,12 @@ Product_205:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 9
+  inventory: 8
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   created_at: 2013-01-18 10:47:14.000000000 Z
-  updated_at: 2014-12-02 16:34:09.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_206:
   id: 570
   price: 13.64
@@ -4979,14 +4999,14 @@ Product_210:
   weight: 0.1
   ean: '7612534030502'
   tax: 24.0
-  inventory: 0
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2013-04-11 05:03:15.000000000 Z
-  updated_at: 2016-06-21 16:39:08.000000000 Z
+  updated_at: 2016-08-23 14:58:18.000000000 Z
 Product_211:
   id: 577
   price: 3.72
@@ -5030,14 +5050,14 @@ Product_212:
   weight: 0.07
   ean: '7612534103114'
   tax: 24.0
-  inventory: 2
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2013-05-16 11:18:38.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_213:
   id: 579
   price: 49.1
@@ -5074,19 +5094,19 @@ Product_214:
   weight: 0.1
   ean: '7612534046039'
   tax: 24.0
-  inventory: 4
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 33
   supplier_id: 1
   created_at: 2013-06-07 12:18:34.000000000 Z
-  updated_at: 2016-07-08 14:10:44.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_215:
   id: 585
   price: 9820.8
-  name: Vesi-ilmalämpöpumppu osamaksu
-  link: panasonic-vesi-ilmalampopumppu
+  name: Ilma-vesilämpöpumppu Mitsubishi Electric
+  link: ilma-vesilämpöpumppu_mitsubishi_electric
   description: ''
   summary: ''
   online: false
@@ -5094,14 +5114,14 @@ Product_215:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 0
+  inventory: -1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 37
   supplier_id: 5
   created_at: 2013-07-03 21:12:57.000000000 Z
-  updated_at: 2014-12-22 18:54:00.000000000 Z
+  updated_at: 2016-09-07 18:38:54.000000000 Z
 Product_216:
   id: 595
   price: 15.44
@@ -5120,14 +5140,14 @@ Product_216:
   weight: 0.1
   ean: '7612534046060'
   tax: 24.0
-  inventory: 16
+  inventory: 11
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 33
   supplier_id: 1
   created_at: 2013-08-06 16:45:43.000000000 Z
-  updated_at: 2016-07-04 17:04:52.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_217:
   id: 596
   price: 21.7
@@ -5174,14 +5194,14 @@ Product_218:
   weight: 0.2
   ean: '7612534046046'
   tax: 24.0
-  inventory: 4
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 33
   supplier_id: 1
   created_at: 2013-08-07 19:46:54.000000000 Z
-  updated_at: 2016-07-10 11:41:42.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_219:
   id: 598
   price: 6.2
@@ -5226,19 +5246,19 @@ Product_220:
   weight: 0.15
   ean: '7612534046176'
   tax: 24.0
-  inventory: 5
+  inventory: 9
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2013-09-03 04:50:34.000000000 Z
-  updated_at: 2016-07-23 05:38:23.000000000 Z
+  updated_at: 2016-08-28 17:35:43.000000000 Z
 Product_221:
   id: 601
   price: 80.6
   name: In Balance Puhdistusnaamio, pro 200 ml
-  link: kirkastava-puhdistusnaamio-pro
+  link: in_balance_puhdistusnaamio,_pro_200_ml
   description: "<em>Tehokas ja hellävarainen kasvonaamio</em><br/>Tehokas, kaikenikäisille
     sopiva kasvonaamio rasvaiselle, epäpuhtaalle ja sekaiholle. Sisältää greippiä,
     rosmariinia ja sitruunaa, jotka puhdistavat, kirkastavat ja raikastavat ihoa.
@@ -5254,18 +5274,19 @@ Product_221:
   weight: 0.25
   ean: ''
   tax: 24.0
-  inventory: 1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 29
+  deleted_on: 2016-08-12
+  category_id: 40
   supplier_id: 1
   created_at: 2013-10-05 19:59:59.000000000 Z
-  updated_at: 2015-01-09 17:59:44.000000000 Z
+  updated_at: 2016-08-12 15:44:54.000000000 Z
 Product_222:
   id: 602
-  price: 43.4
-  name: Daily Refresh Puhdistusemulsio, pro
+  price: 27.28
+  name: Daily Refresh Puhdistusemulsio, pro 200ml
   link: puhdistusemulsio-pro
   description: "<em>Hellävarainen puhdistus</em><br/>Ihanan pehmeä puhdistusmaito
     kaikille ihotyypeille. Puhdistaa myös herkän ja kuivan ihon hellävaraisen tehokkaasti.
@@ -5281,14 +5302,14 @@ Product_222:
   weight: 0.3
   ean: '7612534043984'
   tax: 24.0
-  inventory: 1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 29
+  category_id: 40
   supplier_id: 1
   created_at: 2013-10-05 20:05:26.000000000 Z
-  updated_at: 2016-03-02 20:53:11.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_223:
   id: 603
   price: 24.12
@@ -5308,14 +5329,14 @@ Product_223:
   weight: 0.1
   ean: '7612534046169'
   tax: 24.0
-  inventory: 3
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2013-10-08 18:20:19.000000000 Z
-  updated_at: 2016-07-10 11:41:41.000000000 Z
+  updated_at: 2016-08-30 17:16:03.000000000 Z
 Product_224:
   id: 604
   price: 10.04
@@ -5328,14 +5349,14 @@ Product_224:
   weight: 0.1
   ean: '7612534030557'
   tax: 24.0
-  inventory: 4
+  inventory: 3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2013-10-26 06:41:51.000000000 Z
-  updated_at: 2016-06-28 19:33:40.000000000 Z
+  updated_at: 2016-08-09 11:29:56.000000000 Z
 Product_225:
   id: 605
   price: 9.24
@@ -5348,14 +5369,14 @@ Product_225:
   weight: 0.1
   ean: '7612534030595'
   tax: 24.0
-  inventory: 1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2013-10-26 06:45:39.000000000 Z
-  updated_at: 2016-07-10 11:41:42.000000000 Z
+  updated_at: 2016-08-23 14:58:18.000000000 Z
 Product_226:
   id: 606
   price: 13.02
@@ -5368,14 +5389,14 @@ Product_226:
   weight: 0.1
   ean: '7612534030519'
   tax: 24.0
-  inventory: 5
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2013-10-30 10:17:02.000000000 Z
-  updated_at: 2016-07-10 11:41:42.000000000 Z
+  updated_at: 2016-09-03 08:48:27.000000000 Z
 Product_227:
   id: 607
   price: 6.2
@@ -5424,12 +5445,12 @@ Product_229:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: -46
+  inventory: -74
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   created_at: 2013-11-19 07:00:16.000000000 Z
-  updated_at: 2016-07-10 05:51:04.000000000 Z
+  updated_at: 2016-09-04 11:01:59.000000000 Z
 Product_230:
   id: 610
   price: 0.37
@@ -5623,14 +5644,14 @@ Product_239:
   weight: 0.1
   ean: '7612534030526'
   tax: 24.0
-  inventory: 3
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2014-02-12 14:14:15.000000000 Z
-  updated_at: 2016-07-23 05:38:23.000000000 Z
+  updated_at: 2016-09-04 11:01:38.000000000 Z
 Product_240:
   id: 621
   price: 4.09
@@ -5664,14 +5685,14 @@ Product_241:
   weight: 0.1
   ean: '7612534032223'
   tax: 24.0
-  inventory: 3
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2014-03-10 06:30:46.000000000 Z
-  updated_at: 2016-05-09 18:49:55.000000000 Z
+  updated_at: 2016-08-15 13:18:55.000000000 Z
 Product_242:
   id: 623
   price: 15.0
@@ -5726,14 +5747,14 @@ Product_244:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 8
+  inventory: 7
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2014-03-10 06:52:53.000000000 Z
-  updated_at: 2015-08-17 15:33:01.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_245:
   id: 627
   price: 2.48
@@ -5891,14 +5912,14 @@ Product_252:
   weight: 0.1
   ean: '7612534090148'
   tax: 24.0
-  inventory: 8
+  inventory: 13
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2014-05-12 09:10:02.000000000 Z
-  updated_at: 2016-07-10 11:41:42.000000000 Z
+  updated_at: 2016-09-03 08:48:31.000000000 Z
 Product_253:
   id: 637
   price: 8.31
@@ -5916,14 +5937,14 @@ Product_253:
   weight: 0.1
   ean: '7612534090131'
   tax: 24.0
-  inventory: 9
+  inventory: 5
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2014-05-13 04:51:05.000000000 Z
-  updated_at: 2016-07-10 11:41:41.000000000 Z
+  updated_at: 2016-08-24 17:09:36.000000000 Z
 Product_254:
   id: 638
   price: 10.04
@@ -5941,14 +5962,14 @@ Product_254:
   weight: 0.1
   ean: '7612534090162'
   tax: 24.0
-  inventory: 3
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2014-05-13 04:55:43.000000000 Z
-  updated_at: 2016-07-17 06:22:43.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_255:
   id: 639
   price: 8.31
@@ -5966,14 +5987,14 @@ Product_255:
   weight: 0.1
   ean: '7612534090179'
   tax: 24.0
-  inventory: 6
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2014-05-13 04:59:07.000000000 Z
-  updated_at: 2016-07-10 11:41:41.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_256:
   id: 640
   price: 28.52
@@ -5995,10 +6016,10 @@ Product_256:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 35
+  category_id: 41
   supplier_id: 1
   created_at: 2014-05-13 05:07:44.000000000 Z
-  updated_at: 2016-06-08 15:36:03.000000000 Z
+  updated_at: 2016-08-12 15:52:05.000000000 Z
 Product_257:
   id: 642
   price: 129.58
@@ -6014,14 +6035,14 @@ Product_257:
   weight: 0.1
   ean: '10005'
   tax: 24.0
-  inventory: 2
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2014-05-15 07:14:07.000000000 Z
-  updated_at: 2016-07-10 11:41:41.000000000 Z
+  updated_at: 2016-08-22 13:29:44.000000000 Z
 Product_258:
   id: 643
   price: 60.76
@@ -6034,12 +6055,14 @@ Product_258:
   weight: 0.1
   ean: '7612534044110'
   tax: 24.0
-  inventory: 2
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 40
+  supplier_id: 1
   created_at: 2014-05-15 07:37:08.000000000 Z
-  updated_at: 2015-12-04 05:50:29.000000000 Z
+  updated_at: 2016-09-03 08:48:27.000000000 Z
 Product_259:
   id: 644
   price: 30.75
@@ -6052,12 +6075,14 @@ Product_259:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 2
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 40
+  supplier_id: 1
   created_at: 2014-05-15 07:39:22.000000000 Z
-  updated_at: 2015-06-09 17:33:21.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_260:
   id: 645
   price: 45.88
@@ -6082,7 +6107,7 @@ Product_260:
 Product_261:
   id: 646
   price: 94.24
-  name: Be Beautiful Bliss cream, pro
+  name: Be Beautiful Bliss cream, pro 150ml
   link: be-beautiful-bliss-cream-pro
   description: ''
   summary: ''
@@ -6095,12 +6120,14 @@ Product_261:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 40
+  supplier_id: 1
   created_at: 2014-06-26 15:45:04.000000000 Z
-  updated_at: 2015-07-30 17:04:46.000000000 Z
+  updated_at: 2016-08-12 15:40:19.000000000 Z
 Product_262:
   id: 647
   price: 73.16
-  name: Pure Sensitive Rauhoittava kosteusvoide, pro
+  name: Pure Sensitive Rauhoittava kosteusvoide, pro 150ml
   link: pure-sensitive-rauhoittava-kosteusvoide-pro
   description: ''
   summary: ''
@@ -6113,12 +6140,14 @@ Product_262:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 40
+  supplier_id: 1
   created_at: 2014-06-26 15:47:14.000000000 Z
-  updated_at: 2016-02-13 16:00:33.000000000 Z
+  updated_at: 2016-09-04 11:30:18.000000000 Z
 Product_263:
   id: 648
   price: 97.96
-  name: Age Miracle Anti-age Päivävoide, pro
+  name: Age Miracle Anti-age Päivävoide, pro 150ml
   link: age-miracle-anti-age-paivavoide-pro
   description: ''
   summary: ''
@@ -6127,12 +6156,14 @@ Product_263:
   weight: 0.1
   ean: '7612534044059'
   tax: 24.0
-  inventory: 1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 40
+  supplier_id: 1
   created_at: 2014-06-26 15:48:48.000000000 Z
-  updated_at: 2015-08-07 17:08:45.000000000 Z
+  updated_at: 2016-08-28 17:35:43.000000000 Z
 Product_264:
   id: 649
   price: 37.08
@@ -6145,14 +6176,14 @@ Product_264:
   weight: 0.1
   ean: '7612534060387'
   tax: 24.0
-  inventory: 1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 29
+  category_id: 40
   supplier_id: 1
   created_at: 2014-06-26 15:52:56.000000000 Z
-  updated_at: 2016-01-03 09:59:40.000000000 Z
+  updated_at: 2016-08-28 17:35:45.000000000 Z
 Product_265:
   id: 650
   price: 899.0
@@ -6175,7 +6206,7 @@ Product_265:
 Product_266:
   id: 651
   price: 29.14
-  name: Daily Refresh Kirkastava kasvovesi, pro
+  name: Daily Refresh Kirkastava kasvovesi, pro 250ml
   link: daily-refresh-kirkastava-kasvovesi-pro
   description: ''
   summary: ''
@@ -6184,16 +6215,18 @@ Product_266:
   weight: 0.1
   ean: '7612534044080'
   tax: 24.0
-  inventory: -1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 40
+  supplier_id: 1
   created_at: 2014-06-27 16:14:12.000000000 Z
-  updated_at: 2016-02-13 16:00:33.000000000 Z
+  updated_at: 2016-08-28 17:35:11.000000000 Z
 Product_267:
   id: 652
   price: 29.14
-  name: Daily Refresh Kosteuttava kasvovesi, pro
+  name: Daily Refresh Kosteuttava kasvovesi, pro 250ml
   link: daily-refresh-kosteuttava-kasvovesi
   description: ''
   summary: ''
@@ -6202,12 +6235,14 @@ Product_267:
   weight: 0.1
   ean: '7612534044073'
   tax: 24.0
-  inventory: 5
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 40
+  supplier_id: 1
   created_at: 2014-06-27 16:15:25.000000000 Z
-  updated_at: 2016-04-18 18:37:48.000000000 Z
+  updated_at: 2016-09-03 08:48:31.000000000 Z
 Product_268:
   id: 653
   price: 1095.0
@@ -6247,14 +6282,14 @@ Product_269:
   weight: 0.1
   ean: '7612534082075'
   tax: 24.0
-  inventory: 0
+  inventory: 4
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2014-08-06 07:23:22.000000000 Z
-  updated_at: 2016-07-06 12:57:08.000000000 Z
+  updated_at: 2016-07-30 17:17:04.000000000 Z
 Product_270:
   id: 657
   price: 0.0
@@ -6267,12 +6302,14 @@ Product_270:
   weight: 0.001
   ean: es-kasvo
   tax: 24.0
-  inventory: 2073
+  inventory: 1863
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 39
+  supplier_id: 1
   created_at: 2014-09-01 09:07:10.000000000 Z
-  updated_at: 2016-07-17 06:22:43.000000000 Z
+  updated_at: 2016-09-04 11:02:04.000000000 Z
 Product_271:
   id: 658
   price: 0.0
@@ -6285,12 +6322,14 @@ Product_271:
   weight: 0.001
   ean: es-hius
   tax: 24.0
-  inventory: -142
+  inventory: -547
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 39
+  supplier_id: 1
   created_at: 2014-09-01 09:08:35.000000000 Z
-  updated_at: 2016-07-11 07:50:09.000000000 Z
+  updated_at: 2016-09-04 11:02:02.000000000 Z
 Product_272:
   id: 659
   price: 9.67
@@ -6309,14 +6348,14 @@ Product_272:
   weight: 0.1
   ean: '7612534100342'
   tax: 24.0
-  inventory: 8
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2014-09-02 17:21:54.000000000 Z
-  updated_at: 2016-07-12 08:36:23.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_273:
   id: 660
   price: 11.16
@@ -6369,14 +6408,14 @@ Product_275:
   weight: 0.05
   ean: '10001'
   tax: 24.0
-  inventory: 18
+  inventory: 16
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 31
   supplier_id: 1
   created_at: 2014-10-01 17:11:23.000000000 Z
-  updated_at: 2016-07-10 11:26:19.000000000 Z
+  updated_at: 2016-09-04 11:02:02.000000000 Z
 Product_276:
   id: 668
   price: 9.61
@@ -6389,14 +6428,14 @@ Product_276:
   weight: 0.1
   ean: '10004'
   tax: 24.0
-  inventory: 1
+  inventory: 7
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2014-10-19 17:46:19.000000000 Z
-  updated_at: 2016-04-18 19:32:55.000000000 Z
+  updated_at: 2016-08-09 16:17:35.000000000 Z
 Product_277:
   id: 669
   price: 9.61
@@ -6409,14 +6448,14 @@ Product_277:
   weight: 0.1
   ean: '10003'
   tax: 24.0
-  inventory: 2
+  inventory: 4
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2014-10-19 17:50:39.000000000 Z
-  updated_at: 2016-03-07 17:45:42.000000000 Z
+  updated_at: 2016-08-24 17:09:36.000000000 Z
 Product_278:
   id: 670
   price: 9.61
@@ -6429,14 +6468,14 @@ Product_278:
   weight: 0.1
   ean: '10002'
   tax: 24.0
-  inventory: 7
+  inventory: 4
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2014-10-19 17:51:51.000000000 Z
-  updated_at: 2016-05-21 12:04:25.000000000 Z
+  updated_at: 2016-09-03 08:48:31.000000000 Z
 Product_279:
   id: 671
   price: 9.67
@@ -6454,14 +6493,14 @@ Product_279:
   weight: 0.1
   ean: '7612534100328'
   tax: 24.0
-  inventory: 12
+  inventory: 7
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2014-10-20 05:15:27.000000000 Z
-  updated_at: 2016-05-20 08:37:14.000000000 Z
+  updated_at: 2016-09-03 08:48:31.000000000 Z
 Product_280:
   id: 672
   price: 6.2
@@ -6494,18 +6533,18 @@ Product_281:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: -2
+  inventory: -3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2014-10-20 05:33:27.000000000 Z
-  updated_at: 2016-01-18 19:37:19.000000000 Z
+  updated_at: 2016-09-03 08:48:31.000000000 Z
 Product_282:
   id: 674
   price: 73.16
-  name: Intense Moisture Ravitseva voide, pro 150 ml
+  name: Intense Moisture Ravitseva voide, pro 150ml
   link: intense-moisture-ravitseva-voide-pro-150-ml
   description: ''
   summary: ''
@@ -6518,8 +6557,10 @@ Product_282:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 40
+  supplier_id: 1
   created_at: 2014-10-30 17:06:30.000000000 Z
-  updated_at: 2015-06-09 17:33:21.000000000 Z
+  updated_at: 2016-08-12 15:51:18.000000000 Z
 Product_283:
   id: 675
   price: 87.98
@@ -6578,7 +6619,7 @@ Product_285:
   category_id: 32
   supplier_id: 1
   created_at: 2014-11-14 06:15:05.000000000 Z
-  updated_at: 2016-07-12 08:36:23.000000000 Z
+  updated_at: 2016-08-28 17:35:11.000000000 Z
 Product_286:
   id: 678
   price: 0.0
@@ -6609,12 +6650,12 @@ Product_287:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 0
+  inventory: -1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   created_at: 2014-11-25 09:30:56.000000000 Z
-  updated_at: 2016-07-04 16:24:08.000000000 Z
+  updated_at: 2016-08-04 14:03:45.000000000 Z
 Product_288:
   id: 680
   price: 0.0
@@ -6627,12 +6668,12 @@ Product_288:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 4
+  inventory: 3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   created_at: 2014-11-25 09:34:14.000000000 Z
-  updated_at: 2016-05-23 18:15:53.000000000 Z
+  updated_at: 2016-09-04 11:02:02.000000000 Z
 Product_289:
   id: 681
   price: 21.08
@@ -6855,14 +6896,14 @@ Product_299:
   weight: 0.1
   ean: '7612534045254'
   tax: 24.0
-  inventory: 10
+  inventory: 7
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2014-12-30 15:46:55.000000000 Z
-  updated_at: 2016-07-20 15:30:16.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_300:
   id: 692
   price: 19.78
@@ -6924,7 +6965,7 @@ Product_301:
   category_id: 33
   supplier_id: 1
   created_at: 2015-01-01 14:16:06.000000000 Z
-  updated_at: 2016-06-21 16:39:08.000000000 Z
+  updated_at: 2016-09-04 11:30:18.000000000 Z
 Product_302:
   id: 694
   price: 26.6
@@ -6974,14 +7015,14 @@ Product_303:
   weight: 0.2
   ean: '7612534032254'
   tax: 24.0
-  inventory: 0
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2015-01-08 15:17:03.000000000 Z
-  updated_at: 2016-06-28 19:33:39.000000000 Z
+  updated_at: 2016-08-23 14:58:17.000000000 Z
 Product_304:
   id: 696
   price: 14.57
@@ -6998,14 +7039,14 @@ Product_304:
   weight: 0.2
   ean: '7612534031387'
   tax: 24.0
-  inventory: 4
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2015-01-08 15:19:35.000000000 Z
-  updated_at: 2016-07-10 12:50:19.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_305:
   id: 697
   price: 12.4
@@ -7022,10 +7063,10 @@ Product_305:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 29
+  category_id: 40
   supplier_id: 1
   created_at: 2015-01-19 13:04:08.000000000 Z
-  updated_at: 2015-06-09 17:33:21.000000000 Z
+  updated_at: 2016-08-12 15:13:24.000000000 Z
 Product_306:
   id: 698
   price: 2.48
@@ -7062,14 +7103,14 @@ Product_307:
   weight: 0.1
   ean: '7612534018517'
   tax: 24.0
-  inventory: -4
+  inventory: -5
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 38
   supplier_id: 1
   created_at: 2015-01-25 20:24:31.000000000 Z
-  updated_at: 2016-02-20 06:24:47.000000000 Z
+  updated_at: 2016-09-03 08:25:24.000000000 Z
 Product_308:
   id: 700
   price: 11.0
@@ -7137,7 +7178,7 @@ Product_310:
   category_id: 32
   supplier_id: 1
   created_at: 2015-01-31 20:21:00.000000000 Z
-  updated_at: 2016-06-21 16:39:08.000000000 Z
+  updated_at: 2016-08-30 17:16:02.000000000 Z
 Product_311:
   id: 703
   price: 37.82
@@ -7154,14 +7195,14 @@ Product_311:
   weight: 0.1
   ean: '7612534070508'
   tax: 24.0
-  inventory: 2
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2015-01-31 20:25:20.000000000 Z
-  updated_at: 2016-01-01 10:15:16.000000000 Z
+  updated_at: 2016-08-15 13:18:55.000000000 Z
 Product_312:
   id: 704
   price: 14.57
@@ -7174,14 +7215,14 @@ Product_312:
   weight: 0.1
   ean: '7612534031394'
   tax: 24.0
-  inventory: 2
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2015-02-05 19:05:44.000000000 Z
-  updated_at: 2016-06-08 15:36:03.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_313:
   id: 705
   price: 14.57
@@ -7198,14 +7239,14 @@ Product_313:
   weight: 0.1
   ean: '7612534031363'
   tax: 24.0
-  inventory: 2
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2015-02-05 19:10:20.000000000 Z
-  updated_at: 2016-06-06 15:35:44.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_314:
   id: 706
   price: 9.67
@@ -7387,14 +7428,14 @@ Product_322:
   weight: 0.05
   ean: '7612534105033'
   tax: 24.0
-  inventory: 15
+  inventory: 14
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2015-03-01 11:25:39.000000000 Z
-  updated_at: 2016-07-04 17:04:52.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_323:
   id: 715
   price: 8.0
@@ -7435,14 +7476,14 @@ Product_324:
   weight: 0.05
   ean: '7612534105040'
   tax: 24.0
-  inventory: 18
+  inventory: 17
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2015-03-01 17:05:21.000000000 Z
-  updated_at: 2016-07-04 17:04:52.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_325:
   id: 717
   price: 8.0
@@ -7483,14 +7524,14 @@ Product_326:
   weight: 0.1
   ean: '7612534103138'
   tax: 24.0
-  inventory: 9
+  inventory: 8
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2015-03-01 17:07:51.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_327:
   id: 719
   price: 6.51
@@ -7507,14 +7548,14 @@ Product_327:
   weight: 0.1
   ean: '7612534103107'
   tax: 24.0
-  inventory: 4
+  inventory: 3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2015-03-01 17:08:44.000000000 Z
-  updated_at: 2016-06-04 14:07:59.000000000 Z
+  updated_at: 2016-09-04 11:52:59.000000000 Z
 Product_328:
   id: 720
   price: 6.51
@@ -7555,14 +7596,14 @@ Product_329:
   weight: 0.1
   ean: matkatun
   tax: 24.0
-  inventory: -78
+  inventory: -88
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 36
   supplier_id: 5
   created_at: 2015-03-05 13:00:39.000000000 Z
-  updated_at: 2016-07-04 10:45:21.000000000 Z
+  updated_at: 2016-08-26 16:54:12.000000000 Z
 Product_330:
   id: 722
   price: 0.0
@@ -7575,13 +7616,14 @@ Product_330:
   weight: 0.0
   ean: '10006'
   tax: 24.0
-  inventory: -12
+  inventory: -14
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 39
   supplier_id: 1
   created_at: 2015-03-06 12:15:55.000000000 Z
-  updated_at: 2016-05-23 18:15:53.000000000 Z
+  updated_at: 2016-09-04 11:02:02.000000000 Z
 Product_331:
   id: 723
   price: 0.0
@@ -7594,13 +7636,14 @@ Product_331:
   weight: 0.0
   ean: '10007'
   tax: 24.0
-  inventory: -11
+  inventory: -14
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 39
   supplier_id: 1
   created_at: 2015-03-06 12:17:09.000000000 Z
-  updated_at: 2016-05-23 18:15:53.000000000 Z
+  updated_at: 2016-09-04 11:02:02.000000000 Z
 Product_332:
   id: 724
   price: 1.24
@@ -7683,7 +7726,7 @@ Product_335:
   category_id: 29
   supplier_id: 1
   created_at: 2015-03-11 17:43:03.000000000 Z
-  updated_at: 2016-06-17 14:46:43.000000000 Z
+  updated_at: 2016-07-30 17:17:04.000000000 Z
 Product_336:
   id: 728
   price: 11.78
@@ -7724,14 +7767,14 @@ Product_337:
   weight: 0.1
   ean: '7612534030694'
   tax: 24.0
-  inventory: 9
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2015-03-11 17:53:27.000000000 Z
-  updated_at: 2016-05-09 18:49:56.000000000 Z
+  updated_at: 2016-09-03 08:48:27.000000000 Z
 Product_338:
   id: 730
   price: 21.0
@@ -7772,14 +7815,14 @@ Product_339:
   weight: 0.1
   ean: '7612534030533'
   tax: 24.0
-  inventory: 1
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2015-03-16 07:43:59.000000000 Z
-  updated_at: 2016-06-07 16:08:10.000000000 Z
+  updated_at: 2016-08-09 16:17:35.000000000 Z
 Product_340:
   id: 732
   price: 0.0
@@ -7814,14 +7857,14 @@ Product_341:
   weight: 0.1
   ean: '7612534030632'
   tax: 24.0
-  inventory: 6
+  inventory: 4
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2015-04-04 13:58:17.000000000 Z
-  updated_at: 2016-06-08 15:49:40.000000000 Z
+  updated_at: 2016-08-16 10:25:36.000000000 Z
 Product_342:
   id: 734
   price: 12.28
@@ -7924,14 +7967,14 @@ Product_346:
   weight: 0.25
   ean: '7612534281133'
   tax: 24.0
-  inventory: 9
+  inventory: 13
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 28
   supplier_id: 1
   created_at: 2015-04-15 10:58:09.000000000 Z
-  updated_at: 2016-05-09 18:49:57.000000000 Z
+  updated_at: 2016-08-28 17:35:11.000000000 Z
 Product_347:
   id: 739
   price: 17.98
@@ -8017,14 +8060,14 @@ Product_350:
   weight: 0.1
   ean: '7612534281119'
   tax: 24.0
-  inventory: 15
+  inventory: 13
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 28
   supplier_id: 1
   created_at: 2015-04-17 16:49:35.000000000 Z
-  updated_at: 2016-06-08 15:49:40.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_351:
   id: 743
   price: 3.72
@@ -8157,13 +8200,14 @@ Product_357:
   weight: 0.001
   ean: es-vart
   tax: 24.0
-  inventory: 1444
+  inventory: 1349
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 39
   supplier_id: 1
   created_at: 2015-04-29 15:37:24.000000000 Z
-  updated_at: 2016-07-11 07:50:09.000000000 Z
+  updated_at: 2016-09-04 11:02:02.000000000 Z
 Product_358:
   id: 750
   price: 0.0
@@ -8176,13 +8220,14 @@ Product_358:
   weight: 0.001
   ean: es-yleis
   tax: 24.0
-  inventory: 4449
+  inventory: 4069
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  category_id: 39
   supplier_id: 1
   created_at: 2015-04-29 15:38:06.000000000 Z
-  updated_at: 2016-07-17 06:22:43.000000000 Z
+  updated_at: 2016-09-04 11:02:04.000000000 Z
 Product_359:
   id: 751
   price: 17.98
@@ -8597,14 +8642,14 @@ Product_378:
   weight: 0.1
   ean: '7612534030625'
   tax: 24.0
-  inventory: 5
+  inventory: 4
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2015-06-08 20:49:01.000000000 Z
-  updated_at: 2016-05-09 18:49:56.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_379:
   id: 771
   price: 9.92
@@ -8621,14 +8666,14 @@ Product_379:
   weight: 0.1
   ean: '7612534060332'
   tax: 24.0
-  inventory: 0
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2015-06-08 20:57:46.000000000 Z
-  updated_at: 2016-07-11 07:50:09.000000000 Z
+  updated_at: 2016-08-24 17:09:33.000000000 Z
 Product_380:
   id: 772
   price: 16.12
@@ -8787,14 +8832,14 @@ Product_387:
   weight: 0.1
   ean: '7612534060325'
   tax: 24.0
-  inventory: 5
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2015-06-30 18:48:32.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-09-03 08:48:31.000000000 Z
 Product_388:
   id: 780
   price: 11.16
@@ -8831,18 +8876,18 @@ Product_389:
   weight: 0.1
   ean: '7612534281256'
   tax: 24.0
-  inventory: 3
+  inventory: 4
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2015-07-07 10:47:48.000000000 Z
-  updated_at: 2016-07-04 17:04:52.000000000 Z
+  updated_at: 2016-09-04 11:52:59.000000000 Z
 Product_390:
   id: 782
   price: 1.86
-  name: Frangipani-Inkapähkinä shampoo
+  name: Frangipani-Inkapähkinä shampoo (poistettu)
   link: frangipani-inkapähkinä_shampoo
   description: "**Kiilto ja Volyymi – Frangipani-Inkapähkinä shampoo** Runsautta ja
     kiiltoa hennoille hiuksille. Uusi sokeriruo´osta ja sitruunasta saatu vaikuttaja-aine
@@ -8858,18 +8903,18 @@ Product_390:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 31
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 31
-  supplier_id: 1
+  category_id: 42
+  supplier_id: 6
   created_at: 2015-07-16 10:53:32.000000000 Z
-  updated_at: 2016-07-20 15:13:55.000000000 Z
+  updated_at: 2016-08-28 07:31:04.000000000 Z
 Product_391:
   id: 783
   price: 1.86
-  name: Granaattiomena shampoo
+  name: Granaattiomena shampoo (poistettu)
   link: granaattiomena_shampoo_
   description: "**Päivittäiseen pesuun – Granaattiomena shampoo** Shampoo normaaleille
     hiuksille ja usein toistuvaan pesuun. Luomuviljellyn granaattiomenan tehoaineet
@@ -8886,18 +8931,18 @@ Product_391:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 44
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 31
-  supplier_id: 1
+  category_id: 42
+  supplier_id: 6
   created_at: 2015-07-16 10:59:59.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-28 07:31:01.000000000 Z
 Product_392:
   id: 784
   price: 1.86
-  name: Kastanja-Jojoba shampoo
+  name: Kastanja-Jojoba shampoo (poistettu)
   link: kastanja-jojoba_shampoo
   description: "**Korjaava – Kastanja-Jojoba shampoo**\r\nRavitseva shampoo kuiville
     ja hauraille hiuksille. Innovatiivinen vahvistava uute luomukastanjasta ja jojobapähkinästä
@@ -8912,18 +8957,18 @@ Product_392:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 56
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 31
-  supplier_id: 1
+  category_id: 42
+  supplier_id: 6
   created_at: 2015-07-16 11:02:36.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-28 07:30:59.000000000 Z
 Product_393:
   id: 785
   price: 1.86
-  name: Manteli-Saksanpähkinä shampoo
+  name: Manteli-Saksanpähkinä shampoo (poistettu)
   link: manteli-saksanpähkinä_shampoo
   description: "**Värjätyille hiuksille – Manteli-Saksanpähkinä shampoo**\r\nShampoo,
     joka on suunniteltu erityisesti värjätyille hiuksille. Vihreän saksanpähkinän
@@ -8939,18 +8984,18 @@ Product_393:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 19
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 31
-  supplier_id: 1
+  category_id: 42
+  supplier_id: 6
   created_at: 2015-07-16 11:10:13.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-28 07:30:54.000000000 Z
 Product_394:
   id: 786
   price: 1.86
-  name: Iiris-Candeia shampoo
+  name: Iiris-Candeia shampoo (poistettu)
   link: iiris-candeia_shampoo
   description: "**Hellävarainen – Iiris-Candeia shampoo**\r\nShampoo herkkäihoisille
     ja lapsille. Kallisarvoisella bisabololilla, joka on uutettu Candeia -puun kuoresta,
@@ -8966,18 +9011,18 @@ Product_394:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 68
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 31
-  supplier_id: 1
+  category_id: 42
+  supplier_id: 6
   created_at: 2015-07-16 11:12:02.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-28 07:30:26.000000000 Z
 Product_395:
   id: 787
   price: 1.86
-  name: Neem-Joazeiro shampoo
+  name: Neem-Joazeiro shampoo (poistettu)
   link: neem-joazeiro_shampoo
   description: "**Tasapainottava – Neem-Joazeiro shampoo**\r\nRauhoittava shampoo
     hilsettä vastaan. Tehokas apu kuivalle, hilseilevälle ja kutiavalle päänahalle. 
@@ -8997,14 +9042,14 @@ Product_395:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 71
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 31
-  supplier_id: 1
+  category_id: 42
+  supplier_id: 6
   created_at: 2015-07-16 11:14:00.000000000 Z
-  updated_at: 2016-07-20 15:13:55.000000000 Z
+  updated_at: 2016-08-28 07:30:08.000000000 Z
 Product_396:
   id: 788
   price: 1.86
@@ -9015,17 +9060,17 @@ Product_396:
   online: false
   cost: 0.93
   weight: 0.1
-  ean: '7612534050708'
+  ean: ''
   tax: 24.0
-  inventory: 46
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 787
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 10:22:47.000000000 Z
-  updated_at: 2016-07-11 07:50:09.000000000 Z
+  updated_at: 2016-08-27 14:03:41.000000000 Z
 Product_397:
   id: 789
   price: 8.18
@@ -9036,17 +9081,17 @@ Product_397:
   online: false
   cost: 0.93
   weight: 0.25
-  ean: '7612534050579'
+  ean: ''
   tax: 24.0
-  inventory: 17
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 787
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 10:24:34.000000000 Z
-  updated_at: 2016-07-20 15:13:55.000000000 Z
+  updated_at: 2016-08-27 14:01:38.000000000 Z
 Product_398:
   id: 790
   price: 1.86
@@ -9057,17 +9102,17 @@ Product_398:
   online: false
   cost: 0.93
   weight: 0.1
-  ean: '7612534050715'
+  ean: ''
   tax: 24.0
-  inventory: 15
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 785
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 10:25:06.000000000 Z
-  updated_at: 2016-07-11 07:50:09.000000000 Z
+  updated_at: 2016-08-27 14:02:24.000000000 Z
 Product_399:
   id: 791
   price: 8.18
@@ -9078,17 +9123,17 @@ Product_399:
   online: false
   cost: 0.93
   weight: 0.25
-  ean: '7612534050586'
+  ean: ''
   tax: 24.0
-  inventory: 2
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 785
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 10:25:26.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-27 14:01:48.000000000 Z
 Product_400:
   id: 792
   price: 1.86
@@ -9099,17 +9144,17 @@ Product_400:
   online: false
   cost: 0.93
   weight: 0.1
-  ean: '7612534050739'
+  ean: ''
   tax: 24.0
-  inventory: 34
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 784
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 10:25:51.000000000 Z
-  updated_at: 2016-07-11 07:50:09.000000000 Z
+  updated_at: 2016-08-27 14:03:31.000000000 Z
 Product_401:
   id: 793
   price: 8.18
@@ -9120,17 +9165,17 @@ Product_401:
   online: false
   cost: 0.93
   weight: 0.25
-  ean: '7612534050609'
+  ean: ''
   tax: 24.0
-  inventory: 14
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 784
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 10:26:08.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-27 14:01:56.000000000 Z
 Product_402:
   id: 794
   price: 1.86
@@ -9141,17 +9186,17 @@ Product_402:
   online: false
   cost: 0.93
   weight: 0.1
-  ean: '7612534050746'
+  ean: ''
   tax: 24.0
-  inventory: 41
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 786
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 10:26:30.000000000 Z
-  updated_at: 2016-07-11 07:50:09.000000000 Z
+  updated_at: 2016-08-27 14:02:33.000000000 Z
 Product_403:
   id: 795
   price: 8.18
@@ -9162,17 +9207,17 @@ Product_403:
   online: false
   cost: 0.93
   weight: 0.25
-  ean: '7612534050616'
+  ean: ''
   tax: 24.0
-  inventory: 18
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 786
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 10:26:57.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-27 14:02:04.000000000 Z
 Product_404:
   id: 796
   price: 1.86
@@ -9183,17 +9228,17 @@ Product_404:
   online: false
   cost: 0.93
   weight: 0.1
-  ean: '7612534050722'
+  ean: ''
   tax: 24.0
-  inventory: 41
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 783
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 10:27:31.000000000 Z
-  updated_at: 2016-07-11 07:50:08.000000000 Z
+  updated_at: 2016-08-27 14:02:42.000000000 Z
 Product_405:
   id: 797
   price: 8.18
@@ -9204,17 +9249,17 @@ Product_405:
   online: false
   cost: 0.93
   weight: 0.25
-  ean: '7612534050593'
+  ean: ''
   tax: 24.0
-  inventory: 1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 783
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 10:27:51.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-27 14:02:15.000000000 Z
 Product_406:
   id: 798
   price: 1.86
@@ -9225,17 +9270,17 @@ Product_406:
   online: false
   cost: 0.93
   weight: 0.1
-  ean: '7612534050753'
+  ean: ''
   tax: 24.0
-  inventory: 29
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 782
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 10:28:21.000000000 Z
-  updated_at: 2016-07-11 07:50:08.000000000 Z
+  updated_at: 2016-08-27 14:02:51.000000000 Z
 Product_407:
   id: 799
   price: 8.18
@@ -9246,17 +9291,17 @@ Product_407:
   online: false
   cost: 0.93
   weight: 0.25
-  ean: '7612534050623'
+  ean: ''
   tax: 24.0
-  inventory: -1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 782
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 10:28:40.000000000 Z
-  updated_at: 2016-07-20 15:13:55.000000000 Z
+  updated_at: 2016-08-27 14:03:22.000000000 Z
 Product_408:
   id: 800
   price: 33.48
@@ -9271,17 +9316,17 @@ Product_408:
   online: false
   cost: 0.93
   weight: 1.0
-  ean: '7612534051521'
+  ean: ''
   tax: 24.0
-  inventory: 8
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 787
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 13:41:53.000000000 Z
-  updated_at: 2016-06-08 15:49:39.000000000 Z
+  updated_at: 2016-08-27 14:00:51.000000000 Z
 Product_409:
   id: 801
   price: 33.48
@@ -9292,17 +9337,17 @@ Product_409:
   online: false
   cost: 0.93
   weight: 1.0
-  ean: '7612534051569'
+  ean: ''
   tax: 24.0
-  inventory: 9
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 786
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 13:42:52.000000000 Z
-  updated_at: 2016-06-08 15:49:39.000000000 Z
+  updated_at: 2016-08-27 14:01:00.000000000 Z
 Product_410:
   id: 802
   price: 33.48
@@ -9313,17 +9358,17 @@ Product_410:
   online: false
   cost: 0.93
   weight: 1.0
-  ean: '7612534051538'
+  ean: ''
   tax: 24.0
-  inventory: 2
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 785
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 13:43:25.000000000 Z
-  updated_at: 2016-07-04 10:41:38.000000000 Z
+  updated_at: 2016-08-27 14:01:11.000000000 Z
 Product_411:
   id: 803
   price: 33.48
@@ -9334,17 +9379,17 @@ Product_411:
   online: false
   cost: 0.93
   weight: 1.0
-  ean: '7612534051552'
+  ean: ''
   tax: 24.0
-  inventory: 8
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 784
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 13:44:00.000000000 Z
-  updated_at: 2016-06-08 15:49:39.000000000 Z
+  updated_at: 2016-08-27 14:01:21.000000000 Z
 Product_412:
   id: 804
   price: 33.48
@@ -9355,17 +9400,17 @@ Product_412:
   online: false
   cost: 0.93
   weight: 1.0
-  ean: '7612534051545'
+  ean: ''
   tax: 24.0
-  inventory: 2
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 783
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 13:44:40.000000000 Z
-  updated_at: 2016-07-10 11:41:42.000000000 Z
+  updated_at: 2016-08-27 14:01:29.000000000 Z
 Product_413:
   id: 805
   price: 33.48
@@ -9376,17 +9421,17 @@ Product_413:
   online: false
   cost: 0.93
   weight: 1.0
-  ean: '7612534051576'
+  ean: ''
   tax: 24.0
-  inventory: 3
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   product_id: 782
-  category_id: 31
+  category_id: 42
   supplier_id: 1
   created_at: 2015-07-24 13:45:20.000000000 Z
-  updated_at: 2016-07-04 16:24:08.000000000 Z
+  updated_at: 2016-08-27 14:03:14.000000000 Z
 Product_414:
   id: 806
   price: 5.58
@@ -9562,14 +9607,15 @@ Product_422:
   weight: 0.1
   ean: '7612534050449'
   tax: 24.0
-  inventory: 3
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
+  deleted_on: 2016-08-27
   category_id: 31
   supplier_id: 1
   created_at: 2015-08-07 16:53:18.000000000 Z
-  updated_at: 2016-02-25 18:23:48.000000000 Z
+  updated_at: 2016-08-27 13:56:12.000000000 Z
 Product_423:
   id: 815
   price: 8.8
@@ -9586,14 +9632,14 @@ Product_423:
   weight: 0.1
   ean: '7612534030601'
   tax: 24.0
-  inventory: 16
+  inventory: 13
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2015-09-03 16:34:42.000000000 Z
-  updated_at: 2016-06-17 14:46:34.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_424:
   id: 816
   price: 54.56
@@ -9610,14 +9656,14 @@ Product_424:
   weight: 0.55
   ean: '7612534033015'
   tax: 24.0
-  inventory: 2
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 35
+  category_id: 41
   supplier_id: 1
   created_at: 2015-09-03 16:39:03.000000000 Z
-  updated_at: 2016-05-09 18:49:57.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_425:
   id: 817
   price: 9.92
@@ -9658,14 +9704,14 @@ Product_426:
   weight: 0.15
   ean: '7612534060318'
   tax: 24.0
-  inventory: 11
+  inventory: 9
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2015-09-10 15:44:40.000000000 Z
-  updated_at: 2016-05-17 18:16:42.000000000 Z
+  updated_at: 2016-08-30 17:16:02.000000000 Z
 Product_427:
   id: 819
   price: 8.99
@@ -9682,17 +9728,17 @@ Product_427:
   weight: 0.15
   ean: '7612534060301'
   tax: 24.0
-  inventory: 10
+  inventory: 11
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2015-09-10 15:50:18.000000000 Z
-  updated_at: 2016-05-09 18:49:53.000000000 Z
+  updated_at: 2016-08-28 17:35:11.000000000 Z
 Product_428:
   id: 820
-  price: 0.0
+  price: 11.16
   name: Luomu Tea-Tree kukkaisvesi
   link: luomu_tea-tree_kukkaisvesi
   description: ''
@@ -9702,18 +9748,18 @@ Product_428:
   main_picture_file_size: 3197
   main_picture_updated_at: 2015-09-10 15:51:26.000000000 Z
   online: false
-  cost: 0.0
+  cost: 5.58
   weight: 0.15
   ean: '7612534060370'
   tax: 24.0
-  inventory: 6
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2015-09-10 15:51:26.000000000 Z
-  updated_at: 2016-05-09 18:49:54.000000000 Z
+  updated_at: 2016-08-24 17:09:33.000000000 Z
 Product_429:
   id: 821
   price: 7.75
@@ -9730,14 +9776,14 @@ Product_429:
   weight: 0.15
   ean: '7612534060363'
   tax: 24.0
-  inventory: 3
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2015-09-10 15:52:21.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-28 17:35:45.000000000 Z
 Product_430:
   id: 822
   price: 50.0
@@ -9770,14 +9816,14 @@ Product_431:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: -2
+  inventory: -3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 30
   supplier_id: 1
   created_at: 2015-09-15 18:42:48.000000000 Z
-  updated_at: 2016-04-13 14:37:38.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_432:
   id: 824
   price: 37.2
@@ -9938,14 +9984,14 @@ Product_439:
   weight: 0.3
   ean: '7612534033428'
   tax: 24.0
-  inventory: 2
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 35
+  category_id: 41
   supplier_id: 1
   created_at: 2015-10-11 13:46:51.000000000 Z
-  updated_at: 2016-05-09 18:49:57.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_440:
   id: 832
   price: 12.09
@@ -9958,14 +10004,14 @@ Product_440:
   weight: 0.3
   ean: ''
   tax: 24.0
-  inventory: -1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 33
   supplier_id: 1
   created_at: 2015-11-07 08:16:24.000000000 Z
-  updated_at: 2016-06-08 15:49:39.000000000 Z
+  updated_at: 2016-08-28 17:35:11.000000000 Z
 Product_441:
   id: 833
   price: 12.09
@@ -10226,14 +10272,14 @@ Product_452:
   weight: 0.1
   ean: '7612534030663'
   tax: 24.0
-  inventory: 9
+  inventory: 7
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2015-12-17 17:20:49.000000000 Z
-  updated_at: 2016-06-21 16:39:08.000000000 Z
+  updated_at: 2016-08-17 16:28:06.000000000 Z
 Product_453:
   id: 845
   price: 53.32
@@ -10274,14 +10320,14 @@ Product_454:
   weight: 0.1
   ean: '7612534070539'
   tax: 24.0
-  inventory: 3
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2015-12-17 17:27:51.000000000 Z
-  updated_at: 2016-06-21 16:39:08.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_455:
   id: 847
   price: 166.16
@@ -10294,14 +10340,14 @@ Product_455:
   weight: 3.0
   ean: '7612534281294'
   tax: 24.0
-  inventory: 4
+  inventory: 3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2015-12-21 06:05:37.000000000 Z
-  updated_at: 2016-05-09 18:49:56.000000000 Z
+  updated_at: 2016-07-26 19:47:03.000000000 Z
 Product_456:
   id: 848
   price: 26.54
@@ -10362,14 +10408,14 @@ Product_458:
   weight: 0.1
   ean: '7612534030687'
   tax: 24.0
-  inventory: 0
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 35
   supplier_id: 1
   created_at: 2015-12-24 11:27:06.000000000 Z
-  updated_at: 2015-12-24 11:27:06.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_459:
   id: 851
   price: 0.0
@@ -10390,10 +10436,10 @@ Product_459:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
-  category_id: 35
+  category_id: 41
   supplier_id: 1
   created_at: 2015-12-24 14:21:13.000000000 Z
-  updated_at: 2016-06-08 15:36:03.000000000 Z
+  updated_at: 2016-08-12 15:51:54.000000000 Z
 Product_460:
   id: 852
   price: 75.77
@@ -10526,14 +10572,14 @@ Product_466:
   weight: 0.1
   ean: '7612534071574'
   tax: 24.0
-  inventory: -2
+  inventory: -3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2016-01-18 17:41:05.000000000 Z
-  updated_at: 2016-03-19 16:07:10.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_467:
   id: 859
   price: 14.5
@@ -10606,14 +10652,14 @@ Product_470:
   weight: 0.1
   ean: '7612534071581'
   tax: 24.0
-  inventory: -7
+  inventory: -8
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 32
   supplier_id: 1
   created_at: 2016-01-31 11:54:28.000000000 Z
-  updated_at: 2016-06-06 15:35:54.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_471:
   id: 863
   price: 8.99
@@ -10814,14 +10860,14 @@ Product_479:
   weight: 0.0
   ean: ''
   tax: 24.0
-  inventory: -1
+  inventory: -4
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 39
   supplier_id: 1
   created_at: 2016-03-09 16:35:38.000000000 Z
-  updated_at: 2016-03-10 14:17:25.000000000 Z
+  updated_at: 2016-09-04 11:02:02.000000000 Z
 Product_480:
   id: 872
   price: 0.0
@@ -10858,14 +10904,14 @@ Product_481:
   weight: 0.1
   ean: '7612534070546'
   tax: 24.0
-  inventory: 18
+  inventory: 16
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: pfan10
   category_id: 32
   supplier_id: 1
   created_at: 2016-04-02 14:09:44.000000000 Z
-  updated_at: 2016-05-09 18:50:28.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_482:
   id: 874
   price: 14.2
@@ -10882,14 +10928,14 @@ Product_482:
   weight: 0.1
   ean: '7612534070553'
   tax: 24.0
-  inventory: 20
+  inventory: 18
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: pfaur10
   category_id: 32
   supplier_id: 1
   created_at: 2016-04-02 14:14:30.000000000 Z
-  updated_at: 2016-06-06 15:35:44.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_483:
   id: 875
   price: 19.53
@@ -10906,14 +10952,14 @@ Product_483:
   weight: 0.1
   ean: '7612534070560'
   tax: 24.0
-  inventory: 14
+  inventory: 12
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: pfedi10
   category_id: 32
   supplier_id: 1
   created_at: 2016-04-02 14:15:42.000000000 Z
-  updated_at: 2016-06-06 15:35:44.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_484:
   id: 876
   price: 15.44
@@ -10930,14 +10976,14 @@ Product_484:
   weight: 0.1
   ean: '7612534070577'
   tax: 24.0
-  inventory: 27
+  inventory: 22
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: pffes10
   category_id: 32
   supplier_id: 1
   created_at: 2016-04-02 14:17:16.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_485:
   id: 877
   price: 15.44
@@ -10954,14 +11000,14 @@ Product_485:
   weight: 0.1
   ean: '7612534070584'
   tax: 24.0
-  inventory: 19
+  inventory: 16
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: pfmar10
   category_id: 32
   supplier_id: 1
   created_at: 2016-04-02 14:24:44.000000000 Z
-  updated_at: 2016-06-06 15:35:44.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_486:
   id: 878
   price: 15.44
@@ -10978,14 +11024,14 @@ Product_486:
   weight: 0.1
   ean: '7612534070591'
   tax: 24.0
-  inventory: 26
+  inventory: 19
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: pfnu10
   category_id: 32
   supplier_id: 1
   created_at: 2016-04-02 14:26:47.000000000 Z
-  updated_at: 2016-07-20 15:30:15.000000000 Z
+  updated_at: 2016-08-30 17:16:03.000000000 Z
 Product_487:
   id: 879
   price: 14.2
@@ -11002,14 +11048,14 @@ Product_487:
   weight: 0.1
   ean: '7612534070607'
   tax: 24.0
-  inventory: 26
+  inventory: 24
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: pfsha10
   category_id: 32
   supplier_id: 1
   created_at: 2016-04-02 14:28:16.000000000 Z
-  updated_at: 2016-05-09 18:50:28.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_488:
   id: 880
   price: 15.44
@@ -11026,14 +11072,14 @@ Product_488:
   weight: 0.1
   ean: '7612534070614'
   tax: 24.0
-  inventory: 26
+  inventory: 24
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: pfsw10
   category_id: 32
   supplier_id: 1
   created_at: 2016-04-02 14:30:21.000000000 Z
-  updated_at: 2016-07-12 08:36:23.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_489:
   id: 881
   price: 28.23
@@ -11098,10 +11144,10 @@ Product_491:
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: oljojb500
-  category_id: 35
+  category_id: 41
   supplier_id: 1
   created_at: 2016-04-12 12:13:09.000000000 Z
-  updated_at: 2016-06-07 16:08:23.000000000 Z
+  updated_at: 2016-08-12 15:51:39.000000000 Z
 Product_492:
   id: 884
   price: 20.46
@@ -11158,14 +11204,14 @@ Product_494:
   weight: 0.1
   ean: '7612534019101'
   tax: 24.0
-  inventory: -1
+  inventory: -2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 38
   supplier_id: 1
   created_at: 2016-04-26 12:19:36.000000000 Z
-  updated_at: 2016-04-26 15:23:26.000000000 Z
+  updated_at: 2016-08-16 10:25:36.000000000 Z
 Product_495:
   id: 887
   price: 16.68
@@ -11182,14 +11228,14 @@ Product_495:
   weight: 0.1
   ean: '7612534046459'
   tax: 24.0
-  inventory: 8
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2016-05-04 18:29:03.000000000 Z
-  updated_at: 2016-07-04 17:04:52.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_496:
   id: 888
   price: 16.68
@@ -11206,14 +11252,14 @@ Product_496:
   weight: 0.1
   ean: '7612534046480'
   tax: 24.0
-  inventory: 5
+  inventory: 2
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2016-05-04 18:30:04.000000000 Z
-  updated_at: 2016-07-04 17:04:52.000000000 Z
+  updated_at: 2016-09-03 08:48:31.000000000 Z
 Product_497:
   id: 889
   price: 16.68
@@ -11230,14 +11276,14 @@ Product_497:
   weight: 0.1
   ean: '7612534046466'
   tax: 24.0
-  inventory: 5
+  inventory: 3
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2016-05-04 18:30:47.000000000 Z
-  updated_at: 2016-07-04 17:04:52.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
 Product_498:
   id: 890
   price: 16.68
@@ -11254,14 +11300,14 @@ Product_498:
   weight: 0.1
   ean: '7612534046473'
   tax: 24.0
-  inventory: 7
+  inventory: 5
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2016-05-04 18:31:31.000000000 Z
-  updated_at: 2016-05-25 16:55:33.000000000 Z
+  updated_at: 2016-08-28 17:35:44.000000000 Z
 Product_499:
   id: 891
   price: 200.88
@@ -11278,14 +11324,14 @@ Product_499:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: 1
+  inventory: 0
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 29
   supplier_id: 1
   created_at: 2016-05-05 15:23:52.000000000 Z
-  updated_at: 2016-05-30 19:01:59.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
 Product_500:
   id: 892
   price: 8.49
@@ -11382,14 +11428,14 @@ Product_504:
   weight: 0.1
   ean: '7612534281188'
   tax: 24.0
-  inventory: 0
+  inventory: 1
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: setbcdp
   category_id: 30
   supplier_id: 1
   created_at: 2016-06-14 14:59:52.000000000 Z
-  updated_at: 2016-07-10 12:52:55.000000000 Z
+  updated_at: 2016-07-30 17:17:04.000000000 Z
 Product_505:
   id: 897
   price: -100.0
@@ -11402,12 +11448,12 @@ Product_505:
   weight: 0.1
   ean: ''
   tax: 24.0
-  inventory: -1
+  inventory: -5
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   created_at: 2016-06-15 14:32:28.000000000 Z
-  updated_at: 2016-06-17 14:46:34.000000000 Z
+  updated_at: 2016-09-03 08:48:31.000000000 Z
 Product_506:
   id: 898
   price: 100.0
@@ -11425,7 +11471,7 @@ Product_506:
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   created_at: 2016-06-15 15:40:09.000000000 Z
-  updated_at: 2016-06-30 20:44:42.000000000 Z
+  updated_at: 2016-08-22 05:55:35.000000000 Z
 Product_507:
   id: 899
   price: 2.48
@@ -11478,14 +11524,14 @@ Product_509:
   weight: 0.1
   ean: ''
   tax: 0.0
-  inventory: 0
+  inventory: -266
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 36
   supplier_id: 5
   created_at: 2016-07-23 07:26:52.000000000 Z
-  updated_at: 2016-07-23 13:03:34.000000000 Z
+  updated_at: 2016-08-22 07:20:51.000000000 Z
 Product_510:
   id: 902
   price: 1.0
@@ -11498,11 +11544,443 @@ Product_510:
   weight: 0.1
   ean: ''
   tax: 0.0
-  inventory: 0
+  inventory: -1579
   stock_level: 0
   properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   scode: ''
   category_id: 36
   supplier_id: 5
   created_at: 2016-07-23 13:36:15.000000000 Z
-  updated_at: 2016-07-23 13:36:15.000000000 Z
+  updated_at: 2016-07-28 16:19:38.000000000 Z
+Product_511:
+  id: 903
+  price: 33.48
+  name: Neem-Joazeiro shampoo 1000ml
+  link: neem-joazeiro_shampoo_1000ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_clear_balance1_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 2847
+  main_picture_updated_at: 2016-08-26 17:02:59.000000000 Z
+  online: false
+  cost: 16.74
+  weight: 1.0
+  ean: '7612534051521'
+  tax: 24.0
+  inventory: 7
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:02:59.000000000 Z
+  updated_at: 2016-08-27 14:09:27.000000000 Z
+Product_512:
+  id: 904
+  price: 8.18
+  name: Neem-Joazeiro shampoo 200ml
+  link: neem-joazeiro_shampoo_200ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_clear_balance_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 3081
+  main_picture_updated_at: 2016-08-26 17:07:54.000000000 Z
+  online: false
+  cost: 4.09
+  weight: 0.25
+  ean: '7612534050579'
+  tax: 24.0
+  inventory: 2
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashcb
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:07:54.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
+Product_513:
+  id: 905
+  price: 1.86
+  name: Neem-Joazeiro shampoo 30 ml
+  link: neem-joazeiro_shampoo_30_ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_clear_balance30.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 3318
+  main_picture_updated_at: 2016-08-26 17:09:47.000000000 Z
+  online: false
+  cost: 0.93
+  weight: 0.1
+  ean: '7612534050708'
+  tax: 24.0
+  inventory: 36
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashcbkp
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:09:31.000000000 Z
+  updated_at: 2016-08-28 17:35:43.000000000 Z
+Product_514:
+  id: 906
+  price: 33.48
+  name: Iiris-Candeia shampoo 1000ml
+  link: iiris-candeia_shampoo_1000ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_sensitive1_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 2929
+  main_picture_updated_at: 2016-08-26 17:12:40.000000000 Z
+  online: false
+  cost: 16.74
+  weight: 1.0
+  ean: '7612534051569'
+  tax: 24.0
+  inventory: 5
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashse1
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:12:17.000000000 Z
+  updated_at: 2016-08-27 14:09:27.000000000 Z
+Product_515:
+  id: 907
+  price: 8.18
+  name: Iiris-Candeia shampoo 200ml
+  link: iiris-candeia_shampoo_200ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_sensitive_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 3110
+  main_picture_updated_at: 2016-08-26 17:13:35.000000000 Z
+  online: false
+  cost: 4.14
+  weight: 0.25
+  ean: '7612534050616'
+  tax: 24.0
+  inventory: 8
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashse
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:13:35.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
+Product_516:
+  id: 908
+  price: 1.86
+  name: Iiris-Candeia shampoo 30 ml
+  link: iiris-candeia_shampoo_30_ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_sensitive30.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 3450
+  main_picture_updated_at: 2016-08-26 17:15:21.000000000 Z
+  online: false
+  cost: 0.93
+  weight: 0.1
+  ean: '7612534050746'
+  tax: 24.0
+  inventory: 35
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashsekp
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:15:21.000000000 Z
+  updated_at: 2016-08-28 17:35:43.000000000 Z
+Product_517:
+  id: 909
+  price: 33.48
+  name: Kastanja-Jojoba shampoo 1000 ml
+  link: kastanja-jojoba_shampoo_1000_ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_nutri_repair1_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 2918
+  main_picture_updated_at: 2016-08-26 17:16:57.000000000 Z
+  online: false
+  cost: 16.74
+  weight: 1.0
+  ean: '7612534051552'
+  tax: 24.0
+  inventory: 6
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashnr1
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:16:57.000000000 Z
+  updated_at: 2016-08-27 14:09:27.000000000 Z
+Product_518:
+  id: 910
+  price: 8.18
+  name: Kastanja-Jojoba shampoo 200 ml
+  link: kastanja-jojoba_shampoo_200_ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_nutri_repair_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 2691
+  main_picture_updated_at: 2016-08-26 17:18:14.000000000 Z
+  online: false
+  cost: 4.09
+  weight: 0.25
+  ean: '7612534050609'
+  tax: 24.0
+  inventory: 12
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashnr
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:18:14.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
+Product_519:
+  id: 911
+  price: 1.86
+  name: Kastanja-Jojoba shampoo 30 ml
+  link: kastanja-jojoba_shampoo_30_ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_nutri_repair30.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 3281
+  main_picture_updated_at: 2016-08-26 17:19:15.000000000 Z
+  online: false
+  cost: 0.93
+  weight: 0.1
+  ean: '7612534050739'
+  tax: 24.0
+  inventory: 33
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashnrkp
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:19:15.000000000 Z
+  updated_at: 2016-08-27 14:09:27.000000000 Z
+Product_520:
+  id: 912
+  price: 33.48
+  name: Frangipani-Inkapähkinä shampoo 1000ml
+  link: frangipani-inkapähkinä_shampoo_1000ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_volume_shine1_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 2884
+  main_picture_updated_at: 2016-08-26 17:23:02.000000000 Z
+  online: false
+  cost: 16.74
+  weight: 1.0
+  ean: '7612534051576'
+  tax: 24.0
+  inventory: 1
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashvs1
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:23:02.000000000 Z
+  updated_at: 2016-09-04 11:02:02.000000000 Z
+Product_521:
+  id: 913
+  price: 8.18
+  name: Frangipani-Inkapähkinä shampoo 200ml
+  link: frangipani-inkapähkinä_shampoo_200ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_volume_shine_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 3097
+  main_picture_updated_at: 2016-08-26 17:24:14.000000000 Z
+  online: false
+  cost: 4.09
+  weight: 0.25
+  ean: '7612534050623'
+  tax: 24.0
+  inventory: 16
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashvs
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:24:14.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
+Product_522:
+  id: 914
+  price: 1.86
+  name: 'Frangipani-Inkapähkinä shampoo 30 ml '
+  link: frangipani-inkapähkinä_shampoo_30_ml_
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_volume_shine30.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 3403
+  main_picture_updated_at: 2016-08-26 17:25:12.000000000 Z
+  online: false
+  cost: 0.93
+  weight: 0.1
+  ean: '7612534050753'
+  tax: 24.0
+  inventory: 24
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashvskp
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:25:12.000000000 Z
+  updated_at: 2016-08-28 17:35:43.000000000 Z
+Product_523:
+  id: 915
+  price: 33.48
+  name: 'Granaattiomena shampoo 1000ml '
+  link: granaattiomena_shampoo_1000ml_
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_everyday1_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 2939
+  main_picture_updated_at: 2016-08-26 17:26:38.000000000 Z
+  online: false
+  cost: 16.74
+  weight: 1.0
+  ean: '7612534051545'
+  tax: 24.0
+  inventory: 0
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashev1
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:26:38.000000000 Z
+  updated_at: 2016-08-26 17:26:38.000000000 Z
+Product_524:
+  id: 916
+  price: 8.18
+  name: 'Granaattiomena shampoo 200ml '
+  link: granaattiomena_shampoo_200ml_
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_everyday_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 3084
+  main_picture_updated_at: 2016-08-26 17:27:35.000000000 Z
+  online: false
+  cost: 4.09
+  weight: 0.25
+  ean: '7612534050593'
+  tax: 24.0
+  inventory: 9
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashev
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:27:35.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
+Product_525:
+  id: 917
+  price: 1.86
+  name: 'Granaattiomena shampoo 30 ml '
+  link: granaattiomena_shampoo_30_ml_
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_everyday30.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 3636
+  main_picture_updated_at: 2016-08-26 17:28:57.000000000 Z
+  online: false
+  cost: 0.93
+  weight: 0.1
+  ean: '7612534050722'
+  tax: 24.0
+  inventory: 8
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashevkp
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:28:57.000000000 Z
+  updated_at: 2016-09-04 11:02:02.000000000 Z
+Product_526:
+  id: 918
+  price: 33.48
+  name: Manteli-Saksanpähkinä shampoo 1000ml
+  link: manteli-saksanpähkinä_shampoo_1000ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_color_shine1_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 2883
+  main_picture_updated_at: 2016-08-26 17:30:28.000000000 Z
+  online: false
+  cost: 16.74
+  weight: 1.0
+  ean: '7612534051538'
+  tax: 24.0
+  inventory: 1
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashcs1
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:30:28.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
+Product_527:
+  id: 919
+  price: 8.18
+  name: Manteli-Saksanpähkinä shampoo 200ml
+  link: manteli-saksanpähkinä_shampoo_200ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_color_shine_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 2699
+  main_picture_updated_at: 2016-08-26 17:31:17.000000000 Z
+  online: false
+  cost: 4.09
+  weight: 0.25
+  ean: '7612534050586'
+  tax: 24.0
+  inventory: 5
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashcs1
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:31:17.000000000 Z
+  updated_at: 2016-09-04 11:52:58.000000000 Z
+Product_528:
+  id: 920
+  price: 1.86
+  name: Manteli-Saksanpähkinä shampoo 30 ml
+  link: manteli-saksanpähkinä_shampoo_30_ml
+  description: ''
+  summary: ''
+  main_picture_file_name: web-shampoo_color_shine30_1.jpg
+  main_picture_content_type: image/jpeg
+  main_picture_file_size: 3430
+  main_picture_updated_at: 2016-08-26 17:32:07.000000000 Z
+  online: false
+  cost: 0.93
+  weight: 0.1
+  ean: '7612534050715'
+  tax: 24.0
+  inventory: 12
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: hashcskp
+  category_id: 31
+  supplier_id: 1
+  created_at: 2016-08-26 17:32:07.000000000 Z
+  updated_at: 2016-08-28 17:35:43.000000000 Z

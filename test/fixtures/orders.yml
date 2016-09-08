@@ -21550,6 +21550,7 @@ Order_1189:
   note: ''
   email: kaunishius@gmail.com
   ordered_on: 2016-03-29
+  paid_on: 2016-08-04
   shipped_on: 2016-03-31
   shipment_type: Business_14
   shipment_price: 12.0
@@ -21560,7 +21561,7 @@ Order_1189:
     city: '11100 RIIHIMÄKI '
     phone: 045 172 1616
   created_at: 2016-03-29 16:21:27.000000000 Z
-  updated_at: 2016-03-31 19:47:29.000000000 Z
+  updated_at: 2016-08-04 09:18:50.000000000 Z
 Order_1190:
   id: 2721
   number: R201632700
@@ -21936,6 +21937,7 @@ Order_1211:
   note: ''
   email: luana.lillsmeds@gmail.com
   ordered_on: 2016-04-14
+  paid_on: 2016-07-26
   shipped_on: 2016-04-15
   shipment_type: Business_14
   shipment_price: 12.0
@@ -21946,7 +21948,7 @@ Order_1211:
     city: '07840 Lindkoski   '
     phone: 040 562 6000
   created_at: 2016-04-14 13:36:53.000000000 Z
-  updated_at: 2016-04-15 15:57:48.000000000 Z
+  updated_at: 2016-07-26 19:00:53.000000000 Z
 Order_1212:
   id: 2743
   number: R201632722
@@ -22203,6 +22205,7 @@ Order_1227:
     haavereita! : )'
   email: pasadena.EIOO@iki.fi
   ordered_on: 2016-04-28
+  paid_on: 2016-07-25
   shipped_on: 2016-04-28
   shipment_type: Business_14
   shipment_price: 12.0
@@ -22213,15 +22216,17 @@ Order_1227:
     city: '20100 Turku  '
     phone: 02-251 7246
   created_at: 2016-04-28 03:55:41.000000000 Z
-  updated_at: 2016-04-28 19:00:21.000000000 Z
+  updated_at: 2016-07-25 07:49:32.000000000 Z
 Order_1228:
   id: 2759
   number: R201632738
-  note: |-
-    Ps. Muistathan kertoa asiakkaalle, että kukkaleikkuri on terävä!  Ettei käy haavereita! : )   . . . . . . . . . . . . . . . . .    Toimitusosoite:
-    Kaivokukka Dixi, Kauppakeskus Dixi, Ratatie 11, 01300 Vantaa.
+  note: "Ps. Muistathan kertoa asiakkaalle, että kukkaleikkuri on terävä!  Ettei käy
+    haavereita! : )   . . . . . . . . . . . . . . . . .    Toimitusosoite:\nKaivokukka
+    Dixi, Kauppakeskus Dixi, Ratatie 11, 01300 Vantaa. \n-> 3.8. maksettu 50 € ->
+    5.9 loput 170,30 €"
   email: dixi@kaivokukka.fi
   ordered_on: 2016-04-28
+  paid_on: 2016-09-06
   shipped_on: 2016-05-01
   shipment_type: Business_14
   shipment_price: 12.0
@@ -22232,7 +22237,7 @@ Order_1228:
     city: 00270 Hki
     phone: 045 341 1670
   created_at: 2016-04-28 04:09:49.000000000 Z
-  updated_at: 2016-05-01 11:23:21.000000000 Z
+  updated_at: 2016-09-06 05:26:34.000000000 Z
 Order_1229:
   id: 2760
   number: R201632739
@@ -22781,7 +22786,7 @@ Order_1261:
   note: Tuotteet lähetetty 30.5.2016
   email: teija.nurro.EIOO@iki.fi
   ordered_on: 2016-05-25
-  shipped_on: 2016-06-27
+  shipped_on: 2016-08-22
   shipment_price: 0.0
   shipment_tax: 0.0
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -22790,7 +22795,7 @@ Order_1261:
     city: '13270 Hämeenlinna '
     phone: '00'
   created_at: 2016-05-25 17:04:28.000000000 Z
-  updated_at: 2016-06-27 13:46:50.000000000 Z
+  updated_at: 2016-08-22 05:56:20.000000000 Z
 Order_1262:
   id: 2797
   number: R201632774
@@ -22897,6 +22902,7 @@ Order_1268:
   note: ''
   email: sari.rinnerauhaniemi@gmail.com
   ordered_on: 2016-06-03
+  paid_on: 2016-08-10
   shipped_on: 2016-06-04
   shipment_type: pickup
   shipment_price: 0.0
@@ -22907,7 +22913,7 @@ Order_1268:
     city: '24240 Salo  '
     phone: 0504111592
   created_at: 2016-06-03 11:37:52.000000000 Z
-  updated_at: 2016-06-04 14:07:59.000000000 Z
+  updated_at: 2016-08-10 06:04:14.000000000 Z
 Order_1269:
   id: 2804
   number: R201632781
@@ -23193,6 +23199,7 @@ Order_1286:
   note: ''
   email: myntty@gmail.com
   ordered_on: 2016-06-13
+  paid_on: 2016-07-25
   shipped_on: 2016-06-14
   shipment_type: Economy
   shipment_price: 8.3
@@ -23203,7 +23210,7 @@ Order_1286:
     city: '15110 Lahti    '
     phone: 045 104 9959
   created_at: 2016-06-13 17:33:51.000000000 Z
-  updated_at: 2016-06-14 13:39:59.000000000 Z
+  updated_at: 2016-07-25 07:24:48.000000000 Z
 Order_1287:
   id: 2822
   number: R201632799
@@ -23660,6 +23667,8 @@ Order_1315:
   note: ''
   email: paul@naturalbuilding.fi
   ordered_on: 2016-07-02
+  paid_on: 2016-07-25
+  shipped_on: 2016-07-25
   shipment_price: 0.0
   shipment_tax: 0.0
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -23668,7 +23677,7 @@ Order_1315:
     city: '10330 Billnäs  '
     phone: 044 250 9663
   created_at: 2016-07-02 17:03:19.000000000 Z
-  updated_at: 2016-07-02 17:08:29.000000000 Z
+  updated_at: 2016-07-25 07:12:42.000000000 Z
 Order_1316:
   id: 2852
   number: R201632829
@@ -23711,6 +23720,7 @@ Order_1318:
   note: ''
   email: sarita.pihtsalmi@hotmail.com
   ordered_on: 2016-07-03
+  paid_on: 2016-09-02
   shipped_on: 2016-07-10
   shipment_type: Business_14
   shipment_price: 12.0
@@ -23721,13 +23731,14 @@ Order_1318:
     city: 07900 Loviisa
     phone: 050 400 2396
   created_at: 2016-07-03 16:40:13.000000000 Z
-  updated_at: 2016-07-10 05:51:04.000000000 Z
+  updated_at: 2016-09-02 14:19:39.000000000 Z
 Order_1319:
   id: 2855
   number: R201632832
   note: ''
   email: clippo.mikaela@gmail.com
   ordered_on: 2016-07-03
+  paid_on: 2016-08-01
   shipped_on: 2016-07-04
   shipment_type: Business_14
   shipment_price: 12.7
@@ -23738,7 +23749,7 @@ Order_1319:
     city: 65450 SOLF
     phone: 050 548 9664
   created_at: 2016-07-03 16:47:33.000000000 Z
-  updated_at: 2016-07-04 16:23:01.000000000 Z
+  updated_at: 2016-08-01 07:59:46.000000000 Z
 Order_1320:
   id: 2856
   number: R201632833
@@ -23763,6 +23774,7 @@ Order_1321:
   note: ''
   email: hannam@kampa.fi
   ordered_on: 2016-07-05
+  paid_on: 2016-07-25
   shipped_on: 2016-07-06
   shipment_type: Business_14
   shipment_price: 12.7
@@ -23773,7 +23785,7 @@ Order_1321:
     city: 00100 Helsinki
     phone: 095871996
   created_at: 2016-07-05 05:56:28.000000000 Z
-  updated_at: 2016-07-06 12:58:21.000000000 Z
+  updated_at: 2016-07-25 07:13:40.000000000 Z
 Order_1322:
   id: 2858
   number: R201632835
@@ -23815,6 +23827,7 @@ Order_1324:
     uusiminen.
   email: anjasnellman.eioo@iki.fi
   ordered_on: 2016-07-07
+  paid_on: 2016-07-27
   shipped_on: 2016-07-20
   shipment_price: 0.0
   shipment_tax: 0.0
@@ -23824,7 +23837,7 @@ Order_1324:
     city: 10650 Tammisaari
     phone: 041 455 1237
   created_at: 2016-07-07 18:54:08.000000000 Z
-  updated_at: 2016-07-20 15:30:38.000000000 Z
+  updated_at: 2016-07-27 05:09:02.000000000 Z
 Order_1325:
   id: 2861
   number: R201632838
@@ -23888,6 +23901,7 @@ Order_1329:
   note: ''
   email: reetta71@gmail.com
   ordered_on: 2016-07-09
+  paid_on: 2016-08-11
   shipped_on: 2016-07-10
   shipment_type: Business_14
   shipment_price: 0.0
@@ -23898,13 +23912,14 @@ Order_1329:
     city: 82500 Kitee
     phone: 040 019 5995
   created_at: 2016-07-09 15:49:49.000000000 Z
-  updated_at: 2016-07-10 11:26:19.000000000 Z
+  updated_at: 2016-08-11 16:57:01.000000000 Z
 Order_1330:
   id: 2866
   number: R201632843
   note: ''
   email: info@matee.fi
   ordered_on: 2016-07-10
+  paid_on: 2016-07-28
   shipped_on: 2016-07-11
   shipment_type: Business_14
   shipment_price: 0.0
@@ -23915,7 +23930,7 @@ Order_1330:
     city: '37500 Lempäälä  '
     phone: 040-369 7442
   created_at: 2016-07-10 10:33:13.000000000 Z
-  updated_at: 2016-07-15 04:24:30.000000000 Z
+  updated_at: 2016-07-28 06:48:57.000000000 Z
 Order_1331:
   id: 2867
   number: R201632844
@@ -23948,6 +23963,7 @@ Order_1333:
   note: ''
   email: camilla.rosenberg@ravensara.net
   ordered_on: 2016-07-13
+  paid_on: 2016-08-18
   shipped_on: 2016-07-17
   shipment_type: Business_14
   shipment_price: 12.0
@@ -23958,13 +23974,14 @@ Order_1333:
     city: '20100 Turku '
     phone: 040 760 7413
   created_at: 2016-07-13 12:15:25.000000000 Z
-  updated_at: 2016-07-17 06:22:46.000000000 Z
+  updated_at: 2016-08-18 07:51:08.000000000 Z
 Order_1334:
   id: 2871
   number: R201632848
   note: ''
   email: erna.aaltonen@message.fi
   ordered_on: 2016-07-13
+  paid_on: 2016-08-01
   shipped_on: 2016-07-17
   shipment_price: 0.0
   shipment_tax: 0.0
@@ -23974,7 +23991,7 @@ Order_1334:
     city: 10470 Fiskars
     phone: 044 264 3524
   created_at: 2016-07-13 12:36:00.000000000 Z
-  updated_at: 2016-07-17 11:14:56.000000000 Z
+  updated_at: 2016-08-01 07:59:22.000000000 Z
 Order_1335:
   id: 2872
   number: R201632849
@@ -23995,6 +24012,7 @@ Order_1336:
     piirikortti vaihdettu. Lvi-tarvikkeet: ulkoyksikön piirikortti FH-25.'
   email: Koskinenmari@hotmail.com
   ordered_on: 2016-07-13
+  paid_on: 2016-08-02
   shipped_on: 2016-07-20
   shipment_price: 0.0
   shipment_tax: 0.0
@@ -24004,7 +24022,7 @@ Order_1336:
     city: 10300 Karjaa
     phone: ''
   created_at: 2016-07-13 12:36:52.000000000 Z
-  updated_at: 2016-07-20 15:13:49.000000000 Z
+  updated_at: 2016-08-02 08:35:55.000000000 Z
 Order_1337:
   id: 2874
   number: R201632851
@@ -24012,6 +24030,7 @@ Order_1337:
     arvonlisäverollinen, ALV 8 c §.
   email: mikael.nissi@lampopro.fi
   ordered_on: 2016-07-15
+  paid_on: 2016-08-04
   shipped_on: 2016-07-18
   shipment_price: 0.0
   shipment_tax: 0.0
@@ -24021,13 +24040,14 @@ Order_1337:
     city: '24100 Salo '
     phone: 0400 481 297
   created_at: 2016-07-15 19:01:32.000000000 Z
-  updated_at: 2016-07-18 04:36:11.000000000 Z
+  updated_at: 2016-08-04 09:23:07.000000000 Z
 Order_1338:
   id: 2875
   number: R201632852
   note: Keittiöremontin putkityöt ajalla 8.-11.7.
   email: timo.laurilaEIOO@iki.fi
   ordered_on: 2016-07-17
+  paid_on: 2016-08-03
   shipped_on: 2016-07-23
   shipment_price: 0.0
   shipment_tax: 0.0
@@ -24037,7 +24057,7 @@ Order_1338:
     city: 10470 Fiskars
     phone: 040 512 3500
   created_at: 2016-07-17 07:53:34.000000000 Z
-  updated_at: 2016-07-23 05:38:54.000000000 Z
+  updated_at: 2016-08-03 07:36:32.000000000 Z
 Order_1339:
   id: 2876
   number: R201632853
@@ -24061,6 +24081,7 @@ Order_1340:
   note: ''
   email: Ekokampaamo.Mari.eioo@iki.fi
   ordered_on: 2016-07-19
+  paid_on: 2016-08-01
   shipped_on: 2016-07-20
   shipment_type: Business_14
   shipment_price: 12.0
@@ -24071,7 +24092,7 @@ Order_1340:
     city: '68600 Pietarsaari  '
     phone: '06 723 6858 '
   created_at: 2016-07-19 15:35:56.000000000 Z
-  updated_at: 2016-07-20 15:13:56.000000000 Z
+  updated_at: 2016-08-01 08:02:15.000000000 Z
 Order_1341:
   id: 2878
   number: R201632855
@@ -24088,9 +24109,11 @@ Order_1341:
 Order_1342:
   id: 2879
   number: R201632856
-  note: ''
+  note: Vesiautomaatin asennus ja sekä vesijohtojen kytkentä 19.-23.7.
   email: hanna.luoma@elisanet.fi
   ordered_on: 2016-07-23
+  paid_on: 2016-08-01
+  shipped_on: 2016-07-26
   shipment_price: 0.0
   shipment_tax: 0.0
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -24099,13 +24122,15 @@ Order_1342:
     city: '09120 Karjalohja '
     phone: 040 533 7887
   created_at: 2016-07-23 12:52:22.000000000 Z
-  updated_at: 2016-07-23 13:01:19.000000000 Z
+  updated_at: 2016-08-01 14:59:39.000000000 Z
 Order_1343:
   id: 2880
   number: R201632857
   note: ''
   email: paul@naturalbuilding.fi
   ordered_on: 2016-07-23
+  paid_on: 2016-07-26
+  shipped_on: 2016-07-28
   shipment_price: 0.0
   shipment_tax: 0.0
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -24114,4 +24139,899 @@ Order_1343:
     city: '10330 Billnäs  '
     phone: 044 250 9663
   created_at: 2016-07-23 13:40:26.000000000 Z
-  updated_at: 2016-07-23 13:40:26.000000000 Z
+  updated_at: 2016-07-28 16:19:38.000000000 Z
+Order_1344:
+  id: 2881
+  number: R201632858
+  note: Kiukaan sekä varaajan sähköasennukset.
+  email: kalle@kdadventure.com
+  ordered_on: 2016-07-24
+  paid_on: 2016-08-03
+  shipped_on: 2016-07-30
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Kalle Dönsberg
+    street: Gamla Antskogvägen 12
+    city: 10480 Antskog
+    phone: 040 511 6837
+  created_at: 2016-07-24 18:01:30.000000000 Z
+  updated_at: 2016-08-03 07:36:59.000000000 Z
+Order_1345:
+  id: 2882
+  number: R201632859
+  note: ''
+  email: anu@ekokampaamoaura.fi
+  ordered_on: 2016-07-25
+  paid_on: 2016-08-04
+  shipped_on: 2016-08-20
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Ekokampaamo Aura / Anu Rantanen
+    street: Lyseokatu 1 as 2
+    city: 30100 Forssa
+    phone: 050 533 1592
+  created_at: 2016-07-25 09:06:11.000000000 Z
+  updated_at: 2016-08-20 11:19:44.000000000 Z
+Order_1346:
+  id: 2883
+  number: R201632860
+  note: ''
+  email: paul@naturalbuilding.fi
+  ordered_on: 2016-07-25
+  paid_on: 2016-07-26
+  shipped_on: 2016-07-28
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: The Natural Building Company
+    street: Ruukintie 7
+    city: '10330 Billnäs  '
+    phone: 044 250 9663
+  created_at: 2016-07-25 10:13:51.000000000 Z
+  updated_at: 2016-07-28 16:19:35.000000000 Z
+Order_1347:
+  id: 2884
+  number: R201632861
+  note: ''
+  email: info@luonnonhelmi.fi
+  ordered_on: 2016-07-25
+  paid_on: 2016-08-10
+  shipped_on: 2016-07-26
+  shipment_type: Business_14
+  shipment_price: 0.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Ekokampaamo Luonnonhelmi  '
+    street: 'Unikkotie 5 a '
+    city: '01300 Vantaa  '
+    phone: 09-428 93 094
+  created_at: 2016-07-25 19:11:26.000000000 Z
+  updated_at: 2016-08-10 06:03:35.000000000 Z
+Order_1348:
+  id: 2885
+  number: R201632862
+  note: ''
+  email: paivi.takkunen@hiusmeri.com
+  ordered_on: 2016-07-26
+  paid_on: 2016-08-10
+  shipped_on: 2016-07-26
+  shipment_type: Business_14
+  shipment_price: 12.7
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Ekokampaamo-parturi Hiusmeri Ky / Päivi Takkunen '
+    street: Antinkankaantie 28
+    city: 92130 Raahe
+    phone: 082239730
+  created_at: 2016-07-26 14:31:27.000000000 Z
+  updated_at: 2016-08-10 06:03:05.000000000 Z
+Order_1349:
+  id: 2886
+  number: R201632863
+  note: ''
+  email: sakaunisto@hotmail.fi
+  ordered_on: 2016-07-26
+  paid_on: 2016-08-18
+  shipped_on: 2016-07-26
+  shipment_type: Business_14
+  shipment_price: 12.7
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Parturi-Kampaamo Satu Kaunisto  '
+    street: 'Lumikonpiha 5 '
+    city: '61800 Kauhajoki '
+    phone: 050 345 9379
+  created_at: 2016-07-26 14:52:30.000000000 Z
+  updated_at: 2016-08-18 07:50:15.000000000 Z
+Order_1350:
+  id: 2887
+  number: R201632864
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-07-26
+  paid_on: 2016-07-26
+  shipped_on: 2016-07-27
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-07-26 16:09:16.000000000 Z
+  updated_at: 2016-07-27 17:00:23.000000000 Z
+Order_1351:
+  id: 2888
+  number: R201632865
+  note: 'Tarvikkeet avokaivopumppu Pumppulohja S 15/3:  625€, Vesiöosa 25L: 515€.'
+  email: annisgreathead@gmail.com
+  ordered_on: 2016-07-27
+  paid_on: 2016-08-01
+  shipped_on: 2016-07-28
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Anna-Maarit Ilama
+    street: Pirttikuja 10b
+    city: 09120 Karjalohja
+    phone: "+46 73 432 1227"
+  created_at: 2016-07-27 18:52:57.000000000 Z
+  updated_at: 2016-08-01 07:58:49.000000000 Z
+Order_1352:
+  id: 2889
+  number: R201632866
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-07-30
+  paid_on: 2016-08-09
+  shipped_on: 2016-08-09
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-07-30 10:00:44.000000000 Z
+  updated_at: 2016-08-09 11:29:59.000000000 Z
+Order_1353:
+  id: 2890
+  number: R201632867
+  note: 'Rikkoutuneen sulakekannen vaihto, valaisimen kiinnitys sekä wc-pöntön kiinnityksen
+    korjaus. Tarvikkeet: sulakekansi, wc-asennusliima.'
+  email: elina.laihon@gmail.com
+  ordered_on: 2016-08-03
+  paid_on: 2016-08-28
+  shipped_on: 2016-08-20
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Elina Laiho
+    street: Gästerbyntie 17
+    city: 10470 Fiskars
+    phone: 0443341973
+  created_at: 2016-08-03 07:53:24.000000000 Z
+  updated_at: 2016-08-28 14:13:04.000000000 Z
+Order_1354:
+  id: 2891
+  number: R201632868
+  note: ''
+  email: Johanna.Kosonen@gmail.com
+  ordered_on: 2016-08-03
+  paid_on: 2016-08-19
+  shipped_on: 2016-08-04
+  shipment_type: Business_14
+  shipment_price: 12.7
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: J & M Hiusteam / Johanna Kosonen
+    street: Suupankuja 3
+    city: 33960 Pirkkala
+    phone: 045 636 3038
+  created_at: 2016-08-03 15:06:30.000000000 Z
+  updated_at: 2016-08-19 07:39:32.000000000 Z
+Order_1355:
+  id: 2892
+  number: R201632869
+  note: ''
+  email: sari.hankio@viesti.net
+  ordered_on: 2016-08-03
+  paid_on: 2016-08-17
+  shipped_on: 2016-08-04
+  shipment_type: Business_14
+  shipment_price: 12.7
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Parturi-Kampaamo Sari Hankio / Hiuskulma 26 '
+    street: 'Kainuuntie 26 a 15 '
+    city: '88600 Sotkamo '
+    phone: 044 520 8854
+  created_at: 2016-08-03 16:55:35.000000000 Z
+  updated_at: 2016-08-17 15:42:47.000000000 Z
+Order_1356:
+  id: 2893
+  number: R201632870
+  note: ''
+  email: miia.torvi@gmail.com
+  ordered_on: 2016-08-03
+  paid_on: 2016-08-18
+  shipped_on: 2016-08-04
+  shipment_type: Business_14
+  shipment_price: 12.7
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Kampaamo-parturi Marja Torvi
+    street: Valtakatu 37
+    city: 53100 Lappeenranta
+    phone: '05 451 33 80  '
+  created_at: 2016-08-03 17:12:15.000000000 Z
+  updated_at: 2016-08-18 07:51:56.000000000 Z
+Order_1357:
+  id: 2894
+  number: R201632871
+  note: Toimitusosoite Ekokampaamo Shanti,  pakettiautomaatti / Sale Amuri, Satakunnankatu
+    36, 33215 Tampere
+  email: ekokampaamo.shanti@gmail.com
+  ordered_on: 2016-08-04
+  paid_on: 2016-08-12
+  shipped_on: 2016-08-09
+  shipment_type: Business_14
+  shipment_price: 12.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Ekokampaamo Shanti  '
+    street: 'PL 64048  '
+    city: '00021 Laskutus   '
+    phone: 040 967 6262
+  created_at: 2016-08-04 11:57:43.000000000 Z
+  updated_at: 2016-08-12 08:25:10.000000000 Z
+Order_1358:
+  id: 2895
+  number: R201632872
+  note: ''
+  email: kaunishius@gmail.com
+  ordered_on: 2016-08-04
+  shipment_type: Business_14
+  shipment_price: 13.9
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Kauneuskammari Mahla / Marja Murtonen
+    street: Hämeenkatu 48-50
+    city: '11100 RIIHIMÄKI '
+    phone: 045 172 1616
+  created_at: 2016-08-04 13:47:43.000000000 Z
+  updated_at: 2016-08-04 14:03:22.000000000 Z
+Order_1359:
+  id: 2896
+  number: R201632873
+  note: ''
+  email: timo.laurilaEIOO@iki.fi
+  ordered_on: 2016-08-05
+  shipped_on: 2016-08-20
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Timo Laurila
+    street: Puistomäki 6
+    city: 10470 Fiskars
+    phone: 040 512 3500
+  created_at: 2016-08-05 19:02:58.000000000 Z
+  updated_at: 2016-08-20 11:19:28.000000000 Z
+Order_1360:
+  id: 2897
+  number: R201632874
+  note: "Ps. Muistathan kertoa asiakkaalle, että kukkaleikkuri on terävä!  Ettei käy
+    haavereita! : )   . . . . . . . . . . . . . . . . .       \nToimitusosoite: Kaivokukka
+    Kamppi, Urho Kekkosenkatu 1, 00100 Helsinki."
+  email: johanna.kuukkanen@kaivokukka.fi
+  ordered_on: 2016-08-06
+  paid_on: 2016-08-23
+  shipped_on: 2016-08-10
+  shipment_type: Business_14
+  shipment_price: 12.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Nenita Oy / Kaivokukka Kamppi
+    street: 'Ostolaskut 19367K '
+    city: PL 10, 57090 VISMA SCAN
+    phone: 020 752 8582
+  created_at: 2016-08-06 09:42:58.000000000 Z
+  updated_at: 2016-08-23 05:03:29.000000000 Z
+Order_1361:
+  id: 2898
+  number: R201632875
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-08-09
+  paid_on: 2016-08-11
+  shipped_on: 2016-08-12
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-08-09 11:28:38.000000000 Z
+  updated_at: 2016-08-12 15:44:43.000000000 Z
+Order_1362:
+  id: 2899
+  number: R201632876
+  note: ''
+  email: paul@naturalbuilding.fi
+  ordered_on: 2016-08-11
+  paid_on: 2016-08-23
+  shipped_on: 2016-08-22
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: The Natural Building Company
+    street: Ruukintie 7
+    city: '10330 Billnäs  '
+    phone: 044 250 9663
+  created_at: 2016-08-11 11:16:46.000000000 Z
+  updated_at: 2016-08-23 04:59:51.000000000 Z
+Order_1363:
+  id: 2900
+  number: R201632877
+  note: "Näytteet Pure sensitive, Age miracle silmänympärysvoide, \nAge miracle päivävoide,
+    \nAge miracle yövoide, \nIntense moisture Kevyt kosteusvoide. Uusintapostitus
+    12.8."
+  email: merjakainulainen85@gmail.com
+  ordered_on: 2016-08-12
+  shipped_on: 2016-08-13
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Ekokampaamo Into / Merja Kainulainen '
+    street: Savonkatu 19
+    city: '74100 Iisalmi '
+    phone: 040 761 9919
+  created_at: 2016-08-12 09:41:36.000000000 Z
+  updated_at: 2016-08-13 11:34:37.000000000 Z
+Order_1364:
+  id: 2901
+  number: R201632878
+  note: ''
+  email: pettersen.geir@yahoo.fi
+  ordered_on: 2016-08-12
+  paid_on: 2016-09-02
+  shipped_on: 2016-08-26
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Geir Pettersen  '
+    street: 'Kaukelantie 199 '
+    city: '03830 Pusula  '
+    phone: 0505692704
+  created_at: 2016-08-12 10:22:49.000000000 Z
+  updated_at: 2016-09-02 14:18:47.000000000 Z
+Order_1365:
+  id: 2902
+  number: R201632879
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-08-15
+  paid_on: 2016-08-15
+  shipped_on: 2016-08-15
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-08-15 13:18:56.000000000 Z
+  updated_at: 2016-08-15 13:18:56.000000000 Z
+Order_1366:
+  id: 2903
+  number: R201632880
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-08-15
+  paid_on: 2016-08-17
+  shipped_on: 2016-08-17
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-08-15 15:09:01.000000000 Z
+  updated_at: 2016-08-17 16:31:04.000000000 Z
+Order_1367:
+  id: 2904
+  number: R201632881
+  note: ''
+  email: petra.lammela@gmail.com
+  ordered_on: 2016-08-15
+  paid_on: 2016-08-30
+  shipped_on: 2016-08-17
+  shipment_type: Business_14
+  shipment_price: 12.7
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Ekokampaamo Kookos / Petra Lammela  '
+    street: 'Kiuralantie 20 '
+    city: '38140 Sastamala  '
+    phone: 050 3646466
+  created_at: 2016-08-15 15:42:11.000000000 Z
+  updated_at: 2016-08-30 07:06:44.000000000 Z
+Order_1368:
+  id: 2905
+  number: R201632882
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-08-16
+  paid_on: 2016-08-16
+  shipped_on: 2016-08-16
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-08-16 10:25:36.000000000 Z
+  updated_at: 2016-08-16 10:25:36.000000000 Z
+Order_1369:
+  id: 2906
+  number: R201632883
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-08-17
+  paid_on: 2016-08-17
+  shipped_on: 2016-08-17
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-08-17 16:26:22.000000000 Z
+  updated_at: 2016-08-17 16:28:09.000000000 Z
+Order_1370:
+  id: 2907
+  number: R201632884
+  note: ''
+  email: vipamania@saunalahti.fi
+  ordered_on: 2016-08-19
+  paid_on: 2016-08-30
+  shipped_on: 2016-08-22
+  shipment_type: pickup
+  shipment_price: 0.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Ekokampaaja Virpi Niinistö / Vipamania       '
+    street: Ojahaanrinne 2 lh 2
+    city: '01600 Vantaa '
+    phone: 045-8573573
+  created_at: 2016-08-19 08:43:12.000000000 Z
+  updated_at: 2016-08-30 07:07:34.000000000 Z
+Order_1371:
+  id: 2908
+  number: R201632885
+  note: ''
+  email: paul@naturalbuilding.fi
+  ordered_on: 2016-08-22
+  paid_on: 2016-08-28
+  shipped_on: 2016-08-22
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: The Natural Building Company
+    street: Ruukintie 7
+    city: '10330 Billnäs  '
+    phone: 044 250 9663
+  created_at: 2016-08-22 07:19:48.000000000 Z
+  updated_at: 2016-08-28 14:12:19.000000000 Z
+Order_1372:
+  id: 2909
+  number: R201632886
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-08-22
+  paid_on: 2016-08-23
+  shipped_on: 2016-08-23
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-08-22 14:10:14.000000000 Z
+  updated_at: 2016-08-23 14:58:21.000000000 Z
+Order_1373:
+  id: 2910
+  number: R201632887
+  note: ''
+  email: anu@ekokampaamoaura.fi
+  ordered_on: 2016-08-22
+  shipment_type: Business_14
+  shipment_price: 12.7
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Ekokampaamo Aura / Anu Rantanen
+    street: Lyseokatu 1 as 2
+    city: 30100 Forssa
+    phone: 050 533 1592
+  created_at: 2016-08-22 14:16:26.000000000 Z
+  updated_at: 2016-08-22 14:47:01.000000000 Z
+Order_1374:
+  id: 2911
+  number: R201632888
+  note: ''
+  email: teija.pilli@gmail.com
+  ordered_on: 2016-08-22
+  shipped_on: 2016-08-24
+  shipment_type: Economy
+  shipment_price: 8.3
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Pillin Putiikki / Teija Pilli   '
+    street: 'Kokkokallionkatu 3 as 7  '
+    city: '15170 Lahti '
+    phone: 044 970 89 88
+  created_at: 2016-08-22 15:59:38.000000000 Z
+  updated_at: 2016-08-24 17:09:37.000000000 Z
+Order_1375:
+  id: 2912
+  number: R201632889
+  note: ''
+  email: myntty@gmail.com
+  ordered_on: 2016-08-22
+  shipped_on: 2016-08-24
+  shipment_type: Economy
+  shipment_price: 10.2
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'PiparMinttu / Minttu Laurila  '
+    street: 'Rautatienkatu 16 '
+    city: '15110 Lahti    '
+    phone: 045 104 9959
+  created_at: 2016-08-22 16:55:33.000000000 Z
+  updated_at: 2016-08-24 17:09:34.000000000 Z
+Order_1376:
+  id: 2914
+  number: R201632891
+  note: ''
+  email: tiinavaisanen@suomi24.fi
+  ordered_on: 2016-08-24
+  paid_on: 2016-09-02
+  shipped_on: 2016-08-26
+  shipment_type: Business_14
+  shipment_price: 12.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Parturi-kampaamo Pääpointti / Tiina Väisänen '
+    street: 'Savonkatu 24, liikehuoneisto 6 '
+    city: '70110 Kuopio '
+    phone: 044 350 3805
+  created_at: 2016-08-24 16:45:25.000000000 Z
+  updated_at: 2016-09-02 14:17:42.000000000 Z
+Order_1377:
+  id: 2916
+  number: R201632892
+  note: ''
+  email: sari.rinnerauhaniemi@gmail.com
+  ordered_on: 2016-08-25
+  shipped_on: 2016-08-26
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Ekokampaamo Ekonilla  '
+    street: 'Helenankatu 10 '
+    city: '24240 Salo  '
+    phone: 0504111592
+  created_at: 2016-08-25 15:28:32.000000000 Z
+  updated_at: 2016-08-26 16:53:47.000000000 Z
+Order_1378:
+  id: 2917
+  number: R201632893
+  note: ''
+  email: merjakainulainen85@gmail.com
+  ordered_on: 2016-08-25
+  shipped_on: 2016-08-26
+  shipment_type: Business_14
+  shipment_price: 12.7
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Ekokampaamo Into / Merja Kainulainen '
+    street: Savonkatu 19
+    city: '74100 Iisalmi '
+    phone: 040 761 9919
+  created_at: 2016-08-25 16:38:32.000000000 Z
+  updated_at: 2016-08-26 16:53:32.000000000 Z
+Order_1379:
+  id: 2918
+  number: R201632894
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-08-27
+  paid_on: 2016-08-27
+  shipped_on: 2016-08-27
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-08-27 13:44:36.000000000 Z
+  updated_at: 2016-08-27 13:44:47.000000000 Z
+Order_1380:
+  id: 2919
+  number: R201632895
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-08-27
+  paid_on: 2016-08-27
+  shipped_on: 2016-08-27
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-08-27 13:56:49.000000000 Z
+  updated_at: 2016-08-27 13:57:11.000000000 Z
+Order_1381:
+  id: 2920
+  number: R201632896
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-08-28
+  paid_on: 2016-08-28
+  shipped_on: 2016-08-28
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-08-28 17:01:02.000000000 Z
+  updated_at: 2016-08-28 17:35:47.000000000 Z
+Order_1382:
+  id: 2921
+  number: R201632897
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-08-29
+  paid_on: 2016-08-29
+  shipped_on: 2016-08-29
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-08-29 11:07:15.000000000 Z
+  updated_at: 2016-08-29 15:36:47.000000000 Z
+Order_1383:
+  id: 2922
+  number: R201632898
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-08-30
+  paid_on: 2016-08-30
+  shipped_on: 2016-08-30
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-08-30 17:13:14.000000000 Z
+  updated_at: 2016-08-30 17:16:04.000000000 Z
+Order_1384:
+  id: 2923
+  number: R201632899
+  note: ''
+  email: sakaunisto@hotmail.fi
+  ordered_on: 2016-08-31
+  shipped_on: 2016-09-03
+  shipment_type: Business_14
+  shipment_price: 12.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Parturi-Kampaamo Satu Kaunisto  '
+    street: 'Lumikonpiha 5 '
+    city: '61800 Kauhajoki '
+    phone: 050 345 9379
+  created_at: 2016-08-31 17:05:09.000000000 Z
+  updated_at: 2016-09-03 08:48:28.000000000 Z
+Order_1385:
+  id: 2924
+  number: R201632900
+  note: ''
+  email: riikka.j2@gmail.com
+  ordered_on: 2016-08-31
+  shipped_on: 2016-09-03
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Ekosalonki Cielo / Riikka Jaakkola
+    street: 'Jokikatu 10 '
+    city: 06100 Porvoo
+    phone: '019 523 0111 '
+  created_at: 2016-08-31 17:22:05.000000000 Z
+  updated_at: 2016-09-03 08:48:32.000000000 Z
+Order_1386:
+  id: 2925
+  number: R201632901
+  note: ''
+  email: katri@vihreatahti.fi
+  ordered_on: 2016-09-02
+  shipped_on: 2016-09-03
+  shipment_type: Business_14
+  shipment_price: 12.7
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Hiushuone Vihreä Tähti / Katri Kotitie  '
+    street: 'Niiralankatu 19 c lt1 '
+    city: '70600 Kuopio  '
+    phone: 050 511 4100
+  created_at: 2016-09-02 11:27:09.000000000 Z
+  updated_at: 2016-09-03 08:48:34.000000000 Z
+Order_1387:
+  id: 2926
+  number: R201632902
+  note: ''
+  email: satu.ypya@gmail.com
+  ordered_on: 2016-09-02
+  shipped_on: 2016-09-03
+  shipment_type: Business_14
+  shipment_price: 12.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Parturi-kampaamo Ilo
+    street: Keskuspuistonkatu 13
+    city: 94100 Kemi
+    phone: 044 532 0627
+  created_at: 2016-09-02 11:49:01.000000000 Z
+  updated_at: 2016-09-03 08:48:39.000000000 Z
+Order_1388:
+  id: 2927
+  number: R201632903
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-09-03
+  paid_on: 2016-09-03
+  shipped_on: 2016-09-03
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-09-03 08:25:25.000000000 Z
+  updated_at: 2016-09-03 08:25:25.000000000 Z
+Order_1389:
+  id: 2928
+  number: R201632904
+  note: ''
+  email: camilla.rosenberg@ravensara.net
+  ordered_on: 2016-09-03
+  shipped_on: 2016-09-04
+  shipment_type: Business_14
+  shipment_price: 12.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Kauneushuone Ravensara / H-Tuotanto Ay  '
+    street: 'Yliopistonkatu 37 '
+    city: '20100 Turku '
+    phone: 040 760 7413
+  created_at: 2016-09-03 11:35:30.000000000 Z
+  updated_at: 2016-09-04 11:02:05.000000000 Z
+Order_1390:
+  id: 2929
+  number: R201632905
+  note: ''
+  email: Ekokampaamo.Mari.eioo@iki.fi
+  ordered_on: 2016-09-03
+  shipped_on: 2016-09-04
+  shipment_type: Business_14
+  shipment_price: 0.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Ekokampaamo Mari  '
+    street: 'Perämiehenkatu 13  '
+    city: '68600 Pietarsaari  '
+    phone: '06 723 6858 '
+  created_at: 2016-09-03 12:09:42.000000000 Z
+  updated_at: 2016-09-04 11:02:03.000000000 Z
+Order_1391:
+  id: 2930
+  number: R201632906
+  note: ''
+  email: Johanna.Kosonen@gmail.com
+  ordered_on: 2016-09-03
+  shipped_on: 2016-09-04
+  shipment_type: Business_14
+  shipment_price: 12.7
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: J & M Hiusteam / Johanna Kosonen
+    street: Suupankuja 3
+    city: 33960 Pirkkala
+    phone: 045 636 3038
+  created_at: 2016-09-03 14:47:26.000000000 Z
+  updated_at: 2016-09-04 11:01:59.000000000 Z
+Order_1392:
+  id: 2931
+  number: R201632907
+  note: ''
+  email: info@hiushuonekorento.fi
+  ordered_on: 2016-09-03
+  shipped_on: 2016-09-04
+  shipment_type: Business_14
+  shipment_price: 12.7
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Hiushuone Korento / Anna Kivirinne
+    street: 'Kauppakatu 28A, 2.krs '
+    city: 40100 Jyväskylä
+    phone: 044-284 1982
+  created_at: 2016-09-03 15:39:15.000000000 Z
+  updated_at: 2016-09-04 11:01:56.000000000 Z
+Order_1393:
+  id: 2932
+  number: R201632908
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-09-04
+  paid_on: 2016-09-04
+  shipped_on: 2016-09-04
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-09-04 10:52:32.000000000 Z
+  updated_at: 2016-09-04 11:01:40.000000000 Z
+Order_1394:
+  id: 2933
+  number: R201632909
+  note: ''
+  email: raisa@villataika.fi
+  ordered_on: 2016-09-05
+  paid_on: 2016-09-05
+  shipped_on: 2016-09-05
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2016-09-05 17:06:52.000000000 Z
+  updated_at: 2016-09-05 17:07:36.000000000 Z
+Order_1395:
+  id: 2934
+  number: R201632910
+  note: 'Ps. Muistathan kertoa asiakkaalle, että kukkaleikkuri on terävä!  Ettei käy
+    haavereita! : )'
+  email: info@kukkakaristo.fi
+  ordered_on: 2016-09-05
+  shipped_on: 2016-09-07
+  shipment_type: Business_14
+  shipment_price: 12.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Kukka-Karisto Oy '
+    street: 'Kauppiaankatu 2 '
+    city: '15160 Lahti '
+    phone: 044-981 8660
+  created_at: 2016-09-05 19:14:15.000000000 Z
+  updated_at: 2016-09-07 18:39:06.000000000 Z
+Order_1396:
+  id: 2935
+  number: R201632911
+  note: Ilma-vesilämpöpumppu Mitsubishi Electric, ulkoyksikkö PUHZ-SW75 ja sisäyksikkö
+    PAC-IF061.
+  email: jari.komppa@gmail.com
+  ordered_on: 2016-09-05
+  paid_on: 2016-09-07
+  shipped_on: 2016-09-07
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Jari Komppa
+    street: Alingsåsinkatu 6
+    city: 10300 Karjaa
+    phone: 050 512 4501
+  created_at: 2016-09-05 19:35:49.000000000 Z
+  updated_at: 2016-09-07 18:38:55.000000000 Z
+Order_1397:
+  id: 2936
+  number: R201632912
+  note: ''
+  email: mikael.nissi@lampopro.fi
+  ordered_on: 2016-09-05
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Suomen Lämpö-PRO Oy / Mikael Nissi
+    street: 'Turuntie 5 '
+    city: '24100 Salo '
+    phone: 0400 481 297
+  created_at: 2016-09-05 20:41:08.000000000 Z
+  updated_at: 2016-09-05 20:41:08.000000000 Z
+Order_1398:
+  id: 2937
+  number: R201632913
+  note: ''
+  email: pettersen.geir@yahoo.fi
+  ordered_on: 2016-09-05
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: 'Geir Pettersen  '
+    street: 'Kaukelantie 199 '
+    city: '03830 Pusula  '
+    phone: 0505692704
+  created_at: 2016-09-05 20:41:30.000000000 Z
+  updated_at: 2016-09-05 20:41:30.000000000 Z
+Order_1399:
+  id: 2938
+  number: R201632914
+  note: ''
+  email: paul@naturalbuilding.fi
+  ordered_on: 2016-09-07
+  shipment_price: 0.0
+  shipment_tax: 0.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: The Natural Building Company
+    street: Ruukintie 7
+    city: '10330 Billnäs  '
+    phone: 044 250 9663
+  created_at: 2016-09-07 14:10:16.000000000 Z
+  updated_at: 2016-09-07 14:10:16.000000000 Z

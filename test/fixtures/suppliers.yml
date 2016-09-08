@@ -49,3 +49,13 @@ Supplier_5:
     phone: ''
   created_at: 2014-12-22 15:59:33.000000000 Z
   updated_at: 2014-12-22 15:59:34.000000000 Z
+Supplier_6:
+  id: 6
+  supplier_name: Muu
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: ''
+    street: ''
+    city: ''
+    phone: ''
+  created_at: 2016-08-28 07:29:42.000000000 Z
+  updated_at: 2016-08-28 07:29:42.000000000 Z

@@ -830,3 +830,66 @@ Purchase_122:
   received_on: 2016-07-17
   created_at: 2016-07-17 11:21:23.000000000 Z
   updated_at: 2016-07-17 11:22:24.000000000 Z
+Purchase_123:
+  id: 123
+  name: Sisäänosto 30.7.2016
+  ordered_on: 2016-07-30
+  received_on: 2016-07-30
+  created_at: 2016-07-30 10:06:14.000000000 Z
+  updated_at: 2016-07-30 10:07:11.000000000 Z
+Purchase_124:
+  id: 124
+  name: Sisäänosto 30.7.2016
+  ordered_on: 2016-07-30
+  received_on: 2016-07-30
+  created_at: 2016-07-30 17:02:01.000000000 Z
+  updated_at: 2016-07-30 17:17:05.000000000 Z
+Purchase_125:
+  id: 125
+  name: Sisäänosto 31.7.2016
+  ordered_on: 2016-07-31
+  received_on: 2016-07-31
+  created_at: 2016-07-31 08:46:13.000000000 Z
+  updated_at: 2016-07-31 08:47:10.000000000 Z
+Purchase_126:
+  id: 126
+  name: Sisäänosto 9.8.2016
+  ordered_on: 2016-08-09
+  received_on: 2016-08-09
+  created_at: 2016-08-09 16:04:33.000000000 Z
+  updated_at: 2016-08-09 16:17:35.000000000 Z
+Purchase_127:
+  id: 127
+  name: Sisäänosto 27.8.2016
+  ordered_on: 2016-08-27
+  received_on: 2016-08-27
+  created_at: 2016-08-27 13:59:33.000000000 Z
+  updated_at: 2016-08-27 14:09:28.000000000 Z
+Purchase_128:
+  id: 128
+  name: Sisäänosto 28.8.2016
+  ordered_on: 2016-08-28
+  received_on: 2016-08-28
+  created_at: 2016-08-28 17:24:06.000000000 Z
+  updated_at: 2016-08-28 17:35:11.000000000 Z
+Purchase_129:
+  id: 129
+  name: Sisäänosto 4.9.2016
+  ordered_on: 2016-09-04
+  received_on: 2016-09-04
+  created_at: 2016-09-04 11:02:45.000000000 Z
+  updated_at: 2016-09-04 11:30:19.000000000 Z
+Purchase_130:
+  id: 130
+  name: Sisäänosto 4.9.2016
+  ordered_on: 2016-09-04
+  received_on: 2016-09-04
+  created_at: 2016-09-04 11:36:27.000000000 Z
+  updated_at: 2016-09-04 11:52:59.000000000 Z
+Purchase_131:
+  id: 131
+  name: Sisäänosto 4.9.2016
+  ordered_on: 2016-09-04
+  received_on: 2016-09-04
+  created_at: 2016-09-04 11:53:06.000000000 Z
+  updated_at: 2016-09-04 11:55:25.000000000 Z
