@@ -1,5 +1,10 @@
 require 'rails_helper'
 
 RSpec.describe Reseller, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+
+  it "factory is ok" do
+    res = build :reseller
+    expect(res.save).to be true
+  end
+
 end
