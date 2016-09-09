@@ -40,6 +40,7 @@ end
 group :test do
   gem 'rspec-rails'
   gem 'capybara'
+  gem "mechanize"
   gem 'database_cleaner'
   gem "factory_girl_rails"
   gem 'i18n-spec'
