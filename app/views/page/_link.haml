@@ -1,7 +1,7 @@
 - cache(link + "link") do
   - if has_sub(link)
     .link
-      unless t(link).blank?
+      - unless t(link).blank?
         =link_to t('product_link.server') + t(link)  do
           = raw t("product_link.text")
           = raw translate_link(link)
