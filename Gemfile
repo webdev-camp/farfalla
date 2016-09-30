@@ -17,6 +17,8 @@ gem 'sqlite3'
 
 gem 'susy'
 
+gem "haml"
+
 #one wishes one would not need it. alas . . .
 gem 'rack-attack'
 

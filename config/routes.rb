@@ -23,7 +23,7 @@ Rails.application.routes.draw do
         :to => 'page#index',
         :defaults => { :page => "index" }
 
-  root :to =>  "page#index" , :defaults => { :page => "index" }
+  root :to =>  "shop#index"
 
   mount OfficeClerk::Engine => "/"
 

@@ -22,9 +22,10 @@ Rails.application.configure do
   # Raise an error on page load if there are pending migrations.
   config.active_record.migration_error = :page_load
 
-  config.assets.debug = true
+  config.assets.debug = false
   config.assets.compile = true
   config.assets.digest = true
+  config.assets.quiet = true
 
   config.serve_static_files  = true
 
