@@ -34,7 +34,7 @@ module Farfalla
 
     config.active_record.raise_in_transactional_callbacks = true
     config.middleware.use Rack::Attack
-    config.i18n.available_locales = :fi
-    config.i18n.default_locale = :fi
+    config.i18n.available_locales = :en
+    config.i18n.default_locale = :en
   end
 end
