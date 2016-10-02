@@ -25,6 +25,7 @@ Rails.application.routes.draw do
 
   root :to =>  "shop#index"
   get "/category/:id", :to => 'shop#show', as: :category
+  get "/product/:id", :to => 'shop#show_product', as: :show_product
 
   mount OfficeClerk::Engine => "/"
 

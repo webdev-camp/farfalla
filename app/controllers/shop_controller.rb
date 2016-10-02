@@ -8,4 +8,8 @@ class ShopController < ApplicationController
     @category = Category.find(params[:id])
   end
 
+  def show_product
+    @show_product = Product.find(params[:id])
+  end
+
 end
