@@ -4,6 +4,9 @@
 
 @import "susy";
 
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
 // grid stuff
 
 $susy: layout(12 1/2 fluid float split center);
