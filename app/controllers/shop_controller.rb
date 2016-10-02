@@ -6,6 +6,11 @@ class ShopController < ApplicationController
 
   def show
     @category = Category.find(params[:id])
+    if @category.categories.length == 0
+      render "display_products"
+    else
+      render "display_subcategories"
+    end
   end
 
   def show_product
