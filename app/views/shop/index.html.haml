@@ -1,3 +1,7 @@
 - @root.categories.each do |category|
-  =category.name
-  %br
+  .col-md-2
+    .row
+      .col-md-12
+        =link_to category.name, category_url(category.id)
+      .col-md-12
+        =category.summary
