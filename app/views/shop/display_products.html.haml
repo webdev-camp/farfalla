@@ -2,6 +2,6 @@
   .col-md-2
     .row
       .col-md-12
-        %b=product.name
+        %b=link_to product.name, show_product_url(product.id)
       .col-md-12
-        =product.price
+        =product.summary
