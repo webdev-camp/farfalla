@@ -3678,3 +3678,16 @@ Clerk_287:
   address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
   created_at: 2014-08-06 08:01:32.000000000 Z
   updated_at: 2015-12-16 14:40:26.000000000 Z
+Clerk_288:
+  id: 2871
+  email: info@webdev.camp
+  admin: true
+  encrypted_password: 528bb18b5cdcef5f740bac045af291f277730a25beef39a1826a32974852032f6c5f764c8f44e11e270d7ca8cb335aa8f9520d16fb45a451d44802bf329b53c3
+  password_salt: "$2a$10$MINgub7FSAlX.o9mfqC2Se"
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Web Dev
+    street: ''
+    city: ''
+    phone: ''
+  created_at: 2016-10-02 12:56:00.299879000 Z
+  updated_at: 2016-10-02 12:56:00.346289000 Z
