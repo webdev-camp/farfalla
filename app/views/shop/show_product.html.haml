@@ -1,7 +1,20 @@
-- product = @show_product
-.col-md-2
-  .row
-    .col-md-12
-      =product.name
-    .col-md-12
-      =product.price
+.row
+  .col-md-2
+  .col-md-8
+    .row
+      .col-md-12.product_name
+        .row
+          %b=@show_product.name
+        .col-md-12.image
+          .row
+            .col-md-1
+            .col-md-10
+              =image_tag @show_product.main_picture.url(:product), class: "img-responsive"
+            .col-md-1
+      .col-md-12.product_summary
+        = kram @show_product.summary
+      .col-md-12.product_description
+        = kram @show_product.description
+      .col-md-12.product_price
+        %b= @show_product.price
+  .col-md-2
