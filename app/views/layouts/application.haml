@@ -32,7 +32,7 @@
             - data("menu_bar").split.each do |menu|
               %li{:class => "menu_item#{raw  ' active' if params[:page] == menu}"}
                 %a{:href => "/#{menu}.html"}= data(menu+'.menu_text')
-
+      .content
         .rcol
           - if flash[:error]
             .flash.errors= flash[:error]
