@@ -2,6 +2,8 @@
  *= require_self
  *= require display_products
  *= require main
+ *= require display_subcategories
+ *= require show_product
 */
 
 @import "susy";
@@ -64,7 +66,7 @@ a {
     color: grey;
   }
   a {
-    color: black;
+    color: #636b55;
     display: block;
     float: left;
     margin: 0;
@@ -72,7 +74,7 @@ a {
     text-decoration: none;
   }
   a:hover {
-    color: grey;
+    color: #e3a7c3;
   }
 }
 
