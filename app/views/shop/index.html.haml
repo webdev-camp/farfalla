@@ -4,4 +4,21 @@
       .col-md-12
         =link_to category.name, category_url(category.id)
       .col-md-12
-        = image_tag category.main_picture.url
+        -# = image_tag category.main_picture_file_name
+        -# = image_tag category.name.downcase + "/logo.jpg"
+        -# %img(src="aloe_shea/logo.jpg")
+        -# =image_tag category.name + "/logo.jpg"
+
+        -# the front slash means that it comes from public in the image path, otherwise it is in app assets 
+        -# there is a way to get an image from the officeclerks app to appear in our app directory under public and that involves updating the officeclerks app with the admin login. It involves the gem Paperclip and you need to install imagemagick
+
+        -# WHY CAN YOU use main_picture it isnt even an attribute
+
+        -# These work
+        -# =image_tag "aloe_shea/logo.jpg"
+        -# =image_tag category.main_picture
+
+        = image_tag category.main_picture.url, class: "img-circle", :data_width => "300px"
+        -# the below code is equivalent to the above with standard syntax
+        -# = image_tag(category.main_picture.url, {:class => "img-circle", :data_width => "300px"})
+        -# NO IDEA what the data_width thing is it doesn't seem to be a class - RESEARCH this

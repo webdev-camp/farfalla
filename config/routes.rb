@@ -22,11 +22,14 @@ Rails.application.routes.draw do
   get '/:page.html',
         :to => 'page#index',
         :defaults => { :page => "index" }
-
+  #
+  # Roots added by webdev.camp (us)
   root :to =>  "shop#index"
   get "/category/:id", :to => 'shop#show', as: :category
+  # The as: :show_product is where we define the path/url for use with link_to helper.
   get "/product/:id", :to => 'shop#show_product', as: :show_product
 
+  
   mount OfficeClerk::Engine => "/"
 
   match '*path', via: :all, to: 'page#error_404' #if Rails.production?
