@@ -32,16 +32,7 @@
             - data("menu_bar").split.each do |menu|
               %li{:class => "menu_item#{raw  ' active' if params[:page] == menu}"}
                 %a{:href => "/#{menu}.html"}= data(menu+'.menu_text')
-      .content
-        .menu
-          %ul
-            - data("menu").split.each do |p|
-              %li{:class => "item#{raw  ' active' if params[:page] == p}"}
-                = link_to  data(p+'.menu_text') , "/#{p}.html"
-              - if (data(p+'.sub_menu').index("missing") == nil) and (p == @page or data(p+'.sub_menu').index(@page) != nil)
-                - data(p+'.sub_menu').split.each do |sub|
-                  %li{:class => "sub_menu #{'active' if params[:page] == sub}"}
-                    = link_to  data("#{sub}.header") , "/#{sub}.html"
+
         .rcol
           - if flash[:error]
             .flash.errors= flash[:error]
