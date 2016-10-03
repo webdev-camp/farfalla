@@ -1,7 +1,7 @@
 - @category.categories.each do |category|
-  .col-md-2
-    .row
-      .col-md-12
+  .col-md-6
+    .row.subcat-col
+      .col-md-12.subcat-text
         =link_to category.name, category_url(category.id)
-      .col-md-12
-        =category.summary
+      .col-md-12.subcat-box
+        = image_tag category.main_picture.url(:product), class: "img-circle"

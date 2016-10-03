@@ -33,7 +33,7 @@
               %li{:class => "menu_item#{raw  ' active' if params[:page] == menu}"}
                 %a{:href => "/#{menu}.html"}= data(menu+'.menu_text')
       .content
-        .rcol
+        .row
           - if flash[:error]
             .flash.errors= flash[:error]
           - if flash[:notice]
