@@ -12,9 +12,9 @@
               =image_tag @show_product.main_picture.url(:product), class: "img-responsive"
             .col-md-1
       .col-md-12.product_summary
-        = @show_product.summary
+        = kram @show_product.summary
       .col-md-12.product_description
-        = @show_product.description
+        = kram @show_product.description
       .col-md-12.product_price
         %b= @show_product.price
   .col-md-2

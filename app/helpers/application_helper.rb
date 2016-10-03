@@ -4,6 +4,9 @@ module ApplicationHelper
      "/#{page}.html"
   end
 
+  def kram text
+    raw Kramdown::Document.new(text).to_html
+  end
   def data key
     I18n.t(key)
   end
