@@ -33,7 +33,7 @@
               %li{:class => "menu_item#{raw  ' active' if params[:page] == menu}"}
                 %a{:href => "/#{menu}.html"}= data(menu+'.menu_text')
       .content
-        .rcol
+        .row
           - if flash[:error]
             .flash.errors= flash[:error]
           - if flash[:notice]
@@ -58,12 +58,14 @@
             .link
               %b> Farfalla
               n toiminta on todellisesti eettistä.
-              Farfalla mm. toteuttaa hyväntekeväisyysprojekteja ja pitää huolta viljelijöistään.
+              Farfalla mm. toteuttaa hyväntekeväisyysprojekteja ja pitää huolta viljelijöistään. &nbsp;
+              %span{:class => "glyphicon glyphicon-search"}
               %a{:href => "quality.html", :target => "blank"} Lue lisää
               %br/
               %br/
               %b Maahantuonti ja lisätiedot
-              Auringosta Itään, Kuusta Länteen Tukku &nbsp;&nbsp;&nbsp;
+              Auringosta Itään, Kuusta Länteen Tukku &nbsp;
+              %span{:class => "glyphicon glyphicon-map-marker"}
               %a{:href => "tukku.html", :target => "blank"} Yhteystiedot
               %br/
       .divider

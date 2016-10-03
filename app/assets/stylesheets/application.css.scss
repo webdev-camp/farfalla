@@ -1,6 +1,7 @@
 /*
  *= require_self
  *= require display_products
+ *= require main
 */
 
 @import "susy";
@@ -346,7 +347,7 @@ p {
 img {
 border-style: none;
 float: none;
-vertical-align: baseline
+vertical-align: baseline;
 }
 
 .footer

@@ -1,7 +1,7 @@
 - @root.categories.each do |category|
-  .col-md-2
-    .row
+  .col-md-3
+    .row.text-center
       .col-md-12
         =link_to category.name, category_url(category.id)
-      .col-md-12
-        = image_tag category.main_picture.url
+      .col-md-12.pictures
+        = image_tag category.main_picture.url, class: "round"
