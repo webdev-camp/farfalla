@@ -1,7 +1,7 @@
 - @category.products.each do |product|
-  .col-md-2
+  .col-md-4
     .row
-      .col-md-12
+      .col-md-12.product_link
         %b=link_to product.name, show_product_url(product.id)
       .col-md-12
-        =product.summary
+        =image_tag product.main_picture.url
