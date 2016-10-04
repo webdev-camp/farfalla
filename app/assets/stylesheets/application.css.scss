@@ -405,3 +405,7 @@ margin-left: 80px;
 small {
 font-size: .8em;
 }
+
+.alert_row{
+  @include span(12);
+}
