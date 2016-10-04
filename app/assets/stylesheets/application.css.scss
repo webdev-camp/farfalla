@@ -12,7 +12,20 @@
 // grid stuff
 
 // $susy: layout(12 1/2 fluid float split center);
-$susy: layout(12);
+$susy: (
+  columns: 12,
+  gutters: 1/2,
+  math: fluid,
+  output: float,
+  gutter-position: split,
+  container-position: center,
+  debug: (
+    image: show,
+    color: green,
+    output: overlay,
+    toggle: top right,
+  )
+);
 
 $bp-medium: 30em;
 $bp-large: 45em;
