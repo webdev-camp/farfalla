@@ -22,21 +22,18 @@
   }
 
   .product_summary {
-    @include span(12 of 12);
     color: green;
     font-size: 16px;
 
   }
 
   .product_description {
-    @include span(12 of 12 );
     color: green;
     text-align: justify;
     font-size: 16px;
   }
 
   .product_price {
-    @include span(12 of 12);
     color: green;
     font-size: 20px;
   }
