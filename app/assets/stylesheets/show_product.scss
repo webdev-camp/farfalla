@@ -1,9 +1,6 @@
-@import "susy";
-$susy: layout(12);
-
 
 .product_page {
-  @include span(isolate 10 at 2);
+  @include span(isolate 10 of 12 at 2);
 
   .product_name {
     color: green;
@@ -15,30 +12,31 @@ $susy: layout(12);
     img {
       width: 100%;
     }
-    @include span(isolate 6);
-     padding: 10px;
-     border-style: solid;
-     border-width: thick;
-     color: hotpink;
-     margin: 20px;
+    @include span(6 of 12);
+    padding: 10px;
+    margin-left: span(3 of 12);
+    margin-right: span(3 of 12);
+    border-style: solid;
+    border-width: thick;
+    color: hotpink;
   }
 
   .product_summary {
-    @include span(12);
+    @include span(12 of 12);
     color: green;
     font-size: 16px;
 
   }
-  
+
   .product_description {
-    @include span(12);
+    @include span(12 of 12 );
     color: green;
     text-align: justify;
     font-size: 16px;
   }
 
   .product_price {
-    @include span(12);
+    @include span(12 of 12);
     color: green;
     font-size: 20px;
   }
