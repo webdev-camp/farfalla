@@ -1,4 +1,10 @@
+@import "susy";
+.container {
+  @include container(100%);
+}
+
 .subcat-col {
+  @include span(6 of 12);
   text-align: center;
   font: 15px "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
     a:hover {

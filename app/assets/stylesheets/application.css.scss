@@ -1,19 +1,18 @@
 /*
  *= require_self
  *= require display_products
- *= require main
  *= require display_subcategories
  *= require show_product
 */
 
 @import "susy";
-
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
 // grid stuff
 
-$susy: layout(12 1/2 fluid float split center);
+// $susy: layout(12 1/2 fluid float split center);
+$susy: layout(12);
 
 $bp-medium: 30em;
 $bp-large: 45em;
@@ -349,7 +348,7 @@ p {
 img {
 border-style: none;
 float: none;
-vertical-align: baseline;
+vertical-align: baseline
 }
 
 .footer
